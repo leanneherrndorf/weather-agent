@@ -1,0 +1,67 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --header-height: 52px;
+  --bg: #f9f8f6;
+  --surface: #f0ede8;
+  --border: #e2ddd7;
+  --text-primary: #1a1714;
+  --text-secondary: #5c5650;
+  --text-tertiary: #a39d97;
+  --accent: #2563eb;
+  --header-bg: #12100e;
+  --header-text: #f5f3f0;
+  --header-text-muted: #8a8480;
+
+  /* Severity — filled badges */
+  --extreme: #ffffff;
+  --extreme-bg: #c0282a;
+  --severe: #ffffff;
+  --severe-bg: #0e7490;
+  --moderate: #ffffff;
+  --moderate-bg: #1d52c2;
+
+  /* Card left border accent */
+  --border-extreme: #c0282a;
+  --border-severe: #0e7490;
+  --border-moderate: #1d52c2;
+
+  --radius: 8px;
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --header-height: 44px;
+  }
+}

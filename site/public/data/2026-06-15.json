@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-15",
+  "headline": "Extensive flooding impacts Texas, Louisiana, and the Central U.S. as extreme heat grips the Pacific Northwest and Northern California.",
+  "overview": "A major flood event is unfolding across Texas, Louisiana, Mississippi, and the central United States, with multiple flash flood warnings and river flood warnings in effect. Extreme heat warnings are active for the Portland, Oregon metro area and Northern California, with temperatures approaching 110\u00b0F. Fire weather conditions are elevated across Colorado, Utah, Wyoming, and the Great Plains due to gusty winds and low humidity.",
+  "events": [
+    {
+      "title": "Widespread Flooding Across Texas",
+      "location": "Texas, United States",
+      "type": "weather",
+      "summary": "Multiple flash flood warnings are in effect across Texas, with 8-12 inches of rain reported in Maverick County and 3-6 inches in Hidalgo County. Rivers including the Rio Grande, San Antonio River, and Guadalupe River are forecast to reach minor to moderate flood stage. Flood watches cover a large swath of South and Southeast Texas through Thursday.",
+      "severity": "severe",
+      "articles": []
+    },
+    {
+      "title": "Extreme Heat Warning for Portland Metro Area",
+      "location": "Portland, Oregon, United States",
+      "type": "weather",
+      "summary": "An Extreme Heat Warning is in effect for the Portland metropolitan area and Western Columbia River Gorge until midnight, with temperatures reaching 95-100\u00b0F. The National Weather Service warns of dangerously hot conditions that significantly increase the risk of heat-related illness.",
+      "severity": "severe",
+      "articles": []
+    },
+    {
+      "title": "Extreme Heat Warning for Northern California",
+      "location": "Shasta, Tehama, and Butte Counties, California, United States",
+      "type": "weather",
+      "summary": "An Extreme Heat Warning continues through Tuesday night for Northern California's Sacramento Valley and surrounding foothills, with high temperatures reaching up to 110\u00b0F and overnight lows remaining in the 70s. This represents a widespread Major HeatRisk event for the region.",
+      "severity": "extreme",
+      "articles": []
+    },
+    {
+      "title": "Major Flooding on Wapsipinicon River",
+      "location": "Clinton and Scott Counties, Iowa, United States",
+      "type": "weather",
+      "summary": "Major flooding is occurring on the Wapsipinicon River near De Witt, Iowa, with water levels affecting many residences along the river. The flood warning remains in effect until early Sunday morning as the river slowly recedes.",
+      "severity": "severe",
+      "articles": []
+    },
+    {
+      "title": "Red Flag Warnings Across Colorado and Utah",
+      "location": "Colorado and Utah, United States",
+      "type": "weather",
+      "summary": "Red Flag Warnings are in effect across multiple zones in western Colorado and central Utah due to gusty winds up to 30 mph, relative humidity dropping to 5-10%, and dry fuels. Fire Weather Watches extend through Wednesday evening, indicating elevated wildfire danger for the region.",
+      "severity": "severe",
+      "articles": []
+    },
+    {
+      "title": "Moderate Flooding on Grand River in Missouri",
+      "location": "Carroll, Chariton, Livingston, and Linn Counties, Missouri, United States",
+      "type": "weather",
+      "summary": "Moderate flooding is occurring on the Grand River near Sumner, Missouri, with flood warnings in effect until late Wednesday night. The Missouri River is also experiencing minor flooding at multiple locations from Glasgow to Hermann.",
+      "severity": "moderate",
+      "articles": []
+    },
+    {
+      "title": "M6.1 Earthquake Near Cuba",
+      "location": "102 km WNW of Mantua, Cuba",
+      "type": "earthquake",
+      "summary": "A magnitude 6.1 earthquake struck 102 km west-northwest of Mantua, Cuba on June 8, 2026 at a depth of 26 km. The earthquake was widely felt with nearly 5,800 felt reports submitted to the USGS. No tsunami alert was issued and the USGS alert level is green, indicating limited expected impact.",
+      "severity": "moderate",
+      "articles": []
+    }
+  ]
+}

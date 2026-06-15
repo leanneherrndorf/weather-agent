@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-15",
+  "headline": "Widespread flash flooding across Texas and Louisiana as multiple rivers exceed flood stage while extreme heat grips the Pacific Northwest and Northern California.",
+  "overview": "A significant multi-day flood event is impacting South Central and Gulf Coast regions of the United States, with multiple flash flood warnings and river flood warnings active across Texas, Louisiana, and the Mississippi River Valley. Extreme heat warnings are in effect for the Portland, Oregon metro area and Northern California, with temperatures approaching 110\u00b0F. Seismically, a M6.1 earthquake struck near Cuba on June 8th, widely felt across the region.",
+  "events": [
+    {
+      "title": "Widespread Flash Flooding Across South Texas",
+      "location": "South Central Texas, USA",
+      "type": "weather",
+      "summary": "Flash flood warnings are active across multiple Texas counties with 8-12 inches of rainfall reported in Maverick County. The Guadalupe River at Victoria is forecast to reach moderate flood stage, and rivers including the San Antonio River and Medina River are expected to experience minor to moderate flooding through mid-week. Life-threatening flash flooding potential has been issued for the Houston/Galveston corridor through Thursday.",
+      "severity": "severe",
+      "articles": []
+    },
+    {
+      "title": "Extreme Heat Warning for Northern California",
+      "location": "Shasta, Tehama, and Butte Counties, California, USA",
+      "type": "weather",
+      "summary": "An Extreme Heat Warning is in effect through Tuesday night for Northern California's Sacramento Valley and surrounding foothills, with high temperatures expected to reach 110\u00b0F. Overnight lows in the 70s offer minimal relief, creating widespread Major HeatRisk conditions. Health officials advise limiting outdoor activities during peak afternoon hours.",
+      "severity": "extreme",
+      "articles": []
+    },
+    {
+      "title": "Extreme Heat Warning for Portland Metro Area",
+      "location": "Portland, Oregon and Vancouver, Washington, USA",
+      "type": "weather",
+      "summary": "Dangerously hot conditions with temperatures of 95-100\u00b0F are affecting the Portland metro area, Western Columbia River Gorge, and East Clark County lowlands. The Extreme Heat Warning is in effect until midnight tonight. Heat-related illness risk is significantly elevated during this event.",
+      "severity": "severe",
+      "articles": []
+    },
+    {
+      "title": "Major Flooding on Wapsipinicon River",
+      "location": "Clinton and Scott Counties, Iowa, USA",
+      "type": "weather",
+      "summary": "Major flooding is occurring on the Wapsipinicon River near De Witt, Iowa, with the flood warning extended until early Sunday. At current levels, water is affecting many residences along the river. This represents the most significant river flooding in the upper Midwest region currently.",
+      "severity": "severe",
+      "articles": []
+    },
+    {
+      "title": "M6.1 Earthquake Near Cuba",
+      "location": "102 km WNW of Mantua, Cuba",
+      "type": "earthquake",
+      "summary": "A magnitude 6.1 earthquake struck approximately 102 km west-northwest of Mantua, Cuba on June 8th at a depth of 26 km. The earthquake was widely felt with nearly 5,800 felt reports submitted to USGS. No tsunami alert was issued and the USGS alert level remains green, indicating limited damage potential.",
+      "severity": "moderate",
+      "articles": []
+    },
+    {
+      "title": "Multi-State Flood Event Along Mississippi and Illinois Rivers",
+      "location": "Illinois and Missouri, USA",
+      "type": "weather",
+      "summary": "Minor to moderate flooding continues along the Mississippi River from Hannibal to Chester, affecting communities in Illinois and Missouri. The Illinois River is also experiencing flooding at multiple locations including Peoria, Beardstown, and Hardin. Flood warnings extend through the coming week as rivers slowly recede.",
+      "severity": "moderate",
+      "articles": []
+    },
+    {
+      "title": "Critical Fire Weather Conditions Across Western U.S.",
+      "location": "Utah, Colorado, Wyoming, Nebraska, USA",
+      "type": "wildfire",
+      "summary": "Red Flag Warnings and Fire Weather Watches are active across multiple western states due to gusty winds, low relative humidity (as low as 5-10%), and dry fuels. Areas of particular concern include the Colorado River Headwaters, Central Utah mountains, and the Nebraska Panhandle, where any fires that develop will spread rapidly.",
+      "severity": "severe",
+      "articles": []
+    }
+  ]
+}
