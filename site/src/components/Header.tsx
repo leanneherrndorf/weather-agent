@@ -27,12 +27,21 @@ export default function Header({
     }}>
       <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
         <Link to="/" style={{
+          display: 'flex',
+          alignItems: 'center',
+          gap: '8px',
           fontFamily: 'var(--font-display)',
           fontSize: '18px',
           fontWeight: 400,
           color: 'var(--header-text)',
           letterSpacing: '0.01em',
         }}>
+          <svg width="22" height="22" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect width="64" height="64" rx="14" fill="#12100e"/>
+            <path d="M8 24 Q16 14 24 24 Q32 34 40 24 Q48 14 56 20" stroke="#93c5fd" strokeWidth="1.5" fill="none" strokeLinecap="round" opacity="0.45"/>
+            <path d="M8 34 Q16 24 24 34 Q32 44 40 34 Q48 24 56 30" stroke="#93c5fd" strokeWidth="2.5" fill="none" strokeLinecap="round"/>
+            <path d="M8 44 Q16 34 24 44 Q32 54 40 44 Q48 34 56 40" stroke="#93c5fd" strokeWidth="1.5" fill="none" strokeLinecap="round" opacity="0.45"/>
+          </svg>
           Weather Agent
         </Link>
 
