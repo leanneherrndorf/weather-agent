@@ -1,0 +1,125 @@
+{
+  "date": "2026-06-16",
+  "headline": "Potential Tropical Storm Arthur threatens Texas and Louisiana Gulf Coast with life-threatening flash flooding as 18 million people remain under flood watches.",
+  "overview": "A developing tropical system in the Gulf of Mexico is driving intense rainfall across the U.S. Gulf Coast, with numerous flash flood warnings active from Texas to Mississippi. Internationally, significant earthquakes struck Indonesia (M 6.7) and China (M 6.3) within hours of each other, causing casualties. Extreme fire weather conditions have prompted Red Flag Warnings across much of the Western United States, while a 600-acre wildfire burns near Miami.",
+  "events": [
+    {
+      "title": "Tropical Storm Arthur Forms in Gulf of Mexico",
+      "location": "Texas and Louisiana Gulf Coast, USA",
+      "type": "weather",
+      "summary": "The first named storm of the 2026 Atlantic hurricane season is forming in the Gulf of Mexico, bringing life-threatening flash flooding to coastal Texas and Louisiana. Tropical Storm Watches are in effect for multiple coastal areas including Galveston, Cameron Parish, and Bolivar Peninsula. Between 3-6 inches of rain have already fallen in some areas, with flash flood warnings covering Harris, Montgomery, and multiple other counties.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Tropical Storm Arthur could soon form in the Gulf. See tracker",
+          "url": "https://www.usatoday.com/story/news/weather/2026/06/16/storm-tracker-tropical-storm-arthur/90569074007/",
+          "source": "usatoday.com"
+        },
+        {
+          "title": "Major flood threat for Texas and Gulf states this week as potential tropical system supercharges heavy rain",
+          "url": "https://www.cnn.com/2026/06/15/weather/texas-south-flash-flood-heavy-rain-threat-climate",
+          "source": "cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "M 6.7 Earthquake Strikes Sulawesi, Indonesia",
+      "location": "Palu, Central Sulawesi, Indonesia",
+      "type": "earthquake",
+      "summary": "A magnitude 6.7 earthquake struck 43 km east-southeast of Palu, Indonesia at 03:27 UTC on June 16, at a shallow depth of 10 km. The USGS has assigned a yellow alert level indicating some casualties and damage are probable. The region is historically prone to devastating earthquakes, including the deadly 2018 Palu earthquake and tsunami.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "6.7-magnitude earthquake shakes part of Indonesia, causing damage and injuries",
+          "url": "https://apnews.com/article/indonesia-earthquake-palu-sulawesi-8f73f7a60b323b23015a632e4697d913",
+          "source": "apnews.com"
+        },
+        {
+          "title": "6.7 magnitude earthquake shakes part of Indonesia",
+          "url": "https://www.greenwichtime.com/news/world/article/strong-quake-shakes-part-of-indonesia-22306955.php",
+          "source": "greenwichtime.com"
+        }
+      ]
+    },
+    {
+      "title": "M 6.3 Earthquake in Qinghai, China Kills at Least One",
+      "location": "Qinghai Province, Northwest China",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck approximately 260 km south-southeast of Dunhuang in China's Qinghai Province at 09:06 UTC on June 16. The USGS has issued an orange alert level, indicating significant casualties and economic losses are likely. At least one person has been confirmed dead and four injured, with rescue operations underway.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "One dead, 4 injured after magnitude 6.3 earthquake in China's Qinghai",
+          "url": "https://www.reuters.com/business/environment/magnitude-63-earthquake-strikes-qinghai-northwest-china-2026-06-16/",
+          "source": "reuters.com"
+        },
+        {
+          "title": "Magnitude 6.3 earthquake rattles China, at least 1 dead, multiple injured",
+          "url": "https://www.usatoday.com/story/news/world/2026/06/16/china-earthquake-magnitude-dead-injured/90455578007/",
+          "source": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Gulf Coast Flash Flooding Emergency",
+      "location": "Texas, Louisiana, and Mississippi, USA",
+      "type": "weather",
+      "summary": "Nearly 18 million people are under flood watches from central Texas to central Mississippi as heavy rainfall from the developing tropical system produces widespread flash flooding. Multiple flash flood warnings are active across southeast Texas, Louisiana, and Mississippi, with 3-6 inches of rain already reported and major flooding forecast on the Oso Creek near Corpus Christi. Roads are closed and vehicles stranded in Picayune, Mississippi and the Houston metro area.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Major flood threat for Texas and Gulf states this week as potential tropical system supercharges heavy rain",
+          "url": "https://www.cnn.com/2026/06/15/weather/texas-south-flash-flood-heavy-rain-threat-climate",
+          "source": "cnn.com"
+        },
+        {
+          "title": "Tropical Storm Arthur could soon form in the Gulf. See tracker",
+          "url": "https://www.usatoday.com/story/news/weather/2026/06/16/storm-tracker-tropical-storm-arthur/90569074007/",
+          "source": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Miami-Dade County Wildfire Burns 600 Acres",
+      "location": "West Miami-Dade County, Florida, USA",
+      "type": "wildfire",
+      "summary": "The Quarry 2 Wildfire has burned 600 acres in west Miami-Dade County since igniting Monday afternoon. The fire is producing far-reaching smoke affecting the greater Miami area, causing traffic disruptions and visibility issues. The Florida Forest Service is actively fighting the blaze.",
+      "severity": "moderate",
+      "articles": [
+        {
+          "title": "Large Miami-area wildfire causing far-reaching smoke",
+          "url": "https://www.usatoday.com/story/news/weather/2026/06/16/florida-wildfire-miami-dade-county-traffic-power-outage/90569098007/",
+          "source": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Extreme Heat Warning at Grand Canyon",
+      "location": "Grand Canyon, Arizona, USA",
+      "type": "weather",
+      "summary": "An Extreme Heat Warning is in effect for the lower elevations of Grand Canyon National Park through Wednesday evening, with temperatures expected to reach 110\u00b0F at Phantom Ranch. The National Weather Service warns that most individuals will be at risk for heat-related illness without effective cooling or hydration. The warning follows the recent death of an 18-year-old hiker on a popular trail.",
+      "severity": "extreme",
+      "articles": [
+        {
+          "title": "Hikers face urgent Grand Canyon heat warning after teen's death on popular trail",
+          "url": "https://www.foxnews.com/travel/hikers-face-urgent-grand-canyon-heat-warning-teens-death-popular-trail",
+          "source": "foxnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Critical Fire Weather Conditions Across Western US",
+      "location": "Colorado, Utah, Wyoming, Idaho, Washington, Oregon, USA",
+      "type": "wildfire",
+      "summary": "Red Flag Warnings are in effect across large portions of the Western United States due to gusty winds of 25-45 mph combined with relative humidity dropping to 5-15%. Several fires are actively burning in western Colorado, prompting closures on Interstate 70 near Glenwood Springs. Fire Weather Watches extend into Wednesday for additional areas as conditions remain critically dry.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Several fires burning in western Colorado as a red flag warning remains in effect",
+          "url": "https://www.cbsnews.com/colorado/video/several-fires-burning-in-western-colorado-as-a-red-flag-warning-remains-in-effect/",
+          "source": "cbsnews.com"
+        }
+      ]
+    }
+  ]
+}
