@@ -36,8 +36,11 @@ export default function LayoutPage() {
       .then(r => r.json())
       .then((data: ReportIndex) => {
         setIndex(data)
-        if (!date && data.reports.length > 0) {
-          navigate(`/report/${data.reports[0].date}`, { replace: true })
+        if (data.reports.length > 0) {
+          const today = new Date().toISOString().slice(0, 10)
+          const hasToday = data.reports.some(r => r.date === today)
+          const target = hasToday ? today : data.reports[0].date
+          navigate(`/report/${target}`, { replace: true })
         }
       })
       .catch(() => {
