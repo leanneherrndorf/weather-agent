@@ -38,7 +38,7 @@ const icons: Record<EventType, JSX.Element> = {
 
 export default function EventTypeIcon({ type }: { type: EventType }) {
   return (
-    <span style={{ color: 'var(--text-tertiary)', display: 'flex', alignItems: 'center', flexShrink: 0 }}>
+    <span style={{ color: 'var(--text-tertiary)', display: 'flex', alignItems: 'center', flexShrink: 0, marginTop: '3px' }}>
       {icons[type] ?? icons.other}
     </span>
   )

@@ -42,13 +42,10 @@ export default function EventCard({ event }: { event: WeatherEvent }) {
           </h2>
           <p style={{
             display: 'flex',
-            alignItems: 'center',
+            alignItems: 'flex-start',
             gap: '4px',
             fontSize: '12px',
             color: 'var(--text-tertiary)',
-            overflow: 'hidden',
-            textOverflow: 'ellipsis',
-            whiteSpace: 'nowrap',
           }}>
             <svg width="11" height="11" viewBox="0 0 12 12" fill="none" aria-hidden="true" style={{ flexShrink: 0 }}>
               <circle cx="6" cy="5" r="2" stroke="currentColor" strokeWidth="1.2"/>
