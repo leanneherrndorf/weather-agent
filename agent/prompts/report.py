@@ -31,7 +31,9 @@ events not covered by the structured tools (e.g. "active volcano eruption June 2
 mixing event types as appropriate
 4. For each event, call search_weather_news with a specific query to find 1-2 relevant articles
 5. Write a concise 2-3 sentence summary for each event
-6. Return structured JSON matching the schema below
+6. If an event appeared in recent reports (listed in the user message), include it only if it is \
+still significant, and mark it with "continuing": true
+7. Return structured JSON matching the schema below
 
 Be factual. Do not speculate beyond the data. If data is sparse for a region, say so.
 
@@ -47,6 +49,7 @@ Output format — return ONLY valid JSON, no markdown, no commentary:
       "type": "weather|earthquake|volcano|wildfire|tsunami|other",
       "summary": "2-3 sentence factual summary",
       "severity": "extreme|severe|moderate",
+      "continuing": true,
       "articles": [
         {"title": "Article title", "url": "https://...", "source": "domain.com"}
       ]
@@ -55,11 +58,31 @@ Output format — return ONLY valid JSON, no markdown, no commentary:
 }"""
 
 
-def user_prompt() -> str:
+def user_prompt(recent_events: list[dict] | None = None) -> str:
     today = date.today().strftime("%A, %B %-d, %Y")
-    return (
+    prompt = (
         f"Today is {today}. "
         "Please gather data on weather, earthquakes, volcanic activity, and other natural events, "
         "identify the top global events, find supporting news articles, "
         "and return the structured JSON report."
     )
+
+    if recent_events:
+        lines = []
+        for entry in recent_events:
+            report_date = entry.get("date", "")
+            for event in entry.get("events", []):
+                title = event.get("title", "")
+                location = event.get("location", "")
+                event_type = event.get("type", "")
+                lines.append(f"- {report_date}: {title} ({location}) [{event_type}]")
+
+        if lines:
+            recent_block = "\n".join(lines)
+            prompt += (
+                "\n\nThe following events were covered in recent reports. "
+                "Exclude them unless they have significantly escalated or changed:\n"
+                + recent_block
+            )
+
+    return prompt

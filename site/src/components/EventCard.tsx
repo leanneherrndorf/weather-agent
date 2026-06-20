@@ -40,6 +40,22 @@ export default function EventCard({ event }: { event: WeatherEvent }) {
             <EventTypeIcon type={event.type} />
             {event.title}
           </h2>
+          {event.continuing && (
+            <span style={{
+              display: 'inline-block',
+              fontSize: '10px',
+              fontWeight: 600,
+              letterSpacing: '0.06em',
+              textTransform: 'uppercase',
+              color: 'var(--text-tertiary)',
+              border: '1px solid var(--border)',
+              borderRadius: '4px',
+              padding: '2px 6px',
+              marginBottom: '6px',
+            }}>
+              Ongoing
+            </span>
+          )}
           <p style={{
             display: 'flex',
             alignItems: 'flex-start',

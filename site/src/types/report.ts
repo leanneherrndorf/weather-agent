@@ -20,6 +20,7 @@ export interface WeatherEvent {
   type: EventType
   summary: string
   severity: Severity
+  continuing?: boolean
   articles: Article[]
 }
 

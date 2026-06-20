@@ -22,6 +22,7 @@ load_dotenv()  # loads .env from project root — no-op in GitHub Actions
 import anthropic
 
 from agent.prompts.report import SYSTEM_PROMPT, user_prompt
+from agent.renderer.json import DATA_DIR
 from agent.tools import get_weather_extremes, get_noaa_alerts, get_significant_earthquakes, search_weather_news
 from agent.renderer.json import render_report
 
@@ -68,6 +69,9 @@ def validate_report(report: dict) -> dict:
         severity = str(event.get("severity", "moderate")).lower()
         if severity not in VALID_SEVERITIES:
             event["severity"] = "moderate"
+
+        # Coerce continuing flag
+        event["continuing"] = bool(event.get("continuing", False))
 
         # Truncate free-text fields
         event["title"] = str(event.get("title", ""))[:300]
@@ -122,6 +126,37 @@ def check_run_mode() -> str:
         "  Testing:   pass --test flag\n"
     )
     sys.exit(1)
+
+
+# ---------------------------------------------------------------------------
+# Recent events loader
+# ---------------------------------------------------------------------------
+
+def load_recent_events(days: int = 2) -> list[dict]:
+    """
+    Load the most recent N daily reports and return a list of
+    {date, events} dicts for use in the user prompt.
+    """
+    index_path = DATA_DIR / "index.json"
+    if not index_path.exists():
+        return []
+
+    try:
+        reports = json.loads(index_path.read_text())["reports"]
+    except Exception:
+        return []
+
+    recent = []
+    for entry in reports[:days]:
+        report_path = DATA_DIR / f"{entry['date']}.json"
+        if report_path.exists():
+            try:
+                data = json.loads(report_path.read_text())
+                recent.append({"date": data["date"], "events": data.get("events", [])})
+            except Exception:
+                continue
+
+    return recent
 
 
 # ---------------------------------------------------------------------------
@@ -229,7 +264,8 @@ def run_agent() -> dict:
     """
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
-    messages = [{"role": "user", "content": user_prompt()}]
+    recent_events = load_recent_events(days=2)
+    messages = [{"role": "user", "content": user_prompt(recent_events)}]
 
     print("[weather-agent] Starting agent loop...")
 
