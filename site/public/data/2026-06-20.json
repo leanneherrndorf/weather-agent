@@ -1,0 +1,130 @@
+{
+  "date": "2026-06-20",
+  "headline": "Major flooding continues across the U.S. Gulf Coast after storms dump over 29 inches of rain in Louisiana and Mississippi, while Europe swelters under extreme heat.",
+  "overview": "The U.S. Gulf Coast remains under widespread flood warnings as rivers continue to rise following historic rainfall earlier this week, with the Mississippi, Illinois, and Pearl Rivers all experiencing minor to moderate flooding. Western Europe is experiencing dangerous heatwave conditions with Paris reaching 34\u00b0C and crisis talks underway in France. Seismic activity continues in the Pacific Rim with significant earthquakes recorded in Indonesia and China this week.",
+  "events": [
+    {
+      "title": "Major Flooding Across Gulf Coast States",
+      "location": "Louisiana, Mississippi, Alabama, Texas, USA",
+      "type": "weather",
+      "summary": "Widespread flooding continues across the U.S. Gulf Coast after storms dumped over 29 inches of rain in parts of Louisiana and Mississippi on June 18-19. Multiple rivers including the Pearl, Pascagoula, and Calcasieu are experiencing moderate flooding, with dozens of flood warnings active. Flash flood warnings remain in effect for Louisiana parishes as additional rainfall is expected.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Storms dumped over 29 inches of rain in Louisiana. Is more on the way?",
+          "url": "https://www.usatoday.com/story/news/weather/2026/06/19/heavy-rain-flooding-heat-central-south-west-coast/90624150007/",
+          "source": "usatoday.com"
+        },
+        {
+          "title": "Flash floods threaten several Southern states",
+          "url": "https://www.modernghana.com/amp/videonews/666595",
+          "source": "modernghana.com"
+        }
+      ]
+    },
+    {
+      "title": "Extreme Heatwave Grips Western Europe",
+      "location": "France, Germany, Italy",
+      "type": "weather",
+      "summary": "Western Europe is experiencing a severe heatwave with Paris reaching 34.3\u00b0C and Berlin hitting 30.3\u00b0C. France has convened crisis talks as dangerous heat conditions persist across the region. Italy and other Mediterranean countries are also affected, with temperatures well above seasonal averages posing risks for heat-related illness.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Europe swelters under heatwave, prompting crisis talks in France",
+          "url": "https://www.reuters.com/business/environment/europe-swelters-under-heatwave-prompting-crisis-talks-france-2026-06-20/",
+          "source": "reuters.com"
+        },
+        {
+          "title": "Western Europe Braces for Another Round of Heat",
+          "url": "https://www.nytimes.com/2026/06/17/travel/heat-wave-western-europe.html",
+          "source": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.7 Earthquake Strikes Sulawesi, Indonesia",
+      "location": "Palu, Sulawesi, Indonesia",
+      "type": "earthquake",
+      "summary": "A magnitude 6.7 earthquake struck 43 km east-southeast of Palu, Indonesia on June 16, causing at least one death and multiple injuries. The shallow 10 km depth quake sent residents fleeing into open areas and caused structural damage. USGS has issued a yellow alert level indicating possible regional economic losses.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "6.7-magnitude earthquake shakes part of Indonesia, causing damage and injuries",
+          "url": "https://apnews.com/article/indonesia-earthquake-palu-sulawesi-8f73f7a60b323b23015a632e4697d913",
+          "source": "apnews.com"
+        },
+        {
+          "title": "A 6.7-magnitude earthquake shakes part of Indonesia, killing at least 1, causing damage and injuries",
+          "url": "https://www.nbcnews.com/world/indonesia/67-magnitude-earthquake-shakes-part-indonesia-killing-least-1-causing-rcna350440",
+          "source": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.3 Earthquake in Qaidam Basin, China",
+      "location": "Qinghai Province, China",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck 260 km south-southeast of Dunhuang in China's Qaidam Basin on June 16, killing at least one person and injuring several others. The thrust event occurred in the northern Tibetan Plateau region. USGS has assigned an orange alert level indicating significant potential for casualties and economic losses.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Magnitude 6.3 earthquake rattles China, at least 1 dead, multiple injured",
+          "url": "https://www.usatoday.com/story/news/world/2026/06/16/china-earthquake-magnitude-dead-injured/90455578007/",
+          "source": "usatoday.com"
+        },
+        {
+          "title": "China's Qaidam Basin shaken by M6.3 earthquake",
+          "url": "https://earthquakeinsights.substack.com/p/chinas-qaidam-basin-shaken-by-m63",
+          "source": "earthquakeinsights.substack.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Volcano Eruption Continues",
+      "location": "Hawaii, USA",
+      "type": "volcano",
+      "summary": "Hawaii's K\u012blauea volcano continues its 49th documented eruption, which began on June 15. The eruption has been captured by satellite imagery and is producing active lava flows. This represents ongoing volcanic activity at one of the world's most active volcanoes.",
+      "severity": "moderate",
+      "articles": [
+        {
+          "title": "A volcanic eruption seen from space | Space photo of the day for June 17, 2026",
+          "url": "https://www.space.com/astronomy/earth/a-volcanic-eruption-seen-from-space-space-photo-of-the-day-for-june-17-2026",
+          "source": "space.com"
+        }
+      ]
+    },
+    {
+      "title": "Elevated Wildfire Risk Across Western US",
+      "location": "Idaho, Oregon, Washington, Colorado, Utah, USA",
+      "type": "wildfire",
+      "summary": "Multiple Red Flag Warnings are in effect across the Western United States due to dry thunderstorms, gusty winds, and low humidity creating dangerous fire conditions. Areas affected include southeast Oregon, southwest Idaho, central Washington, Colorado, Utah, and parts of Nevada. Conditions favor rapid fire spread with lightning strikes posing ignition risks.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Large Miami-area wildfire causing far-reaching smoke",
+          "url": "https://www.usatoday.com/story/news/weather/2026/06/16/florida-wildfire-miami-dade-county-traffic-power-outage/90569098007/",
+          "source": "usatoday.com"
+        },
+        {
+          "title": "British Columbians reminded to be prepared for wildfire evacuations, alerts",
+          "url": "https://keremeosreview.com/2026/06/17/british-columbians-reminded-to-be-prepared-for-wildfire-evacuations-alerts/",
+          "source": "keremeosreview.com"
+        }
+      ]
+    },
+    {
+      "title": "Heavy Rainfall and Flooding in South Korea",
+      "location": "Seoul, South Korea",
+      "type": "weather",
+      "summary": "Seoul recorded 56mm of precipitation with temperatures between 20-23\u00b0C, part of a broader pattern of severe thunderstorms sweeping across East Asia. The heavy rainfall is associated with a cold front system that has brought severe weather to the region, including significant thunderstorm activity across multiple countries.",
+      "severity": "moderate",
+      "articles": [
+        {
+          "title": "Weather tracker: Severe thunderstorms sweep Europe and east Asia",
+          "url": "https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france",
+          "source": "theguardian.com"
+        }
+      ]
+    }
+  ]
+}
