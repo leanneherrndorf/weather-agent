@@ -82,6 +82,7 @@ export default function EventCard({ event }: { event: WeatherEvent }) {
               style={{
                 display: 'flex',
                 alignItems: 'center',
+                justifyContent: 'space-between',
                 gap: '10px',
                 padding: '8px 12px',
                 border: '1px solid var(--border)',
@@ -92,27 +93,24 @@ export default function EventCard({ event }: { event: WeatherEvent }) {
               onMouseEnter={e => (e.currentTarget.style.borderColor = accentColor)}
               onMouseLeave={e => (e.currentTarget.style.borderColor = 'var(--border)')}
             >
-              <span style={{
-                fontSize: '10px',
-                fontWeight: 600,
-                letterSpacing: '0.05em',
-                textTransform: 'uppercase',
-                color: 'var(--text-tertiary)',
-                whiteSpace: 'nowrap',
-                flexShrink: 0,
-              }}>
-                {article.source || 'Source'}
-              </span>
-              <span style={{
-                flex: 1,
-                fontSize: '13px',
-                color: 'var(--text-primary)',
-                overflow: 'hidden',
-                textOverflow: 'ellipsis',
-                whiteSpace: 'nowrap',
-              }}>
-                {article.title}
-              </span>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '3px', minWidth: 0 }}>
+                <span style={{
+                  fontSize: '10px',
+                  fontWeight: 600,
+                  letterSpacing: '0.05em',
+                  textTransform: 'uppercase',
+                  color: 'var(--text-tertiary)',
+                }}>
+                  {article.source || 'Source'}
+                </span>
+                <span style={{
+                  fontSize: '13px',
+                  color: 'var(--text-primary)',
+                  lineHeight: 1.4,
+                }}>
+                  {article.title}
+                </span>
+              </div>
               <svg width="11" height="11" viewBox="0 0 12 12" fill="none" aria-hidden="true" style={{ flexShrink: 0, color: 'var(--text-tertiary)' }}>
                 <path d="M2 10L10 2M10 2H5M10 2V7" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
               </svg>
