@@ -272,7 +272,7 @@ def run_agent() -> dict:
     while True:
         response = client.messages.create(
             model="claude-sonnet-4-6",
-            max_tokens=2500,
+            max_tokens=3500,
             system=[{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}],
             tools=TOOLS,
             messages=messages,
