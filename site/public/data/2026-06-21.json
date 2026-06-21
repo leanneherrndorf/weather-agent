@@ -1,0 +1,137 @@
+{
+  "date": "2026-06-21",
+  "headline": "Massive multi-state flood emergency expands across the US Central Plains and Midwest as a heatwave scorches Europe on the summer solstice.",
+  "overview": "On June 21, 2026 \u2014 the Northern Hemisphere summer solstice \u2014 a sprawling flood disaster stretched across more than a dozen US states from Kansas and Missouri through Indiana and Illinois, driven by tropical storm remnants and persistent heavy rainfall. Simultaneously, a dangerous heatwave tightened its grip on Western Europe, prompting emergency measures in France, while a new Extreme Heat Watch was issued for the Los Angeles basin ahead of a mid-week spike. Globally, a new M6.6 earthquake struck Kamchatka, NASA documented active submarine volcanic activity near the Admiralty Islands in the Pacific, and wildfires burned in both British Columbia and South Florida.",
+  "events": [
+    {
+      "title": "Catastrophic Multi-State Flooding Expands Across US Central Plains and Midwest",
+      "location": "Kansas, Missouri, Indiana, Illinois, Oklahoma, Iowa, USA",
+      "type": "weather",
+      "summary": "A sweeping and rapidly expanding flood emergency engulfed more than a dozen states across the US Central Plains, Midwest, and upper South on June 21, with dozens of simultaneous Flood Warnings and Flash Flood Warnings issued by NWS offices from Wichita to Indianapolis and St. Louis. Some Kansas rivers \u2014 including Slate Creek near Wellington \u2014 are approaching record flood stages, and major flooding is forecast on the Navasota River in Texas through mid-week. The event represents a significant northward and eastward expansion of the flooding system that began along the Gulf Coast, with tropical storm remnants and persistent thunderstorm complexes driving rainfall totals of up to 29 inches in Louisiana over the preceding days.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Storms dumped over 29 inches of rain in Louisiana. Is more on the way?",
+          "url": "https://www.usatoday.com/story/news/weather/2026/06/19/heavy-rain-flooding-heat-central-south-west-coast/90624150007/",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "Tropical storm remnants drench Gulf states after tornadoes hit the Midwest",
+          "url": "https://www.thesunchronicle.com/news/nation_world/tropical-storm-remnants-drench-gulf-states-after-tornadoes-hit-the-midwest/article_fc9fa6ce-3c2c-525e-a03d-1c270ed143bf.html",
+          "source": "www.thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Summer Solstice Heatwave Intensifies Across Western Europe",
+      "location": "France, Germany, United Kingdom, Italy",
+      "type": "weather",
+      "summary": "The Western European heatwave reached a peak on the summer solstice, with Paris recording a maximum of 36.7\u00b0C and London hitting 29.8\u00b0C \u2014 both well above seasonal norms for June 21. France has imposed emergency restrictions including banning alcohol sales at outdoor events such as the F\u00eate de la Musique, and government crisis meetings have been convened to manage health risks. Berlin also recorded 45.5 mm of precipitation alongside 28.7\u00b0C heat, compounding stress on infrastructure across the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Summer solstice heatwave grips much of Europe as France restricts alcohol consumption",
+          "url": "https://www.euronews.com/2026/06/21/france-bans-alcohol-at-fete-de-la-musique-as-heatwave-grips-europe",
+          "source": "www.euronews.com"
+        },
+        {
+          "title": "Europe swelters under heatwave, prompting crisis talks in France",
+          "url": "https://www.reuters.com/business/environment/europe-swelters-under-heatwave-prompting-crisis-talks-france-2026-06-20/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Extreme Heat Watch Issued for Los Angeles Basin Ahead of Mid-Week Spike",
+      "location": "Los Angeles, California, USA",
+      "type": "weather",
+      "summary": "The NWS in Los Angeles issued an Extreme Heat Watch valid from Tuesday through Thursday, June 23\u201325, with dangerously hot conditions expected across the San Fernando Valley, San Gabriel Mountains, and San Gabriel Valley \u2014 temperatures potentially reaching 100\u00b0F or higher. Downtown Los Angeles and the Inland Coast are also under the watch, with the hottest conditions forecast Wednesday and Thursday. This marks the first significant heatwave of summer 2026 for Southern California and poses a high risk of heat illness, particularly for vulnerable populations without air conditioning.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Heat wave expected to scorch Southern California this week",
+          "url": "https://www.latimes.com/california/story/2026-06-21/heat-wave-expected-to-scorch-southern-california-this-week",
+          "source": "www.latimes.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.6 Earthquake Strikes Kamchatka Peninsula, Russia",
+      "location": "Petropavlovsk-Kamchatsky, Kamchatka, Russia",
+      "type": "earthquake",
+      "summary": "A magnitude 6.6 earthquake struck approximately 133 km east-southeast of Petropavlovsk-Kamchatsky on June 19 at a shallow depth of 10 km, according to USGS data. The USGS assigned a green alert level, indicating limited impact, and no tsunami alert was issued. Kamchatka is one of the world's most seismically active regions, situated along the subduction zone at the northwestern edge of the Pacific Ring of Fire; shallow earthquakes of this magnitude in the area are not unusual but warrant continued monitoring.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Today's headlines: Tab Baldwin, Sara Duterte impeachment, Earthquake | The wRap | June 15, 2026",
+          "url": "https://www.facebook.com/rapplerdotcom/posts/todays-headlines-tab-baldwin-sara-duterte-impeachment-earthquake-the-wrap-june-1/1547037770791619/",
+          "source": "www.facebook.com"
+        }
+      ]
+    },
+    {
+      "title": "Submarine Volcanic Activity Produces Pumice Rafts Near Admiralty Islands, Papua New Guinea",
+      "location": "Admiralty Islands, Papua New Guinea",
+      "type": "volcano",
+      "summary": "NASA's Earth Observatory documented large pumice rafts encroaching on the Admiralty Islands in the southwestern Pacific, a sign of active submarine volcanic activity in the region. Pumice rafts of this scale are generated when underwater eruptions expel vast quantities of volcanic material that floats on the ocean surface and drifts with currents. The event poses navigational hazards for vessels and potential ecological impacts on coral reef ecosystems in the affected area; the precise submarine vent source is not yet confirmed in available data.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Pumice Rafts Encroach on Admiralty Islands",
+          "url": "https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/",
+          "source": "science.nasa.gov"
+        },
+        {
+          "title": "A volcanic eruption seen from space | Space photo of the day for June 17, 2026",
+          "url": "https://www.space.com/astronomy/earth/a-volcanic-eruption-seen-from-space-space-photo-of-the-day-for-june-17-2026",
+          "source": "www.space.com"
+        }
+      ]
+    },
+    {
+      "title": "Wildfires Spread Across British Columbia Amid Drought Conditions",
+      "location": "Kelowna, British Columbia, Canada",
+      "type": "wildfire",
+      "summary": "Active wildfires burning in and around Kelowna in British Columbia's Okanagan region have prompted province-wide evacuation alerts and warnings, with Emergency Management Minister Kelly Greene urging all residents to prepare evacuation plans. A fire in Kalamoir Regional Park in West Kelowna was confirmed burning as of June 16, and drought conditions across the province are heightening the risk of rapid spread. Authorities have characterized the 2026 BC wildfire season as starting early and aggressively, echoing conditions seen in destructive prior seasons.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "British Columbians reminded to be prepared for wildfire evacuations, alerts",
+          "url": "https://keremeosreview.com/2026/06/17/british-columbians-reminded-to-be-prepared-for-wildfire-evacuations-alerts/",
+          "source": "keremeosreview.com"
+        },
+        {
+          "title": "British Columbians reminded to be prepared for wildfire evacuations, alerts",
+          "url": "https://peninsulanewsreview.com/2026/06/17/british-columbians-reminded-to-be-prepared-for-wildfire-evacuations-alerts/",
+          "source": "peninsulanewsreview.com"
+        }
+      ]
+    },
+    {
+      "title": "Quarry 2 Wildfire Burns 600 Acres in Miami-Dade County, Florida",
+      "location": "Miami-Dade County, Florida, USA",
+      "type": "wildfire",
+      "summary": "The Quarry 2 Wildfire ignited in west Miami-Dade County and grew rapidly to 600 acres, according to the Florida Forest Service, causing road closures, power outages, and mandatory evacuations in affected neighborhoods. Far-reaching smoke from the blaze impacted air quality across the greater Miami metropolitan area. As of the latest reporting, firefighters were pushing the fire toward near-full containment after several days of active suppression efforts, though residents in affected areas remained on alert.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Large Miami-area wildfire causing far-reaching smoke",
+          "url": "https://www.usatoday.com/story/news/weather/2026/06/16/florida-wildfire-miami-dade-county-traffic-power-outage/90569098007/",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "Miami wildfires near full containment after days of road closures, evacuations and smoke",
+          "url": "https://www.cbsnews.com/miami/news/south-florida-miami-dade-wildfires-june-2026/",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    }
+  ]
+}
