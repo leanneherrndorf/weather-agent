@@ -318,15 +318,26 @@ def run_agent() -> dict:
 # Entry point
 # ---------------------------------------------------------------------------
 
+MAX_RETRIES = 2
+
 def main() -> None:
     mode = check_run_mode()
 
-    try:
-        report = run_agent()
-        report = validate_report(report)
-    except Exception as e:
-        print(f"[weather-agent] Agent error: {e}")
-        sys.exit(1)
+    report = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            print(f"[weather-agent] Attempt {attempt}/{MAX_RETRIES}...")
+            report = run_agent()
+            report = validate_report(report)
+            break
+        except Exception as e:
+            print(f"[weather-agent] Attempt {attempt} failed: {e}")
+            if attempt == MAX_RETRIES:
+                print("[weather-agent] All attempts failed. Exiting.")
+                sys.exit(1)
+            print("[weather-agent] Retrying...")
+
+    assert report is not None
 
     report_date = report.get("date", date.today().isoformat())
     print(f"[weather-agent] Report generated for {report_date} with {len(report.get('events', []))} events.")
