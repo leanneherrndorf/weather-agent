@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-22",
+  "headline": "Catastrophic flooding expands from the Central Plains into Arkansas, Kentucky, and the Mid-Atlantic as a relentless multi-week storm pattern shows no sign of abating.",
+  "overview": "A dangerous and widening flood emergency now stretches from Kansas and Missouri through Arkansas and Kentucky, with a new Flood Watch issued for the New York and New Jersey metro area. Simultaneously, a record-shattering heatwave across western Europe has prompted red alerts in France and the UK, while the US Southwest faces Extreme Heat Watches for Phoenix and Tucson with temperatures forecast to reach 114\u00b0F. New wildfire evacuations in Utah and Alaska's interior add to an exceptionally active global natural events picture.",
+  "events": [
+    {
+      "title": "Multi-State Flooding Surges into Arkansas, Kentucky & Mid-Atlantic \u2014 New Flash Flood Emergency",
+      "location": "Arkansas, Kentucky, Indiana, Missouri, Oklahoma, New York, New Jersey, USA",
+      "type": "weather",
+      "summary": "A sweeping new wave of Flash Flood Warnings and Watches blanketed Arkansas and Kentucky early June 22, with NWS offices in Little Rock, Tulsa, and Louisville issuing dozens of concurrent warnings as thunderstorms dropped 1\u20134 inches of rain per hour overnight. The flooding corridor has expanded geographically, now reaching southern Indiana, western Tennessee, and a new Flood Watch covering the entire New York City and New Jersey metro area through June 23. Flood Warnings also persist across Kansas, Missouri, Mississippi, Alabama, and Texas river systems, representing a significant escalation of the multi-day Central Plains flooding disaster.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical storm remnants pound Gulf states with heavy rain after tornadoes hit the Midwest",
+          "url": "https://www.thesunchronicle.com/news/nation_world/tropical-storm-remnants-pound-gulf-states-with-heavy-rain-after-tornadoes-hit-the-midwest/article_fc9fa6ce-3c2c-525e-a03d-1c270ed143bf.html",
+          "source": "www.thesunchronicle.com"
+        },
+        {
+          "title": "Severe storms threaten New York with damaging winds. What to know",
+          "url": "https://www.democratandchronicle.com/story/weather/2026/06/17/severe-thunderstorms-new-york-damaging-winds-heavy-rain-warning-advisory/90585821007/",
+          "source": "www.democratandchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Western Europe Heatwave Intensifies \u2014 France & UK on Red Alert as Records Fall",
+      "location": "France, United Kingdom, Germany, Italy",
+      "type": "weather",
+      "summary": "The summer heatwave gripping western Europe has entered a more dangerous phase, with Paris recording a maximum of 38.2\u00b0C (100.8\u00b0F) on June 22 and the Insurance Journal reporting red alerts across France and the UK with forecasts of record-breaking temperatures in the days ahead. Reuters documented crisis talks in France and widespread public health concerns, with vulnerable populations at elevated risk across the continent. The UK Met Office has issued an Amber Warning for southern and eastern England, and Wimbledon 2026 is now facing unprecedented heat management challenges.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Europe Heat Wave Intensifies With France and UK on Red Alert",
+          "url": "https://www.insurancejournal.com/news/international/2026/06/22/874774.htm",
+          "source": "www.insurancejournal.com"
+        },
+        {
+          "title": "Europe swelters under heatwave, prompting crisis talks in France",
+          "url": "https://www.reuters.com/business/environment/europe-swelters-under-heatwave-prompting-crisis-talks-france-2026-06-20/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Extreme Heat Watches Issued for Phoenix Metro and US Southwest \u2014 Up to 114\u00b0F Forecast",
+      "location": "Phoenix, Tucson, Yuma, Arizona; Imperial Valley, California, USA",
+      "type": "weather",
+      "summary": "The NWS in Phoenix issued Extreme Heat Watches valid Wednesday through Thursday for the Phoenix metro area (110\u2013114\u00b0F), Tucson (107\u2013111\u00b0F), the Parker Valley and Yuma area (108\u2013114\u00b0F), and California's Imperial Valley (109\u2013115\u00b0F), representing a dangerous mid-week heat spike across the Southwest. The NWS Flagstaff office simultaneously issued an Extreme Heat Warning for the lower elevations of the Grand Canyon, where temperatures at Phantom Ranch are forecast to reach 112\u00b0F. The Guardian confirmed that extreme heat across the US West is already forcing wildfire evacuations and straining emergency resources.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Utah wildfire forces evacuation of small town as extreme heat roasts US west",
+          "url": "https://www.theguardian.com/us-news/2026/jun/21/utah-wildfire-extreme-heat",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "Why Record Heat May Ace Wimbledon This Year",
+          "url": "https://www.forbes.com/sites/marshallshepherd/2026/06/22/why-record-heat-may-ace-wimbledon-this-year/",
+          "source": "www.forbes.com"
+        }
+      ]
+    },
+    {
+      "title": "Iron Fire Forces Evacuation of Eureka, Utah Amid Extreme Heat and Red Flag Conditions",
+      "location": "Eureka, Juab County, Utah, USA",
+      "type": "wildfire",
+      "summary": "A fast-growing wildfire near Eureka in Juab County, Utah, forced evacuation orders for hundreds of residents southwest of Salt Lake City, driven by dry weather, gusty winds, and critically low relative humidity that the NWS Pueblo office confirmed at 6\u201311% across portions of Colorado and Utah. The Iron Fire expanded rapidly under Red Flag Warning conditions that were active across Colorado and Idaho in addition to Utah on June 22, with Fire Weather Watches extended into Tuesday. USA Today and KSL News reported that no structures had yet burned as of June 21, but evacuation orders remained in place as fire crews worked to establish containment lines.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire in Utah prompts evacuation order for hundreds of people",
+          "url": "https://www.usatoday.com/story/news/nation/2026/06/21/utah-iron-wildfire-eureka-evacuations/90636933007/",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "No homes burned, but evacuations remain in place as Eureka's Iron Fire grows",
+          "url": "https://www.ksl.com/article/51514447/evacuations-remain-in-place-as-eurekas-iron-fire-grows",
+          "source": "www.ksl.com"
+        }
+      ]
+    },
+    {
+      "title": "Wildfire Forces Go-Evacuation for Anderson, Alaska as Interior Faces Critical Fire Conditions",
+      "location": "Anderson, Interior Alaska, USA",
+      "type": "wildfire",
+      "summary": "A wildland fire prompted a Go Evacuation order for the town of Anderson in Alaska's interior, according to the Alaska Division of Forestry, coinciding with NWS Fairbanks issuing Red Flag Warnings for the southern Central and Eastern Interior \u2014 including areas around Fairbanks, the Upper Tanana Valley, and the Upper Kuskokwim Valley \u2014 valid through 10 PM AKDT June 22. The warnings cited scattered lightning-producing thunderstorms capable of gusts to 30 mph as the primary ignition and spread threat. Red Flag conditions are indicative of rapid fire growth potential and, combined with the Anderson evacuation, signal an escalating wildfire season in Alaska.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Go Evacuation for Anderson due to wildland fire",
+          "url": "https://akfireinfo.com/2026/06/20/go-evacuation-for-anderson-due-to-wildland-fire/",
+          "source": "akfireinfo.com"
+        },
+        {
+          "title": "California and US West Threatened by Wildfires Over Coming Days",
+          "url": "https://www.insurancejournal.com/news/west/2026/06/19/874567.htm",
+          "source": "www.insurancejournal.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Erupts for 49th Episode, Lava Visible from Space",
+      "location": "K\u012blauea, Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea volcano on the Big Island of Hawaii entered its 49th known eruptive episode, with Space.com reporting on June 17 that the eruption was dramatic enough to be photographed from orbit. The continued episodic eruptive activity at K\u012blauea's summit caldera persists as a significant ongoing geological event, with the USGS Hawaiian Volcano Observatory monitoring lava effusion and associated volcanic gas emissions that can affect air quality across downwind areas of the island. No threat to populated areas was reported in the latest episode.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "A volcanic eruption seen from space | Space photo of the day for June 17, 2026",
+          "url": "https://www.space.com/astronomy/earth/a-volcanic-eruption-seen-from-space-space-photo-of-the-day-for-june-17-2026",
+          "source": "www.space.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.3 Qaidam Basin Earthquake \u2014 USGS Orange Alert, Casualties Confirmed",
+      "location": "Qinghai Province, China",
+      "type": "earthquake",
+      "summary": "The M6.3 earthquake that struck approximately 260 km SSE of Dunhuang in China's Qaidam Basin on June 16 carried a USGS orange alert level \u2014 indicating significant shaking in a populated region and a meaningful probability of casualties \u2014 and USA Today confirmed at least one person was killed and multiple others injured. The shallow 10 km depth amplified ground shaking across the sparsely populated but seismically active northern Tibetan Plateau. Earthquake Insights characterized the event as a thrust mechanism consistent with ongoing crustal compression in the region.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Magnitude 6.3 earthquake rattles China, at least 1 dead, multiple injured",
+          "url": "https://www.usatoday.com/story/news/world/2026/06/16/china-earthquake-magnitude-dead-injured/90455578007/",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "China's Qaidam Basin shaken by M6.3 earthquake",
+          "url": "https://earthquakeinsights.substack.com/p/chinas-qaidam-basin-shaken-by-m63",
+          "source": "earthquakeinsights.substack.com"
+        }
+      ]
+    }
+  ]
+}
