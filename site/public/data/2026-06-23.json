@@ -10,18 +10,7 @@
       "summary": "The National Weather Service in Tiyan issued Tropical Storm Warnings for Tinian and Saipan as Tropical Storm Higos (08W) passed south of Tinian and moved west-northwest, generating tropical storm-force winds of 30\u201335 knots with gusts to 50 knots and hazardous coastal seas. The storm poses significant risks of vessel capsizing and wind damage to structures across the US commonwealth territory. This is a new tropical system not previously covered in recent reports.",
       "severity": "severe",
       "continuing": false,
-      "articles": [
-        {
-          "title": "Tropical Storm Arthur becomes first storm of Atlantic hurricane season",
-          "url": "https://www.usatoday.com/story/news/weather/2026/06/17/arthur-first-named-storm-of-season/90574283007/",
-          "source": "usatoday.com"
-        },
-        {
-          "title": "Tropical storm remnants drench Gulf states after tornadoes hit the Midwest",
-          "url": "https://www.thesunchronicle.com/news/nation_world/tropical-storm-remnants-drench-gulf-states-after-tornadoes-hit-the-midwest/article_fc9fa6ce-3c2c-525e-a03d-1c270ed143bf.html",
-          "source": "thesunchronicle.com"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Western Europe Heatwave Turns Deadly \u2014 ~20 Drown in France as Records Fall",
@@ -120,13 +109,7 @@
       "summary": "Weather extremes data shows Mumbai recording 40.3mm of precipitation \u2014 a notable monsoon onset reading \u2014 alongside maximum temperatures of 29\u00b0C as the Indian summer monsoon asserts itself over the subcontinent. Meanwhile, Delhi logged 39.6\u00b0C with no rainfall, signaling the capital remains in pre-monsoon heat stress, and Bangkok hit 37.1\u00b0C with only trace rain. Taken together, the data reflects a broad South and Southeast Asian heat and monsoon transition pattern affecting hundreds of millions of people across the region.",
       "severity": "moderate",
       "continuing": false,
-      "articles": [
-        {
-          "title": "Europe Heat Wave Intensifies With France and UK on Red Alert",
-          "url": "https://www.insurancejournal.com/news/international/2026/06/22/874774.htm",
-          "source": "insurancejournal.com"
-        }
-      ]
+      "articles": []
     }
   ]
 }

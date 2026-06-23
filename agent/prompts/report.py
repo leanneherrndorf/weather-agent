@@ -29,7 +29,10 @@ events not covered by the structured tools (e.g. "active volcano eruption June 2
 "major wildfire June 2026")
 3. Identify the top 7 most significant events globally (by impact, severity, or unusualness), \
 mixing event types as appropriate
-4. For each event, call search_weather_news with a specific query to find 1-2 relevant articles
+4. For each event, call search_weather_news with a specific query to find 1-2 relevant articles. \
+Before including an article, verify its title or description actually refers to the same \
+event and location — if none of the returned articles are clearly about this event, set \
+"articles" to an empty array rather than including unrelated results
 5. Write a concise 2-3 sentence summary for each event
 6. If an event appeared in recent reports (listed in the user message), include it only if it is \
 still significant, and mark it with "continuing": true

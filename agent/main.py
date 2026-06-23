@@ -35,6 +35,27 @@ VALID_TYPES = {"weather", "earthquake", "volcano", "wildfire", "tsunami", "other
 VALID_SEVERITIES = {"extreme", "severe", "moderate"}
 
 
+_STOP_WORDS = {
+    "a", "an", "the", "and", "or", "in", "on", "at", "to", "of", "for",
+    "is", "are", "with", "as", "by", "from", "its", "it", "this", "that",
+    "have", "has", "been", "be", "not", "but", "amid", "over", "after",
+    "into", "near", "new", "hit", "hits", "kills", "dead", "after", "due",
+    "heavy", "extreme", "severe", "moderate", "major", "event", "weather",
+}
+
+def _relevance_keywords(title: str, location: str) -> set[str]:
+    """Return meaningful tokens from an event title + location."""
+    raw = f"{title} {location}".lower()
+    tokens = re.findall(r"[a-z]+", raw)
+    return {t for t in tokens if len(t) > 2 and t not in _STOP_WORDS}
+
+
+def _article_matches(article_title: str, event_keywords: set[str]) -> bool:
+    """True if the article title shares at least one keyword with the event."""
+    tokens = set(re.findall(r"[a-z]+", article_title.lower()))
+    return bool(tokens & event_keywords)
+
+
 def validate_report(report: dict) -> dict:
     """
     Validate and sanitise the LLM-generated report dict before writing to disk.
@@ -79,6 +100,10 @@ def validate_report(report: dict) -> dict:
         event["summary"] = str(event.get("summary", ""))[:1000]
 
         # Validate article URLs — only allow https://
+        # Also drop articles whose titles share no keywords with this event.
+        event_keywords = _relevance_keywords(
+            event.get("title", ""), event.get("location", "")
+        )
         articles = event.get("articles", [])
         if isinstance(articles, list):
             safe_articles = []
@@ -87,8 +112,15 @@ def validate_report(report: dict) -> dict:
                     url = str(article.get("url", ""))
                     if not url.startswith("https://"):
                         url = ""
+                    article_title = str(article.get("title", ""))[:300]
+                    if event_keywords and not _article_matches(article_title, event_keywords):
+                        print(
+                            f"[validate] Dropped unrelated article for '{event.get('title', '')}': "
+                            f"{article_title!r}"
+                        )
+                        continue
                     safe_articles.append({
-                        "title": str(article.get("title", ""))[:300],
+                        "title": article_title,
                         "url": url,
                         "source": str(article.get("source", ""))[:100],
                     })
