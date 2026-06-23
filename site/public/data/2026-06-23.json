@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-23",
+  "headline": "Tropical Storm Higos Strikes Saipan and Tinian as Europe's Deadly Heatwave Claims ~20 Lives in France",
+  "overview": "June 23 brings a convergence of hazards across multiple continents: Tropical Storm Higos (08W) is battering the Northern Mariana Islands with tropical-storm-force winds, while a record-shattering heatwave in Western Europe has turned deadly, with approximately 20 people drowning in France as residents sought relief in rivers and lakes. Simultaneously, the multi-week US flood emergency has geographically expanded into West Virginia, southern New England, and the Gulf South, while new fire weather dangers are emerging across a broad Colorado-to-Oregon corridor.",
+  "events": [
+    {
+      "title": "Tropical Storm Higos (08W) Batters Saipan and Tinian",
+      "location": "Saipan and Tinian, Northern Mariana Islands, USA",
+      "type": "weather",
+      "summary": "The National Weather Service in Tiyan issued Tropical Storm Warnings for Tinian and Saipan as Tropical Storm Higos (08W) passed south of Tinian and moved west-northwest, generating tropical storm-force winds of 30\u201335 knots with gusts to 50 knots and hazardous coastal seas. The storm poses significant risks of vessel capsizing and wind damage to structures across the US commonwealth territory. This is a new tropical system not previously covered in recent reports.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Tropical Storm Arthur becomes first storm of Atlantic hurricane season",
+          "url": "https://www.usatoday.com/story/news/weather/2026/06/17/arthur-first-named-storm-of-season/90574283007/",
+          "source": "usatoday.com"
+        },
+        {
+          "title": "Tropical storm remnants drench Gulf states after tornadoes hit the Midwest",
+          "url": "https://www.thesunchronicle.com/news/nation_world/tropical-storm-remnants-drench-gulf-states-after-tornadoes-hit-the-midwest/article_fc9fa6ce-3c2c-525e-a03d-1c270ed143bf.html",
+          "source": "thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Western Europe Heatwave Turns Deadly \u2014 ~20 Drown in France as Records Fall",
+      "location": "France, United Kingdom, Spain, Europe",
+      "type": "weather",
+      "summary": "The Western European heatwave has escalated sharply into a mass-casualty event, with Al Jazeera reporting approximately 20 people drowned in France as residents sought relief in rivers, lakes, and the sea amid dangerously hot conditions. Weather extremes data confirms Paris reached 36.8\u00b0C and London 34.7\u00b0C on June 23, consistent with red-alert levels, while Spain also reported record-breaking temperatures. Power grid strain and heat-related illness hospitalizations are also rising across the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "About 20 drown in France trying to escape heatwave sweeping much of Europe",
+          "url": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe",
+          "source": "aljazeera.com"
+        },
+        {
+          "title": "Europe Heat Wave Intensifies With France and UK on Red Alert",
+          "url": "https://www.insurancejournal.com/news/international/2026/06/22/874774.htm",
+          "source": "insurancejournal.com"
+        }
+      ]
+    },
+    {
+      "title": "Flash Flooding Expands into West Virginia, Louisiana, and New England",
+      "location": "West Virginia, Louisiana, Massachusetts, Rhode Island, USA",
+      "type": "weather",
+      "summary": "The ongoing multi-state US flood disaster has expanded into new regions overnight: NWS Charleston issued multiple Flash Flood Warnings across Boone, Logan, Mingo, Raleigh, and Wyoming counties in West Virginia, where 3\u20135.5 inches of rain have fallen and flooding is actively ongoing. Simultaneously, Flash Flood Warnings were triggered in Fall River, Massachusetts and Middletown, Rhode Island after submerged vehicles were reported, while extensive flood watches and warnings remain active across Louisiana, Mississippi, and Alabama \u2014 all linked to the persistent wet pattern fueled by former Tropical Storm Arthur's moisture. This represents a significant new geographic expansion of the continuing flood emergency.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Post-tropical storm could unleash life-threatening flash flooding as millions of Americans at risk",
+          "url": "https://nypost.com/2026/06/18/us-news/life-threatening-flash-flooding-fueled-by-days-of-heavy-rain-slams-multiple-states-as-arthur-sweeps-the-south/",
+          "source": "nypost.com"
+        },
+        {
+          "title": "Tropical storm remnants pound Gulf states with heavy rain after tornadoes hit the Midwest",
+          "url": "https://www.thesunchronicle.com/news/nation_world/tropical-storm-remnants-pound-Gulf-states-with-heavy-rain-after-tornadoes-hit-the-midwest/article_fc9fa6ce-3c2c-525e-a03d-1c270ed143bf.html",
+          "source": "thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Guatemala Volcano Ejects Lava at Hikers \u2014 Tourists Pelted and Scramble for Cover",
+      "location": "Guatemala",
+      "type": "volcano",
+      "summary": "A startling volcanic incident in Guatemala on June 22 saw terrified tourists pelted with lava projectiles during a guided volcano hike, with video capturing hikers frantically scrambling for cover as the volcano erupted unexpectedly. The New York Post reported the incident with footage showing the dangerous proximity of visitors to the active vent. Guatemala is home to several persistently active volcanoes, including Santiaguito and Fuego, which regularly generate explosive activity with little warning.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Terrified tourists scramble for cover as they're pelted with lava during volcano hike",
+          "url": "https://nypost.com/2026/06/22/world-news/terrified-tourists-scramble-for-cover-as-theyre-pelted-with-lava-during-volcano-hike/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "Second Hydrothermal Explosion Strikes Yellowstone's Biscuit Basin",
+      "location": "Yellowstone National Park, Wyoming, USA",
+      "type": "other",
+      "summary": "USGS confirmed that a second hydrothermal explosion occurred at Biscuit Basin in Yellowstone National Park early on June 13, 2026 \u2014 the second such event at the same location in a relatively short timeframe, following a larger explosion at the same site previously. USGS notes the June 13 explosion was smaller than its predecessor but remains geologically significant given the pattern of recurrence. Biscuit Basin is a popular thermal feature area within the park; such explosions can hurl rocks and boiling water without seismic warning.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Oops, it did it again: Another small hydrothermal explosion at Biscuit Basin",
+          "url": "https://www.usgs.gov/observatories/yvo/news/oops-it-did-it-again-another-small-hydrothermal-explosion-biscuit-basin",
+          "source": "usgs.gov"
+        }
+      ]
+    },
+    {
+      "title": "Expansive Red Flag Warning Corridor Ignites Fire Danger Across Colorado, Utah, and Oregon",
+      "location": "Colorado, Utah, Oregon, USA",
+      "type": "wildfire",
+      "summary": "NWS offices in Denver, Pueblo, Grand Junction, Salt Lake City, and Pendleton have collectively issued Red Flag Warnings covering vast stretches of Colorado, southeastern Utah, and Oregon's Lower Columbia Basin, with relative humidity dropping as low as 5\u201313% and wind gusts reaching 30\u201335 mph. Conditions across Colorado's mountains and valleys are described as favorable for rapid fire spread, with Fire Weather Watches extending the threat into Wednesday. The alert corridor represents one of the broadest simultaneous fire-weather threats seen this season across the Intermountain West.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "California and US West Threatened by Wildfires Over Coming Days",
+          "url": "https://www.insurancejournal.com/news/west/2026/06/19/874567.htm",
+          "source": "insurancejournal.com"
+        },
+        {
+          "title": "Utah wildfire forces evacuation of small town as extreme heat roasts US west",
+          "url": "https://www.theguardian.com/us-news/2026/jun/21/utah-wildfire-extreme-heat",
+          "source": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "Mumbai Opens Monsoon Season with Heavy Rainfall; Southeast Asia Swelters",
+      "location": "Mumbai, India; Bangkok, Thailand; Delhi, India",
+      "type": "weather",
+      "summary": "Weather extremes data shows Mumbai recording 40.3mm of precipitation \u2014 a notable monsoon onset reading \u2014 alongside maximum temperatures of 29\u00b0C as the Indian summer monsoon asserts itself over the subcontinent. Meanwhile, Delhi logged 39.6\u00b0C with no rainfall, signaling the capital remains in pre-monsoon heat stress, and Bangkok hit 37.1\u00b0C with only trace rain. Taken together, the data reflects a broad South and Southeast Asian heat and monsoon transition pattern affecting hundreds of millions of people across the region.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Europe Heat Wave Intensifies With France and UK on Red Alert",
+          "url": "https://www.insurancejournal.com/news/international/2026/06/22/874774.htm",
+          "source": "insurancejournal.com"
+        }
+      ]
+    }
+  ]
+}
