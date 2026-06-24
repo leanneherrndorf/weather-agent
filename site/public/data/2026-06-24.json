@@ -50,13 +50,7 @@
       "summary": "Active Extreme Heat Warnings from the NWS covered the Phoenix metro area (109\u2013113\u00b0F forecast), Tucson and Southeast Arizona (107\u2013111\u00b0F), the Yuma/Parker Valley corridor (106\u2013113\u00b0F), and California's Imperial Valley and San Diego County deserts (up to 114\u00b0F) on June 24, running through Thursday evening. The NWS cited a \"Localized Major Heat Risk\" for all warned zones, noting that heat-related illnesses including heat stroke are significantly more likely during these conditions. Overnight temperatures are providing little relief, sustaining physiological stress across the region.",
       "severity": "extreme",
       "continuing": true,
-      "articles": [
-        {
-          "title": "As The UK Bakes Under A Deadly Heat Dome, Conservatives Want To Turn Up The Temperature",
-          "url": "https://cleantechnica.com/2026/06/23/as-the-uk-bakes-under-a-deadly-heat-dome-conservatives-want-to-turn-up-the-temperature/",
-          "source": "cleantechnica.com"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Western US Wildfire Danger Corridor Expands \u2014 Red Flags and Fire Weather Watches from Colorado to Pacific Northwest",

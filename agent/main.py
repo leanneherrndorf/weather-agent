@@ -43,17 +43,38 @@ _STOP_WORDS = {
     "heavy", "extreme", "severe", "moderate", "major", "event", "weather",
 }
 
-def _relevance_keywords(title: str, location: str) -> set[str]:
-    """Return meaningful tokens from an event title + location."""
+# Generic geographic/directional words that appear in many location strings
+# but are too common to be discriminating on their own.
+_GEO_STOP_WORDS = _STOP_WORDS | {
+    "usa", "north", "south", "east", "west", "central", "northern", "southern",
+    "eastern", "western", "island", "islands", "sea", "bay", "gulf", "coast",
+    "region", "area", "national", "park", "states", "state", "county",
+    "united", "kingdom",
+}
+
+
+def _location_keywords(location: str) -> set[str]:
+    """Return specific place-name tokens from the event's location field."""
+    tokens = re.findall(r"[a-z]+", location.lower())
+    return {t for t in tokens if len(t) > 2 and t not in _GEO_STOP_WORDS}
+
+
+def _topic_keywords(title: str, location: str) -> set[str]:
+    """Return meaningful tokens from the full event title + location."""
     raw = f"{title} {location}".lower()
     tokens = re.findall(r"[a-z]+", raw)
     return {t for t in tokens if len(t) > 2 and t not in _STOP_WORDS}
 
 
-def _article_matches(article_title: str, event_keywords: set[str]) -> bool:
-    """True if the article title shares at least one keyword with the event."""
+def _article_matches(article_title: str, location_kw: set[str], topic_kw: set[str]) -> bool:
+    """
+    Require at least one location keyword to appear in the article title.
+    Falls back to topic keyword overlap only when no location keywords exist.
+    """
     tokens = set(re.findall(r"[a-z]+", article_title.lower()))
-    return bool(tokens & event_keywords)
+    if location_kw:
+        return bool(tokens & location_kw)
+    return bool(tokens & topic_kw)
 
 
 def validate_report(report: dict) -> dict:
@@ -100,10 +121,10 @@ def validate_report(report: dict) -> dict:
         event["summary"] = str(event.get("summary", ""))[:1000]
 
         # Validate article URLs — only allow https://
-        # Also drop articles whose titles share no keywords with this event.
-        event_keywords = _relevance_keywords(
-            event.get("title", ""), event.get("location", "")
-        )
+        # Drop articles whose titles don't share at least one location keyword
+        # with this event (falls back to topic keywords if no location keywords exist).
+        loc_kw = _location_keywords(event.get("location", ""))
+        topic_kw = _topic_keywords(event.get("title", ""), event.get("location", ""))
         articles = event.get("articles", [])
         if isinstance(articles, list):
             safe_articles = []
@@ -113,7 +134,7 @@ def validate_report(report: dict) -> dict:
                     if not url.startswith("https://"):
                         url = ""
                     article_title = str(article.get("title", ""))[:300]
-                    if event_keywords and not _article_matches(article_title, event_keywords):
+                    if (loc_kw or topic_kw) and not _article_matches(article_title, loc_kw, topic_kw):
                         print(
                             f"[validate] Dropped unrelated article for '{event.get('title', '')}': "
                             f"{article_title!r}"
