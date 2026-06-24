@@ -1,0 +1,126 @@
+{
+  "date": "2026-06-24",
+  "headline": "France shatters its all-time national heat record as power cuts spread across Europe, while catastrophic Tropical Storm Arthur flooding claims new ground across the Deep South and Mississippi Basin.",
+  "overview": "A historic heat dome over Western Europe pushed France to its hottest temperature ever recorded on June 23\u201324, with power outages compounding the crisis across the continent. In the United States, the multi-week flood emergency unleashed by Tropical Storm Arthur's remnants has dramatically expanded, now inundating river systems from Oklahoma and Texas through Mississippi, Louisiana, Alabama, and Florida, with dozens of active warnings extending through late June. Simultaneously, the US Southwest remains locked under Extreme Heat Warnings, a broad wildfire danger corridor stretches from Colorado and Utah through Nevada, Washington, Oregon, and California, and K\u012blauea continues erupting in Hawaii.",
+  "events": [
+    {
+      "title": "Western Europe Heatwave \u2014 France Shatters All-Time National Temperature Record",
+      "location": "France, United Kingdom, Germany, Spain, Europe",
+      "type": "weather",
+      "summary": "France recorded its hottest day in history on June 23 as a ferocious early-summer heat dome drove temperatures past 104\u00b0F (40\u00b0C) in multiple locations, surpassing previous all-time national records. On June 24, power cuts left thousands sweltering across France as grid demand peaked, and CNN reported live that punishing temperatures continued breaking records across the continent. The UK Met Office's rare red warning remained in force for southern and eastern England, with London's weather station logging 36.1\u00b0C (97\u00b0F) and Berlin reaching 32.2\u00b0C.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Europe swelters under an early heat wave as France records its hottest day ever",
+          "url": "https://www.latimes.com/world-nation/story/2026-06-23/europe-swelters-under-early-heat-wave-as-france-records-its-hottest-day-ever",
+          "source": "www.latimes.com"
+        },
+        {
+          "title": "Power cuts in France leave thousands sweltering amid scorching heatwave",
+          "url": "https://www.reuters.com/business/environment/power-cuts-france-leave-thousands-sweltering-amid-scorching-heatwave-2026-06-24/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Deep South & Mississippi Basin Flooding Surges \u2014 Rivers Inundating MS, LA, AL, FL, IL, IN, TX, OK",
+      "location": "Mississippi, Louisiana, Alabama, Florida, Illinois, Indiana, Texas, Oklahoma, USA",
+      "type": "weather",
+      "summary": "The catastrophic flood emergency triggered by Tropical Storm Arthur's remnants has dramatically expanded its geographic footprint, with the NWS issuing dozens of active Flood Warnings across the Deep South and Midwest as of June 24. The Pearl River is flooding near Jackson, MS and downstream into Louisiana through July 2; the Big Black River is at moderate flood stage; the Pascagoula, Chickasawhay, Leaf, and Tombigbee rivers are all overflowing in Mississippi and Alabama; and the Illinois River has flood warnings running through June 27\u201328. More than 29 inches of rain fell in parts of Louisiana during the initial Arthur event, and rivers remain elevated across a zone stretching from Texas to Indiana.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flooding Still a Problem in Southeast as Storms Bring New Rainfall Across the Region",
+          "url": "https://www.insurancejournal.com/news/southeast/2026/06/22/874810.htm",
+          "source": "www.insurancejournal.com"
+        },
+        {
+          "title": "Post-tropical storm could unleash life-threatening flash flooding as millions of Americans at risk",
+          "url": "https://nypost.com/2026/06/18/us-news/life-threatening-flash-flooding-fueled-by-days-of-heavy-rain-slams-multiple-states-as-arthur-sweeps-the-south/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "US Southwest Extreme Heat Warnings Persist \u2014 Phoenix Reaches 113\u00b0F, Imperial Valley 114\u00b0F",
+      "location": "Phoenix, Tucson, Yuma, Arizona; Imperial Valley, San Diego Deserts, California, USA",
+      "type": "weather",
+      "summary": "Active Extreme Heat Warnings from the NWS covered the Phoenix metro area (109\u2013113\u00b0F forecast), Tucson and Southeast Arizona (107\u2013111\u00b0F), the Yuma/Parker Valley corridor (106\u2013113\u00b0F), and California's Imperial Valley and San Diego County deserts (up to 114\u00b0F) on June 24, running through Thursday evening. The NWS cited a \"Localized Major Heat Risk\" for all warned zones, noting that heat-related illnesses including heat stroke are significantly more likely during these conditions. Overnight temperatures are providing little relief, sustaining physiological stress across the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "As The UK Bakes Under A Deadly Heat Dome, Conservatives Want To Turn Up The Temperature",
+          "url": "https://cleantechnica.com/2026/06/23/as-the-uk-bakes-under-a-deadly-heat-dome-conservatives-want-to-turn-up-the-temperature/",
+          "source": "cleantechnica.com"
+        }
+      ]
+    },
+    {
+      "title": "Western US Wildfire Danger Corridor Expands \u2014 Red Flags and Fire Weather Watches from Colorado to Pacific Northwest",
+      "location": "Colorado, Utah, Nevada, Washington, Oregon, Arizona, California, USA",
+      "type": "wildfire",
+      "summary": "The NWS issued an expansive network of Red Flag Warnings and Fire Weather Watches on June 24 covering much of the western United States, with the threat window extending through June 28 for parts of Utah, Nevada, and Arizona. The most extreme conditions are forecast for southeastern Utah (SW winds 25\u201335 mph, gusts 40\u201355 mph, relative humidity as low as 7%), and the Mojave Desert of California (humidity as low as 4%). New Fire Weather Watches were added for eastern Washington and the Columbia Basin of Oregon, with the San Francisco Chronicle describing the situation as a \"very anomalous\" pattern creating extreme fire danger across the Southwest and Great Basin.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "'Very anomalous situation' expected to create extreme fire danger in much of the West",
+          "url": "https://www.sfchronicle.com/california-wildfires/article/west-weather-fire-danger-22315920.php",
+          "source": "www.sfchronicle.com"
+        },
+        {
+          "title": "California and US West Threatened by Wildfires Over Coming Days",
+          "url": "https://www.insurancejournal.com/news/west/2026/06/19/874567.htm",
+          "source": "www.insurancejournal.com"
+        }
+      ]
+    },
+    {
+      "title": "British Columbia Wildfires \u2014 Kalamoir Regional Park Fire Burns Near West Kelowna",
+      "location": "West Kelowna, British Columbia, Canada",
+      "type": "wildfire",
+      "summary": "A wildfire burning in Kalamoir Regional Park near West Kelowna, British Columbia prompted evacuation alerts and warnings in mid-to-late June, with British Columbia's Emergency Management Minister holding press conferences to urge residents to prepare for evacuations. The province issued a broad public advisory reminding British Columbians to have evacuation plans ready as the fire season arrived earlier and more intensely than average. The Okanagan region, which experienced devastating fires in 2023, is again under elevated threat amid drought and heat conditions.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "British Columbians reminded to be prepared for wildfire evacuations, alerts",
+          "url": "https://peninsulanewsreview.com/2026/06/17/british-columbians-reminded-to-be-prepared-for-wildfire-evacuations-alerts/",
+          "source": "peninsulanewsreview.com"
+        },
+        {
+          "title": "British Columbians reminded to be prepared for wildfire evacuations, alerts",
+          "url": "https://keremeosreview.com/2026/06/17/british-columbians-reminded-to-be-prepared-for-wildfire-evacuations-alerts/",
+          "source": "keremeosreview.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Eruption Continues \u2014 Lava Fountaining Visible from Space",
+      "location": "K\u012blauea, Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea volcano's ongoing eruption episode, the 49th documented in the current sequence, continued through June 24 with lava fountaining active within the summit caldera. Space.com reported that the eruption was captured in satellite imagery visible from orbit, underscoring the scale of the lava output. The eruption remains confined to the summit region within Hawaii Volcanoes National Park, posing no immediate threat to populated areas, though volcanic air pollution (vog) continues to affect downwind communities.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "A volcanic eruption seen from space | Space photo of the day for June 17, 2026",
+          "url": "https://www.space.com/astronomy/earth/a-volcanic-eruption-seen-from-space-space-photo-of-the-day-for-june-17-2026",
+          "source": "www.space.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.6 Earthquake Strikes Off Kamchatka Peninsula, Russia",
+      "location": "133 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "type": "earthquake",
+      "summary": "A magnitude 6.6 earthquake struck 133 km east-southeast of Petropavlovsk-Kamchatsky, Russia on June 19 at a shallow depth of 10 km, according to USGS data. The USGS assigned a green alert level, indicating low likelihood of significant casualties or damage, and no tsunami alert was generated. Only one felt report was submitted to USGS, suggesting the remote offshore location limited impacts, though the Kamchatka Peninsula is one of the world's most seismically active zones.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
