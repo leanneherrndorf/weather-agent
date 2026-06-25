@@ -1,0 +1,136 @@
+{
+  "date": "2026-06-25",
+  "headline": "Twin M7.5 and M7.2 earthquakes strike Venezuela within seconds of each other, collapsing buildings and prompting a state of emergency in Caracas with thousands feared dead.",
+  "overview": "A catastrophic earthquake doublet has struck northwestern Venezuela, with USGS red-alert magnitude 7.5 and 7.2 quakes hitting near Yumare within roughly one minute of each other on June 24 UTC, causing widespread building collapses and a feared mass-casualty event near Caracas. Meanwhile, a historic multi-week flood event continues to escalate across the central and southern United States, with active warnings stretching from Arkansas and Oklahoma through Kansas, Missouri, Illinois, and Indiana. Europe's deadly heatwave persists with Paris recording near 40\u00b0C, and new significant earthquakes have rattled northern Japan and Northern California.",
+  "events": [
+    {
+      "title": "Twin M7.5 & M7.2 Earthquakes Devastate Venezuela \u2014 Thousands Feared Dead",
+      "location": "Yumare / Caracas Region, Venezuela",
+      "type": "earthquake",
+      "summary": "A magnitude 7.5 and a magnitude 7.2 earthquake struck near Yumare, Venezuela within approximately one minute of each other on June 24 at 22:04\u201322:05 UTC, both at shallow depths of 10\u201320 km. Both events received USGS red alert levels, and 420 felt reports poured in rapidly; news outlets report widespread building collapses across the region west of Caracas and a state of emergency has been declared, with thousands feared dead and rescue teams mobilizing internationally. No tsunami alert was issued, but the shallow depth and double-strike nature of the sequence amplified ground shaking and structural damage significantly.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Thousands feared dead as twin earthquakes devastate Venezuela",
+          "url": "https://www.timesofisrael.com/thousands-feared-dead-as-twin-earthquakes-devastate-venezuela/",
+          "source": "www.timesofisrael.com"
+        },
+        {
+          "title": "Buildings collapse as quakes rock Venezuela, 'high casualties' likely",
+          "url": "https://www.cnbc.com/2026/06/25/buildings-collapse-as-quakes-rock-venezuela-high-casualties-likely.html",
+          "source": "www.cnbc.com"
+        }
+      ]
+    },
+    {
+      "title": "Central & Southern US Flood Crisis Expands \u2014 Active Warnings Across 10+ States",
+      "location": "Arkansas, Oklahoma, Kansas, Missouri, Illinois, Indiana, Mississippi, Louisiana, Texas, USA",
+      "type": "weather",
+      "summary": "The multi-state flood emergency that began earlier in the week has significantly expanded on June 25, with new Flash Flood Warnings active across Arkansas and northeastern Oklahoma (2\u20134 inches of rain in a single hour in Osage County), and Flood Watches now covering broad swaths of Kansas, Missouri, Illinois, and Indiana through Friday morning. Rivers across Mississippi, Louisiana, and Georgia remain above flood stage with the Pearl River near Bogalusa under a Flood Warning extending to July 3, illustrating the long-duration nature of this event. Saturated soils mean even moderate additional rainfall is causing immediate runoff and life-threatening flooding across the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Western Europe Heatwave Continues \u2014 Paris Near 40\u00b0C, Death Toll Climbs to 40",
+      "location": "France, United Kingdom, Germany, Europe",
+      "type": "weather",
+      "summary": "The exceptional early-season European heatwave shows no meaningful retreat on June 25, with Paris recording a maximum of 39.8\u00b0C, London at 30.3\u00b0C, and Berlin at 33.7\u00b0C \u2014 all well above seasonal norms. The Washington Post reports approximately 40 drowning deaths in France since June 18, as people seek relief in waterways without adequate swimming safety; France's all-time national temperature record was shattered earlier in the week. Heat-health authorities across France, Spain, and the UK remain at elevated alert levels with no significant cooldown forecast in the immediate term.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "A red alert over France, and heat that may rewrite the record books",
+          "url": "https://www.washingtonpost.com/world/2026/06/23/heat-wave-france-europe-climate-change-record/734dbdbc-6ed6-11f1-8730-e7fd0e2a6404_story.html",
+          "source": "www.washingtonpost.com"
+        },
+        {
+          "title": "Europe swelters under an early heat wave as France records its hottest day ever",
+          "url": "https://www.latimes.com/world-nation/story/2026-06-23/europe-swelters-under-early-heat-wave-as-france-records-its-hottest-day-ever",
+          "source": "www.latimes.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.9 Earthquake Strikes Off Northern Japan \u2014 No Tsunami",
+      "location": "30 km ENE of Kuji, Iwate Prefecture, Japan",
+      "type": "earthquake",
+      "summary": "A magnitude 6.9 earthquake struck 30 km off the northeastern coast of Japan near Kuji, Iwate Prefecture on June 24 at 22:30 UTC, at a depth of approximately 51 km. Japan's Meteorological Agency confirmed no tsunami danger, and USGS assigned a green alert level; 86 felt reports were logged. The moderate depth likely limited surface damage, though strong shaking was felt across the Tohoku region.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Powerful 6.9-magnitude earthquake strikes off northern Japan. No tsunami warning",
+          "url": "https://www.washingtonpost.com/world/2026/06/24/japan-earthquake-tsunami/df1db75a-701f-11f1-8730-e7fd0e2a6404_story.html",
+          "source": "www.washingtonpost.com"
+        },
+        {
+          "title": "Magnitude 6.9 quake hits northern Japan",
+          "url": "https://www.japantimes.co.jp/news/2026/06/25/japan/tohoku-strong-earthquake/",
+          "source": "www.japantimes.co.jp"
+        }
+      ]
+    },
+    {
+      "title": "Utah Iron Fire Prompts Mass Evacuations Southwest of Salt Lake City",
+      "location": "Juab County (near Eureka), Utah, USA",
+      "type": "wildfire",
+      "summary": "The Iron Fire burning in Juab County, approximately 28 miles southwest of Provo, Utah, grew rapidly and prompted evacuation orders for hundreds of residents in the area around Eureka. Officials described the fire as burning dangerously close to homes, driven by dry conditions and gusty winds that are also fueling Red Flag Warnings across the broader Intermountain West this week. Crews are struggling to contain the blaze amid critical fire weather conditions forecast to persist through the weekend.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire in Utah prompts evacuation order for hundreds of people",
+          "url": "https://www.usatoday.com/story/news/nation/2026/06/21/utah-iron-wildfire-eureka-evacuations/90636933007/",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "Raging Utah wildfire prompts evacuation as crews struggle to contain it: Officials",
+          "url": "https://abcnews.com/US/raging-utah-wildfire-prompts-evacuation-crews-struggle-officials/story?id=134071080",
+          "source": "abcnews.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.6 Earthquake Rattles Northern California \u2014 Over 5,200 Reports Felt",
+      "location": "Redwood Valley, Mendocino County, California, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 5.6 earthquake struck 11 km north of Redwood Valley in Mendocino County, California, on June 24 at 15:10 UTC, at a shallow depth of 8.85 km. USGS assigned a yellow alert level, and the quake generated an unusually high 5,226 felt reports, indicating it was widely felt across the greater North Bay and Central Coast region of California. No major structural damage or injuries have been reported, but the event is notable for its broad public impact in a seismically active zone.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Earthquake rattles Northern California, magnitude measured at 5.6",
+          "url": "https://www.usatoday.com/story/news/nation/2026/06/24/earthquake-northern-california-magnitude/90676763007/",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "Magnitude 5.6 Earthquake Rattles Northern California: What to Know",
+          "url": "https://www.newsweek.com/magnitude-5-6-earthquake-rattles-northern-california-what-to-know-12115352",
+          "source": "www.newsweek.com"
+        }
+      ]
+    },
+    {
+      "title": "New 50-Hectare Wildfire Ignites South of Lillooet, British Columbia",
+      "location": "South of Lillooet, British Columbia, Canada",
+      "type": "wildfire",
+      "summary": "A new wildfire was discovered south of Lillooet, British Columbia on June 24, 2026, and was sized at approximately 50 hectares by the BC Wildfire Service by late afternoon. The fire is being actively assessed by BCWS crews and represents the latest in a string of early-season wildfire ignitions across interior BC, following the previously reported fire near West Kelowna. Warm, dry, and windy conditions prevailing across the BC Interior are expected to keep fire danger elevated through the remainder of the week.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire south of Lillooet 50 hectares, being assessed by BCWS",
+          "url": "https://summerlandreview.com/2026/06/24/wildfire-south-of-lillooet-sized-at-50-hectares-on-wednesday/",
+          "source": "summerlandreview.com"
+        },
+        {
+          "title": "Wildfire south of Lillooet 50 hectares, being assessed by BCWS",
+          "url": "https://revelstokereview.com/2026/06/24/wildfire-south-of-lillooet-sized-at-50-hectares-on-wednesday/",
+          "source": "revelstokereview.com"
+        }
+      ]
+    }
+  ]
+}
