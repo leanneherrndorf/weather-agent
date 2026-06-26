@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-26",
+  "headline": "Venezuela earthquake death toll mounts as rescuers dig through rubble, while Europe's deadly heat dome persists and a vast US flood and wildfire emergency spans dozens of states.",
+  "overview": "The Venezuela twin-earthquake disaster continues to unfold as one of the deadliest seismic events in the Western Hemisphere in decades, with rescue teams still searching through collapsed structures. Simultaneously, a persistent heat dome is driving extreme temperatures across Western Europe \u2014 with Paris at 36.7\u00b0C and London at 35.1\u00b0C \u2014 while the United States faces a multi-front natural disaster landscape: a sprawling flood crisis that has now deeply engulfed Kansas, Missouri, and the Ohio Valley; critical wildfire conditions across a vast Red Flag corridor from Arizona to Idaho; and a remarkable late-June winter storm threat in the northern Rockies.",
+  "events": [
+    {
+      "title": "Venezuela Twin Earthquake Disaster \u2014 Death Toll Climbs, Declared Deadliest in Over a Century",
+      "location": "Yumare / Caracas Region, Venezuela",
+      "type": "earthquake",
+      "summary": "The June 24 M7.5 and M7.2 twin earthquakes near Yumare, Venezuela \u2014 occurring within seconds of each other at shallow depths of 10 km and 20 km \u2014 continue to yield devastating new casualty figures, with NPR reporting that Venezuela is 'counting the cost of its deadliest quake disaster in over a century.' Caracas declared a state of emergency and international aid offers are arriving, but a shattered economy and overstrained healthcare infrastructure are severely hampering rescue and relief efforts. USGS assigned its highest 'red' alert level to both events, which generated 539 felt reports and widespread structural collapse across the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Venezuela reels from earthquakes as rescuers scramble to find survivors",
+          "url": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
+          "source": "www.npr.org"
+        },
+        {
+          "title": "Thousands feared dead as twin earthquakes devastate Venezuela",
+          "url": "https://www.timesofisrael.com/thousands-feared-dead-as-twin-earthquakes-devastate-venezuela/",
+          "source": "www.timesofisrael.com"
+        }
+      ]
+    },
+    {
+      "title": "Western Europe Heat Dome Persists \u2014 Paris 36.7\u00b0C, London 35.1\u00b0C, Death Toll Rising",
+      "location": "France, United Kingdom, Germany, Europe",
+      "type": "weather",
+      "summary": "A stubborn 'heat dome' continues to bake Western Europe, with current observations showing Paris at 36.7\u00b0C, London at 35.1\u00b0C, and Berlin at 34.6\u00b0C \u2014 all well above seasonal norms for late June. AP News confirms heat health warnings remain in force across the continent, and The Economist notes that attribution science shows global warming has made this specific heatwave 2\u20134\u00b0C more intense than it would otherwise have been. Death tolls continue to climb across France, the UK, and Germany, with prior reports placing the confirmed figure above 40.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Western Europe bakes under a 'heat dome' as temperatures climb and authorities warn of health risks",
+          "url": "https://apnews.com/article/high-temperatures-heat-heat-dome-be7a9d14b03d482aca406fc09fa1757f",
+          "source": "apnews.com"
+        },
+        {
+          "title": "Global warming has made Europe's heatwave 2-4\u00b0C worse",
+          "url": "https://www.economist.com/science-and-technology/2026/06/24/global-warming-has-made-europes-heatwave-2-4c-worse",
+          "source": "www.economist.com"
+        }
+      ]
+    },
+    {
+      "title": "US Central & Southern Flood Crisis Expands Deeply into Kansas \u2014 Dozens of New River Warnings",
+      "location": "Kansas, Missouri, Oklahoma, Illinois, Indiana, Arkansas, Mississippi, Louisiana, USA",
+      "type": "weather",
+      "summary": "The ongoing multi-state US flood emergency reached a new peak on June 26, with the NWS Wichita office issuing dozens of new and extended flood warnings across south-central and southeast Kansas, including the Arkansas, Verdigris, Ninnescah, Neosho, and Whitewater Rivers \u2014 several upgraded from minor to moderate flooding severity. Thunderstorms dropped 3\u20136 inches of rain overnight in parts of Butler and Sedgwick Counties, prompting life-threatening flash flood warnings. Further south, flood warnings on the Pearl River system (MS/LA) are extended through July 3, and the Wabash River in Indiana/Illinois remains in flood stage with warnings running to July 2, illustrating the extraordinary geographic breadth of this event.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Yellowstone's Biscuit Basin Struck by Second Hydrothermal Explosion in Two Weeks",
+      "location": "Yellowstone National Park, Wyoming, USA",
+      "type": "volcano",
+      "summary": "Yellowstone National Park's Biscuit Basin thermal area experienced a second hydrothermal explosion on June 13, and USA Today confirmed a third event at the same location on June 24, highlighting an unusually active period of subsurface hydrothermal unrest. The USGS notes these are small explosions driven by superheated groundwater \u2014 not magmatic eruptions \u2014 but the repeated occurrence at the same site in a popular visitor area has prompted ongoing monitoring and closures. Hydrothermal explosions at Yellowstone are inherently unpredictable and can escalate without warning, making this a closely watched geological situation.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Another blast hits Yellowstone. What just happened at Biscuit Basin?",
+          "url": "https://www.usatoday.com/story/travel/experience/national-parks/2026/06/24/yellowstone-hydrothermal-explosion-biscuit-basin/90680923007/",
+          "source": "www.usatoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Utah Wildfire Emergency Deepens \u2014 Cottonwood Fire Named in Sweeping Red Flag Warnings Through Sunday",
+      "location": "Iron, Beaver, Garfield, Piute, Washington Counties, Utah, USA",
+      "type": "wildfire",
+      "summary": "Active wildfire danger across Utah has intensified significantly, with NWS Salt Lake City issuing a multi-day Red Flag Warning explicitly naming the Cottonwood Fire and covering vast swaths of southern Utah \u2014 including Color Country, the Henry Mountains, Grand Staircase, San Rafael Swell, and the Wasatch Mountains \u2014 through Sunday June 28. Governor Spencer Cox issued an order banning fireworks statewide ahead of the July Fourth holiday, with fire officials warning this year's conditions are 'different' and exceptionally dangerous due to extreme heat, critically low humidity, and strong southwest winds. The warning zone extends into Nevada (gusts to 45 mph, humidity 10\u201315%) and the Lower Colorado River Valley (humidity as low as 5%), creating a massive multi-state critical fire weather corridor.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "As Utah burns, Gov. Spencer Cox orders firework restrictions ahead of July Fourth",
+          "url": "https://www.sltrib.com/news/politics/2026/06/25/utah-gov-spencer-cox-orders/",
+          "source": "www.sltrib.com"
+        },
+        {
+          "title": "Wildfire in Utah prompts evacuation order for hundreds of people",
+          "url": "https://www.usatoday.com/story/news/nation/2026/06/21/utah-iron-wildfire-eureka-evacuations/90636933007/",
+          "source": "www.usatoday.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Eruption Continues \u2014 Ongoing Lava Fountaining at Summit",
+      "location": "K\u012blauea, Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea volcano on Hawai\u02bbi Island continues its ongoing eruption, which has featured lava fountaining visible from space during peak activity periods. The eruption remains confined within the summit caldera region and does not currently threaten residential communities, though volcanic smog (vog) continues to affect air quality downwind across parts of the Big Island. No new escalation data was returned from news searches for June 26, but HVO (Hawaiian Volcano Observatory) monitoring remains active.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Rare Late-June Winter Storm Watch Issued for Northern Rockies \u2014 Up to 8 Inches of Snow Above 6,500 Feet",
+      "location": "Lemhi County, Bitterroot/Sapphire Mountains, Idaho & Montana, USA",
+      "type": "weather",
+      "summary": "In a striking meteorological contrast to the heat and fire weather dominating much of the US, the NWS Missoula office has issued Winter Storm Watches for high-elevation areas of central Idaho and western Montana \u2014 including the Bitterroot/Sapphire Mountains, Lemhi County, and the Butte/Blackfoot region \u2014 effective Saturday evening through Monday morning, June 28\u201329. Heavy wet snow of up to 8 inches is possible above 6,500 feet, driven by a strong Pacific low pressure system sweeping through the region; the NWS warns of downed trees, hypothermia risk, and blocked backcountry routes. This event is particularly anomalous given that mountain snowpack in this region already melted 2\u20135 weeks earlier than normal in 2026.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
