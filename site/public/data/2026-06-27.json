@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-27",
+  "headline": "Utah declares wildfire state of emergency as the US's largest active fire rages under an unprecedented multi-state Red Flag Warning, while Venezuela's earthquake death toll more than doubles and a new M6.5 strikes the Philippines.",
+  "overview": "June 27 brings a convergence of escalating disasters across multiple continents. In the United States, Utah's Cottonwood Fire has become the nation's largest active wildfire, prompting a statewide emergency declaration and fireworks ban, while a sweeping Red Flag Warning blankets the Southwest and Intermountain West under extreme fire weather. The catastrophic US flood crisis has expanded further east into Ohio, West Virginia, Kentucky, and Tennessee, and a dangerous heat dome is now forecast to engulf the Midwest and East through the Fourth of July holiday. Internationally, Venezuela's twin-quake death toll has more than doubled as rescuers continue digging through rubble, Europe's record heatwave pushes east into Germany and Poland, and a new M6.5 earthquake has struck the seismically active southern Philippines.",
+  "events": [
+    {
+      "title": "Utah Wildfire State of Emergency \u2014 Cottonwood Fire Now Largest Active US Wildfire",
+      "location": "Iron, Beaver, Garfield, Piute, Washington Counties, Utah, USA",
+      "type": "wildfire",
+      "summary": "Utah Governor Spencer Cox declared a statewide emergency on June 26 and issued an executive order restricting fireworks through the July Fourth holiday as the Cottonwood Fire grew to become the largest active wildfire in the United States. The National Weather Service issued what forecasters called a 'particularly dangerous situation' Red Flag Warning across broad sections of Utah, with humidity as low as 5\u201310% and gusts up to 50 mph expected through Saturday night and again Sunday. Crews continue to battle the fire across tinder-dry terrain in the state's south-central counties as critical fire weather conditions persist through the weekend.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Utah declares state of emergency \u2014 and restricts fireworks as US largest wildfire grows",
+          "url": "https://nypost.com/2026/06/26/us-news/utah-declaring-state-of-emergency-with-fireworks-restricted-as-us-largest-wildfire-rises/",
+          "source": "nypost.com"
+        },
+        {
+          "title": "Utah declares emergency, limits fireworks ahead of July Fourth as crews battle largest U.S. wildfire",
+          "url": "https://www.cbsnews.com/news/utah-cottonwood-wildfire-emergency-fireworks/",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Venezuela Twin-Quake Death Toll More Than Doubles \u2014 Rescue Efforts Continue",
+      "location": "Yumare / Caracas Region, Venezuela",
+      "type": "earthquake",
+      "summary": "The death toll from Venezuela's June 24 twin M7.5 and M7.2 earthquakes has more than doubled since initial counts, with firefighters, soldiers, and volunteers still digging through collapsed buildings in Caracas and surrounding areas. The disaster \u2014 already declared the deadliest in Venezuela in over a century \u2014 is being compounded by the country's struggling economy and overwhelmed healthcare infrastructure, which are severely impeding rescue and relief operations. Both USGS events remain flagged at red alert level, and international humanitarian assistance is being sought.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Venezuela reels from earthquakes as rescuers scramble to find survivors",
+          "url": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
+          "source": "www.npr.org"
+        },
+        {
+          "title": "Venezuela reels from earthquakes, as death toll more than doubles",
+          "url": "https://www.wlrn.org/americas/2026-06-26/venezuela-reels-from-earthquakes-as-death-toll-more-than-doubles",
+          "source": "www.wlrn.org"
+        }
+      ]
+    },
+    {
+      "title": "US Flood Crisis Expands East \u2014 Ohio, West Virginia, Kentucky & Tennessee Now Engulfed",
+      "location": "Ohio, West Virginia, Kentucky, Indiana, Tennessee, Oklahoma, Kansas, Illinois, USA",
+      "type": "weather",
+      "summary": "The multi-week US central and southern flood crisis has significantly expanded eastward, with NWS offices in Pittsburgh, Charleston WV, Louisville, Jackson KY, and Nashville all issuing simultaneous Flood Watches and Flash Flood Warnings overnight June 26\u201327. Flash flooding is actively occurring across portions of West Virginia, Ohio, Indiana, and Kentucky, with dozens of additional river gauges rising to flood stage. Major flooding has been confirmed on the Chikaskia River near Blackwell, Oklahoma, with several city blocks inundated, while the Caney River Flood Warning in Tulsa extends through Tuesday \u2014 underscoring the prolonged and still-expanding nature of this crisis.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Western Europe Heatwave Pushes East \u2014 Germany and Poland Brace for Record Temperatures",
+      "location": "Germany, Poland, France, United Kingdom, Europe",
+      "type": "weather",
+      "summary": "The record-breaking Western European heat dome that scorched France and the UK earlier this week has shifted east, with Germany bracing for sweltering conditions on Saturday and Poland expected to follow. Reuters reported June 27 that the heatwave that set records in France and Britain is now heading into central Europe, bringing dangerous heat to new populations. Weather data confirms Berlin at 39.4\u00b0C on June 27, while Paris remains at 35.4\u00b0C \u2014 both well above seasonal norms \u2014 as heat-related death tolls across the continent continue to rise.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Germany, Poland poised for soaring temperatures as heatwave moves east",
+          "url": "https://www.reuters.com/business/environment/germany-poland-poised-soaring-temperatures-heatwave-moves-east-2026-06-27/",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "France sounds alarm as Europe's deadly heatwave takes its toll",
+          "url": "https://www.reuters.com/business/environment/europeans-told-protect-themselves-deadly-heatwave-takes-its-toll-2026-06-25/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "New M6.5 Earthquake Strikes Southern Philippines \u2014 Region Still Reeling from June 8 M7.8",
+      "location": "34 km WSW of Sarangani, Philippines",
+      "type": "earthquake",
+      "summary": "A magnitude 6.5 earthquake struck 34 km west-southwest of Sarangani in the southern Philippines on June 26 at 11:34 UTC, at a depth of 42 km, with no tsunami alert issued and a USGS green alert level. The quake struck the same region as the devastating M7.8 earthquake of June 8, which killed at least 61 people, raising concerns about structural vulnerability in buildings already weakened by the earlier disaster. At least 45 felt reports were recorded; damage assessments are ongoing.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 6.5 earthquake strikes off southern Philippines near site of June 8 major quake",
+          "url": "https://www.foxweather.com/weather-news/magnitude-6-5-earthquake-strikes-coast-southern-philippines",
+          "source": "www.foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Dangerous Midwest Heat Dome Approaching \u2014 Extreme Heat Watches Issued Through July 4th Week",
+      "location": "Iowa, Kansas, Missouri, Wisconsin, Illinois, Nebraska, Minnesota, USA",
+      "type": "weather",
+      "summary": "NWS offices across a wide swath of the central US \u2014 including Des Moines, Quad Cities, Kansas City, Topeka, Omaha, La Crosse, and St. Louis \u2014 have issued Extreme Heat Watches beginning Sunday, June 28, and running through Tuesday, June 30, with dangerous heat index values forecast between 105\u00b0F and 109\u00b0F. Overnight lows in the mid-to-upper 70s will provide little relief, significantly increasing health risks particularly for vulnerable populations. Forecasters warn the heat dome could persist potentially through the Fourth of July holiday, coinciding with major outdoor events including FIFA World Cup elimination matches.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Unprecedented Multi-State Red Flag Warning Blankets the West \u2014 Extreme Fire Weather from Arizona to Colorado",
+      "location": "Arizona, Nevada, Utah, Colorado, New Mexico, California, USA",
+      "type": "weather",
+      "summary": "An extraordinary Red Flag Warning covering dozens of fire weather zones across at least six states \u2014 Arizona, Nevada, Utah, Colorado, New Mexico, and eastern California \u2014 is in effect through Saturday evening and extending into Sunday, driven by southwest winds gusting 40\u201355 mph and relative humidity as low as 5\u201310%. The NWS Flagstaff office warned of 'critical fire weather conditions' across all of northern and central Arizona, including portions of five national forests, while Pueblo CO forecasters noted conditions sufficient for fires to 'uncontrollably spread and be very destructive.' The historic fire weather footprint directly amplifies the threat from the already-raging Utah Cottonwood Fire and dramatically elevates ignition risk across the broader region.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "'Particularly dangerous situation' in Utah, forecasters warn, as fire rages",
+          "url": "https://www.washingtonpost.com/weather/2026/06/26/forecasters-outline-rare-particularly-dangerous-situation-amid-utah-wildfire/",
+          "source": "www.washingtonpost.com"
+        },
+        {
+          "title": "Utah weather conditions trigger historic red flag warning as wildfires rage across the state",
+          "url": "https://www.nbcnews.com/news/us-news/utah-weather-conditions-trigger-historic-red-flag-warning-wildfires-ra-rcna351929",
+          "source": "www.nbcnews.com"
+        }
+      ]
+    }
+  ]
+}
