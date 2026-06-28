@@ -1,0 +1,114 @@
+{
+  "date": "2026-06-28",
+  "headline": "Kentucky Flooding Turns Deadly as US Midwest Heat Dome Activates \u2014 At Least Four Dead, Extreme Heat Warnings Now in Effect from Kansas to Minnesota",
+  "overview": "A cascading multi-hazard crisis continues across the United States on June 28, with deadly flash flooding killing at least four in Kentucky and Tennessee, Extreme Heat Warnings now in effect across a broad swath of the Midwest and spreading toward the mid-Atlantic ahead of the July 4 holiday, and the Cottonwood Fire in Utah surpassing 92,000 acres under ongoing Red Flag Warnings. Globally, Europe's heatwave has surged eastward into Germany and Italy with records falling and Autobahn sections buckling from heat, while a M6.9 earthquake near Kuji, Japan caused structural damage in Aomori Prefecture. Geological activity remains elevated, with the Venezuela twin-quake death toll still climbing and ongoing seismic aftershocks in the Philippines.",
+  "events": [
+    {
+      "title": "Kentucky & Tennessee Flooding Turns Deadly \u2014 At Least 4 Dead, Bridges Destroyed",
+      "location": "Kentucky, Tennessee, Ohio Valley, USA",
+      "type": "weather",
+      "summary": "Widespread flash flooding across Kentucky and Tennessee has claimed at least four lives as of June 28, with dozens of water rescues conducted and multiple bridges washed out. Active Flash Flood Warnings remain in effect across at least a dozen Kentucky counties \u2014 including Breckinridge, Grayson, Knox, Hart, McCreary, and Wayne \u2014 as well as Campbell, Scott, and Claiborne Counties in east Tennessee, with radar indicating 1\u20133 additional inches of rainfall possible in warned areas. The Ohio Valley flood crisis, ongoing since mid-June, is now entering a deadly new phase as saturated soils and swollen rivers leave communities with little capacity to absorb additional rainfall.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Kentucky hit by deadly flooding",
+          "url": "https://www.modernghana.com/amp/videonews/673363",
+          "source": "modernghana.com"
+        },
+        {
+          "title": "Flash flooding in Kentucky leaves one dead as state issues emergencies and evacuations",
+          "url": "https://nypost.com/2026/06/27/us-news/flash-flooding-in-kentucky-leaves-one-dead-as-state-issues-emergencies-and-evacuations/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "US Midwest Heat Dome Activates \u2014 Extreme Heat Warnings Issued from Kansas to Minnesota; Mid-Atlantic & East Next",
+      "location": "Iowa, Kansas, Missouri, Minnesota, Wisconsin, Illinois, New Jersey, Pennsylvania, USA",
+      "type": "weather",
+      "summary": "The dangerous heat dome that had been approaching is now fully activating: Extreme Heat Warnings are in effect starting Sunday afternoon through at least Thursday night across large portions of Iowa, Kansas, Missouri, Minnesota, and Wisconsin, with heat index values forecast to reach 105\u2013112\u00b0F. The NWS in Kansas City has issued an Extreme Heat Warning running through midnight Thursday, and Extreme Heat Watches have now been issued as far east as New Jersey and Pennsylvania \u2014 where heat index values could reach 110\u00b0F \u2014 through the July 4 holiday weekend, coinciding with 2026 FIFA World Cup knockout-round games being played in the region. Overnight lows in the mid-to-upper 70s will provide little relief, raising the risk of heat-related illness accumulation over multiple days.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "European Heatwave Surges East \u2014 Germany & Italy Records Fall, Autobahn Buckles",
+      "location": "Germany, Italy, France, Europe",
+      "type": "weather",
+      "summary": "The deadly Western European heat dome has expanded aggressively eastward, with Berlin recording 39.4\u00b0C on June 28 \u2014 among the highest temperatures observed this event \u2014 and sections of the German Autobahn forced to close after the pavement literally buckled and burst open from the extreme heat. The Guardian reports that records have tumbled across Germany and Italy, with the heatwave linked to dozens of deaths across western Europe; Paris still reached 31.7\u00b0C and London 24.4\u00b0C, suggesting some moderation in the westernmost nations while the heat core shifts east. A red alert has been issued over France with temperatures that may rewrite national record books.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "It's so hot in Germany the Autobahn literally burst open at the seams and had to be closed down",
+          "url": "https://fortune.com/2026/06/27/autobahn-heat-blow-up-germany-infrastructure-climate/",
+          "source": "fortune.com"
+        },
+        {
+          "title": "Germany and Italy swelter in heatwave as records tumble across Europe",
+          "url": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe",
+          "source": "www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "Cottonwood Fire Surpasses 92,000 Acres \u2014 Utah's Largest Active US Wildfire Battles Extreme Red Flag Conditions",
+      "location": "Iron, Beaver, Garfield, Piute, Washington Counties, Utah, USA",
+      "type": "wildfire",
+      "summary": "Utah's Cottonwood Fire has grown to more than 92,000 acres, cementing its status as the largest active wildfire in the United States, with over 180,000 total acres burned across Utah in 2026 making it a historically active fire year for the state. Firefighting crews are facing a severe challenge on June 28 as Red Flag Warnings persist across southern Utah, with southwest winds gusting to 40 mph and relative humidity values dropping as low as 5\u201310 percent across the Henry Mountains and Grand Staircase zones. The NWS Flagstaff office has additionally issued Red Flag Warnings with gusts of 45\u201355 mph and minimum humidity of 8\u201315% across all of northern and central Arizona, indicating the broader fire weather threat remains at a critical level across the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "M6.9 Earthquake Strikes Off Northern Japan \u2014 Structural Damage in Aomori, No Tsunami",
+      "location": "30 km ENE of Kuji, Iwate Prefecture, Japan",
+      "type": "earthquake",
+      "summary": "A magnitude 6.9 earthquake struck approximately 30 km off the northeast coast of Honshu, Japan at 22:30 UTC on June 24, at a depth of 51 km, triggering a USGS yellow alert level. No tsunami warning was issued by Japan's meteorological agency, but structural damage was reported \u2014 including a collapsed retaining wall in Hachinohe, Aomori Prefecture \u2014 and the quake was felt by at least 95 people across the region. The earthquake struck in one of Japan's most seismically active corridors, along the Pacific Ring of Fire off the Sanriku coast.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 6.9 quake strikes Japan's northeast, no tsunami warning",
+          "url": "https://www.reuters.com/business/environment/magnitude-69-earthquake-strikes-near-east-coast-honshu-japan-2026-06-24/",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "Powerful 6.9-magnitude earthquake strikes off northern Japan. No tsunami warning",
+          "url": "https://www.washingtonpost.com/world/2026/06/24/japan-earthquake-tsunami/df1db75a-701f-11f1-8730-e7fd0e2a6404_story.html",
+          "source": "www.washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.6 Earthquake Widely Felt Across Northern California \u2014 Over 5,200 Reports",
+      "location": "Redwood Valley, Mendocino County, California, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 5.6 earthquake struck 11 km north of Redwood Valley, California at a shallow depth of 8.85 km on June 24, generating an extraordinary 5,290 felt reports to the USGS \u2014 making it one of the most widely felt earthquakes in California in recent months. The USGS assigned a yellow alert level, and while no major structural damage has been confirmed, the shallow depth amplified shaking intensity across Mendocino, Lake, and surrounding counties. The earthquake occurred in the tectonically complex northern California Coast Ranges, a zone prone to moderate seismicity.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Earthquake rattles Northern California, magnitude measured at 5.6",
+          "url": "https://www.usatoday.com/story/news/nation/2026/06/24/earthquake-northern-california-magnitude/90676763007/",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "Maps: 5.6-Magnitude Earthquake Shakes Northern California",
+          "url": "https://www.nytimes.com/interactive/2026/06/24/us/quake-tracker-northern-california.html",
+          "source": "www.nytimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Venezuela Twin Earthquake Death Toll Continues to Rise \u2014 Search and Rescue Ongoing",
+      "location": "Yumare / Caracas Region, Venezuela",
+      "type": "earthquake",
+      "summary": "The devastating M7.5 and M7.2 twin earthquakes that struck the Yumare region of Venezuela on June 24 \u2014 the deadliest seismic event in Venezuela in over a century \u2014 continue to drive an active search-and-rescue operation, with the death toll still climbing as of June 28. Both USGS events carry red alert levels, indicating high expected casualties and damage, and the shallow depth of the primary shock (10 km) amplified ground shaking across a wide area including the capital Caracas, which recorded 609 felt reports. Ongoing aftershocks are complicating rescue efforts in a country with already-strained emergency infrastructure.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
