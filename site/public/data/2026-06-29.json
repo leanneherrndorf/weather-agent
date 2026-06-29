@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-29",
+  "headline": "Venezuela earthquake death toll nears 1,500 as US heat dome threatens record-breaking July 4th weekend across the entire eastern half of the country",
+  "overview": "Venezuela's twin M7.5/M7.2 earthquakes from June 24 have now claimed nearly 1,500 lives, making it one of the deadliest earthquake disasters in the Western Hemisphere in decades. Simultaneously, a sprawling US heat dome is intensifying and expanding eastward, with Extreme Heat Warnings active from the Midwest through the Deep South and Extreme Heat Watches now covering New York City, New England, and the Mid-Atlantic through the July 4th holiday weekend. Globally, Europe's deadly heatwave has surged into Eastern Europe, Utah's Cottonwood Fire continues its explosive growth amid persistent red flag conditions, and an extraordinary severe thunderstorm in South Dakota produced a verified 131 mph wind gust.",
+  "events": [
+    {
+      "title": "Venezuela Twin-Quake Death Toll Nears 1,500 \u2014 Deadliest Western Hemisphere Earthquake in Decades",
+      "location": "Yumare / Caracas Region, Venezuela",
+      "type": "earthquake",
+      "summary": "Twin earthquakes of M7.5 and M7.2 struck near Yumare, Venezuela on June 24, and the confirmed death toll has now climbed to nearly 1,500, according to NPR reporting dated June 28 \u2014 up dramatically from the 1,400+ figure reported just days earlier. Rescue teams racing against time described the scene as Venezuela's deadliest earthquake disaster in over a century, compounded by the country's weakened economy and strained healthcare system. Both quakes carry USGS red alert levels and were felt by hundreds of thousands across the country, with tens of thousands left homeless.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "\"If you are alive, make any noise\": Venezuela searches rubble on day four",
+          "url": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
+          "source": "www.npr.org"
+        },
+        {
+          "title": "Venezuela reels from earthquakes as rescuers scramble to find survivors",
+          "url": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
+          "source": "www.npr.org"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Expands to Entire Eastern Half \u2014 Record-Threatening Heat Through July 4th Weekend",
+      "location": "Midwest, Mid-Atlantic, Northeast, Deep South, USA",
+      "type": "weather",
+      "summary": "The ongoing US heat dome has dramatically escalated in scope, with Extreme Heat Warnings active from Kansas and Missouri through Illinois, Wisconsin, Indiana, Tennessee, and Cook County (Chicago), and heat index values reaching 105\u2013112\u00b0F across the region. Critically new today, Extreme Heat Watches have been issued stretching to New York City's five boroughs, all of New Jersey, Connecticut, Rhode Island, Massachusetts, Maine, and New Hampshire, with heat indices up to 111\u00b0F possible from Wednesday through Friday \u2014 encompassing the July 4th holiday weekend. CNN is forecasting this as a potentially record-setting heat event that will affect hundreds of millions of Americans.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "European Heatwave Surges into Eastern Europe \u2014 Drowning Deaths in France, New Records Falling",
+      "location": "Eastern Europe, France, Germany, Europe",
+      "type": "weather",
+      "summary": "The deadly European heatwave that broke records in Germany, France, and Italy has now surged eastward, with Insurance Journal reporting on June 29 that extreme heat is now gripping Eastern Europe following the western records. Al Jazeera reported approximately 20 drowning deaths in France as people sought relief in rivers and lakes during the peak of the heat, underscoring the event's direct human toll. The heatwave is among the most geographically expansive and deadly in recent European history.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Extreme Heat Grips Eastern Europe After Records Fall in Germany",
+          "url": "https://www.insurancejournal.com/news/international/2026/06/29/875602.htm",
+          "source": "www.insurancejournal.com"
+        },
+        {
+          "title": "About 20 drown in France trying to escape heatwave sweeping much of Europe",
+          "url": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "South Dakota Derecho Produces Extraordinary 131 mph Wind Gust \u2014 Life-Threatening Thunderstorm Outbreak",
+      "location": "Highmore / Central South Dakota, USA",
+      "type": "weather",
+      "summary": "A destructive severe thunderstorm outbreak swept across central South Dakota in the early morning hours of June 29, with a NOAA-verified public report of 131 mph wind gusts at Highmore \u2014 an exceptional measurement consistent with a significant derecho or tornado-strength wind event. NWS Aberdeen issued a Severe Thunderstorm Warning describing the storm as a 'life-threatening situation' with 100 mph wind gusts and two-inch hail, and a concurrent Severe Thunderstorm Watch covered 19 South Dakota counties and parts of Minnesota and North Dakota. Flooding was also reported in central South Dakota counties simultaneously, compounding the severe weather threat across the state.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Cottonwood Fire Continues Explosive Growth \u2014 Utah Wildfires Surpass 180,000 Total Acres",
+      "location": "Iron, Beaver, Garfield, Piute Counties, Utah, USA",
+      "type": "wildfire",
+      "summary": "The Cottonwood Fire, which had already exceeded 92,000 acres and earned the title of the largest active wildfire in the US, continues burning under relentless red flag conditions, with new NOAA Red Flag Warnings and Fire Weather Watches issued June 29 across Utah, Colorado, Wyoming, and New Mexico. KSL News is reporting that Utah wildfires in total have now burned over 180,000 acres in 2026, underscoring how severe the fire season has become. Sustained southwest winds of 20\u201330 mph with gusts to 50+ mph and relative humidity values as low as 5\u20138% are forecast to persist through Tuesday, meaning continued extreme fire spread potential.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Yellowstone's Biscuit Basin Suffers Second Hydrothermal Explosion \u2014 Ongoing Geothermal Unrest",
+      "location": "Yellowstone National Park, Wyoming, USA",
+      "type": "other",
+      "summary": "A second hydrothermal explosion struck Biscuit Basin in Yellowstone National Park on June 13 \u2014 repeating the same phenomenon that had already damaged that area previously \u2014 with USGS reporting the latest blast was smaller than the prior event but still notable. USA Today coverage as recently as June 24 highlights ongoing scientific attention to the unpredictable nature of Yellowstone's vast underground thermal system, with Biscuit Basin remaining closed to visitors. No volcanic eruption is indicated; USGS monitoring shows no changes in earthquake activity or ground deformation consistent with magma movement.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Another hydrothermal explosion has occurred at Yellowstone National Park",
+          "url": "https://www.yahoo.com/news/science/articles/another-hydrothermal-explosion-has-occurred-at-yellowstone-national-park-203013257.html",
+          "source": "www.yahoo.com"
+        }
+      ]
+    },
+    {
+      "title": "Kentucky & Tennessee Flooding Persists \u2014 Rivers Rising Again, Warnings Extended Through July",
+      "location": "Kentucky, Tennessee, Illinois, Indiana, USA",
+      "type": "weather",
+      "summary": "Flood Warnings across Kentucky, Illinois, and Indiana have been extended or newly issued as of June 29, with the Green River, Rolling Fork River, Rough River, and multiple Illinois River gauges still at or approaching flood stage \u2014 with some warnings running through July 6. The Patoka River near Princeton, Indiana, is forecast to reach moderate flooding and remain elevated through the Independence Day holiday weekend. While the initial death toll of at least 4 remains the last confirmed figure, active rescue operations and rising river levels indicate the crisis has not resolved.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Kentucky hit by deadly flooding",
+          "url": "https://www.modernghana.com/amp/videonews/673363",
+          "source": "www.modernghana.com"
+        }
+      ]
+    }
+  ]
+}
