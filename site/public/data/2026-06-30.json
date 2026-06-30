@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-30",
+  "headline": "Venezuela earthquake death toll closes in on 1,500 as a record-threatening US heat dome pushes into the Northeast and New England ahead of the July 4th weekend.",
+  "overview": "June 30 brings a convergence of escalating crises across multiple continents. Venezuela's catastrophic twin earthquakes from June 24 remain the week's deadliest disaster, with the death toll approaching 1,500 and rescue teams facing a closing survival window. Simultaneously, a historic heat dome continues its eastward march across the United States \u2014 now triggering Extreme Heat Warnings from Chicago to Boston and heat indices potentially reaching 115\u00b0F \u2014 while a parallel European heatwave has claimed an estimated 1,000 additional lives in France alone. In the American West, Utah's Cottonwood Fire nearly doubled overnight to exceed 180,000 total state acres burned under ongoing Red Flag conditions.",
+  "events": [
+    {
+      "title": "Venezuela Twin-Quake Death Toll Approaches 1,500 \u2014 Rescue Window Closing",
+      "location": "Yumare / Caracas Region, Venezuela",
+      "type": "earthquake",
+      "summary": "The M7.5 and M7.2 twin earthquakes that struck the Yumare region of Venezuela on June 24 have killed nearly 1,500 people, making this the deadliest Western Hemisphere earthquake disaster in over a century. Rescue teams are racing against a closing survival window as they continue sifting through rubble for survivors, while Venezuela's struggling economy and healthcare infrastructure compound the humanitarian crisis. The USGS assigned a red alert level to both quakes; over 663 felt reports were logged globally.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "\"If you are alive, make any noise\": Venezuela searches rubble on day four",
+          "url": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
+          "source": "www.npr.org"
+        },
+        {
+          "title": "Venezuela reels from earthquakes as rescuers scramble to find survivors",
+          "url": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
+          "source": "www.npr.org"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Reaches Northeast & New England \u2014 Heat Indices Up to 115\u00b0F Through July 4th",
+      "location": "Eastern United States (Midwest to New England)",
+      "type": "weather",
+      "summary": "The sprawling heat dome that began over the Midwest has now extended Extreme Heat Warnings across an enormous swath of the eastern United States, from Illinois and Indiana through Ohio, Kentucky, West Virginia, Pennsylvania, New Jersey, New York City, Connecticut, and Massachusetts, with the worst heat expected Wednesday through Friday. NWS offices are warning of heat index values ranging from 105\u00b0F to 115\u00b0F, with overnight lows remaining dangerously warm in the upper 70s to 80\u00b0F offering little recovery time. The event is expected to persist through the July 4th holiday weekend, posing extreme risk of heat illness for tens of millions of people.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "European Heatwave \u2014 France Reports ~1,000 Additional Deaths, Eastern Europe Under Code Red",
+      "location": "France, Romania, Eastern Europe",
+      "type": "weather",
+      "summary": "The European heatwave has intensified dramatically, with France now reporting approximately 1,000 additional heat-related deaths as temperatures surge across the continent. Romania's National Weather Service has issued code red extreme heat warnings for parts of the country, and the heat continues to push eastward into the Balkans and beyond. Weather data confirms Paris at 27.7\u00b0C and Berlin at 28.2\u00b0C on June 30, but interior regions of France and Eastern Europe are experiencing far more dangerous conditions with little relief overnight.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "France records around 1,000 additional deaths amid extreme heat wave leading to European records",
+          "url": "https://www.thesunchronicle.com/news/nation_world/france-records-around-1-000-additional-deaths-amid-extreme-heat-wave-leading-to-european-records/article_000b3fc5-56bf-5e40-a65e-807fb3708805.html",
+          "source": "www.thesunchronicle.com"
+        },
+        {
+          "title": "France records around 1,000 additional deaths as extreme heat sets European records",
+          "url": "https://www.bozemandailychronicle.com/ap_news/international/france-records-around-1-000-additional-deaths-as-extreme-heat-sets-european-records/article_82544faa-18e8-5d98-91ba-226b2c2fb53b.html",
+          "source": "www.bozemandailychronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Cottonwood Fire Surpasses 180,000 Total Utah Acres \u2014 Nearly Doubles Under Red Flag Conditions",
+      "location": "Iron, Beaver, Garfield, Piute Counties, Utah, USA",
+      "type": "wildfire",
+      "summary": "Utah's Cottonwood Fire has undergone explosive growth, with total statewide wildfire acreage surpassing 180,000 acres \u2014 nearly doubling from the 92,000-acre figure reported just days ago. The fire continues to burn under dangerous Red Flag Warning conditions across southern Utah, with NWS Salt Lake City and Grand Junction issuing additional Red Flag Warnings on June 30 for areas including the San Rafael Swell, Henry Mountains, and regions of Colorado, citing southwest winds gusting to 35 mph and relative humidity dropping as low as 8 percent. Crews remain on the fire lines battling explosive spread in extremely dry, wind-driven terrain.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "M6.5 Earthquake Strikes Southern Philippines \u2014 Aftershock Zone of Deadly June 8 M7.8",
+      "location": "Sarangani, Mindanao, Philippines",
+      "type": "earthquake",
+      "summary": "A magnitude 6.5 earthquake struck 34 km west-southwest of Sarangani in the southern Philippines on June 26, occurring near the same seismically active zone as the devastating M7.8 earthquake on June 8 that killed at least 61 people. The quake struck at a depth of 42 km and was felt by dozens of residents, though no tsunami alert was issued and USGS assigned a green alert level. The continued seismic activity in the region underscores the persistent tectonic stress along the Philippine Trench fault system.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 6.5 earthquake strikes off southern Philippines near site of June 8 major quake",
+          "url": "https://www.foxweather.com/weather-news/magnitude-6-5-earthquake-strikes-coast-southern-philippines",
+          "source": "www.foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Kentucky & Tennessee Flooding Extends Through July \u2014 Rivers Rising Again Across Ohio Valley",
+      "location": "Kentucky, Tennessee, Illinois, Indiana, USA",
+      "type": "weather",
+      "summary": "Flood Warnings remain active across an extensive multi-state region including Kentucky, Tennessee, Illinois, and Indiana, with multiple rivers \u2014 including the Green River, Rough River, Rolling Fork, Wabash River, White River, and Illinois River \u2014 in various stages of flood through as late as July 8. The Green River at Rochester is forecast to rise again into flood stage beginning Thursday due to combined heavy rainfall and upstream dam releases at Nolin River Lake, extending the flood threat well into the holiday weekend. This ongoing event follows the deadly June 28 flooding that claimed at least four lives and destroyed bridges.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Kentucky hit by deadly flooding",
+          "url": "https://www.modernghana.com/amp/videonews/673363",
+          "source": "www.modernghana.com"
+        }
+      ]
+    },
+    {
+      "title": "Glacier National Park Region Flash Flooding \u2014 Multiple Flood Warnings Across Northwest Montana",
+      "location": "Glacier, Flathead, Lake, Pondera Counties, Montana, USA",
+      "type": "weather",
+      "summary": "A multi-day heavy rainfall and snowmelt event has triggered multiple concurrent Flood Warnings across northwest Montana, including areas in and around Glacier National Park. The NWS has issued Flood Warnings covering Swiftcurrent Creek near Many Glacier, the Jordan River in Antrim and Charlevoix counties, and stream flooding in the Flathead/Mission Valleys, with a Flood Watch remaining in effect for the West Glacier region through the overnight hours. Streams and creeks in Glacier National Park continue to rise due to excess runoff from ongoing rainfall on a still-snowpack-heavy mountain landscape.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
