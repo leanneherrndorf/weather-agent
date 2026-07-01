@@ -1,0 +1,126 @@
+{
+  "date": "2026-07-01",
+  "headline": "Catastrophic US Heat Dome Blankets Nearly Every Eastern State on July 4th Holiday Week as Heat Indices Reach 115\u00b0F",
+  "overview": "A historic and sprawling heat dome continues to intensify across the eastern two-thirds of the United States, with Extreme Heat Warnings now in effect from Maine to Alabama and heat indices approaching 115\u00b0F \u2014 among the most geographically extensive heat emergencies on NWS record. Simultaneously, Venezuela's twin-earthquake disaster enters its second week with rescue efforts increasingly described as faltering, a parallel European heatwave is overwhelming Paris mortuaries, and a deadly new wildfire crisis has erupted on the Colorado-Utah border, claiming three firefighters' lives. Globally, a significant M6.9 earthquake struck northern Japan and India has recorded its driest June in over a decade, deepening a monsoon-season agricultural crisis.",
+  "events": [
+    {
+      "title": "US Heat Dome \u2014 Extreme Heat Warnings Span Maine to Alabama, Heat Indices to 115\u00b0F",
+      "location": "Eastern United States (Midwest to New England)",
+      "type": "weather",
+      "summary": "NWS Extreme Heat Warnings are active across an extraordinary swath of the country on July 1, covering all or parts of at least 20 states from Alabama, Tennessee, and Mississippi northward through the Ohio Valley, Mid-Atlantic, and into New England \u2014 including New York City (heat index up to 110\u00b0F) and southern Connecticut/New Jersey (up to 115\u00b0F). Forecasters describe a rare 'double heat dome' configuration locking dangerous heat and humidity in place through the July 4th weekend, with overnight temperatures barely falling below the upper 70s, providing little recovery time. Heat-related illness risks are described as extreme, with cooling centers activated across the region and health officials urging vulnerable populations to seek air conditioning.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Venezuela Twin-Quake Rescue Effort Falters \u2014 Death Toll Exceeds 1,430",
+      "location": "Yumare / La Guaira / Caracas Region, Venezuela",
+      "type": "earthquake",
+      "summary": "A week after the catastrophic M7.5 and M7.2 earthquake doublet struck northern Venezuela on June 24, rescue operations are now being described as critically stalled, with new reporting on July 1 highlighting stalled cranes, overwhelmed crews, and families turning to social media to find missing loved ones. The confirmed death toll has exceeded 1,430, with thousands still unaccounted for, and the biological rescue window has effectively closed, transitioning operations toward recovery. Both earthquakes remain on the USGS 'red' alert level, reflecting their extraordinary destructive impact on densely populated coastal and mountain communities.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Spotless uniforms, stalled cranes: Inside Venezuela's faltering quake rescue effort",
+          "url": "https://www.chicagotribune.com/2026/07/01/venezuela-quake-rescue-effort/",
+          "source": "www.chicagotribune.com"
+        }
+      ]
+    },
+    {
+      "title": "European Heatwave \u2014 Paris Mortuaries Overwhelmed, Records Falling Across Continent",
+      "location": "France, Romania, Eastern Europe",
+      "type": "weather",
+      "summary": "The European heatwave has intensified to the point that Paris mortuaries are overwhelmed and families are experiencing distress accessing remains, as preliminary estimates from French public health authorities confirm roughly 1,000 additional heat-related deaths. New temperature records are being set across Germany and Eastern Europe, with Code Red alerts still in effect across much of the continent as the heat stretches into a second week. The AP reports that the scale of this event is drawing comparisons to the deadly 2003 European heatwave that killed tens of thousands.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
+          "url": "https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9",
+          "source": "apnews.com"
+        },
+        {
+          "title": "France records around 1,000 additional deaths amid extreme heat wave leading to European records",
+          "url": "https://apnews.com/article/europe-heat-temperature-records-france-deaths-germany-61f444317600cf1bd9af5af84cb582bd",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Colorado-Utah Wildfires Claim 3 Firefighter Lives \u2014 Over 95,000 Colorado Acres Burned",
+      "location": "Colorado-Utah Border Region, USA",
+      "type": "wildfire",
+      "summary": "A rapidly expanding wildfire crisis on the Colorado-Utah border has claimed the lives of three firefighters (the Knowles and Gore fire complex), with two others injured \u2014 marking the most deadly single day for wildfire crews in the US so far in 2026. Separate blazes in Colorado have now consumed more than 95,000 acres as of July 1, and NWS has issued Red Flag Warnings and Fire Weather Watches across broad areas of Colorado, with relative humidity as low as 5 percent and gusts up to 35 mph. The fires are spreading in the same extreme fire-weather regime driving the ongoing Cottonwood Fire in southern Utah.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
+          "url": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
+          "source": "www.npr.org"
+        },
+        {
+          "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
+          "url": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
+          "source": "www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.9 Earthquake Strikes Northern Japan \u2014 Structural Damage in Aomori",
+      "location": "Near Kuji, Iwate / Aomori Prefecture, Japan",
+      "type": "earthquake",
+      "summary": "A magnitude 6.9 earthquake struck 30 km off the northeast coast of Honshu near Kuji, Iwate Prefecture, on June 24 at 22:30 UTC, at a depth of 51 km. Japan's meteorological agency issued no tsunami warning, but structural damage was reported including a collapsed retaining wall in Hachinohe, Aomori Prefecture, and at least 95 felt reports were submitted to USGS. The USGS assigned a 'yellow' alert level, indicating localized impact; Japan's seismically resilient building codes likely limited casualties, though full damage assessments are still being compiled.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 6.9 quake strikes Japan's northeast, no tsunami warning",
+          "url": "https://www.reuters.com/business/environment/magnitude-69-earthquake-strikes-near-east-coast-honshu-japan-2026-06-24/",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "Powerful 6.9-magnitude earthquake strikes off northern Japan. No tsunami warning",
+          "url": "https://www.washingtonpost.com/world/2026/06/24/japan-earthquake-tsunami/df1db75a-701f-11f1-8730-e7fd0e2a6404_story.html",
+          "source": "www.washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "title": "Ohio Valley & Midwest River Flooding Escalates \u2014 Patoka River Upgraded to Major",
+      "location": "Indiana, Illinois, Kentucky, USA",
+      "type": "weather",
+      "summary": "Flood warnings remain in effect across a wide corridor of the Ohio Valley and Midwest as of July 1, with new escalation: the Patoka River near Princeton, Indiana has been upgraded from moderate to major flooding, with a forecast crest of 23.6 feet expected overnight. The Illinois River system remains in flood stage at multiple gauge points through at least July 6\u20137, and Flood Warnings are active on rivers across Illinois, Indiana, Kentucky, and into Louisiana and Mississippi. The persistence of this flooding event \u2014 now entering its second week \u2014 is compounding with the extreme heat dome, creating dangerous conditions for recovery workers and affected communities.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flash flooding in Kentucky leaves one dead as state issues emergencies and evacuations",
+          "url": "https://nypost.com/2026/06/27/us-news/flash-flooding-in-kentucky-leaves-one-dead-as-state-issues-emergencies-and-evacuations/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "India Records Driest June in Over a Decade \u2014 Monsoon Failure Threatens Agriculture",
+      "location": "India (Nationwide)",
+      "type": "weather",
+      "summary": "India has recorded its driest June in 12 years and the fifth-driest since nationwide rainfall records began in 1901, according to new data reported by the BBC and AP, as the monsoon's delayed and below-average arrival has triggered widespread water shortages in cities and deep uncertainty for the country's farming sector. The shortfall is particularly acute in states reliant on the June monsoon onset for kharif crop planting, and experts warn of cascading food security impacts if July rainfall does not recover significantly. Weather data confirms Mumbai received 96.3 mm of precipitation on July 1 \u2014 a sign the monsoon has finally begun arriving on the west coast \u2014 but vast interior regions remain critically dry.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Farming worries after India records driest June in over a decade",
+          "url": "https://www.bbc.com/news/articles/c5yzk5rqyr4o",
+          "source": "www.bbc.com"
+        },
+        {
+          "title": "Delayed rains bring water shortages to cities and uncertainty to farms across India",
+          "url": "https://www.greenwichtime.com/news/world/article/delayed-rains-bring-water-shortages-to-cities-and-22321543.php",
+          "source": "www.greenwichtime.com"
+        }
+      ]
+    }
+  ]
+}
