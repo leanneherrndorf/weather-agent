@@ -325,7 +325,7 @@ def run_agent() -> dict:
     while True:
         response = client.messages.create(
             model="claude-sonnet-4-6",
-            max_tokens=3500,
+            max_tokens=7000,
             system=[{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}],
             tools=TOOLS,
             messages=messages,
@@ -348,6 +348,12 @@ def run_agent() -> dict:
                         if start != -1 and end > start:
                             return json.loads(text[start:end])
             raise ValueError("Agent returned no parseable JSON.")
+
+        if response.stop_reason == "max_tokens":
+            raise ValueError(
+                "Agent hit max_tokens before completing the response. "
+                "Consider reducing the number of events or news articles."
+            )
 
         if response.stop_reason != "tool_use":
             raise ValueError(f"Unexpected stop reason: {response.stop_reason}")
