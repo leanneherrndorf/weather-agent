@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-02",
+  "headline": "Taal Volcano Erupts in Philippines as US Heat Dome Expands to Full Eastern Seaboard With Heat Indices to 115\u00b0F",
+  "overview": "The most dramatic new development on July 2 is Taal Volcano in the Philippines erupting with ash plumes reaching 4,000 feet above the crater in three successive explosive pulses. Simultaneously, the multi-day US heat dome has significantly escalated, now blanketing the entire Eastern Seaboard from Alabama through New England and New York City \u2014 with Extreme Heat Warnings active across more than 30 states through at least July 4. In Europe, the continent's deadly heatwave persists, while India's historic monsoon failure and multiple ongoing US flood and wildfire crises compound a highly active global natural hazard picture.",
+  "events": [
+    {
+      "title": "US Heat Dome Surges to Full Eastern Seaboard \u2014 Heat Indices to 115\u00b0F Through July 4",
+      "location": "Eastern & Midwestern United States",
+      "type": "weather",
+      "summary": "The US heat dome has significantly expanded beyond its prior footprint, now triggering Extreme Heat Warnings across more than 30 states \u2014 from Alabama, Tennessee, and Georgia in the south through Indiana, Ohio, Michigan, Illinois, Missouri, and Kansas in the Midwest, all the way to New York City, New Jersey, Pennsylvania, Maryland, Virginia, and New England, with warnings extending through Saturday July 4. Heat index values of 105\u2013115\u00b0F are forecast across the region, with New York's measured maximum already at 39.5\u00b0C (103\u00b0F), and NWS offices from Boston to Huntsville issuing back-to-back-to-back Extreme Heat Warnings with little overnight relief. A USA Today report notes nearly 500 New Yorkers die prematurely from heat annually, and the current multi-day event significantly elevates that risk across tens of millions of people.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Taal Volcano Erupts \u2014 Ash Plumes Reach 4,000 Feet Over Luzon, Philippines",
+      "location": "Taal, Batangas Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Taal Volcano, one of the Philippines' most active and historically dangerous volcanoes, erupted on July 1 with three successive explosive pulses that sent dark ash and steam plumes approximately 4,000 feet (1,220 meters) into the sky over roughly four and a half minutes. Taal sits within a lake on Luzon island and is surrounded by densely populated communities, making any eruption of elevated intensity a serious concern for ashfall, aviation disruption, and potential escalation. PHIVOLCS monitors the volcano continuously; no tsunami alert was issued, but authorities were assessing the situation for further escalation.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Taal Volcano erupts, sending ash plumes 4,000 feet into the sky",
+          "url": "https://www.cnn.com/2026/07/01/weather/video/taal-volcano-erupts-sending-ash-plumes-4-000-feet-into-the-sky-weather-vrtc",
+          "source": "www.cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "European Heatwave \u2014 Record Temperatures Persist, Death Toll Mounts Across Continent",
+      "location": "France, Romania, Eastern Europe",
+      "type": "weather",
+      "summary": "Europe's historic heatwave continues into July, with France having logged approximately 1,000 additional heat-related deaths in a single reporting period and extreme heat code-red warnings remaining in effect across Romania and parts of Eastern Europe. While Paris temperatures appear to have moderated slightly to around 23\u201324\u00b0C as of July 2, the cumulative toll on public health infrastructure \u2014 mortuaries, emergency services, and cooling centers \u2014 remains severe. The event is trending internationally, drawing comparisons to Europe's catastrophic 2003 heatwave.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "France records around 1,000 additional deaths amid extreme heat wave leading to European records",
+          "url": "https://apnews.com/article/europe-heat-temperature-records-france-deaths-germany-61f444317600cf1bd9af5af84cb582bd",
+          "source": "apnews.com"
+        },
+        {
+          "title": "France records around 1,000 additional deaths amid extreme heat wave leading to European records",
+          "url": "https://www.bozemandailychronicle.com/ap_news/international/france-records-around-1-000-additional-deaths-amid-extreme-heat-wave-leading-to-european-records/article_82544faa-18e8-5d98-91ba-226b2c2fb53b.html",
+          "source": "www.bozemandailychronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Patoka River at Princeton Crests Near Record \u2014 Major Flooding Continues in Indiana",
+      "location": "Gibson County (Princeton), Indiana, USA",
+      "type": "weather",
+      "summary": "The Patoka River near Princeton, Indiana has reached major flood stage with a forecast crest of 23.8 feet \u2014 higher than the April 2025 event and only about one foot below the all-time flood of record set in May 2011. NWS Paducah has extended the Flood Warning through July 8, indicating that significant inundation of roads, farmland, and low-lying structures in Gibson County will persist well into next week. The event represents a notable escalation within the broader Ohio Valley flooding complex, which continues to affect river systems across Illinois, Indiana, and Kentucky.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Colorado-Utah Wildfires \u2014 Renewed Red Flag Warnings, Humidity as Low as 4%",
+      "location": "Colorado-Utah Border Region, USA",
+      "type": "wildfire",
+      "summary": "Multiple Red Flag Warnings remain active across Colorado's wildfire zones on July 2, with relative humidity plunging as low as 4\u20137% and southwest winds gusting to 30\u201335 mph across the Colorado River Headwaters, Paradox Valley, Gunnison Basin, and the Front Range, creating conditions NWS describes as favorable for rapid, potentially uncontrollable fire spread. Utah Governor Spencer Cox has declared a state of emergency and banned fireworks statewide through July 5 as the Cottonwood Fire and associated blazes \u2014 which had already burned over 180,000 acres in Utah and more than 95,000 acres in Colorado as of July 1 \u2014 face another dangerous weather window just days before Independence Day. Satellite imagery has captured wildfire smoke plumes visible from space, underscoring the scale of the ongoing fire season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Utah governor orders ban on fireworks as wildfires rage across state",
+          "url": "https://www.theguardian.com/us-news/2026/jun/26/utah-governor-fireworks-wildfires",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "Wildfires cast a shadow over Utah's Fourth of July as fireworks are restricted and communities mourn treasured places",
+          "url": "https://www.cnn.com/2026/06/27/us/utah-fourth-of-july-fireworks-fire",
+          "source": "www.cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "India's Driest June in 12 Years \u2014 Monsoon Failure Deepens Agricultural Crisis",
+      "location": "India (Nationwide)",
+      "type": "weather",
+      "summary": "India recorded its driest June in 12 years and the fifth-driest since nationwide rainfall records began in 1901, according to data cited by the BBC, with the delayed monsoon causing widespread water shortages in cities and severe uncertainty for farmers ahead of the critical Kharif planting season. Below-average rainfall has persisted into early July, and with rice, pulses, and oilseed crops dependent on adequate monsoon onset, agricultural economists are warning of potential food security implications if the pattern does not reverse in the coming weeks. The crisis is most acute in rain-dependent interior states that lack irrigation infrastructure.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Farming worries after India records driest June in over a decade",
+          "url": "https://www.bbc.com/news/articles/c5yzk5rqyr4o",
+          "source": "www.bbc.com"
+        },
+        {
+          "title": "Delayed rains bring water shortages to cities and uncertainty to farms across India",
+          "url": "https://www.greenwichtime.com/news/world/article/delayed-rains-bring-water-shortages-to-cities-and-22321543.php",
+          "source": "www.greenwichtime.com"
+        }
+      ]
+    },
+    {
+      "title": "Venezuela Twin-Quake Recovery \u2014 Frustration Grows as Death Toll Holds at 1,430+",
+      "location": "Yumare / La Guaira / Caracas Region, Venezuela",
+      "type": "earthquake",
+      "summary": "Recovery operations in Venezuela continue following the devastating twin earthquakes that struck the Yumare and La Guaira/Caracas region in late June, with the confirmed death toll holding above 1,430 and frustration reportedly mounting among residents over the pace and coordination of rescue and relief efforts. The window for finding survivors in rubble has effectively closed, shifting operations from rescue to recovery and body retrieval in collapsed structures. International attention and aid flows are ongoing, though Venezuela's pre-existing economic crisis complicates large-scale relief coordination.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Frustration grows in Venezuela as earthquake death toll reaches 1,430",
+          "url": "https://www.thesunchronicle.com/news/nation_world/frustration-grows-in-venezuela-as-earthquake-death-toll-reaches-1-430/article_0260b080-7bc4-5d9d-9414-cff229c951ab.html",
+          "source": "www.thesunchronicle.com"
+        }
+      ]
+    }
+  ]
+}
