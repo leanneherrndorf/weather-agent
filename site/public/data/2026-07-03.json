@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-03",
+  "headline": "Typhoon Bavi Rapidly Intensifies Toward Guam as Super Typhoon \u2014 US Heat Dome Peaks Over 30 States on July 4 Eve",
+  "overview": "A rapidly intensifying Typhoon Bavi is bearing down on Guam and the US Northern Mariana Islands with potential super typhoon conditions expected by the weekend, prompting Typhoon Watches and Flood Watches across the island chain. Simultaneously, the multi-day US heat dome reaches its most dangerous phase across roughly 30 states on July 4 eve, with heat indices topping 115\u00b0F and flash floods striking Iowa and the Midwest overnight. In Europe, the record heatwave has sparked wildfires in southwestern France, forcing nearly 3,000 evacuations, while earthquake aftershocks continue rattling the southern Philippines.",
+  "events": [
+    {
+      "title": "Typhoon Bavi Rapidly Intensifies Toward Guam \u2014 Super Typhoon Conditions Possible",
+      "location": "Guam & US Northern Mariana Islands (Saipan, Tinian, Rota), Western Pacific",
+      "type": "weather",
+      "summary": "Typhoon Bavi (09W) is undergoing rapid intensification in the western Pacific and has prompted Typhoon Watches for Guam, Saipan, Tinian, and Rota, with NWS Tiyan warning of sustained winds near 150 knots and gusts to 180 knots \u2014 super typhoon threshold. Seas of up to 45 feet and 6\u201312 inches of rainfall are forecast across the Marianas, with a Flood Watch in effect through Tuesday night. Residents across Guam and the CNMI are urged to complete preparations immediately as Bavi is forecast to pass over or very near the island chain this weekend.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "A super typhoon could hit Guam, US Northern Mariana Islands",
+          "url": "https://weather.com/2026/07/01/storms/hurricane/super-typhoon-bavi-northern-marianas-guam-forecast",
+          "source": "weather.com"
+        },
+        {
+          "title": "Typhoon-battered U.S. Northern Mariana Islands brace for a potential super typhoon",
+          "url": "https://yaleclimateconnections.org/2026/07/typhoon-battered-u-s-northern-mariana-islands-brace-for-a-potential-super-typhoon/",
+          "source": "yaleclimateconnections.org"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Peaks \u2014 30+ States Under Extreme Heat Warnings on July 4 Eve",
+      "location": "Eastern, Central & Midwestern United States",
+      "type": "weather",
+      "summary": "The expansive heat dome reaches its most dangerous phase on July 3\u20134, with Extreme Heat Warnings blanketing a corridor from Maine and Vermont south through the Carolinas and west through Missouri, Kansas, Indiana, and Kentucky \u2014 heat indices between 105\u00b0F and 115\u00b0F are forecast across dozens of counties. Weather data shows New York City recording a maximum of 40.4\u00b0C (104.7\u00b0F), and NWS offices from Boston to Nashville have issued back-to-back Extreme Heat Warnings extending through Independence Day. Overnight lows remaining in the 70s and 80s offer little relief, dramatically increasing heat illness risk across a heavily populated region on a major holiday weekend.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "France Wildfires Erupt Amid Record Heatwave \u2014 Nearly 3,000 Evacuated",
+      "location": "Southwestern France / Europe",
+      "type": "wildfire",
+      "summary": "The ongoing European heatwave has ignited wildfires across southwestern France, with nearly 3,000 people evacuated as fires spread rapidly through a campsite and surrounding areas under record temperatures. AP News reports France recorded approximately 1,000 additional heat-related deaths as the broader European heat event continues to set records, compounding the public health and fire emergency. The dual crisis of extreme heat and active wildfires marks a significant escalation from prior days and echoes the catastrophic 2022 European fire season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfires sweep across France \u2013 in pictures",
+          "url": "https://www.theguardian.com/world/gallery/2026/jul/03/wildfires-sweep-across-france-in-pictures",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "France records around 1,000 additional deaths amid extreme heat wave leading to European records",
+          "url": "https://apnews.com/article/europe-heat-temperature-records-france-deaths-germany-61f444317600cf1bd9af5af84cb582bd",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Severe Flash Flooding Strikes Iowa and Upper Midwest Overnight",
+      "location": "Iowa, Nebraska, Illinois, Wisconsin, USA",
+      "type": "weather",
+      "summary": "A line of severe thunderstorms dropped 4\u20138 inches of rain across central Iowa overnight July 2\u20133, triggering multiple Flash Flood Warnings from NWS Des Moines \u2014 including reports of 6\u201312 inches of water on Interstate 35 northbound near Ankeny. The flooding has spread across a wide corridor, with Flash Flood Warnings issued simultaneously across Iowa, Nebraska, and South Dakota counties, and Flood Watches extended through northeastern Iowa and the Upper Mississippi watershed into the weekend as the Cedar River system threatens renewed crests. This represents a significant escalation from the prior Patoka River flooding event, as a new and separate flash flood emergency has developed in the Des Moines metro area and across multiple Upper Midwest river systems.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Colorado-Utah-Washington Wildfire Threat Expands \u2014 Red Flag and Fire Weather Watches Active",
+      "location": "Colorado, Utah, Washington State, USA",
+      "type": "wildfire",
+      "summary": "Red Flag Warnings remain active across southwestern Colorado on July 3, with relative humidity as low as 5% and winds gusting to 30 mph \u2014 conditions favorable for extreme fire behavior in a region already scorched by the ongoing Cottonwood Fire complex. New Fire Weather Watches have been issued by NWS Spokane for Saturday in the Okanogan Valley, Waterville Plateau, Colville Reservation, and Western Columbia Basin of Washington state, with gusts to 35 mph and humidities of 12\u201320%, significantly expanding the wildfire threat geography ahead of the Independence Day holiday weekend. Utah's governor has already restricted fireworks statewide through July 5 as the region's largest wildfire remains uncontained.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Utah governor restricts fireworks as largest U.S. wildfire surges uncontained",
+          "url": "https://www.latimes.com/world-nation/story/2026-06-26/utah-governor-restricts-fireworks-as-largest-u-s-wildfire-surges-uncontained",
+          "source": "www.latimes.com"
+        },
+        {
+          "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
+          "url": "https://www.tspr.org/npr-news/2026-06-27/critical-fire-weather-complicates-firefighting-efforts-in-massive-utah-wildfire",
+          "source": "www.tspr.org"
+        }
+      ]
+    },
+    {
+      "title": "M6.5 Earthquake Strikes Southern Philippines \u2014 Aftershock of Deadly June 8 M7.8",
+      "location": "Sarangani, Mindanao, Philippines",
+      "type": "earthquake",
+      "summary": "A magnitude 6.5 earthquake struck 34 km west-southwest of Sarangani in the southern Philippines on June 26, according to USGS data, occurring in the same seismically active region as the devastating M7.8 earthquake of June 8 that killed at least 61 people. The quake reached a depth of 42 km and was felt by dozens of people, though no tsunami alert was issued and the USGS assessed an overall green alert level. The continued seismic activity in Mindanao underscores the ongoing instability of the fault system and raises concern for communities still recovering from the prior major event.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 6.5 earthquake strikes off southern Philippines near site of June 8 major quake",
+          "url": "https://www.foxweather.com/weather-news/magnitude-6-5-earthquake-strikes-coast-southern-philippines",
+          "source": "www.foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Beijing Bakes Near 40\u00b0C as Northern China Heat Intensifies",
+      "location": "Beijing, China",
+      "type": "weather",
+      "summary": "Weather data shows Beijing reaching a maximum temperature of 39.8\u00b0C (103.6\u00b0F) on July 3, with a minimum of 25.7\u00b0C, reflecting an intense heat pulse across northern China that parallels the historic European and North American heat events of this week. While data coverage for China's interior is limited, the Beijing reading represents a significant heat anomaly for the city in early July, and media reporting notes China's domestic reaction to the European heatwave has gone viral, suggesting widespread public awareness of the global heat pattern. This event warrants monitoring as the heat pulse may be affecting broader swaths of the North China Plain.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Europe's heat wave, China's reaction",
+          "url": "https://www.cnn.com/2026/07/01/weather/video/europes-heat-wave-chinas-reaction-digvid-vrtc",
+          "source": "www.cnn.com"
+        }
+      ]
+    }
+  ]
+}
