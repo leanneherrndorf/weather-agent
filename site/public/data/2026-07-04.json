@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-04",
+  "headline": "Category 5 Super Typhoon Bavi Locks On to Guam and the Marianas \u2014 Direct Strike Expected Monday as Tens of Millions Swelter Across US, Europe, and Asia on Independence Day",
+  "overview": "Super Typhoon Bavi has intensified to Category 5 strength with 150-knot sustained winds and is on a direct course for Guam and the US Northern Mariana Islands, with a Typhoon Warning now in effect for the entire island chain. Simultaneously, a massive heat dome smothers the eastern United States on July 4 \u2014 with heat indices reaching 115\u00b0F in Washington DC and Extreme Heat Warnings covering New York City's five boroughs \u2014 while Europe's deadly heatwave drives wildfires across both France and Spain. Dangerous flash flooding continues to expand across Iowa and the central Midwest, and a newly issued Extreme Heat Watch in Phoenix forecasts temperatures up to 116\u00b0F by midweek.",
+  "events": [
+    {
+      "title": "Category 5 Super Typhoon Bavi \u2014 Direct Strike on Guam and Marianas Imminent",
+      "location": "Guam, Saipan, Tinian, Rota \u2014 US Territories, Western Pacific",
+      "type": "weather",
+      "summary": "Super Typhoon Bavi has reached Category 5 intensity with sustained winds of 150 knots (173 mph) and gusts to 180 knots (207 mph), and a full Typhoon Warning is now in effect for all of Guam and the Northern Mariana Islands. The National Weather Service in Tiyan is forecasting destructive typhoon-force winds beginning late Sunday and peak super typhoon conditions passing through the southern Marianas early Monday morning, making it one of the most dangerous typhoon direct strikes on a US territory in recent years. A concurrent Flood Watch covers the entire island chain through Tuesday night as catastrophic wind, surge, and rainfall impacts are expected.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "A super typhoon could hit Guam, US Northern Mariana Islands - The Weather Channel",
+          "url": "https://weather.com/2026/07/01/storms/hurricane/super-typhoon-bavi-northern-marianas-guam-forecast",
+          "source": "weather.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Peaks on Independence Day \u2014 DC to 115\u00b0F Heat Index, NYC Under Extreme Heat Warning",
+      "location": "Eastern, Mid-Atlantic & Central United States",
+      "type": "weather",
+      "summary": "The multi-week US heat dome reaches a dangerous apex on July 4, with the National Weather Service issuing Extreme Heat Warnings across virtually the entire eastern seaboard \u2014 including all five boroughs of New York City (heat index up to 107\u00b0F) and the Washington DC metro area (heat index 110\u2013115\u00b0F) \u2014 as millions gather for outdoor Independence Day celebrations. Weather data confirms New York City hit a high of 37\u00b0C (98.6\u00b0F) while heat indices in Virginia, North Carolina, Maryland, Pennsylvania, New Jersey, Delaware, Ohio, Kentucky, Missouri, and Illinois ranged from 105\u00b0F to 113\u00b0F. The combination of extreme heat, high outdoor crowds, and overnight lows remaining in the mid-70s to near-80\u00b0F \u2014 offering no nighttime relief \u2014 significantly amplifies the health risk for the holiday.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Iowa Flash Flooding Escalates \u2014 I-35 Closed, 4\u20136.5 Inches of Rain Overnight, Expanding Into Indiana and Illinois",
+      "location": "Iowa, Indiana, Illinois, Wisconsin, USA",
+      "type": "weather",
+      "summary": "A new and severe round of flash flooding struck central Iowa overnight into July 4, with 4 to 6.5 inches of rain falling across the Ames and Des Moines area, prompting life-threatening Flash Flood Warnings across at least seven counties and forcing the closure of Interstate 35 between Ankeny and Elkhart. Flood Warnings now extend into northern Indiana (Elkhart, Kosciusko, St. Joseph, Marshall counties) and the Chicago metro area (Cook and Will counties, IL), while river flood warnings along the Illinois River near Beardstown are forecast to persist through July 10. The ongoing Iowa flood emergency is compounded by extensive Flood Watches remaining in effect across more than 30 Iowa counties through the weekend.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Iowa weather: Flooding closes I-35 from Ankeny to Elkhart - KCCI",
+          "url": "https://www.kcci.com/article/iowa-weather-flooding-closes-interstate-35-from-ankeny-to-elkhart/71816224",
+          "source": "www.kcci.com"
+        },
+        {
+          "title": "PHOTOS: Heavy rains cause damage, flooding in Central Iowa - WHO13.com",
+          "url": "https://who13.com/photo-galleries/photos-heavy-rains-cause-damage-flooding-in-central-iowa/",
+          "source": "who13.com"
+        }
+      ]
+    },
+    {
+      "title": "European Heatwave Drives Wildfires Across France and Spain \u2014 2,000 Deaths Attributed to Scorching June",
+      "location": "Southwestern France and Spain / Europe",
+      "type": "wildfire",
+      "summary": "Wildfires are now burning simultaneously across southwestern France and Spain as a renewed heatwave threatens temperatures of 44\u00b0C (111\u00b0F) in the coming days, with Spanish and French authorities issuing fresh heat warnings just days after a scorching June that has been attributed to approximately 2,000 deaths across the two countries. The French fires, which began at a campsite in the southwest, have forced the evacuation of nearly 3,000 people, while the wildfires have now expanded into Spain under the same extreme heat and drought conditions that have baked the Iberian Peninsula. The broader European heatwave context \u2014 with Romania and Eastern Europe also affected \u2014 makes this one of the most significant multi-country natural disaster episodes on the continent this summer.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfires rage in parts of France and Spain after record heatwave \u2013 video - The Guardian",
+          "url": "https://www.theguardian.com/world/video/2026/jul/03/wildfires-parts-france-spain-record-heatwave-video",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "Spain and France face more heat after scorching June caused 2,000 deaths - The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/jul/02/spain-france-new-heatwave-warning",
+          "source": "www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "Pacific Northwest on Fire Watch \u2014 Red Flag Warnings Blanket Washington and Oregon on July 4 Fireworks Holiday",
+      "location": "Washington State and Oregon, USA",
+      "type": "wildfire",
+      "summary": "Red Flag Warnings are in effect across a broad swath of central and eastern Washington state \u2014 including the Colville Reservation, Okanogan Valley, Methow Valley, Waterville Plateau, and Western Columbia Basin \u2014 as well as the Lower Columbia Basin of Oregon, with relative humidity dropping to as low as 13\u201323% and wind gusts reaching 35 mph. The warnings are particularly concerning on July 4, when private fireworks use historically ignites dozens of wildland fires; Washington state fire officials note that last year alone, 79 wildland fire starts were directly attributed to private fireworks in the state. Washington is already in a years-long drought following a hot and dry June, creating near-ideal ignition conditions throughout the holiday weekend.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mumbai Records 130mm of Rain in a Day as India's Long-Awaited Monsoon Arrives with Force",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "weather",
+      "summary": "After India recorded its driest June in 12 years \u2014 its fifth-driest on record since 1901 \u2014 the monsoon appears to have arrived with a dramatic surge, with Mumbai logging 130.1mm of rainfall in a single day on July 4, a total that can cause significant urban flooding in one of the world's most densely populated coastal cities. The abrupt shift from extreme drought to intense rainfall creates compounding risks: soil that has hardened during weeks of drought is less able to absorb heavy rain, increasing runoff, flash flood potential, and the risk of landslides in hilly terrain. The monsoon's delayed arrival had already triggered agricultural crisis warnings across multiple Indian states, and the intensity of its onset will be closely watched as a bellwether for the season's overall trajectory.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Farming worries after India records driest June in over a decade - BBC",
+          "url": "https://www.bbc.com/news/articles/c5yzk5rqyr4o",
+          "source": "www.bbc.com"
+        }
+      ]
+    },
+    {
+      "title": "Phoenix Extreme Heat Watch Issued \u2014 Temperatures of 111\u2013116\u00b0F Forecast for Tuesday Through Thursday",
+      "location": "Phoenix Metro Area and Southwest Arizona / Southeast California, USA",
+      "type": "weather",
+      "summary": "The National Weather Service in Phoenix has issued an Extreme Heat Watch for the Phoenix metropolitan area and surrounding desert valleys \u2014 including Buckeye, Scottsdale, Mesa, and the Southeast Valley \u2014 valid from Tuesday morning through Thursday evening, with afternoon temperatures forecast between 111\u00b0F and 116\u00b0F and a \"Major Heat Risk\" designation. The watch also covers a wider swath of south-central Arizona and portions of southeast California, with temperatures of 108\u2013117\u00b0F possible across the Yuma area, Parker Valley, and Imperial Valley. This emerging southwest heat event is separate from and additive to the ongoing eastern US heat dome, pointing to a near-nationwide heat emergency persisting well beyond the July 4 holiday.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
