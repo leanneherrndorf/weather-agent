@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-05",
+  "headline": "Category 4 Typhoon Bavi Bears Down on Guam and the Marianas with 140-Knot Winds as Landfall Approaches Monday",
+  "overview": "Super Typhoon Bavi, now at Category 4 intensity with 140-knot sustained winds, is hours from making landfall on Guam and the Northern Mariana Islands, prompting Typhoon Warnings and Coastal Flood Warnings across all four islands. Simultaneously, a new fast-moving wildfire southwest of Denver has destroyed over 160 structures and become one of Colorado's largest on record, while Taal Volcano in the Philippines erupted this week with explosive ash plumes. In the United States, the deadly heat dome has claimed more than 20 lives and the Midwest flood zone has now expanded into the Chicago metro area and the Northeast.",
+  "events": [
+    {
+      "title": "Category 4 Typhoon Bavi Strikes Guam and Marianas \u2014 Landfall Imminent Monday",
+      "location": "Guam, Saipan, Tinian, Rota \u2014 US Territories, Western Pacific",
+      "type": "weather",
+      "summary": "Typhoon Bavi, which reached Category 5 super typhoon intensity earlier in the week, has slightly weakened to a very dangerous Category 4 storm but remains on a direct course for Guam and the Northern Mariana Islands, with landfall expected early Monday local time. NWS Tiyan has issued Typhoon Warnings for all four major islands, with sustained winds near 140 knots (161 mph) and gusts to 170 knots, along with a Coastal Flood Warning through Wednesday and a High Surf Warning through Thursday for waves of 25\u201335 feet. Residents have been urged to shelter in place as destructive typhoon-force winds, catastrophic storm surge, and widespread flooding are expected across the archipelago.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "A super typhoon could hit Guam, US Northern Mariana Islands",
+          "url": "https://weather.com/2026/07/01/storms/hurricane/super-typhoon-bavi-northern-marianas-guam-forecast",
+          "source": "weather.com"
+        }
+      ]
+    },
+    {
+      "title": "Colorado's Aspen Acres Wildfire Explodes to 17 Square Miles \u2014 160+ Structures Destroyed",
+      "location": "Southern Colorado, USA",
+      "type": "wildfire",
+      "summary": "The Aspen Acres Fire southwest of Denver has rapidly grown to more than 17 square miles overnight, destroying over 160 structures and forcing thousands of residents into emergency evacuations, making it one of the ninth-largest wildfires in Colorado history. The blaze is burning amid erratic winds and extreme dry heat, and is part of a broader outbreak of roughly 40 active wildfires burning across the western United States. Red Flag Warnings remain in effect across parts of Oregon and the broader Pacific Northwest, where abundant dry lightning is expected to spark additional ignitions.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Aspen Acres fire races across 17 square miles overnight, now 9th largest in Colorado history",
+          "url": "https://www.denverpost.com/2026/07/03/colorado-wildfires-aspen-acres-largest-evacuations/",
+          "source": "www.denverpost.com"
+        },
+        {
+          "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+          "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "Taal Volcano Erupts in the Philippines \u2014 Ash Plumes Reach 4,000 Feet",
+      "location": "Taal, Batangas Province, Philippines",
+      "type": "volcano",
+      "summary": "Taal Volcano in the Philippines erupted on July 1, producing three explosive pulses over four and a half minutes and sending dark ash and steam plumes approximately 4,000 feet into the sky. The eruption comes at an already-tense time for the Philippines, which is still recovering from the devastating M7.8 earthquake that struck Mindanao on June 8. PHIVOLCS has been monitoring Taal closely as one of the country's most active and dangerous volcanoes, situated on an island within a lake and close to populated areas south of Manila.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Taal Volcano erupts, sending ash plumes 4,000 feet into the sky",
+          "url": "https://www.cnn.com/2026/07/01/weather/video/taal-volcano-erupts-sending-ash-plumes-4-000-feet-into-the-sky-weather-vrtc",
+          "source": "www.cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Claims 20+ Lives \u2014 Deadly Heat Now Shifting South and West",
+      "location": "Eastern, Central & Southwestern United States",
+      "type": "weather",
+      "summary": "The multi-day heat dome that gripped more than 30 states has now been linked to over 20 heat-related deaths across the country, according to NBC News, with temperatures reaching dangerous heat index values from the Mid-Atlantic through the Midwest over the Independence Day holiday. As the dome begins shifting south and west, Extreme Heat Watches are in effect through July 9 for the Phoenix metro area (forecast highs of 111\u2013116\u00b0F) and surrounding portions of southwest Arizona and southeast California (109\u2013117\u00b0F), including the Grand Canyon's lower elevations where Phantom Ranch may reach 113\u00b0F through July 11. Weather data confirms New York City reached 30.6\u00b0C (87\u00b0F) with no rainfall, while Delhi recorded 37.6\u00b0C, reflecting the broad geographic reach of dangerous summer heat.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Midwest Flooding Spreads Into Chicago Metro and Northeast \u2014 Wapsipinicon River Nears Record",
+      "location": "Iowa, Illinois, Indiana, New York, New Jersey, Connecticut, Pennsylvania, USA",
+      "type": "weather",
+      "summary": "The flood disaster that began in Iowa and the upper Midwest has significantly expanded, with active Flood Warnings now covering Cook, DuPage, Kane, Will, and La Salle counties in northeastern Illinois \u2014 including the Chicago suburbs \u2014 as well as northwestern Indiana, while the Wapsipinicon River near De Witt, Iowa is forecast to approach its all-time flood of record. Concurrently, a broad new Flood Watch has been issued stretching from New Jersey and Delaware through southeastern New York, Connecticut, and Pennsylvania, where multiple rounds of heavy rain through Monday night are expected to cause flash flooding in urban and river-adjacent areas. The Patoka River in Gibson County, Indiana remains in major flood stage, cresting near 24 feet \u2014 the second-highest level on record.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "European Heatwave and Wildfires Continue Across France and Spain",
+      "location": "Southwestern France and Spain / Europe",
+      "type": "wildfire",
+      "summary": "France and Spain continue to battle both extreme heat and active wildfires following a June heatwave that has already been attributed to approximately 2,000 deaths, with meteorologists warning that temperatures could again approach 44\u00b0C (111\u00b0F) in the coming days. Numerous wildfires ignited by the record-breaking dry heat are burning across southwestern France and Spain, with The Guardian reporting thousands of evacuations and dramatic fire imagery. Weather data shows Paris at 29.7\u00b0C with no rainfall, consistent with the ongoing heat pattern gripping Western Europe.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Spain and France face more heat after scorching June caused 2,000 deaths",
+          "url": "https://www.theguardian.com/environment/2026/jul/02/spain-france-new-heatwave-warning",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "Wildfires rage in parts of France and Spain after record heatwave \u2013 video",
+          "url": "https://www.theguardian.com/world/video/2026/jul/03/wildfires-parts-france-spain-record-heatwave-video",
+          "source": "www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.3 Earthquake Near Dunhuang, China \u2014 USGS Issues Yellow Alert",
+      "location": "Dunhuang Region, Gansu Province, China",
+      "type": "earthquake",
+      "summary": "A magnitude 5.3 earthquake struck approximately 265 km south-southeast of Dunhuang in China's Gansu Province on June 30 at a shallow depth of 10 km, prompting a USGS yellow alert level indicating a moderate risk of casualties or damage. The shallow focal depth increases shaking intensity at the surface, though the remote desert location of the epicenter likely limits population exposure. No tsunami alert was issued, and the USGS has not reported a higher-level escalation; this is the most significant seismic event globally in the past seven days per USGS data, reflecting a relatively quiet week for major earthquakes.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
