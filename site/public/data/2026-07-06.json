@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-06",
+  "headline": "Category 5 Super Typhoon Bavi Makes Catastrophic Landfall Across Guam and the Marianas with 166 mph Winds and 20-Foot Waves",
+  "overview": "Super Typhoon Bavi, now a peak Category 5 storm, struck the US territory of Guam and the Northern Mariana Islands on July 6, delivering catastrophic winds, dangerous storm surge, and 20-foot coastal waves. Simultaneously, a fresh round of Extreme Heat Warnings blanketed the US Southwest through Thursday as Phoenix braced for 116\u00b0F, while persistent and expanding flooding continued across a broad swath of the Midwest, Mid-Atlantic, and Northeast. New wildfires erupted near Thessaloniki, Greece and in Portugal, adding to a growing European fire crisis that has already forced thousands of evacuations in southwestern France.",
+  "events": [
+    {
+      "title": "Category 5 Super Typhoon Bavi Makes Catastrophic Landfall on Guam and Marianas",
+      "location": "Guam, Rota, Tinian, Saipan \u2014 US Territories, Western Pacific",
+      "type": "weather",
+      "summary": "Super Typhoon Bavi, which rapidly intensified over the weekend to a peak Category 5 storm with sustained winds of 166 mph and gusts to 200 mph, struck Guam and the Northern Mariana Islands on July 6 \u2014 marking the third Category 5 event of 2026. NWS Tiyan issued active Typhoon Warnings and Coastal Flood Warnings for all four islands, with dangerously large breaking waves up to 20 feet in the surf zone, significant coastal flooding, and wind gusts exceeding 100 knots reported in coastal waters. Flood Watches remain in effect through late Tuesday night as the storm exits westward through Rota.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "A super typhoon could hit Guam, US Northern Mariana Islands",
+          "url": "https://weather.com/2026/07/01/storms/hurricane/super-typhoon-bavi-northern-marianas-guam-forecast",
+          "source": "weather.com"
+        }
+      ]
+    },
+    {
+      "title": "US Southwest Extreme Heat Intensifies \u2014 Phoenix to Hit 116\u00b0F, Warnings Through Thursday",
+      "location": "Phoenix Metro, Tucson, Coachella Valley, Southwest Arizona and Southeast California, USA",
+      "type": "weather",
+      "summary": "NWS offices in Phoenix, Tucson, and San Diego issued overlapping Extreme Heat Warnings active from Tuesday July 7 through Thursday July 9, covering metropolitan Phoenix (111\u2013116\u00b0F expected), Tucson and western Pima County (107\u2013111\u00b0F), the Coachella Valley (115\u00b0F), and San Diego County deserts (up to 117\u00b0F) \u2014 one of the broadest simultaneous extreme heat alert footprints in recent years. The warnings cite a major heat risk with significantly elevated danger of heat cramps, exhaustion, and heat stroke, compounding an already deadly multi-week US heat event that has claimed 20 or more lives. Power grid stress across the Southwest is a growing concern as the heat peak arrives midweek.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Colorado Aspen Acres Wildfire Explodes Past 127,000 Acres \u2014 Firefighters Killed",
+      "location": "Southern Colorado, USA",
+      "type": "wildfire",
+      "summary": "Colorado's Aspen Acres Fire has grown dramatically to at least 127,000 acres \u2014 a massive escalation from the 17 square miles (roughly 11,000 acres) reported just 24 hours earlier \u2014 making it the state's largest active fire, with over 300 firefighters on the line. NPR reported that firefighters have been killed battling the blaze, and incoming thunderstorms with high winds are expected to hamper containment efforts and potentially spread the fire further. More than 160 structures have already been destroyed and evacuation orders remain in place across affected communities.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Colorado's wildfires scorch 127,000 acres as critical fire danger persists",
+          "url": "https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/",
+          "source": "coloradosun.com"
+        },
+        {
+          "title": "Thunderstorms, heat and wind will hamper efforts to contain Colorado wildfires",
+          "url": "https://www.npr.org/2026/07/05/nx-s1-5883052/colorado-wildfires-thunderstorms-firefighters-killed",
+          "source": "www.npr.org"
+        }
+      ]
+    },
+    {
+      "title": "Midwest and Mid-Atlantic Flooding Expands \u2014 Illinois River Warning Extended to July 12, Flash Flood Watches Cover 12+ States",
+      "location": "Iowa, Illinois, Indiana, Ohio, Pennsylvania, New Jersey, New York, Connecticut, Maryland, Virginia, Wisconsin, USA",
+      "type": "weather",
+      "summary": "Active Flood Warnings on the Illinois River were extended through July 12 at multiple gauge points as floodwaters from last week's historic rainfall pulse downstream through central and lower Illinois. Flash Flood Watches and Warnings were also active on July 6 across northeastern Ohio, western Pennsylvania, New Jersey, Connecticut, New York's Hudson Valley, Maryland, Washington D.C., and coastal Virginia, indicating that a slow-moving frontal zone combined with a tropical air mass is generating repeated rounds of heavy rainfall across the region. The Patoka River in Indiana remains at major flood stage and the Wapsipinicon River in Iowa continues at near-record levels.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "New Wildfires Strike Thessaloniki, Greece and Portugal \u2014 Evacuations, Toxic Smoke",
+      "location": "Thessaloniki, Greece and Vouzela Region, Portugal",
+      "type": "wildfire",
+      "summary": "A fast-moving wildfire erupted on the outskirts of Thessaloniki, Greece's second-largest city, on July 4\u20135, prompting evacuations of suburban neighborhoods and warnings from authorities about toxic smoke blanketing the metro area. Simultaneously, hundreds of firefighters were deployed to battle a separate major wildfire in the Vouzela area of Portugal, with both countries facing extreme fire weather conditions driven by the broader European heatwave. The dual-nation outbreak \u2014 occurring alongside continuing fires in southwestern France \u2014 underscores the scale of the 2026 European summer fire crisis.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "A fast-moving wildfire near Greece's Thessaloniki sparks evacuations as smoke blankets suburbs",
+          "url": "https://apnews.com/article/thessaloniki-suburbs-wildfire-businesses-damage-smoke-f2e971b7605a26205dbc20535c3a2ad7",
+          "source": "apnews.com"
+        },
+        {
+          "title": "Hundreds of firefighters battle a wildfire in Portugal, while Greek authorities warn of toxic smoke",
+          "url": "https://www.washingtonpost.com/world/2026/07/05/greece-portugal-wildfire-vouzela-thessaloniki/0bfbc4ce-786d-11f1-b194-f872dd4ec5aa_story.html",
+          "source": "www.washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "title": "Thousands Evacuated in Southwest France as Wildfires Continue to Burn",
+      "location": "Southwestern France, Europe",
+      "type": "wildfire",
+      "summary": "Thousands of residents have been evacuated from their homes in southwestern France as wildfires continue to burn amid record-breaking heatwave conditions, according to Reuters reporting on July 6. The Guardian documented that nearly 3,000 people had already been evacuated as fires spread through campsites and rural communities in the region. France's fire crisis is part of a wider European conflagration that now encompasses simultaneous major fires in Portugal, Greece, and Spain.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Thousands evacuated from homes in southwest France as wildfire burns",
+          "url": "https://www.reuters.com/business/environment/thousands-evacuated-homes-southwest-france-wildfire-burns-2026-07-06/",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "Wildfires sweep across France \u2014 in pictures",
+          "url": "https://www.theguardian.com/world/gallery/2026/jul/03/wildfires-sweep-across-france-in-pictures",
+          "source": "www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "Taal Volcano Remains on Alert \u2014 Ash Eruptions Continue in Philippines",
+      "location": "Taal, Batangas Province, Philippines",
+      "type": "volcano",
+      "summary": "Taal Volcano continued to show eruptive activity following its initial phreatic eruption on July 1, which sent ash plumes 4,000 feet into the sky in three explosive pulses lasting over four minutes. CNN footage confirmed dark ash and steam bursting from the Philippine volcano, and ongoing monitoring remains in place. No significant escalation has been confirmed in data as of July 6, but the volcano remains a concern for communities in Batangas Province and air traffic in the region.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Taal Volcano erupts, sending ash plumes 4,000 feet into the sky",
+          "url": "https://www.cnn.com/2026/07/01/weather/video/taal-volcano-erupts-sending-ash-plumes-4-000-feet-into-the-sky-weather-vrtc",
+          "source": "www.cnn.com"
+        }
+      ]
+    }
+  ]
+}
