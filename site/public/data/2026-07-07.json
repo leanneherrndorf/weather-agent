@@ -1,0 +1,99 @@
+{
+  "date": "2026-07-07",
+  "headline": "Mount Etna Issues Red Alert on 9th Eruption Day as Catania Airport Closes; Multiple Crises Span Three Continents",
+  "overview": "Mount Etna entered a red alert phase on its ninth consecutive day of eruption July 7, closing Catania Airport and disrupting air travel across Sicily. Simultaneously, a dangerous third European heatwave pushed Paris to 34\u00b0C and London to 31\u00b0C, fanning wildfires from Portugal to Greece, while in the United States, the Southwest broiled under 116\u00b0F heat, the Midwest and mid-Atlantic flood crisis expanded into West Virginia and Virginia, and the Colorado Aspen Acres wildfire continued its destructive run past 127,000 acres. Super Typhoon Bavi, which made catastrophic landfall on Guam and the Marianas as a Category 5 storm, is now in the post-landfall damage assessment and recovery phase.",
+  "events": [
+    {
+      "title": "Mount Etna Red Alert \u2014 9th Day of Eruption Closes Catania Airport",
+      "location": "Mount Etna, Sicily, Italy",
+      "type": "volcano",
+      "summary": "Mount Etna, Europe's most active volcano, continued erupting for its ninth consecutive day on July 7, prompting Italy's Department of Civil Protection to issue a red alert \u2014 its highest level. Massive ash plumes blanketed eastern Sicily, forcing the temporary closure of Catania Airport and diverting flights to Palermo. The eruption has caused widespread travel disruption across the central Mediterranean region.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Huge ash plumes spew from Mount Etna as eruption persists",
+          "url": "https://www.skynews.com.au/world-news/global-affairs/huge-ash-plumes-spew-from-mount-etna-as-eruption-persists/video/1b1d3fcf9346d80f9b77e4788887da77",
+          "source": "www.skynews.com.au"
+        },
+        {
+          "title": "Mount Etna eruption disrupts Sicily flights for Israelis",
+          "url": "https://www.ynetnews.com/travel/article/bkotnx5qml",
+          "source": "www.ynetnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Europe's Third Summer Heatwave Drives Paris to 34\u00b0C, London to 31\u00b0C \u2014 Wildfire Danger Surges",
+      "location": "Western Europe (France, UK, Iberian Peninsula)",
+      "type": "weather",
+      "summary": "Western Europe is gripped by its third major heatwave of the summer as of July 7, with Paris reaching 34.3\u00b0C and London hitting 31.3\u00b0C \u2014 well above seasonal norms \u2014 while the Insurance Journal reports that the heat is fueling dangerous wildfire conditions and straining power grids across the region. The heat is compounding ongoing wildfire emergencies in southwestern France, Greece, and Portugal, which have burned tens of thousands of hectares and forced mass evacuations over the past several days. Forecasters warn the extreme heat pattern is likely to persist for weeks, threatening further fire outbreaks and heat-related casualties.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Europe Faces Weeks of Extreme Heat as Fire and Power Risks Build",
+          "url": "https://www.insurancejournal.com/news/international/2026/07/06/876291.htm",
+          "source": "www.insurancejournal.com"
+        }
+      ]
+    },
+    {
+      "title": "Super Typhoon Bavi \u2014 Post-Landfall Recovery Underway in Guam and Marianas",
+      "location": "Guam, Rota, Tinian, Saipan \u2014 US Territories, Western Pacific",
+      "type": "weather",
+      "summary": "Super Typhoon Bavi, which made catastrophic landfall on Guam and the Northern Mariana Islands as a Category 5 storm with sustained winds of 166 mph and gusts to 200 mph, has now moved beyond the island chain and damage assessment and recovery operations are underway. The storm was one of the strongest Pacific typhoons of 2026 and is expected to have caused widespread structural destruction, power outages, and flooding across the affected US territories. Federal emergency response efforts are ongoing, though data on the full extent of casualties and damage remain sparse at this time.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi",
+          "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
+          "source": "www.npr.org"
+        }
+      ]
+    },
+    {
+      "title": "US Southwest Extreme Heat Persists \u2014 Phoenix 111\u2013116\u00b0F, Warnings Extended Through Thursday",
+      "location": "Phoenix Metro, Tucson, Coachella Valley, Southwest Arizona and Southeast California, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings remain in effect through July 9 across the US Southwest, with NWS issuing warnings for Phoenix (111\u2013116\u00b0F), the Coachella Valley (up to 116\u00b0F), San Diego County deserts (up to 117\u00b0F), and Tucson (107\u2013111\u00b0F). The Grand Canyon's lower elevations face an Extreme Heat Warning extended all the way through July 11, with Phantom Ranch expected to hit 111\u2013114\u00b0F. Heat-related illness risks are described by NWS as a major health threat, especially for outdoor workers, tourists, and those without cooling access.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Colorado Aspen Acres Wildfire Exceeds 127,000 Acres \u2014 Fatalities, Structures Destroyed",
+      "location": "Southern Colorado, USA",
+      "type": "wildfire",
+      "summary": "The Aspen Acres Fire in southern Colorado continues to be one of the most destructive wildfires in the state's recorded history, having grown past 127,000 acres with more than 160 structures destroyed and firefighters killed in the line of duty. The fire, which surged through late June and early July amid extreme heat and drought, ranks among the largest fires by acreage in Colorado history. Containment remains limited and evacuation orders remain in place for communities in the affected region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Satellite Images Show Colorado Fire As New Evacuations Ordered",
+          "url": "https://www.newsweek.com/satellite-images-show-colorado-fire-as-new-evacuations-ordered-12160867",
+          "source": "www.newsweek.com"
+        }
+      ]
+    },
+    {
+      "title": "Flood Crisis Expands Into West Virginia and Virginia \u2014 Flash Flood Warnings Issued Early July 7",
+      "location": "West Virginia, Virginia, and Mid-Atlantic, USA",
+      "type": "weather",
+      "summary": "The long-running central US flood emergency expanded into new territory overnight July 6\u20137, with NWS Charleston issuing multiple Flash Flood Warnings for West Virginia counties including Barbour, Harrison, Lewis, Randolph, Upshur, Braxton, and Webster, as 1.5 to 3 inches of rain fell rapidly from severe thunderstorms. Flood Watches were simultaneously active across large swaths of Virginia \u2014 including the Washington DC suburbs of Prince William and Fauquier counties \u2014 and extended Flood Warnings continue along the Illinois River through July 12 and the Wapsipinicon River in Iowa through July 12. The multi-state flooding crisis, now stretching from Iowa and Illinois through the Mid-Atlantic, has persisted for over a week.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Red Flag Warnings Blanket Pacific Northwest and Alaska \u2014 Critical Wildfire Conditions Across Multiple States",
+      "location": "Washington State, Oregon, Idaho, and Interior Alaska, USA",
+      "type": "wildfire",
+      "summary": "NWS issued concurrent Red Flag Warnings on July 7 spanning central and eastern Washington (Okanogan Valley, Methow Valley, Waterville Plateau, Columbia Basin, Cascade Foothills), the lower Columbia Basin of Oregon, southern Idaho (Caribou Range, Raft River Valley), and Alaska's Interior Seward Peninsula and Middle Yukon Valley, where temperatures in the upper 70s and humidity as low as 30% coincide with scattered dry thunderstorms. A Newsweek report confirms more than 51 large fires are burning across over half a million US acres as of early this week, with active blazes in Alaska, Washington, Idaho, and several other western states. A dry cold front moving through Washington Tuesday night is expected to bring gusty, shifting winds that could rapidly spread new ignitions.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
