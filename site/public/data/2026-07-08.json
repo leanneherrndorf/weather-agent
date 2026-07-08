@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-08",
+  "headline": "Extreme Heat Warnings Expand to US Southeast as Heat Index Hits 116\u00b0F \u2014 Colorado Wildfire Burn Scar Now Threatens Debris Flows",
+  "overview": "A dangerous multi-hazard heat emergency engulfs large portions of the United States on July 8, with Extreme Heat Warnings now stretching from the Desert Southwest through the Carolinas and coastal Georgia, where heat indices are forecast to reach 112\u2013116\u00b0F. In southern Colorado, the catastrophic Aspen Acres wildfire has spawned a secondary crisis as Flash Flood Watches warn of debris flows over the scorched burn scar. Meanwhile, widespread flooding persists across the Midwest and Great Plains, Southern European wildfires continue to rage under a prolonged heatwave, and K\u012blauea volcano on Hawai'i shows renewed inflation signaling potential re-eruption.",
+  "events": [
+    {
+      "title": "Extreme Heat Warnings Surge Into US Southeast \u2014 Heat Index to 116\u00b0F in Carolinas and Georgia",
+      "location": "Coastal Georgia, Southeast South Carolina, Southeast North Carolina, USA",
+      "type": "weather",
+      "summary": "The National Weather Service issued Extreme Heat Warnings on July 8 for coastal southeast Georgia, southeast South Carolina, and southeast North Carolina, with heat index values forecast to reach 112\u2013116\u00b0F \u2014 a significant geographic expansion of the heat emergency beyond the Southwest. NWS Charleston warned of heat indices between 112 and 116\u00b0F for the coastal Georgia and South Carolina zones, while NWS Wilmington issued warnings for portions of the Carolinas with indices up to 113\u00b0F. The combination of high temperatures and extreme humidity dramatically amplifies the life-threatening risk, particularly for outdoor workers and those without air conditioning.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Colorado Aspen Acres Wildfire Spawns Secondary Debris Flow Crisis \u2014 Flash Flood Watch Over Burn Scar",
+      "location": "Southern Colorado (Wet Mountains, Pueblo County), USA",
+      "type": "wildfire",
+      "summary": "The Aspen Acres Fire \u2014 already exceeding 127,000 acres with confirmed fatalities and dozens of structures destroyed \u2014 has generated a dangerous secondary hazard as NWS Pueblo issued a Flash Flood Watch for the burn scar area through Wednesday evening. Heavy rainfall falling on the denuded, hydrophobic soil of the burned landscape is expected to trigger rapid debris flows and flash flooding, threatening communities in Pueblo County and the Wet Mountains that were not directly impacted by the fire itself. This compound disaster scenario significantly complicates evacuation and recovery operations and places an entirely new population at imminent risk.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Aspen Acres Fire continues to burn unchecked in southern Colorado",
+          "url": "https://www.cbsnews.com/colorado/video/aspen-acres-fire-continues-to-burn-unchecked-in-southern-colorado/",
+          "source": "www.cbsnews.com"
+        },
+        {
+          "title": "Satellite Images Show Colorado Fire As New Evacuations Ordered",
+          "url": "https://www.newsweek.com/satellite-images-show-colorado-fire-as-new-evacuations-ordered-12160867",
+          "source": "www.newsweek.com"
+        }
+      ]
+    },
+    {
+      "title": "US Southwest Extreme Heat Persists \u2014 Phoenix to 115\u00b0F, Warnings Extended Through Thursday",
+      "location": "Phoenix Metro, Tucson, Coachella Valley, Yuma, Southwest Arizona and Southeast California, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings remain in effect across the Desert Southwest through 8 PM MST/PDT Thursday, with afternoon temperatures forecast between 109\u00b0F and 117\u00b0F across portions of Arizona and southeast California. NWS Phoenix warned of conditions between 111\u2013115\u00b0F for the greater Phoenix metro area and up to 117\u00b0F in the Yuma, Coachella Valley, and San Diego County desert zones, while NWS Tucson maintained warnings for Pima County and the Tohono O'odham Nation. The Grand Canyon's lower elevations remain under a separate Extreme Heat Warning through Saturday \u2014 one of the longest-duration heat alerts on record for that area \u2014 as the anomalous heat dome shows no signs of retreating.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Los Angeles Heat Builds Ahead of Hot Spell Across US Southwest",
+          "url": "https://www.insurancejournal.com/news/west/2026/07/08/876533.htm",
+          "source": "www.insurancejournal.com"
+        }
+      ]
+    },
+    {
+      "title": "Midwest and Great Plains Flooding Expands \u2014 South Dakota Flash Floods Strike Aberdeen Overnight",
+      "location": "South Dakota, Minnesota, Iowa, Illinois, Indiana, USA",
+      "type": "weather",
+      "summary": "Overnight thunderstorms on July 7\u20138 dumped 2\u20134 inches of rain on northeastern South Dakota, triggering Flash Flood Warnings across Brown, Day, Marshall, Codington, Grant, and Roberts counties, with vehicles stalled in the city of Aberdeen. Flood Watches simultaneously covered central and west-central Minnesota as slow-moving thunderstorms tracked east through the overnight hours, with localized rainfall of up to 4 inches possible. The Illinois River Flood Warning \u2014 covering counties from LaSalle south through Valley City and extended to at least July 12 \u2014 continues, while the Patoka River in Indiana is approaching record flood levels, illustrating the vast geographic scale of the ongoing Midwest flood crisis.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Weekend storms inundate Northwest Indiana with water",
+          "url": "https://www.chicagotribune.com/2026/07/06/weekend-storms-inundate-northwest-indiana-with-water/",
+          "source": "www.chicagotribune.com"
+        }
+      ]
+    },
+    {
+      "title": "Southern Europe Heatwave and Wildfires Continue \u2014 France, Greece, Portugal Under Siege",
+      "location": "France, Greece, Portugal, Spain \u2014 Southern and Western Europe",
+      "type": "weather",
+      "summary": "Western Europe's third major heatwave of summer 2026 continues to fuel dangerous wildfire conditions and strain power infrastructure across multiple countries, with thousands of residents evacuated from their homes in southwestern France, Greece, and Portugal. The Guardian reported that wildfires raging across southern Europe have forced mass evacuations, with Tour de France spectator bans enacted in fire-affected areas of France, while Insurance Journal noted that the heatwave is fueling 'powder keg' fire conditions across France, Spain, Portugal, and Greece. Weather data confirms Paris at 33.8\u00b0C and London at 31.6\u00b0C today, maintaining the dangerous anomaly driving wildfire risk.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
+          "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "Europe Faces Weeks of Extreme Heat as Fire and Power Risks Build",
+          "url": "https://www.insurancejournal.com/news/international/2026/07/06/876291.htm",
+          "source": "www.insurancejournal.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Volcano Inflation Builds After Eruption Pause \u2014 Re-Eruption Possible",
+      "location": "K\u012blauea Summit, Hawai\u02bbi Volcanoes National Park, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "The USGS Hawaiian Volcano Observatory reports that the ongoing eruption at K\u012blauea's summit has entered a pause phase, with the Volcano Alert Level held at ADVISORY as ground inflation continues to build. Sustained inflation at the summit indicates that magma is accumulating in the shallow reservoir system beneath the caldera, a recognized precursor to renewed eruptive activity. USGS scientists are monitoring the situation closely, and a return to active lava effusion within the summit crater remains possible in the near term.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "K\u012blauea Volcano Update for Sunday, July 5th",
+          "url": "https://www.bigislandvideonews.com/2026/07/05/kilauea-volcano-update-for-sunday-july-5th/",
+          "source": "www.bigislandvideonews.com"
+        }
+      ]
+    },
+    {
+      "title": "M3.8 Earthquake Near Oak Harbor, Washington \u2014 Over 2,000 Reports of Shaking",
+      "location": "Oak Harbor, Washington State, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 3.8 earthquake struck 2 km east of Oak Harbor, Washington on July 2 at 06:35 UTC, at a depth of 25 km, generating an unusually high 2,027 felt reports submitted to the USGS \u2014 reflecting the dense population of Whidbey Island and surrounding Puget Sound communities. No tsunami alert was issued and no significant structural damage has been reported, consistent with the moderate magnitude, though the extensive felt reports underscore the earthquake's broad reach across the greater Seattle metropolitan area. USGS assigned no formal impact alert level, but the event stands as the most significant seismic activity recorded in the region in the past seven days.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
