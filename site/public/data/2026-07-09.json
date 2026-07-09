@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-09",
+  "headline": "Venezuela earthquake death toll surpasses 3,500 as US braces for a second lethal heat dome targeting the Northern Plains and Rockies this weekend",
+  "overview": "The ongoing humanitarian crisis from Venezuela's June 24 twin earthquakes continues to dominate global attention with more than 3,500 confirmed dead and survivors still being pulled from rubble over two weeks later. Across the United States, a sprawling multi-hazard emergency persists: extreme heat warnings remain in effect from the Desert Southwest to the Southeast coast, a fresh and potentially record-breaking heat dome is building toward Montana, North Dakota, and the northern Rockies for the weekend, and a broad flood threat is expanding from the Ohio Valley into the Mid-Atlantic. In Europe and Asia, Mount Etna's prolonged eruption continues disrupting Sicilian aviation, while India's monsoon has delivered exceptional rainfall to Delhi and surrounding regions.",
+  "events": [
+    {
+      "title": "Venezuela Twin Earthquake Aftermath \u2014 Death Toll Tops 3,500, Survivor Rescued After 8 Days",
+      "location": "Venezuela",
+      "type": "earthquake",
+      "summary": "The catastrophic June 24 twin earthquakes that struck Venezuela within seconds of each other have now killed at least 3,535 people, injured 16,740, and left nearly 18,000 without housing, according to the latest official tally. Rescue teams continued working through rubble this week, including pulling a security guard alive from a building basement eight days after the quakes. The disaster has drawn international humanitarian response efforts, with aid shipments and rescue teams arriving from multiple countries.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Death toll from Venezuela quakes rises to 3,535 as thousands remain displaced",
+          "url": "https://www.jpost.com/international/article-901661",
+          "source": "www.jpost.com"
+        }
+      ]
+    },
+    {
+      "title": "New US Heat Dome Targets Northern Plains and Rockies \u2014 All-Time Records Possible in Montana and North Dakota",
+      "location": "Montana, North Dakota, Wyoming, Idaho, Utah, Colorado \u2014 Northern Plains and Rockies, USA",
+      "type": "weather",
+      "summary": "A powerful new heat dome is forecast to settle over the Northern Plains and northern Rocky Mountain West beginning Saturday, July 11, with NWS offices in Billings, Great Falls, Glasgow, Bismarck, Salt Lake City, Grand Junction, and Pocatello all issuing Extreme Heat Watches through Sunday\u2013Monday. NWS Billings warns that all-time record high temperatures are possible across central and southeast Montana and north-central Wyoming, with isolated highs near 110\u00b0F in the Yellowstone River Valley; northeast Montana could see mid-100s with highs up to 110\u00b0F. This emerging event represents a geographic expansion and escalation of the US heat crisis beyond the Southwest and Southeast into regions less accustomed to such extremes, with the current heat emergency already having caused at least 25 deaths nationally since early July.",
+      "severity": "extreme",
+      "articles": [],
+      "continuing": false
+    },
+    {
+      "title": "Mount Etna Eruption Continues \u2014 Catania Airport Disruptions Persist Into Second Week",
+      "location": "Mount Etna, Sicily, Italy",
+      "type": "volcano",
+      "summary": "Mount Etna's eruption, now in its tenth or more consecutive day, continues to blast ash and pyroclastic material into Sicilian skies, causing ongoing disruptions at Catania Fontanarossa Airport and forcing dozens of flight cancellations. The eruption sparked public panic earlier in the week as ash blanketed the surrounding region, and international travelers \u2014 including celebrities \u2014 were stranded due to aviation shutdowns. No new escalation in lava flow threat to populated areas has been reported, but aviation authorities have maintained closures and rerouting protocols as the eruption shows no sign of imminent cessation.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Mount Etna LIVE: Eruption sparks panic in Sicily as Catania Airport cancels flights",
+          "url": "https://www.express.co.uk/news/world/2225523/mount-etna-live-eruption-sparks",
+          "source": "www.express.co.uk"
+        },
+        {
+          "title": "Mount Etna eruption live: Catania airport closed until Tuesday as volcano ash cancels dozens of flights",
+          "url": "https://www.mirror.co.uk/news/world-news/mount-etna-eruption-live-catania-37389869",
+          "source": "www.mirror.co.uk"
+        }
+      ]
+    },
+    {
+      "title": "India Monsoon Deluges Delhi \u2014 161mm of Rain in Single Day Triggers Flooding",
+      "location": "Delhi and Northern India",
+      "type": "weather",
+      "summary": "Delhi recorded a remarkable 161.2mm of rainfall on July 8\u20139, one of the heaviest single-day precipitation events of the 2026 monsoon season so far, with temperatures dropping to a comparatively cool 26.7\u00b0C maximum. Flooding and waterlogging were reported across the capital region, with Reuters documenting mounting damage across India from the broader extreme weather pattern. The intense rainfall is part of an active monsoon surge affecting large parts of northern and central India, where flooding has been mounting across multiple states.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Floods, damage mount as extreme weather batters India",
+          "url": "https://www.reuters.com/video/watch/idRW582807072026RP1/",
+          "source": "www.reuters.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "US Flood Crisis Expands Into Mid-Atlantic and Ohio Valley \u2014 Flash Flood Watches From Kentucky to Philadelphia",
+      "location": "Mid-Atlantic (Washington D.C., Maryland, Pennsylvania, Delaware, New Jersey), Ohio Valley (Kentucky, Indiana, Illinois, Tennessee), USA",
+      "type": "weather",
+      "summary": "A broad and deepening flood threat has expanded significantly southeastward and eastward on July 9, with Flash Flood Watches now covering Washington D.C., greater Philadelphia, Delaware, southern New Jersey, and central Pennsylvania \u2014 in addition to continuing Flood Watches across nearly all of Kentucky, southern Illinois, southwest Indiana, western Kentucky, and much of Tennessee through late Saturday. NWS Baltimore warned of a tropical air mass supporting torrential downpours capable of life-threatening flash flooding across the D.C. metro area this afternoon. This represents a significant geographic escalation of the flooding crisis that was already ongoing in the Upper Midwest and Plains, now threatening major population centers including the nation's capital.",
+      "severity": "severe",
+      "articles": [],
+      "continuing": false
+    },
+    {
+      "title": "Southern Europe Wildfires Intensify \u2014 Thousands Evacuated in Portugal, Greece, and France",
+      "location": "Portugal, Greece, France, Spain \u2014 Southern and Western Europe",
+      "type": "wildfire",
+      "summary": "Wildfires driven by Europe's third major heatwave of summer 2026 continued to rage across southern Europe on July 9, with hundreds of firefighters battling blazes in Portugal and Greek authorities warning residents of toxic smoke near Thessaloniki. In France, thousands were evacuated from homes in the southwest as a major wildfire burned through drought-parched terrain; the Tour de France imposed spectator bans along sections of its route due to fire danger. London reached 33.9\u00b0C and Paris 33.7\u00b0C in weather data today, confirming the heatwave remains entrenched across Western Europe and fueling continued extreme fire risk across the continent.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
+          "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "Thousands evacuated from homes in southwest France as wildfire burns",
+          "url": "https://www.reuters.com/business/environment/thousands-evacuated-homes-southwest-france-wildfire-burns-2026-07-06/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.0 Earthquake Near Xunchang, China \u2014 Shallow Strike Felt Locally",
+      "location": "Xunchang, China",
+      "type": "earthquake",
+      "summary": "A magnitude 5.0 earthquake struck 1 km north-northwest of Xunchang, China at 23:44 UTC on July 8, at a shallow depth of 10 km, according to USGS data. At least one felt report was recorded, and the shallow focal depth raises the potential for localized structural impact, though no tsunami alert was issued and USGS assigned no formal alert level. This is the most significant seismic event in a densely populated region from the past 24 hours; data on damage or casualties from local Chinese sources remains sparse in international reporting at time of publication.",
+      "severity": "moderate",
+      "articles": [],
+      "continuing": false
+    }
+  ]
+}
