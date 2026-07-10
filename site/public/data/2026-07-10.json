@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-10",
+  "headline": "Spain wildfire kills at least 11 near Almer\u00eda in one of the country's deadliest blazes on record, as 19 remain missing and Southern Europe's fire crisis sharply escalates.",
+  "overview": "July 10 marks a grim escalation of the Southern European wildfire crisis, with a fast-moving fire in Spain's Andalusia region claiming at least 11 lives \u2014 one of the country's deadliest wildfires in modern history. In the United States, a multi-hazard extreme weather emergency continues across a vast swath of the country: life-threatening flash flooding has shifted its epicenter to southeastern Missouri with up to 9 inches of rain reported overnight, while a dangerous heat dome intensifies across the Northern Plains and Rockies with Montana approaching all-time temperature records. Globally, the Venezuela earthquake death toll has risen to 3,535, India's monsoon flooding has expanded to Mumbai, and Mount Etna continues to disrupt air travel over Sicily.",
+  "events": [
+    {
+      "title": "Spain Wildfire Kills 11 Near Almer\u00eda \u2014 One of Country's Deadliest on Record",
+      "location": "Almer\u00eda, Andalusia, Spain",
+      "type": "wildfire",
+      "summary": "A fast-moving wildfire near Los Gallardos in the Almer\u00eda province of southern Spain killed at least 11 people on July 9\u201310, making it one of the deadliest wildfires in Spain's modern history. As of July 10, at least 19 people remained missing as crews battled to contain the blaze amid soaring temperatures and dry conditions gripping the Iberian Peninsula. The fire represents a sharp and deadly escalation of the broader Southern European wildfire crisis that has been burning across Portugal, Greece, and France throughout the week.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "One of Spain's deadliest wildfires has killed at least 11 people",
+          "url": "https://www.wxxinews.org/npr-news/2026-07-10/one-of-spains-deadliest-wildfires-has-killed-at-least-11-people",
+          "source": "wxxinews.org"
+        },
+        {
+          "title": "One of Spain's deadliest wildfires has killed at least 11 people, with 19 others missing",
+          "url": "https://www.thesunchronicle.com/news/nation_world/one-of-spains-deadliest-wildfires-has-killed-at-least-11-people-with-19-others-missing/article_c397549a-0bac-505f-acc8-fa7145a73f97.html",
+          "source": "thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Northern Plains and Rockies Heat Dome Intensifies \u2014 Montana Eyes All-Time Record Highs",
+      "location": "Montana, North Dakota, Wyoming, Utah \u2014 Northern Plains and Rockies, USA",
+      "type": "weather",
+      "summary": "The NWS has issued Extreme Heat Warnings across nearly all of western and central North Dakota (highs 97\u2013107\u00b0F Sunday), central and southeast Montana (100\u2013113\u00b0F, with all-time record highs possible Sunday), northeast Montana (97\u2013110\u00b0F), and large portions of Wyoming, Utah, and Idaho through at least July 13\u201314. The heat dome has strengthened compared to prior days, with warnings now explicitly noting that \"some all-time record highs are possible\" for Montana on Sunday \u2014 a benchmark that would represent historic climatological extremes. An Extreme Heat Watch has also been extended through July 16 for southwest California including Los Angeles County, where temperatures of 95\u2013112\u00b0F are forecast for next week, signaling the heat pattern is broadening geographically.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Southeastern Missouri Flash Flood Emergency \u2014 Up to 9 Inches Overnight, Life-Threatening Warnings",
+      "location": "Southeastern Missouri, Southern Illinois, Western Kentucky, Indiana, Iowa, Tennessee, USA",
+      "type": "weather",
+      "summary": "Repeated rounds of severe thunderstorms dumped 5 to 9 inches of rain across southeastern Missouri \u2014 including Iron, Crawford, Washington, Madison, and Cape Girardeau Counties \u2014 overnight into July 10, triggering numerous Flash Flood Warnings explicitly labeled \"life-threatening\" by the NWS. Emergency managers in Cape Girardeau reported submerged vehicles and multiple flooded roads, and river gauges on the Black River near Annapolis were upgraded from minor to moderate flood stage with crests expected through July 12. Flood Watches and Warnings have simultaneously cascaded across portions of southern Illinois, western Kentucky, southwest Indiana, Iowa, and Tennessee, extending the existing US flood crisis into a new and severe southeastern Missouri epicenter.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Venezuela Earthquake Aftermath \u2014 Death Toll Rises to 3,535, Thousands Displaced",
+      "location": "Venezuela",
+      "type": "earthquake",
+      "summary": "The confirmed death toll from the June 24 twin earthquakes in Venezuela has climbed to 3,535, according to official government figures reported by The Jerusalem Post, with 16,740 people injured and 17,854 left without housing. Rescue operations remain active at collapsed structures, and the humanitarian situation continues to strain national resources as tens of thousands of displaced survivors await shelter and aid. The toll has risen incrementally since yesterday's report of approximately 3,500 deaths, confirming the disaster remains among the deadliest earthquakes in the Western Hemisphere in recent decades.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Death toll from Venezuela quakes rises to 3,535 as thousands remain displaced",
+          "url": "https://www.jpost.com/international/article-901661",
+          "source": "jpost.com"
+        },
+        {
+          "title": "Death toll from Venezuela quakes rises to 3,342",
+          "url": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-3342-2026-07-05/",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Mount Etna Eruption Continues \u2014 Catania Airport Flight Cancellations Persist",
+      "location": "Mount Etna, Sicily, Italy",
+      "type": "volcano",
+      "summary": "Mount Etna's ongoing eruption continues to disrupt air travel at Catania Airport, with volcanic ash forcing flight cancellations and diversions to Palermo and causing delays for international passengers more than two weeks after the eruption began. The eruption has prompted widespread panic in parts of Sicily, with smoke and ash columns visible across eastern Sicily according to reporting by the Daily Express and Ynetnews. No significant change in eruptive intensity has been reported today, but ongoing aviation disruption underscores the sustained impact of the event on regional infrastructure.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Mount Etna LIVE: Eruption sparks panic in Sicily as Catania Airport cancels flights",
+          "url": "https://www.express.co.uk/news/world/2225523/mount-etna-live-eruption-sparks",
+          "source": "express.co.uk"
+        },
+        {
+          "title": "Mount Etna eruption disrupts Sicily flights for Israelis",
+          "url": "https://www.ynetnews.com/travel/article/bkotnx5qml",
+          "source": "ynetnews.com"
+        }
+      ]
+    },
+    {
+      "title": "India Monsoon Flooding Spreads to Mumbai \u2014 Six Killed, Travel Disrupted",
+      "location": "Mumbai and Western India",
+      "type": "weather",
+      "summary": "India's monsoon-driven flooding has expanded significantly beyond Delhi and northern India, with Reuters reporting six people killed in Mumbai as heavy rains wreaked havoc, downed trees, and severely disrupted travel across the city. A broader Reuters report from July 7 noted floods and damage mounting as extreme weather battered India more widely, with the monsoon season intensifying across multiple states. The weather data shows Dhaka recording 40.5mm of precipitation on July 10, underscoring the continued intensity of the South Asian monsoon system across the broader region.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Six killed in India's Mumbai as rains wreak havoc, disrupt travel",
+          "url": "https://www.reuters.com/business/environment/six-killed-indias-mumbai-rains-wreak-havoc-disrupt-travel-2026-07-06/",
+          "source": "reuters.com"
+        },
+        {
+          "title": "Floods, damage mount as extreme weather batters India",
+          "url": "https://www.reuters.com/video/watch/idRW582807072026RP1/",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Southern California Extreme Heat Watch Issued Through July 16 \u2014 LA Area Faces 95\u2013112\u00b0F",
+      "location": "Los Angeles County, Ventura County, San Luis Obispo, Santa Barbara \u2014 Southwest California, USA",
+      "type": "weather",
+      "summary": "The NWS Los Angeles/Oxnard office has issued an Extreme Heat Watch for a broad swath of southwest California \u2014 including Los Angeles County, the Santa Clarita and San Fernando Valleys, and coastal ranges \u2014 from Tuesday July 14 through Thursday July 16, with forecast temperatures of 95\u2013112\u00b0F in interior areas and 85\u201395\u00b0F near the coast. This follows a current Heat Advisory already in effect through Tuesday, meaning the Los Angeles Basin faces over a week of consecutive hazardous heat. The alert signals that the multi-week Western US heat pattern is expanding from the desert Southwest to engulf the 10-million-person greater Los Angeles metropolitan area in dangerous conditions next week.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Heat wave bakes Los Angeles. Here's when it will be hottest",
+          "url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+          "source": "latimes.com"
+        },
+        {
+          "title": "Los Angeles Heat Builds Ahead of Hot Spell Across US Southwest",
+          "url": "https://www.insurancejournal.com/news/west/2026/07/08/876533.htm",
+          "source": "insurancejournal.com"
+        }
+      ]
+    }
+  ]
+}
