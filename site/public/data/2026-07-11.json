@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-11",
+  "headline": "Venezuela Earthquake Death Toll Climbs to 3,811 as US Heat Dome Peaks and Tropical Storm Maysak Kills 39 in Southern China",
+  "overview": "A multi-front global natural disaster picture dominates July 11: Venezuela's catastrophic twin earthquakes now claim 3,811 lives \u2014 making them among the deadliest seismic events in the Western Hemisphere in decades \u2014 while a heat dome over the US Northern Plains and Rockies reaches its most dangerous peak, with Montana and North Dakota facing all-time record temperatures of 100\u2013113\u00b0F. Simultaneously, flooding from Tropical Storm Maysak has killed 39 in southern China with 130,000 evacuated, and an extraordinary underwater volcanic eruption north of Papua New Guinea is producing satellite-visible landmass growth in the Pacific.",
+  "events": [
+    {
+      "title": "Venezuela Earthquake Death Toll Rises to 3,811 \u2014 Humanitarian Crisis Deepens",
+      "location": "Venezuela",
+      "type": "earthquake",
+      "summary": "The death toll from Venezuela's catastrophic June 24 twin earthquakes has climbed further to 3,811, up from 3,535 reported two days ago, according to Reuters citing official government figures. More than 16,740 people remain injured and nearly 18,000 are without housing, with health experts warning of an impending disease crisis in overcrowded temporary shelters. The Venezuelan government is simultaneously pursuing international frozen funds to finance the disaster response, underscoring the severity of the ongoing humanitarian emergency.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Death toll from Venezuela quakes rises to 3,811 as government seeks frozen funds",
+          "url": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-3811-2026-07-08/",
+          "source": "reuters.com"
+        },
+        {
+          "title": "Venezuela earthquakes death toll jumps to more than 3,500",
+          "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Peaks \u2014 Montana and Northern Plains Face 100\u2013113\u00b0F and Potential All-Time Records",
+      "location": "Montana, North Dakota, Wyoming, Utah, Idaho \u2014 Northern Plains and Rockies, USA",
+      "type": "weather",
+      "summary": "The Northern Plains and Rockies heat dome reaches its most dangerous peak on July 11\u201312, with NWS Billings issuing Extreme Heat Warnings for central, south-central, and southeast Montana through Monday, forecasting highs of 100\u2013113\u00b0F with Sunday afternoon expected to be the hottest \u2014 when some all-time state records could fall. Extreme Heat Warnings are simultaneously active for broad swaths of Wyoming (100\u2013110\u00b0F), Utah (up to 107\u00b0F along the Wasatch Front), Idaho (up to 102\u00b0F), South Dakota, and the Grand Canyon corridor (up to 113\u00b0F at Phantom Ranch). NWS alerts for North Dakota warn of heat index values approaching 110\u00b0F by Sunday through Tuesday, and Fire Weather Watches blanketing the region compound the danger with humidity as low as 10\u201315 percent and gusts up to 35 mph.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Tropical Storm Maysak \u2014 Southern China Flooding Kills 39, 130,000 Evacuated",
+      "location": "Guangxi Region, Southern China",
+      "type": "weather",
+      "summary": "Flooding triggered by Tropical Storm Maysak has killed at least 39 people in southern China, particularly in the Guangxi autonomous region, where roughly 130,000 residents have been evacuated and thousands of rescuers deployed. The storm brought extreme rainfall that overwhelmed river systems across the south, causing widespread infrastructure damage. Weather data shows Beijing recording 36.5mm of precipitation \u2014 a sign that the broader moisture plume associated with the system is affecting much of eastern China.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flooding from Tropical Storm Maysak kills 39 in southern China",
+          "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Typhoon Maysak kills two and forces thousands to evacuate in China",
+          "url": "https://www.theguardian.com/world/2026/jul/06/typhoon-maysak-kills-two-and-forces-thousands-to-evacuate-in-china",
+          "source": "www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "US Midwest and Ohio Valley Flash Flood Crisis Continues Overnight Into Saturday",
+      "location": "Missouri, Kentucky, Indiana, Illinois, Tennessee, Kansas, West Virginia \u2014 Central and Eastern USA",
+      "type": "weather",
+      "summary": "A sprawling multi-state flood crisis persisted through the overnight hours of July 11, with active Flash Flood Warnings and Flood Watches blanketing Missouri (Iron, Reynolds, Crawford, Washington, Madison counties), Kentucky (Anderson, Bullitt, Nelson, Shelby, Spencer, Livingston, Hopkins, Caldwell counties), southern Indiana, southern Illinois, and East Tennessee simultaneously. The Black River near Annapolis, Missouri is approaching flood-of-record levels with Flood Warnings in effect until Tuesday, while the Meramec River near Sullivan faces moderate flooding through Tuesday evening. Flood Watches stretching from northeast Kentucky through West Virginia, Ohio, and southwest Virginia remain active, and the Illinois River system is under Flood Warnings through July 17.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Underwater Volcanic Eruption North of Papua New Guinea \u2014 New Island Emerging",
+      "location": "North of Papua New Guinea, Southwest Pacific",
+      "type": "volcano",
+      "summary": "A newly discovered underwater volcanic eruption north of Papua New Guinea is generating enough activity to potentially produce Earth's newest island, with NASA satellites capturing visible landmass growth from space in early July 2026. The eruption's precise onset is not yet fully characterized, but satellite imagery shows persistent surface disturbance and emergent volcanic material consistent with Surtseyan-style island-building activity. No tsunami alerts have been issued and the remote location limits immediate human impact, though the event is being closely monitored by volcanologists worldwide.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Canada Northwest Territories Wildland Fires \u2014 Smoke Billows Across Northern Boreal Region",
+      "location": "Great Bear Lake Area, Northwest Territories, Canada",
+      "type": "wildfire",
+      "summary": "Multiple wildland fires burning near Great Bear Lake in Canada's Northwest Territories in early July 2026 have sent large smoke plumes billowing across the Northern Canadian boreal forest, captured in NASA Earthdata satellite imagery. The fires reflect extreme fire weather conditions driven by drought and elevated temperatures across northern Canada. Alaska's NWS concurrently issued Red Flag Warnings for the Yukon Flats and Copper Valley on July 11, with outflow thunderstorm gusts of 40\u201360 mph expected \u2014 indicating that critical fire weather is affecting a vast swath of the sub-Arctic region.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildland Fires Billowing Near Great Bear Lake",
+          "url": "https://www.earthdata.nasa.gov/news/worldview-image-archive/wildland-fires-billowing-near-great-bear-lake",
+          "source": "www.earthdata.nasa.gov"
+        }
+      ]
+    },
+    {
+      "title": "Manitoba Flooding \u2014 Canadian Red Cross Launches Emergency Appeal",
+      "location": "Manitoba, Canada",
+      "type": "weather",
+      "summary": "The Canadian Red Cross launched a formal emergency fundraising appeal on July 10 to support people impacted by significant flooding in Manitoba, signaling that the disaster has reached a scale requiring coordinated humanitarian relief. The flooding follows weeks of heavy precipitation across the Canadian prairies, overwhelming drainage systems and displacing communities across the province. The appeal marks a notable escalation in the official response to what has been an ongoing but under-reported flood emergency in central Canada.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Canadian Red Cross opens appeal to support people impacted by flooding in Manitoba",
+          "url": "https://markets.businessinsider.com/news/stocks/canadian-red-cross-opens-appeal-to-support-people-impacted-by-flooding-in-manitoba-1036315959",
+          "source": "markets.businessinsider.com"
+        }
+      ]
+    }
+  ]
+}
