@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-12",
+  "headline": "Venezuela earthquake death toll surpasses 4,000 as the US heat dome breaks all-time records across Montana, Wyoming, and the Northern Plains while flash floods expand into Oklahoma and Tennessee.",
+  "overview": "July 12 brings an intensifying cluster of simultaneous crises across multiple continents. The Venezuela earthquake disaster has now claimed more than 4,000 lives with thousands still missing, marking one of South America's deadliest seismic events in modern history. Across the United States, a historic heat dome continues to shatter records from the Rockies to the Upper Midwest while a separate flash flood emergency expands southward into Oklahoma and Tennessee, placing tens of millions under concurrent weather alerts. Europe is contending with both a significant heatwave pushing Paris to 36\u00b0C and active wildfires burning simultaneously in Portugal and Greece.",
+  "events": [
+    {
+      "title": "Venezuela Earthquake Death Toll Surpasses 4,000 \u2014 UN Appeals for Aid",
+      "location": "Venezuela",
+      "type": "earthquake",
+      "summary": "The death toll from Venezuela's catastrophic earthquake has now exceeded 4,000, with nearly 17,000 people reported injured and thousands more still listed as missing, according to The Guardian. UN agencies and Venezuela's interim president Delcy Rodr\u00edguez have issued urgent calls for international financial assistance as the scale of the recovery effort becomes clear. An Israeli aid delegation has been asked to extend its mission in the country as search-and-rescue operations continue.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+          "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "Death toll rises to over 4,000 in Venezuela as search efforts are still underway",
+          "url": "https://www.nbcnews.com/video/death-toll-rises-to-over-4-000-in-venezuela-as-search-efforts-are-still-underway-266530373764",
+          "source": "www.nbcnews.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Escalates \u2014 All-Time Records Threatened From Montana to Minnesota",
+      "location": "Montana, North Dakota, Wyoming, Utah, Colorado, Minnesota, Wisconsin \u2014 Northern Plains, Rockies, and Upper Midwest, USA",
+      "type": "weather",
+      "summary": "The historic heat dome gripping the western and central United States has intensified and expanded, with NWS issuing Extreme Heat Warnings across Montana (104\u2013112\u00b0F, potential all-time state records), North Dakota (heat index up to 110\u00b0F), Wyoming (100\u2013110\u00b0F), Utah (up to 110\u00b0F near Zion/Glen Canyon), and Colorado. The heat has now spread into Minnesota and northern Wisconsin, where heat index values up to 103\u2013110\u00b0F are forecast through Tuesday, July 14 \u2014 accompanied by Red Flag Warnings and Fire Weather Watches across the same region. The Washington Post reports the heat dome is also dramatically elevating wildfire risk across drought-stricken plains and western states.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Heat wave will smash record highs in Rockies, then spread to Midwest and East next week",
+          "url": "https://weather.com/2026/07/10/forecast/regional/heat-wave-rockies-plains-midwest-east-forecast",
+          "source": "weather.com"
+        },
+        {
+          "title": "Expansive heat dome to topple records in drought-stricken Plains and western states",
+          "url": "https://www.washingtonpost.com/weather/2026/07/10/expansive-heat-dome-topple-records-drought-stricken-plains-western-states/",
+          "source": "www.washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "title": "US Flash Flood Crisis Expands \u2014 Oklahoma and Tennessee Join Multi-State Emergency",
+      "location": "Oklahoma, Tennessee, North Carolina, Kentucky, West Virginia, Missouri, Indiana, Illinois \u2014 South-Central and Eastern USA",
+      "type": "weather",
+      "summary": "The ongoing US flash flood emergency has expanded geographically overnight into July 12, with NWS issuing Flash Flood Warnings across Tulsa and Pittsburg counties in Oklahoma and Cherokee County in North Carolina, and Flood Watches remaining active across broad swaths of Kentucky, West Virginia, Tennessee, and Indiana. ABC News reported that nearly a foot of rain fell in some areas and that millions of Americans remain on alert as additional rounds of storms move through. The Illinois and Meramec Rivers in Missouri and Illinois remain in Flood Warning status through mid-week, while the Cedar River in Iowa is forecast to rise further.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flash flooding from Southern Missouri to West Virginia",
+          "url": "https://www.modernghana.com/amp/videonews/680862",
+          "source": "www.modernghana.com"
+        }
+      ]
+    },
+    {
+      "title": "Portugal and Greece Wildfires \u2014 Hundreds of Firefighters Deployed, Toxic Smoke Warnings Issued",
+      "location": "Vouzela, Portugal and Thessaloniki, Greece \u2014 Southern Europe",
+      "type": "wildfire",
+      "summary": "Significant wildfires are burning simultaneously in Portugal and Greece as of early July 2026, with hundreds of firefighters mobilized to battle blazes near Vouzela in central Portugal and on the outskirts of Thessaloniki, Greece's second-largest city. Greek authorities have issued toxic smoke warnings for residents in affected areas. Reports also indicate wildfires in Spain, suggesting a broad regional fire crisis driven by dry, hot summer conditions across the Iberian Peninsula and the Balkans.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hundreds of firefighters battle a wildfire in Portugal, while Greek authorities warn of toxic smoke",
+          "url": "https://www.washingtonpost.com/world/2026/07/05/greece-portugal-wildfire-vouzela-thessaloniki/0bfbc4ce-786d-11f1-b194-f872dd4ec5aa_story.html",
+          "source": "www.washingtonpost.com"
+        },
+        {
+          "title": "Wildfires rage in Portugal, Greece and Spain while Greek authorities warn of toxic smoke",
+          "url": "https://www.thesunchronicle.com/news/nation_world/wildfires-rage-in-portugal-greece-and-spain-while-greek-authorities-warn-of-toxic-smoke/article_c1cf22a0-ab25-5b99-ac25-dc18214cae6c.html",
+          "source": "www.thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Western Europe Heatwave \u2014 Paris Hits 36\u00b0C, London Reaches 29\u00b0C",
+      "location": "Paris, France; London, United Kingdom; Berlin, Germany \u2014 Western Europe",
+      "type": "weather",
+      "summary": "A significant midsummer heatwave is gripping Western Europe, with weather data showing Paris reaching 36.3\u00b0C (97.3\u00b0F), Berlin at 30.3\u00b0C (86.5\u00b0F), and London at 29\u00b0C (84.2\u00b0F) on July 12. The Guardian has reported that June's record-breaking heat across western Europe produced dangerous ozone buildup at ground level, a trend that is continuing into July. While not at the extreme thresholds of the US heat dome, the combination of elevated temperatures across multiple densely populated major cities raises significant public health concerns.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Underwater Volcanic Eruption North of Papua New Guinea \u2014 NASA Satellites Track New Island Formation",
+      "location": "North of Papua New Guinea, Southwest Pacific",
+      "type": "volcano",
+      "summary": "NASA satellites are actively monitoring an ongoing underwater volcanic eruption north of Papua New Guinea that is in the process of forming what could become Earth's newest island, according to ScienceDaily. The eruption, first reported July 10\u201311, continues to build a new land mass visible from space, a rare geological event drawing significant scientific attention. No tsunami alert has been issued and there are no reports of casualties, though maritime authorities are monitoring the area.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "India Monsoon Flooding Spreads \u2014 Reuters Reports Mounting Damage Nationwide",
+      "location": "Mumbai and Western India; Multiple Indian States",
+      "type": "weather",
+      "summary": "India's summer monsoon continues to deliver severe flooding across multiple states, with Reuters reporting mounting damage and casualties as extreme rainfall batters the country. Dhaka (in neighboring Bangladesh) recorded the highest precipitation of any major global city in today's weather data at 59.1mm, reflecting the intensity of the active monsoon pattern across the broader South Asian region. The Mumbai metropolitan area, already impacted by six deaths and major travel disruptions earlier in the week, faces continued flood risk as the monsoon progresses through its peak season.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Floods, damage mount as extreme weather batters India",
+          "url": "https://www.reuters.com/video/watch/idRW582807072026RP1/",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "Six killed in India's Mumbai as rains wreak havoc, disrupt travel",
+          "url": "https://www.reuters.com/business/environment/six-killed-indias-mumbai-rains-wreak-havoc-disrupt-travel-2026-07-06/",
+          "source": "www.reuters.com"
+        }
+      ]
+    }
+  ]
+}
