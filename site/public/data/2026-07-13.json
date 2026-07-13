@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-13",
+  "headline": "Typhoon Bavi Batters Eastern China and Taiwan as 1.8 Million Evacuated, While a Deadly Spanish Wildfire and a Sprawling US Heat Dome Mark a Day of Compounding Global Disasters",
+  "overview": "Monday, July 13 brings a multi-front global natural disaster picture: Typhoon Bavi has made landfall on eastern China after prompting the evacuation of over 1.8 million people and injuring at least 134 in Taiwan, representing a major escalation from last week's Tropical Storm Maysak. Simultaneously, the US heat dome intensifies its reach southward into Southern California \u2014 where an Extreme Heat Watch covering Los Angeles is now in effect through Thursday \u2014 and eastward toward the Philadelphia and Michigan corridors, while new Red Flag fire weather warnings ignite across northern Minnesota and the Great Plains. A fast-moving wildfire in southern Spain's Almeria region has killed at least 12 people, marking one of the country's deadliest fire events in years.",
+  "events": [
+    {
+      "title": "Typhoon Bavi Slams Eastern China and Taiwan \u2014 1.8 Million Evacuated",
+      "location": "Zhejiang and Fujian Provinces, China; Taiwan",
+      "type": "weather",
+      "summary": "Typhoon Bavi made landfall on China's eastern coast, battering Wenzhou and surrounding areas in Zhejiang Province with damaging winds and flooding rains after China evacuated over 1.8 million people in anticipation of the storm. Taiwan reported at least 134 people injured as the typhoon passed nearby, while CNBC reports the storm threatens days of continued heavy rain across eastern China. The system represents a significant escalation from Tropical Storm Maysak, which struck southern China just days earlier, and comes as scientists warn of an increasingly active western Pacific storm season.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Typhoon Bavi batters east China, Taiwan reports 134 injured",
+          "url": "https://www.reuters.com/business/environment/typhoon-bavi-batters-east-china-taiwan-reports-134-injured-2026-07-12/",
+          "source": "reuters.com"
+        },
+        {
+          "title": "Typhoon Bavi batters eastern China, threatens days of heavy rain",
+          "url": "https://www.cnbc.com/2026/07/12/typhoon-bavi-batters-eastern-china-threatens-days-of-heavy-rain.html",
+          "source": "cnbc.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Spreads South and East \u2014 Los Angeles Under Extreme Heat Watch Through Thursday",
+      "location": "Southern California, Northern Plains, Rockies, Upper Midwest, Mid-Atlantic \u2014 USA",
+      "type": "weather",
+      "summary": "The multi-day US heat dome has significantly expanded its footprint, with NWS Los Angeles issuing a new Extreme Heat Watch for the greater Los Angeles area \u2014 including Downtown LA, the San Fernando Valley, and surrounding counties \u2014 with temperatures of 95\u2013110\u00b0F forecast Tuesday through Thursday. Extreme Heat Warnings remain in effect across Montana, Wyoming, Colorado, Idaho, Utah, North Dakota, Minnesota, Wisconsin, and Michigan, with heat index values up to 110\u00b0F, while a new Extreme Heat Watch covering Philadelphia, Delaware, and southern New Jersey has been issued for Wednesday. The Weather Channel reports the heat wave is on track to smash all-time records in the Rockies before continuing its eastward march through the week.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Heat wave could threaten all-time record highs in Rockies",
+          "url": "https://weather.com/2026/07/12/forecast/regional/heat-wave-rockies-plains-midwest-east-forecast",
+          "source": "weather.com"
+        }
+      ]
+    },
+    {
+      "title": "Southern Spain Wildfire Kills at Least 12 Near Almeria \u2014 One of Country's Deadliest",
+      "location": "Los Gallardos, Almeria, Andalusia, Spain",
+      "type": "wildfire",
+      "summary": "A fast-moving wildfire near Los Gallardos in the Almeria province of southern Spain has killed at least 12 people and left 19 others missing, making it one of the deadliest wildfires in Spain's modern history. Hundreds of firefighters have been deployed to combat the blaze, which erupted amid the ongoing Western European heatwave that has been pushing temperatures well above seasonal norms across the Iberian Peninsula. The Washington Post reports the fire is being driven by extreme heat and dry conditions consistent with the broader European heat event.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hundreds of firefighters battle wildfire in southern Spain that killed at least 12",
+          "url": "https://www.washingtonpost.com/world/2026/07/11/europe-spain-wildfires-heatwave/a8aecd36-7d20-11f1-b194-f872dd4ec5aa_story.html",
+          "source": "washingtonpost.com"
+        },
+        {
+          "title": "One of Spain's deadliest wildfires has killed at least 11 people, with 19 others missing",
+          "url": "https://www.thesunchronicle.com/news/nation_world/one-of-spains-deadliest-wildfires-has-killed-at-least-11-people-with-19-others-missing/article_c397549a-0bac-505f-acc8-fa7145a73f97.html",
+          "source": "thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "US Multi-State Flash Flood Crisis Continues \u2014 New Warnings Issued Across Appalachians, Texas, and Midwest Rivers",
+      "location": "North Carolina, Virginia, Tennessee, Texas (Dallas), Illinois, Missouri, Iowa \u2014 USA",
+      "type": "weather",
+      "summary": "Active Flash Flood Warnings and Flood Watches continue across a broad swath of the eastern and central US on July 13, with new overnight warnings issued for North Carolina's Blue Ridge foothills, the Virginia\u2013North Carolina border region, and Dallas-Fort Worth, where 2\u20135 inches of rain fell in hours. Extended Flood Warnings remain active along the Illinois River through July 17\u201319, and a new Flood Watch has been issued for the Cedar River in Iowa through midweek. FOX Weather reports rounds of heavy rain continue to target the Heartland and Gulf Coast with no near-term end in sight.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "M6.4 Earthquake Strikes Near Papua New Guinea \u2014 Near Ongoing Submarine Volcanic Site",
+      "location": "191 km SE of Lorengau, Papua New Guinea, Southwest Pacific",
+      "type": "earthquake",
+      "summary": "A magnitude 6.4 earthquake struck at shallow depth (10 km) approximately 191 km southeast of Lorengau, Papua New Guinea at 08:53 UTC on July 13, according to USGS data. The USGS assigned a green alert level and no tsunami alert was triggered, suggesting limited immediate threat to populated areas. Notably, the event occurs in the same general southwest Pacific region as the ongoing submarine volcanic eruption north of Papua New Guinea that has been tracked by NASA satellites since early July, though USGS data does not directly link the two events.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Red Flag Fire Weather Warnings Spread Across Northern Minnesota and Great Plains",
+      "location": "Northern Minnesota, Nebraska Panhandle, South Dakota, USA",
+      "type": "wildfire",
+      "summary": "NWS offices in Duluth, Grand Forks, Cheyenne, and Rapid City issued multiple Red Flag Warnings and Fire Weather Watches across northern Minnesota, the Nebraska Panhandle, and western South Dakota on July 13, driven by gusty southwest winds of 10\u201335 mph, relative humidity as low as 10\u201325%, and critically dry fuels baked by the ongoing heat dome. The warnings cover vast stretches of the Superior National Forest, the Boundary Waters Canoe Area Wilderness, the Pine Ridge area, and Nebraska's national grasslands \u2014 ecologically sensitive regions where any ignition could escalate rapidly. The Red Flag conditions are expected to persist through Wednesday in some areas.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Western Europe Heatwave Persists \u2014 Paris Holds at 35\u00b0C, Spain Wildfire Conditions Critical",
+      "location": "Paris, France; London, United Kingdom; Berlin, Germany; Almeria, Spain \u2014 Western Europe",
+      "type": "weather",
+      "summary": "Current weather data confirms the Western European heatwave remains firmly established on July 13, with Paris recording a maximum of 35\u00b0C, London 27\u00b0C, and Berlin 28\u00b0C \u2014 all significantly above seasonal norms for mid-July. The heat is directly linked to the deadly Almeria wildfire in southern Spain and ongoing fire emergencies in Portugal and Greece reported in recent days. With no significant cool front forecast in the near term, public health authorities across France, the UK, and Germany have maintained heat-health advisories for vulnerable populations.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hundreds of firefighters battle wildfire in southern Spain that killed at least 12",
+          "url": "https://www.washingtonpost.com/world/2026/07/11/europe-spain-wildfires-heatwave/a8aecd36-7d20-11f1-b194-f872dd4ec5aa_story.html",
+          "source": "washingtonpost.com"
+        }
+      ]
+    }
+  ]
+}
