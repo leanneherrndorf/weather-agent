@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-14",
+  "headline": "US Heat Dome Engulfs Two-Thirds of the Country as France Deploys Water Bombers on Paris-Area Wildfire \u2014 Venezuela Earthquake Toll Holds at 4,000+",
+  "overview": "A record-breaking heat dome now stretches from the California deserts to the Mid-Atlantic seaboard, with Extreme Heat Warnings active across more than 15 US states and heat indices reaching 115\u00b0F in the Sonoran Desert. Simultaneously, a wildfire ignited in the iconic Fontainebleau forest south of Paris \u2014 directly fueled by Europe's ongoing heatwave \u2014 prompting evacuations and aerial water-bombing missions. Globally, Venezuela continues its catastrophic earthquake recovery, India's monsoon flooding mounts, and an unprecedented submarine volcanic eruption north of Papua New Guinea keeps building toward a potential new island.",
+  "events": [
+    {
+      "title": "Venezuela Earthquake Recovery \u2014 Death Toll Surpasses 4,000, UN Aid Push Continues",
+      "location": "Venezuela",
+      "type": "earthquake",
+      "summary": "The death toll from Venezuela's devastating earthquake sequence has surpassed 4,000, with nearly 17,000 injured and thousands more still listed as missing, making it one of the deadliest seismic disasters in the Western Hemisphere in decades. The United Nations has issued urgent appeals for international financial and humanitarian aid, and Venezuela's government is simultaneously seeking access to frozen sovereign funds to accelerate the recovery. Rescue and recovery operations remain ongoing across affected regions, though the scale of infrastructure destruction continues to overwhelm local capacity.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
+          "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+          "source": "theguardian.com"
+        },
+        {
+          "title": "Death toll from Venezuela quakes rises to 3,811 as government seeks frozen funds",
+          "url": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-3811-2026-07-08/",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Expands to Mid-Atlantic and Northeast \u2014 Desert Southwest Hits 116\u00b0F",
+      "location": "California, Arizona, Wyoming, Montana, Minnesota, Wisconsin, Michigan, New Jersey, Pennsylvania, Delaware \u2014 USA",
+      "type": "weather",
+      "summary": "The sprawling US heat dome has escalated significantly, now extending its grip eastward into the Mid-Atlantic corridor, with Extreme Heat Warnings issued for Philadelphia, southern New Jersey, Delaware, and coastal areas where heat indices are forecast to reach 107\u00b0F on Wednesday. In the desert Southwest, conditions are even more extreme: the San Diego County deserts face temperatures up to 115\u00b0F, the Coachella Valley up to 113\u00b0F, and the Arizona\u2013California border zone up to 116\u00b0F through Thursday. Northern and central Minnesota, North Dakota, Montana, Wyoming, and the Upper Peninsula of Michigan also remain under active Extreme Heat Warnings, with heat indices of 100\u2013110\u00b0F and dangerously warm overnight lows providing no relief.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Wildfire Erupts in Fontainebleau Forest South of Paris \u2014 Evacuations Ordered, Water Bombers Deployed",
+      "location": "Noisy-sur-\u00c9cole, Fontainebleau, \u00cele-de-France, France",
+      "type": "wildfire",
+      "summary": "A fast-moving wildfire broke out in the Fontainebleau forest \u2014 one of France's most beloved and historically significant natural areas, located roughly 60 km south of Paris \u2014 as Europe's ongoing heatwave drove conditions to dangerous extremes, with Paris recording 34.2\u00b0C on July 14. French authorities dispatched aerial water-bombing aircraft including De Havilland Dash 8 tankers to combat the blaze, and evacuations were ordered for communities in the path of the fire. The incident highlights how the European heatwave, which persisted at 29.8\u00b0C in London and 34.2\u00b0C in Paris, is now directly igniting wildfires in regions not historically associated with major fire risk.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "France sends water bombers to tackle wildfire outside Paris",
+          "url": "https://www.reuters.com/business/environment/france-sends-water-bombers-tackle-wildfire-outside-paris-2026-07-13/",
+          "source": "reuters.com"
+        },
+        {
+          "title": "Fire in Fontainebleau forest near Paris triggers evacuations; 10 still missing in Spanish wildfire",
+          "url": "https://apnews.com/article/france-fire-fontainebleau-heat-9231f354a12af0d1fd40aff4f759240b",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Texas Flash Flood Crisis Escalates \u2014 Hill Country and Gulf Coast Face Multi-Day Threat",
+      "location": "Texas Hill Country, Big Bend, South-Central and West Texas \u2014 USA",
+      "type": "weather",
+      "summary": "Flash flood emergencies intensified across Texas overnight into July 14, with Medina County reporting 3 to 9 inches of rainfall already fallen and new thunderstorms continuing to move northward into the warned area. A broad Flood Watch stretching through Thursday evening covers 22+ counties across south-central and west Texas, including the particularly vulnerable Guadalupe River corridor in the Hill Country, where flash flooding can be sudden and life-threatening. Active Flash Flood Warnings were simultaneously in effect for Pecos, Crockett, Bandera, Medina, and Uvalde Counties, and the threat is expected to persist into the Gulf Coast region through the end of the week.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Dangerous flood threat targets millions across Texas, including Hill Country, and the Gulf Coast",
+          "url": "https://www.foxweather.com/weather-news/flash-flood-threat-texas-hill-country-gulf-coast",
+          "source": "foxweather.com"
+        },
+        {
+          "title": "Dangerous flood threat targets millions across Texas",
+          "url": "https://nypost.com/2026/07/13/us-news/dangerous-flood-threat-targets-millions-across-texas/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "Canada Northwest Territories Wildfires \u2014 Smoke Plumes Visible From Space Near Great Bear Lake",
+      "location": "Great Bear Lake, Northwest Territories, Canada",
+      "type": "wildfire",
+      "summary": "NASA Earthdata confirmed that multiple wildland fires burning near Great Bear Lake in Canada's Northwest Territories sent large smoke plumes across parts of the Canadian North in early July 2026, with the situation persisting into mid-July. The fires are occurring in one of Canada's most remote subarctic regions, making ground-based suppression extremely difficult and leaving satellite imagery as the primary monitoring tool. The blazes contribute to a pattern of unusually intense and early summer fire activity across the Northern Hemisphere, compounding smoke and air quality concerns that extend well beyond the immediate fire zones.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildland Fires Billowing Near Great Bear Lake",
+          "url": "https://www.earthdata.nasa.gov/news/worldview-image-archive/wildland-fires-billowing-near-great-bear-lake",
+          "source": "earthdata.nasa.gov"
+        }
+      ]
+    },
+    {
+      "title": "India Monsoon Flooding Intensifies \u2014 Damage Mounts Nationwide",
+      "location": "Multiple Indian States, India",
+      "type": "weather",
+      "summary": "India's monsoon season continued to unleash widespread flooding across multiple states, with Reuters video reporting confirming mounting damage and casualties as of mid-July. Seoul's weather data showing 51.9 mm of precipitation in 24 hours reflects the broader active monsoon pattern across South and East Asia. The scale of flooding stretches from western India through central and northeastern regions, overwhelming drainage systems and displacing large numbers of residents, though data from more remote or rural affected zones remains sparse.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Floods, damage mount as extreme weather batters India",
+          "url": "https://www.reuters.com/video/watch/idRW582807072026RP1/",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Papua New Guinea Submarine Volcano \u2014 Potential New Island Still Growing, NASA Tracking",
+      "location": "Bismarck Sea, North of Papua New Guinea, Southwest Pacific",
+      "type": "volcano",
+      "summary": "The underwater volcanic eruption north of Papua New Guinea, first confirmed earlier in July, continues to be actively monitored by NASA satellites, which are tracking the ongoing upwelling of volcanic material that could culminate in the formation of a new island in the Bismarck Sea. Satellite imagery has captured the full progression of the eruption, which scientists describe as a rare and scientifically significant event. No tsunami alerts have been issued in connection with the eruption, and the USGS M6.4 earthquake recorded on July 13 approximately 191 km southeast of Lorengau \u2014 near the broader submarine volcanic zone \u2014 underscores the region's continued geologic restlessness.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
