@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-15",
+  "headline": "Bangladesh Rohingya camps struck by deadly monsoon landslides as Texas flash floods reach catastrophic rainfall totals of up to 16 inches and a coast-to-coast US heat dome peaks with 117\u00b0F warnings.",
+  "overview": "A deadly monsoon-season landslide at a Rohingya refugee camp in Bangladesh has killed multiple children, compounding ongoing South Asian flooding emergencies. In the United States, the multi-week heat dome reaches peak intensity on July 15 with Extreme Heat Warnings stretching from the Arizona desert (106\u2013117\u00b0F) to the mid-Atlantic coast (heat index 107\u00b0F), while concurrent Red Flag fire weather warnings blanket Southern California's mountains and south coast. Texas remains under widespread flash flood alerts after Uvalde County recorded 6 to 16 inches of rain overnight, with life-threatening flood watches now spanning 22 counties through Thursday evening.",
+  "events": [
+    {
+      "title": "Bangladesh Rohingya Camp Landslides Kill Multiple Children",
+      "location": "Cox's Bazar, Bangladesh",
+      "type": "weather",
+      "summary": "Monsoon-driven landslides struck Rohingya refugee camps in Cox's Bazar, Bangladesh, killing at least eight people \u2014 predominantly children \u2014 in one event, with a follow-on slide killing at least five more children days later. The densely packed hillside camps, home to nearly one million Rohingya refugees, are acutely vulnerable to the annual monsoon season, with steep deforested slopes offering little protection. Bangladesh rescue personnel were deployed as emergency teams worked to locate any remaining victims.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Eight children killed in Bangladesh Rohingya refugee camp landslide",
+          "url": "https://www.reuters.com/video/watch/idRW650909072026RP1",
+          "source": "reuters.com"
+        },
+        {
+          "title": "At least 5 children die in monsoon landslide at a Rohingya camp in Bangladesh",
+          "url": "https://www.nbcnews.com/world/asia/least-5-children-die-monsoon-landslide-rohingya-camp-bangladesh-rcna353630",
+          "source": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Texas Flash Flood Crisis Escalates \u2014 Uvalde Records Up to 16 Inches of Rain Overnight",
+      "location": "Texas Hill Country, South-Central and West Texas, USA",
+      "type": "weather",
+      "summary": "Overnight storms dumped 6 to 16 inches of rain on Uvalde County, triggering an extended Flash Flood Warning and pushing multiple rivers \u2014 including the Frio, Nueces, Medina, Llano, and Devils rivers \u2014 into flood stage. Life-threatening flood watches now blanket 22 counties across south-central and west Texas through Thursday evening, with the Rio Grande at Laredo also under a Flood Watch through Friday. Flash Flood Warnings fired across Gillespie, Kerr, Edwards, Kinney, Real, Bandera, and Uvalde counties in the early morning hours, underscoring the ongoing multi-day flood emergency across the Hill Country.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Dangerous flood threat targets millions across Texas, including Hill Country, and the Gulf Coast",
+          "url": "https://www.foxweather.com/weather-news/flash-flood-threat-texas-hill-country-gulf-coast",
+          "source": "foxweather.com"
+        },
+        {
+          "title": "Dangerous flood threat targets millions across Texas",
+          "url": "https://nypost.com/2026/07/13/us-news/dangerous-flood-threat-targets-millions-across-texas/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Peaks Coast to Coast \u2014 117\u00b0F Warnings in Desert Southwest, Red Flag Danger in Southern California",
+      "location": "Arizona, California, New Jersey, Pennsylvania, Delaware, Minnesota, Montana, USA",
+      "type": "weather",
+      "summary": "The persistent US heat dome reached peak intensity on July 15, with the NWS issuing Extreme Heat Warnings from the Desert Southwest \u2014 where the Coachella Valley, Yuma, and Imperial Valley face highs of 106 to 117\u00b0F with overnight lows staying above 85\u00b0F \u2014 to the densely populated mid-Atlantic corridor, where heat indices in Philadelphia, Delaware, and New Jersey are expected to hit 107\u00b0F. New York City's weather data shows a high of 38.9\u00b0C (102\u00b0F). Simultaneously, concurrent Red Flag Warnings blanketed Santa Barbara, Ventura, and parts of Los Angeles counties through Thursday morning, warning of strong north winds, critically low humidity, and temperatures of 90\u2013110\u00b0F that create extreme wildfire ignition risk.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "'Dangerous heat' to broil Southern California this week, raising health and fire risks",
+          "url": "https://www.latimes.com/california/story/2026-07-13/dangerous-heat-to-broil-southern-california-this-week-raising-health-fire-risks",
+          "source": "latimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Western Europe Heatwave Continues \u2014 Paris 32\u00b0C, London 28.6\u00b0C, Record June Sets Stage",
+      "location": "Paris, France; London, United Kingdom; Western Europe",
+      "type": "weather",
+      "summary": "Western Europe's multi-week heatwave continues on July 15, with Paris recording a high of 32.2\u00b0C and London reaching 28.6\u00b0C \u2014 both well above seasonal norms \u2014 as no significant relief is in the immediate forecast. The heatwave follows what scientists confirmed was Western Europe's hottest-ever June, with temperatures running 3\u00b0C above average across the region, stressing ecosystems, infrastructure, and human health. The heat is also maintaining critical fire weather conditions across southern France, where the Fontainebleau Forest fire continues to be battled, and in southern Europe.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Western Europe records hottest-ever June as heatwaves intensify",
+          "url": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
+          "source": "theguardian.com"
+        },
+        {
+          "title": "Wildfire rages near Paris as heatwave scorches Europe",
+          "url": "https://www.yahoo.com/news/world/articles/france-sends-water-bombers-tackle-080106933.html",
+          "source": "yahoo.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.2 Earthquake Strikes Near Mindanao, Philippines \u2014 76 Reports of Shaking",
+      "location": "34 km WSW of Sarangani, Mindanao, Philippines",
+      "type": "earthquake",
+      "summary": "A magnitude 6.2 earthquake struck 34 kilometers west-southwest of Sarangani in the southern Philippines on July 14 at 15:49 UTC, at a depth of approximately 68 kilometers, according to USGS. The event was felt by at least 76 people, reflecting moderate ground motion in the region, though no tsunami alert was issued and the USGS assigned a green alert level. The southern Philippines and the Mindanao region lie within the highly active Pacific Ring of Fire and regularly experience significant seismic activity.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "South Asia Monsoon \u2014 India Flooding Continues, Dubai Hits 44.5\u00b0C as Regional Heat Persists",
+      "location": "Multiple Indian States, India; South Asia",
+      "type": "weather",
+      "summary": "India's monsoon flooding emergency continues across multiple states, with Mumbai recording 12.3mm of precipitation on July 15 and Dhaka seeing 11.4mm as the active monsoon trough drives widespread rainfall and flooding across the subcontinent. The broader South Asian region is also experiencing extreme heat, with Dubai reaching a high of 44.5\u00b0C \u2014 one of the highest city readings globally today \u2014 underscoring the compounding heat and flood risks stretching from the Arabian Peninsula through South and Southeast Asia. Data coverage for specific Indian state-level fatality and displacement figures remains sparse from structured sources.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "PNG Submarine Volcano \u2014 Potential New Island Still Growing, NASA Satellites Continue Tracking",
+      "location": "Bismarck Sea, North of Papua New Guinea, Southwest Pacific",
+      "type": "volcano",
+      "summary": "NASA satellites continue to monitor an active submarine volcanic eruption in the Bismarck Sea north of Papua New Guinea, where ongoing activity is building a potential new island from the seafloor. The eruption site sits near the same region that experienced a M6.4 earthquake on July 13, suggesting continued geological unrest in the area. Scientists are tracking the event closely as the emerging edifice, if sustained, could eventually breach the ocean surface and form a permanent landmass.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
