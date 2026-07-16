@@ -1,0 +1,114 @@
+{
+  "date": "2026-07-16",
+  "headline": "Canada's 835 Active Wildfires Deliver World's Worst Air Quality to Toronto as Texas Floods Spawn Tornadoes Overnight",
+  "overview": "A cascading set of natural disasters dominated July 16: Canadian wildfires burning across Ontario and the Northwest Territories have pushed smoke to Toronto \u2014 ranked worst air quality globally \u2014 with a plume threatening roughly 100 million Americans. Simultaneously, the Texas Hill Country flood crisis escalated dramatically overnight as new tornado warnings were issued for Uvalde and Kinney counties atop 10\u201320 inches of cumulative rain, with the Guadalupe and West Nueces rivers reaching major flood stage. The US heat dome and a third Western European heatwave of the year continue unabated, while a significant M6.4 earthquake struck off Papua New Guinea earlier this week.",
+  "events": [
+    {
+      "title": "Canada Wildfires Deliver World's Worst Air Quality to Toronto \u2014 Smoke to Engulf 100 Million Americans",
+      "location": "Ontario & Northwest Territories, Canada; Midwest and Northeast USA",
+      "type": "wildfire",
+      "summary": "With approximately 835 active wildfires burning across Canada in July 2026, fires in Northern Ontario have driven Toronto's air quality to the worst in the world, according to Reuters. The Washington Post reports that the resulting smoke plume is forecast to spread across the US Midwest and Northeast, threatening unhealthy air conditions for around 100 million people. Canada's 2026 fire season, which began more quietly than 2023, has rapidly intensified through mid-July.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfires in Northern Ontario bring world's worst air quality to Toronto",
+          "url": "https://www.reuters.com/business/environment/wildfires-northern-ontario-bring-worlds-worst-air-quality-toronto-2026-07-15/",
+          "source": "reuters.com"
+        },
+        {
+          "title": "Wildfire smoke from Canada will soon spread across the Midwest and East",
+          "url": "https://www.washingtonpost.com/weather/2026/07/15/wildfire-smoke-canada-will-soon-spread-across-midwest-northeast/",
+          "source": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "title": "Texas Hill Country Floods Spawn Overnight Tornadoes \u2014 Guadalupe River Hits Major Flood Stage",
+      "location": "Uvalde, Kinney, Kerr, Kendall, Bandera Counties, Texas Hill Country, USA",
+      "type": "weather",
+      "summary": "The multi-day Texas flash flood crisis escalated sharply overnight on July 16 as NWS Austin/San Antonio issued tornado warnings for Uvalde and Kinney counties from radar-indicated rotation near Concan and Standart, compounding a region already saturated by 10\u201320 inches of cumulative rainfall over 48\u201360 hours. The Guadalupe River at both Kerrville and Comfort rose to major flood stage, while the West Nueces River at Brackettville reached major flooding levels with waters extending four hundred yards into the flood plain. Flood warnings and flash flood warnings blanket more than a dozen south-central Texas counties, with the Cibolo Creek near San Antonio also rising to major flood levels threatening a trailer park.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Texas Braces for Heavy Storms One Year After Deadly Floods",
+          "url": "https://www.insurancejournal.com/news/southcentral/2026/07/15/877629.htm",
+          "source": "insurancejournal.com"
+        },
+        {
+          "title": "Dangerous flood threat targets millions across Texas",
+          "url": "https://nypost.com/2026/07/13/us-news/dangerous-flood-threat-targets-millions-across-texas/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "Babylon Fire \u2014 America's Largest Active Wildfire Threatens Monticello, Utah",
+      "location": "Manti-La Sal National Forest, San Juan County, Utah, USA",
+      "type": "wildfire",
+      "summary": "The Babylon Fire, which ignited on June 26 in the Manti-La Sal National Forest, has grown to become America's largest active wildfire as of mid-July 2026, with the town of Monticello, Utah living under persistent evacuation tension. NPR reports that residents have been on edge and preparing to leave since shortly after the fire started, underscoring the sustained threat the blaze poses to communities in San Juan County. An active NWS Flood Watch covering parts of Utah through July 17 adds an additional dimension of hazard as monsoon moisture arrives in the region.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
+          "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire",
+          "source": "npr.org"
+        },
+        {
+          "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
+          "url": "https://www.capradio.org/news/npr/story?storyid=nx-s1-5892509",
+          "source": "capradio.org"
+        }
+      ]
+    },
+    {
+      "title": "Bonners Ferry Wildfire Triggers Immediate Evacuation Order \u2014 Boundary County, Idaho",
+      "location": "Bonners Ferry, Boundary County, Idaho, USA",
+      "type": "wildfire",
+      "summary": "The Boundary County Sheriff's Office issued an immediate wildfire evacuation order on July 16 for multiple roads and addresses in and around Bonners Ferry, Idaho, including Turner's Hill Road, Holmes Road, Kings Row Road, and Fleming Creek Road, with additional areas placed on evacuation standby. The NWS Spokane simultaneously issued Red Flag Warnings across much of eastern Washington and the Okanogan Highlands through Thursday evening, citing dry thunderstorms with scattered lightning, gusty outflow winds, and critically low humidity across the broader Pacific Northwest interior. The combination of active ignitions and explosive fire-weather conditions raises the threat of rapid spread across the region.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "US Heat Dome Persists \u2014 110\u00b0F in Desert Southwest, Extreme Heat Warnings Across California",
+      "location": "California, Arizona, Desert Southwest, Minnesota, USA",
+      "type": "weather",
+      "summary": "The sprawling US heat dome showed no sign of breaking on July 16, with NWS issuing Extreme Heat Warnings for the Coachella Valley and San Diego County deserts (up to 110\u00b0F), Imperial Valley and Yuma (106\u2013114\u00b0F), and interior Los Angeles and Ventura county valleys (up to 106\u00b0F), while the Twin Cities metro in Minnesota remained under an Extreme Heat Warning through Friday evening with heat index values near 100\u00b0F. Dubai topped global city temperatures at 45.7\u00b0C (114\u00b0F) in the broader regional heat pattern, and New York City reached 35.9\u00b0C (96\u00b0F) reflecting the dome's continued grip on the eastern US. NASA has documented the event from space, with forecasters warning that dangerous heat illness risk remains high \u2014 especially for vulnerable populations without air conditioning.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Western Europe's Third Heatwave of 2026 Continues \u2014 Paris 33\u00b0C, Berlin 29\u00b0C",
+      "location": "Paris, France; London, United Kingdom; Berlin, Germany; Western Europe",
+      "type": "weather",
+      "summary": "Western Europe is enduring its third heatwave of the year as of July 16, with Paris recording a high of 33\u00b0C, London 28.5\u00b0C, and Berlin 29.3\u00b0C in current observations \u2014 sustained anomalous heat following a June that Forbes describes as officially the hottest on record across the continent. The Washington Post notes that after a record-breaking June, more extreme heat was forecast to persist into July with no immediate relief pattern in sight. The prolonged heat is straining public health infrastructure across multiple countries and continues to pose elevated wildfire risk in areas like the Fontainebleau forest south of Paris.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "About that unrelenting heat in Europe",
+          "url": "https://www.washingtonpost.com/weather/2026/07/09/about-that-unrelenting-heat-europe/",
+          "source": "washingtonpost.com"
+        },
+        {
+          "title": "Too Hot: Scorching Record-Breaking Heatwaves Across Europe In Photos",
+          "url": "https://www.forbes.com/sites/ceciliarodriguez/2026/07/12/too-hot--scorching-recordbreaking-heatwaves-across-europe-in-photos/",
+          "source": "forbes.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.4 Earthquake Strikes Off Papua New Guinea \u2014 Second Significant PNG Quake This Week",
+      "location": "191 km SE of Lorengau, Papua New Guinea, Southwest Pacific",
+      "type": "earthquake",
+      "summary": "A magnitude 6.4 earthquake struck 191 km southeast of Lorengau, Papua New Guinea at a shallow depth of 10 km on July 13, 2026, according to USGS data \u2014 rated green alert level with no tsunami alert issued. This is the second significant seismic event in the PNG region within days, following the previously reported M6.2 near Mindanao, Philippines (July 14), and occurs in the same tectonically active Southwest Pacific zone where a submarine volcano is currently building a potential new island in the Bismarck Sea. No felt reports were logged by USGS, suggesting the remote offshore location limited direct impact on populated areas.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
