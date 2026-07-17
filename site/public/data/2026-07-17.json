@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-17",
+  "headline": "Deadly Flood Waves Race Down Texas Hill Country Rivers for a Third Day as Fontainebleau Forest Burns Near Paris",
+  "overview": "A third consecutive day of catastrophic flooding struck Texas Hill Country on July 17, with 'large and deadly' flood waves surging down the Guadalupe and Pedernales Rivers and warnings now covering 16+ counties \u2014 at least one death confirmed. Simultaneously, a wildfire erupted in the historic Fontainebleau forest near Paris, France, forcing evacuations amid Europe's third heatwave of 2026, while Canadian wildfire smoke continued to choke major US cities including New York and Chicago. Globally, Shanghai sweltered at 40.3\u00b0C, Bangladesh monsoon floods killed 44 with over a million stranded, and NASA satellites continued tracking a growing submarine volcano in the Bismarck Sea that may form Earth's newest island.",
+  "events": [
+    {
+      "title": "Texas Hill Country Floods Escalate \u2014 Deadly Waves on Guadalupe and Pedernales, 16+ Counties Under Warning",
+      "location": "Guadalupe, Pedernales, and Nueces River Basins, Texas Hill Country, USA",
+      "type": "weather",
+      "summary": "On July 17, a third round of life-threatening flash flooding struck Texas Hill Country, with the NWS issuing Flash Flood Emergencies and reporting 'large and deadly' flood waves surging down the Guadalupe River near Spring Branch (Major flooding forecast) and the Pedernales River at Johnson City (upgraded to Major severity). At least one death was confirmed, with active high-water rescues and evacuations spanning Kerr, Kimble, Edwards, Real, Uvalde, Blanco, Comal, Kendall, Bandera, Karnes, Dimmit, Val Verde, Mason, Webb, Frio, and Crockett counties \u2014 a dramatic geographic expansion from prior days. Multiple rivers including the Nueces, Frio, Llano, San Antonio, Cibolo, Devils River, and Rio Grande are simultaneously in flood stage, with some warnings extending through July 21.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "'Large and deadly' flood waves threaten Texas Hill Country",
+          "url": "https://www.cnn.com/2026/07/16/weather/live-news/texas-flash-flooding-camp-mystic-climate",
+          "source": "cnn.com"
+        },
+        {
+          "title": "2 deadly flood waves race down Texas Hill Country rivers as additional Flash Flood Emergencies are issued",
+          "url": "https://www.foxweather.com/weather-news/texas-flash-flood-emergency-uvalde-kerr-hill-country-july-2026",
+          "source": "foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Fontainebleau Forest Fire Erupts Near Paris \u2014 Evacuations Ordered Amid European Heatwave",
+      "location": "Noisy-sur-Ecole, Fontainebleau, \u00cele-de-France, France",
+      "type": "wildfire",
+      "summary": "A significant wildfire broke out in the ancient Fontainebleau forest south of Paris, forcing evacuations and prompting France to deploy aerial water-bombing aircraft to combat the blaze. Two individuals have been arrested in connection with the fire, which ignited amid Europe's ongoing third heatwave of 2026, with Paris recording 26.9\u00b0C and conditions of low humidity and gusty winds. The Fontainebleau forest, a UNESCO World Heritage candidate and one of France's most visited natural areas, is highly vulnerable during heatwaves, and the fire adds a new wildfire front to a continent already facing extreme heat stress.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fire in Fontainebleau forest near Paris triggers evacuations; 10 still missing in Spanish wildfire",
+          "url": "https://apnews.com/article/france-fire-fontainebleau-heat-9231f354a12af0d1fd40aff4f759240b",
+          "source": "apnews.com"
+        },
+        {
+          "title": "Firefighters battle Fontainebleau forest fire near Paris as two arrested",
+          "url": "https://www.reuters.com/business/environment/firefighters-battle-fontainebleau-forest-fire-near-paris-two-arrested-2026-07-14/",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Canadian Wildfire Smoke Blankets US Cities \u2014 Manhattan and Chicago Skylines Obscured",
+      "location": "Ontario and Northwest Territories, Canada; Chicago, New York, USA",
+      "type": "wildfire",
+      "summary": "Canadian wildfire smoke continued to deliver hazardous air quality to major American cities on July 16\u201317, with haze visibly obscuring the Manhattan skyline and a photographic record of Chicago landmarks shrouded in thick smoke published by news outlets. The New York Times launched an interactive air quality tracking map as conditions remained dangerous across the Midwest and Northeast. This represents a significant escalation in visible urban impact compared to prior days, with smoke now confirmed at ground level in the nation's two largest metro areas.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Maps: Tracking Air Quality and Smoke From Wildfires in Canada and the U.S.",
+          "url": "https://www.nytimes.com/interactive/2026/weather/canada-us-wildfire-smoke-air-quality-maps.html",
+          "source": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Bangladesh Monsoon Floods Kill 44, Strand Over One Million",
+      "location": "Bangladesh",
+      "type": "weather",
+      "summary": "Monsoon flooding across Bangladesh has killed at least 44 people and left more than one million residents stranded, according to a Reuters report, reflecting a far broader humanitarian crisis than the localized Cox's Bazar landslides covered in prior reports. Dhaka recorded 10.2 mm of precipitation on July 17 with temperatures reaching 31.7\u00b0C, consistent with ongoing intense monsoon activity across the country. Relief and rescue operations are underway, but with rivers still running high and additional rainfall forecast, the crisis is expected to persist.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Floods in Bangladesh kill 44, leave over a million stranded",
+          "url": "https://www.reuters.com/business/environment/floods-bangladesh-kill-44-leave-over-million-stranded-2026-07-11/",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Hits 40.3\u00b0C \u2014 East Asia Extreme Heat Grips China's Financial Hub",
+      "location": "Shanghai, China",
+      "type": "weather",
+      "summary": "Shanghai recorded a maximum temperature of 40.3\u00b0C on July 17, with overnight lows remaining at a sweltering 31.4\u00b0C \u2014 among the highest readings logged in the global weather data today and a dangerous threshold for one of the world's most densely populated cities. This East Asian heat event has not been covered in prior reports and represents a notable independent heat extreme separate from the European and US heat domes. Heat stress risks are elevated for Shanghai's 24 million residents, particularly the elderly and outdoor workers.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Pacific Northwest Red Flag Warnings \u2014 Lightning-Ignition Fire Threat Across Washington, Oregon, and Idaho",
+      "location": "Okanogan, Methow, Spokane, Siskiyou, Sawtooth, Idaho Panhandle, Pacific Northwest, USA",
+      "type": "weather",
+      "summary": "The NWS issued a sweeping cluster of Red Flag Warnings on July 17 spanning large portions of Washington, Oregon, and Idaho, citing a dangerous combination of scattered thunderstorms with frequent dry lightning, gusty outflow winds of up to 30 mph, and humidity as low as 7\u201312% in some zones. The warnings cover the Okanogan and Methow Valleys, Waterville Plateau, Eastern Columbia Basin, Spokane area, Idaho and Selkirk Mountains, northern Idaho Panhandle, central Siskiyou County, Modoc County, and multiple Sawtooth National Forest zones. This widespread fire-weather setup is notable given the region's already-active wildfire season and the ongoing Bonners Ferry evacuation in Boundary County, Idaho.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "PNG Bismarck Sea Submarine Volcano \u2014 NASA Confirms Potential New Island Still Rising",
+      "location": "Bismarck Sea, North of Papua New Guinea, Southwest Pacific",
+      "type": "volcano",
+      "summary": "NASA satellites are actively monitoring a submarine volcanic eruption in the Bismarck Sea north of Papua New Guinea, with ongoing imagery confirming that the eruption is building material that could form Earth's newest island. The event, first detected in early July, has grown sufficiently to attract dedicated NASA Earthdata tracking and widespread science media coverage. No tsunami alerts have been issued and there is no immediate threat to populated coastlines, but the geological significance of a potential new island formation in the Southwest Pacific is drawing global scientific attention.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
