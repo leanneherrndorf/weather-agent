@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-18",
+  "headline": "M7.3 Earthquake Strikes Off Mexico's Chiapas Coast as Texas Floods Spread South Along Nueces, Frio, and San Antonio Rivers",
+  "overview": "A major M7.3 earthquake shook the Pacific coast off Chiapas, Mexico on July 17, rattling Guatemala and El Salvador and triggering a USGS yellow alert. Simultaneously, multi-day catastrophic flooding in Texas has dramatically expanded southward, with major flood warnings now active on the Nueces, Frio, San Antonio, and Pecos rivers through the weekend and into next week. Elsewhere, Kilauea's Halema\u02bbuma\u02bbu crater entered its 51st lava fountaining episode, and a severe storm system placed over 90 million Americans from the Northeast to the Mid-Atlantic under flash flood and severe weather watches.",
+  "events": [
+    {
+      "title": "M7.3 Earthquake Strikes Off Chiapas, Mexico \u2014 Felt Across Central America",
+      "location": "58 km WSW of Puerto Madero, Chiapas, Mexico",
+      "type": "earthquake",
+      "summary": "A magnitude 7.3 earthquake struck at shallow depth (18.6 km) off Mexico's southern Pacific coast on July 17 at 14:48 UTC, receiving a USGS yellow alert level. The quake was felt strongly across Chiapas, and shaking was reported as far as Guatemala and El Salvador, with 283 felt reports logged; no tsunami alert was issued. Authorities were assessing damage in coastal communities of the Chiapas coast as aftershocks continued.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Map: 7.3-Magnitude Earthquake Hits Off Mexico's Coast",
+          "url": "https://www.nytimes.com/interactive/2026/07/17/world/earthquake-mexico-guatemala.html",
+          "source": "www.nytimes.com"
+        },
+        {
+          "title": "Powerful earthquake in Mexico shakes Guatemala and El Salvador",
+          "url": "https://www.cnn.com/2026/07/17/americas/mexico-earthquake-chiapas-intl-latam",
+          "source": "www.cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "Texas Floods Expand South \u2014 Nueces, Frio, Pecos, and San Antonio Rivers at Major Flood Stage",
+      "location": "South Texas River Basins \u2014 Frio, Nueces, Dimmit, La Salle, Val Verde, Goliad, Karnes Counties, Texas, USA",
+      "type": "weather",
+      "summary": "The Texas flooding disaster that began in the Hill Country has dramatically expanded southward, with the Nueces River near Asherton reaching major flood stage \u2014 projected to remain so through Wednesday July 22 \u2014 and the Frio River near Derby recording 19.0 feet against a 6.0-foot bankfull stage. A Flash Flood Warning on the Pecos River in Val Verde County warned of a potentially historic crest not seen since 1974, while the San Antonio River is flooding Goliad and Karnes counties through Monday. The geographic footprint of the flood disaster has more than doubled since July 16, now encompassing a broad swath of south-central and south Texas.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "2 dead as catastrophic floods once again hit Texas Hill Country",
+          "url": "https://www.usatoday.com/story/news/weather/2026/07/17/texas-flooding-2-dead-hill-country/90953188007/",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "Deadly floods leave trail of destruction across Texas Hill Country",
+          "url": "https://www.modernghana.com/amp/videonews/684296",
+          "source": "www.modernghana.com"
+        }
+      ]
+    },
+    {
+      "title": "Kilauea Episode 51 \u2014 Lava Fountaining Resumes at Halema\u02bbuma\u02bbu Crater",
+      "location": "Halema\u02bbuma\u02bbu Crater, K\u012blauea Volcano, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "Episode 51 of lava fountaining at K\u012blauea's Halema\u02bbuma\u02bbu crater began on July 15, continuing a pattern of episodic eruptions that has defined this eruptive period. USGS webcams captured active lava fountaining within the summit caldera, with no lava flows threatening populated areas. The eruption remains within Hawai\u02bbi Volcanoes National Park, and USGS continues monitoring activity closely.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Lava fountaining returns to Kilauea's Halemaumau crater",
+          "url": "https://www.staradvertiser.com/2026/07/15/breaking-news/lava-fountaining-returns-to-kilaueas-halemaumau-crater-3/",
+          "source": "www.staradvertiser.com"
+        }
+      ]
+    },
+    {
+      "title": "90 Million Americans Under Severe Storm and Flood Threat \u2014 NYC and NJ Issue Flash Flood Watches",
+      "location": "Northeast US \u2014 New York City, New Jersey, Delaware, Mid-Atlantic, USA",
+      "type": "weather",
+      "summary": "A potent storm system is targeting the US East Coast on July 18, placing over 90 million Americans under threat of severe thunderstorms, large hail, damaging wind gusts, and possible tornadoes. The NWS issued Flash Flood Watches covering New York City's five boroughs, all of New Jersey, and northern Delaware, valid through July 19 at 2:00 AM EDT, with additional flood watches active for New York's Westchester County and Hudson County, NJ. This storm system represents a new and distinct severe weather threat for the Northeast, separate from the ongoing Canadian wildfire smoke event.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Seoul Inundated \u2014 98mm of Rain in 24 Hours as Korean Peninsula Monsoon Peaks",
+      "location": "Seoul, South Korea",
+      "type": "weather",
+      "summary": "Seoul recorded 98.4 mm of precipitation in a single day on July 18, making it the most rainfall-affected major city in the global weather dataset and signaling an intense peak in the East Asian monsoon season. Heavy monsoon rains of this magnitude frequently trigger urban flooding, landslides, and river overflows across the densely populated Seoul Capital Area and surrounding regions. Data coverage for South Korea's rural and mountainous areas is limited, and the full impact of this rainfall event may be broader than city-level figures indicate.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Chile Winter Floods Kill 3, Displace Hundreds Across Central and Southern Regions",
+      "location": "Central and Southern Chile",
+      "type": "weather",
+      "summary": "Heavy winter rains and strong winds struck central and southern Chile on July 18, killing at least three people and displacing hundreds of residents. The event underscores the ongoing vulnerability of Chile's mid-latitude regions to intense Southern Hemisphere winter precipitation, compounded by saturated soils from prior storms. Emergency services were conducting rescues and assessing infrastructure damage across the affected communities.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Heavy rains, floods kill 3, displace hundreds in Chile",
+          "url": "https://pajhwok.com/2026/07/18/heavy-rains-floods-kill-3-displace-hundreds-in-chile/",
+          "source": "pajhwok.com"
+        }
+      ]
+    },
+    {
+      "title": "Wyoming Absaroka Mountains Flood Watch \u2014 Slow-Moving Storm Threatens Cody Foothills",
+      "location": "Absaroka Mountains and Cody Foothills, Northwest Wyoming, USA",
+      "type": "weather",
+      "summary": "The NWS in Riverton issued a Flood Watch for the Absaroka Mountains and Cody Foothills on July 18, valid through Saturday evening, citing a slow-moving storm capable of producing excessive runoff into rivers, creeks, and streams. The Absaroka region features steep terrain and narrow canyons where rainfall can rapidly concentrate into dangerous flash floods with little warning time. This alert represents a fresh flood threat in a mountainous area not previously flagged in recent reports.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
