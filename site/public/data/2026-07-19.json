@@ -1,0 +1,88 @@
+{
+  "date": "2026-07-19",
+  "headline": "Texas Flood Crisis Expands to Rio Grande as Nueces Approaches Record Stage, While Kansas Braces for Dangerous 110\u00b0F Heat Index",
+  "overview": "An extraordinary multi-week flood disaster in Texas has broadened southward and westward on July 19, with the Rio Grande now under Flood Warning at Laredo and the Nueces River near Asherton approaching its flood of record \u2014 threatening to remain at major flood stage through Wednesday. Meanwhile, a building heat dome is generating Extreme Heat Watches across Kansas and the Central Plains with heat index values potentially reaching 110\u00b0F by Tuesday, and a separate atmospheric river is funneling heavy rainfall toward Seward, Alaska. Elsewhere, western Pennsylvania is dealing with overnight flash flooding, the Fontainebleau Forest Fire near Paris continues to burn with over 850 firefighters deployed, and Canadian wildfire smoke persists across a wide swath of the eastern United States.",
+  "events": [
+    {
+      "title": "Texas Mega-Flood Expands to Rio Grande \u2014 Nueces Approaches Record Stage",
+      "location": "South and West Texas \u2014 Rio Grande, Nueces, Frio, San Antonio, and Devils River Basins, USA",
+      "type": "weather",
+      "summary": "The Texas flood disaster that began in the Hill Country has spread dramatically southward and westward, with the NWS issuing a new Flood Warning for the Rio Grande at Laredo (Webb County) and extending warnings on the Nueces River near Asherton in Dimmit County, where major flooding is occurring and conditions are described as approaching the flood of record \u2014 with the river and Turkey Creek spreading nearly a mile and a half wide. Flood Warnings also remain active on the Frio River near Derby through Wednesday, the Devils River at Comstock, and the San Antonio River from Goliad south to Refugio, Calhoun, and Victoria Counties, indicating the floodwave is still propagating downstream toward the Gulf Coast. Multiple rivers are forecast to remain at major flood stage into next week, with livestock trapped and homes and businesses inundated across a swath of South Texas stretching from the Hill Country to within miles of the Mexican border.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Dangerous heavy rain is hammering parts of Texas, raising flood risk in waterlogged region",
+          "url": "https://www.cnn.com/2026/07/15/weather/texas-flooding-rain-july-climate",
+          "source": "www.cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "Kansas and Central Plains Brace for 110\u00b0F Heat Index \u2014 Extreme Heat Watches Issued",
+      "location": "South-Central Kansas \u2014 Wichita Metro, Cowley, Sedgwick, Butler, Sumner, and Surrounding Counties, USA",
+      "type": "weather",
+      "summary": "The NWS office in Wichita has issued Extreme Heat Watches for 17 counties across south-central and southeast Kansas, valid from Tuesday afternoon through Tuesday evening, with dangerously hot conditions and heat index values potentially reaching 110\u00b0F. A Heat Advisory is also in effect for the same region on Monday, with heat index values around 105\u00b0F expected \u2014 part of a broader summer heat dome that has been building across the central United States since mid-July. Health officials warn that heat-related illnesses increase significantly during such extreme heat and high-humidity events, with outdoor workers and vulnerable populations at greatest risk.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Western Pennsylvania Flash Flooding \u2014 Overnight Storm Warnings Across 7 Counties",
+      "location": "Armstrong, Clarion, Indiana, Jefferson, Venango, and Forest Counties, Western Pennsylvania, USA",
+      "type": "weather",
+      "summary": "A cluster of severe thunderstorms moved through western Pennsylvania on the night of July 18\u201319, triggering multiple simultaneous NWS Flood Warnings across at least six counties including Armstrong, Clarion, Indiana, Jefferson, Venango, and Forest. Small streams and creeks rose rapidly due to excessive rainfall runoff, prompting warnings of imminent or ongoing inundation of rivers, creeks, and low-lying flood-prone areas through Sunday morning. The flooding comes on the heels of an already elevated severe weather risk across the broader mid-Atlantic and Northeast region, with wildfire smoke from Canadian fires also compounding air quality concerns across Pennsylvania.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Severe T-Storm, flood warnings in place for parts of Western Pennsylvania",
+          "url": "https://www.wtae.com/article/severe-weather-alerts-saturday-july-18-2026/73176132",
+          "source": "www.wtae.com"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Atmospheric River Threatens Seward and Southern Kenai Mountains with Multi-Day Flooding",
+      "location": "Seward and Southern Kenai Mountains, Alaska, USA",
+      "type": "weather",
+      "summary": "The NWS in Anchorage has issued a Flood Watch for Seward and the southern Kenai Mountains, effective from early Sunday through Tuesday morning, driven by a long-duration rain event coinciding with an atmospheric river directing sustained moisture into the region. Excessive runoff is expected to cause flooding of rivers, creeks, streams, and urban drainage systems, with the risk elevated by the multi-day nature of the event. Seward, which sits at the head of Resurrection Bay and is flanked by steep terrain, is particularly vulnerable to rapid stream rises during prolonged heavy precipitation events.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Bismarck Sea Submarine Volcano \u2014 Potential New Island Still Rising",
+      "location": "Bismarck Sea, North of Papua New Guinea, Southwest Pacific",
+      "type": "volcano",
+      "summary": "NASA satellite imagery continues to document an active submarine volcanic eruption in the Bismarck Sea north of Papua New Guinea, where eruptive material has been accumulating and a new island formation remains possible. The eruption was first confirmed earlier in July, with NASA imagery showing a growing underwater feature and associated discoloration of surface waters consistent with ongoing volcanic outgassing and lava deposition. The event represents one of the rarest geological phenomena \u2014 the birth of a new island \u2014 and scientific monitoring is ongoing, though data coverage for this remote location remains limited.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Fontainebleau Forest Fire Continues Near Paris \u2014 850 Firefighters Still Deployed",
+      "location": "Noisy-sur-Ecole, Fontainebleau Forest, \u00cele-de-France, France",
+      "type": "wildfire",
+      "summary": "The wildfire in the Fontainebleau Forest southeast of Paris, which ignited during the European heatwave, was still burning as of July 14 with approximately 850 firefighters engaged in containment efforts \u2014 making it one of the largest wildfire suppression operations in recent French history. IQAir confirmed the fire was active at the Fontainebleau Forest as of July 14, generating smoke and significant air quality impacts across the \u00cele-de-France region. Aerial water-bombers have been deployed alongside ground crews, though full containment had not been declared as of the most recent reports.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Fontainebleau fire still burning as 850 firefighters tackle blaze",
+          "url": "https://www.euronews.com/my-europe/2026/07/14/fontainebleau-fire-still-burning-as-850-firefighters-tackle-blaze",
+          "source": "www.euronews.com"
+        }
+      ]
+    },
+    {
+      "title": "Canadian Wildfire Smoke Persists Across Eastern US \u2014 Connecticut to Pennsylvania Air Quality Hazard",
+      "location": "Ontario and Northwest Territories, Canada; Pennsylvania, Connecticut, and Eastern USA",
+      "type": "wildfire",
+      "summary": "Smoke from large active wildfires in Ontario and Canada's Northwest Territories continues to stream south across the eastern United States, generating unhealthy to hazardous air quality conditions from the Great Lakes to southern New England as of July 19. New reporting from Connecticut describes a \"triple whammy\" of extreme heat, wildfire smoke, and other health concerns, with residents comparing the psychological toll to COVID-era disruptions, while Pennsylvania air quality alerts have been compounded by overnight storm activity. The persistent smoke plume, now in its third day affecting major population centers, is limiting visibility and elevating fine particulate matter (PM2.5) levels well above safe thresholds across a region home to tens of millions of people.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
