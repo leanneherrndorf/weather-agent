@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-20",
+  "headline": "Tropical Storm Bertha Threatens Gulf Coast as Simultaneous Heat Dome, Oregon Wildfires, and Ongoing Texas Mega-Flood Compound a Dangerous Day Across the US",
+  "overview": "A newly organized tropical storm is bearing down on the Alabama and Florida Panhandle coastlines with tropical storm-force winds and dangerous seas, drawing NWS Warnings and Watches across a broad swath of the northern Gulf. Simultaneously, an entrenched heat dome is driving heat index values to 115\u00b0F across Arkansas and Mississippi \u2014 with a second heat event building toward the Pacific Northwest \u2014 while dozens of wildfires burn across Oregon under worsening fire weather conditions. South Texas river systems remain at or near record flood stages, and a deadly M5.5 earthquake in the Peruvian Andes has killed at least five people.",
+  "events": [
+    {
+      "title": "Tropical Storm Bertha Threatens Alabama and Florida Panhandle",
+      "location": "Northern Gulf of Mexico \u2014 Alabama, Florida Panhandle Coast, USA",
+      "type": "weather",
+      "summary": "Tropical Storm Bertha, which organized from Invest 91L on July 19, is generating Tropical Storm Watches across coastal Alabama \u2014 including Mobile, Gulf Shores, Orange Beach, Pensacola, Destin, and Fort Walton Beach \u2014 and Tropical Storm Warnings over open Gulf waters, with sustained southwest winds of 25\u201340 knots, gusts to 55 knots, and seas of 10\u201315 feet forecast over open water. Tropical storm-force winds are expected to impact the coast from early Tuesday morning through Wednesday afternoon, bringing hazardous maritime conditions, coastal flooding, and significant rainfall. The greatest threat to life and property includes storm surge potential along the Alabama and northwest Florida coasts, with inland flooding likely as the system approaches and makes landfall.",
+      "severity": "extreme",
+      "articles": [
+        {
+          "title": "Tropical depression forms over Gulf, heavy rains may impact Florida",
+          "url": "https://www.naplesnews.com/story/weather/hurricanes/2026/07/19/noaa-national-hurricane-center-tropical-depression-bertha-florida/90959124007/",
+          "source": "naplesnews.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "South Texas Mega-Flood Persists \u2014 Nueces Near Record, Frio Extended Through Thursday",
+      "location": "South Texas River Basins \u2014 Nueces, Frio, San Antonio, Rio Grande, Val Verde, Dimmit, La Salle, Goliad, Karnes Counties, USA",
+      "type": "weather",
+      "summary": "Active Flood Warnings remain in effect across at least seven South Texas counties, with the Nueces River near Asherton at major flood stage approaching the flood of record \u2014 a level at which the river and Turkey Creek spread nearly a mile and a half wide \u2014 while the Frio River near Derby is under a Flood Warning extended until early Thursday, July 23. The San Antonio River, Rio Grande at Laredo, and Devils River at Bakers Crossing continue at flood stage, keeping a broad multi-basin crisis active across South and West Texas with no near-term receding forecast. At least two deaths have been confirmed across the broader Texas flooding event that began earlier this month.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "2 dead as catastrophic floods once again hit Texas Hill Country",
+          "url": "https://www.usatoday.com/story/news/weather/2026/07/17/texas-flooding-2-dead-hill-country/90953188007/",
+          "source": "usatoday.com"
+        },
+        {
+          "title": "Crews scramble to more water rescues in Texas after days of punishing rains",
+          "url": "https://www.thesunchronicle.com/news/nation_world/crews-scamble-to-more-water-rescues-in-texas-after-days-of-punishing-rains/article_313cc9c5-cc9b-5560-a8c8-e9897df6f858.html",
+          "source": "thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Extreme Heat Dome Expands \u2014 115\u00b0F Heat Index Across Arkansas and Mississippi, Pacific Northwest on Deck",
+      "location": "Arkansas, Mississippi, Oklahoma, Central Plains, and Pacific Northwest, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings are in effect across broad swaths of Arkansas and Mississippi, where heat index values are forecast to reach a dangerous 115\u00b0F on Monday and Tuesday \u2014 among the highest readings in the country \u2014 while additional Extreme Heat Warnings cover northwest Iowa and northeast Nebraska with indices to 110\u00b0F. The heat dome is simultaneously expanding westward, with a new Extreme Heat Watch issued for the Eastern Columbia River Gorge, Lower Columbia Basin, and Yakima Valley of Oregon and Washington, where temperatures of 100\u2013105\u00b0F are forecast Tuesday through Thursday. Kansas and southeast Oklahoma also remain under Extreme Heat Watches with potential 110\u2013113\u00b0F indices extending into Tuesday evening.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Dozens of Oregon Wildfires Burn Statewide \u2014 Thousands Evacuated as Heat Wave Arrives",
+      "location": "Oregon, USA (Crosswhite Fire and multiple complexes statewide)",
+      "type": "wildfire",
+      "summary": "Dozens of wildfires ignited rapidly across Oregon, prompting thousands of residents to evacuate or prepare to do so across multiple counties including Baker, Union, Jackson, Jefferson, Wasco, Wheeler, Gilliam, Crook, Douglas, and Umatilla. The Crosswhite Fire is the largest active blaze as of Monday, with West Coast firefighting task forces mobilized to support multiple named fires including the Dry Creek, Hoag, and Evans Creek fires. Conditions are expected to deteriorate sharply as an incoming heat wave \u2014 with temperatures potentially reaching 100\u00b0F or higher \u2014 arrives Monday and persists through the week, with Red Flag Warnings already active in adjacent northern California.",
+      "severity": "extreme",
+      "articles": [
+        {
+          "title": "Dozens of Wildfires Are Suddenly Burning in Oregon",
+          "url": "https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html",
+          "source": "nytimes.com"
+        },
+        {
+          "title": "Thousands in Oregon remain under evacuation orders as wildfires burn statewide",
+          "url": "https://katu.com/news/local/thousands-in-oregon-remain-under-evacuation-orders-as-wildfires-burn-statewide-fire-crosswhite-rowe-creek-complex-east-evans-road-baker-union-jackson-jefferson-wasco-wheeler-gilliam-crook-douglas-umatilla-county",
+          "source": "katu.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "M5.5 Earthquake Kills 5 Near Sicaya, Peru",
+      "location": "2 km WSW of Sicaya, Jun\u00edn Region, Peru",
+      "type": "earthquake",
+      "summary": "A magnitude 5.5 earthquake struck the Andean city of Sicaya in Peru's Jun\u00edn region on July 19 at 02:24 UTC, at a shallow depth of 10 km, killing at least five people, injuring more than 20, and displacing approximately 300 after buildings collapsed. USGS assigned the event a yellow alert level, reflecting its localized but significant human impact driven by the shallow focal depth and vulnerable construction in the Andean highlands. No tsunami was generated.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "5.5-magnitude earthquake hits Peru's Andes region and kills at least 5 people",
+          "url": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+          "source": "theguardian.com"
+        },
+        {
+          "title": "Magnitude 5.5 earthquake hits Peru's Andes region, killing at least 5",
+          "url": "https://www.latimes.com/world-nation/story/2026-07-19/magnitude-5-5-earthquake-hits-perus-andes-region-killing-at-least-5",
+          "source": "latimes.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "Beaver City, Utah Inundated by Flash Flood and Debris Flows",
+      "location": "Beaver City and Minersville Reservoir, Beaver County, Southern Utah, USA",
+      "type": "weather",
+      "summary": "A Flood Warning covering Beaver County, Utah remains in effect through Monday evening following major flooding and debris flows that inundated Beaver City, with ongoing inundation developing downstream toward Minersville Reservoir. Numerous roads have been blocked, and the NWS Salt Lake City office noted the warning may be extended as conditions evolve. The event reflects a broader pattern of monsoon-driven flash flooding across the Desert Southwest, with concurrent Flood Watches active in southeast Arizona and southwest New Mexico.",
+      "severity": "severe",
+      "articles": [],
+      "continuing": false
+    },
+    {
+      "title": "Bismarck Sea Submarine Volcano \u2014 Continued Seafloor Uplift North of Papua New Guinea",
+      "location": "Bismarck Sea, North of Papua New Guinea, Southwest Pacific",
+      "type": "volcano",
+      "summary": "The submarine volcanic structure identified in the Bismarck Sea north of Papua New Guinea continues to show signs of activity, with seafloor uplift and discolored water reported in the area over recent days. No confirmed surface island has yet emerged, but geological monitoring indicates the event remains ongoing and scientifically significant. News coverage and corroborating articles specific to this event were not located in today's search results; data is sparse and primarily sourced from prior reporting.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
