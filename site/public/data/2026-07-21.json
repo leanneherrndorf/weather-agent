@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-21",
+  "headline": "Tropical Storm Bertha makes Gulf Coast landfall as Tropical Storm Warnings stretch from Louisiana to the Florida Panhandle, while a punishing heat dome triggers Extreme Heat Warnings across a dozen states and new 115\u00b0F+ watches are issued for the Desert Southwest.",
+  "overview": "July 21 is dominated by the arrival of Tropical Storm Bertha along the northern Gulf Coast, with Tropical Storm Warnings and Storm Surge Watches in effect from lower Louisiana through coastal Alabama, Mississippi, and the Florida Panhandle. Simultaneously, a sprawling heat dome maintains Extreme Heat Warnings \u2014 with heat indices up to 116\u00b0F \u2014 across Arkansas, Mississippi, Tennessee, Oklahoma, Texas, Illinois, Indiana, and Kentucky, while new multi-day Extreme Heat Watches extending through July 27 have been issued for Arizona, Nevada, and Southern California deserts with temperatures potentially reaching 120\u00b0F in Death Valley. Elsewhere, a M7.3 earthquake that struck off Chiapas, Mexico on July 17 remains the week's most significant geological event, and fresh flash flood watches cover a large swath of the Appalachian tri-state region of Kentucky, Ohio, and West Virginia.",
+  "events": [
+    {
+      "title": "Tropical Storm Bertha Makes Gulf Coast Landfall \u2014 Warnings from Louisiana to Florida Panhandle",
+      "location": "Northern Gulf Coast \u2014 Louisiana, Alabama, Mississippi, Florida Panhandle, USA",
+      "type": "weather",
+      "summary": "Tropical Storm Bertha has made landfall along the northern Gulf Coast, triggering Tropical Storm Warnings from coastal Louisiana \u2014 including the New Orleans metro area, Plaquemines Parish, and St. Bernard Parish \u2014 through coastal Alabama and the Mississippi Sound, with Tropical Storm Watches extending east to the Florida Panhandle. Storm Surge Watches are in effect for communities including Dauphin Island, Gulf Shores, Orange Beach (Alabama), Bay St. Louis, Gulfport, and Biloxi (Mississippi), with forecast gusts up to 50 knots over open Gulf waters. The storm has significantly expanded its threat zone westward into Southeast Louisiana compared to its prior track, elevating the event from a Florida Panhandle watch to an active multi-state landfall situation.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical Storm Bertha expected to make landfall in Louisiana",
+          "url": "https://www.axios.com/local/new-orleans/2026/07/20/tropical-storm-bertha-landfall-louisiana-rainfall",
+          "source": "www.axios.com"
+        }
+      ]
+    },
+    {
+      "title": "M7.3 Earthquake Strikes Off Chiapas, Mexico \u2014 Felt Across Guatemala and El Salvador",
+      "location": "58 km WSW of Puerto Madero, Chiapas, Mexico",
+      "type": "earthquake",
+      "summary": "A major M7.3 earthquake struck at shallow depth (18.6 km) approximately 58 km west-southwest of Puerto Madero, Chiapas, Mexico on July 17 at 14:48 UTC, receiving a USGS yellow alert level and generating 286 felt reports. The shaking was felt widely across southern Mexico and into neighboring Guatemala and El Salvador, prompting building evacuations. A M6.4 aftershock followed within 32 minutes at 86 km WSW of Puerto Madero. No tsunami alert was issued.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Map: 7.3-Magnitude Earthquake Hits Off Mexico's Coast",
+          "url": "https://www.nytimes.com/interactive/2026/07/17/world/earthquake-mexico-guatemala.html",
+          "source": "www.nytimes.com"
+        },
+        {
+          "title": "Powerful earthquake in Mexico shakes Guatemala and El Salvador",
+          "url": "https://www.cnn.com/2026/07/17/americas/mexico-earthquake-chiapas-intl-latam",
+          "source": "www.cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "Central and Southern US Heat Dome \u2014 Extreme Heat Warnings Span a Dozen States, Heat Indices to 116\u00b0F",
+      "location": "Arkansas, Mississippi, Oklahoma, Tennessee, Texas, Illinois, Indiana, Kentucky, Missouri, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings remain in effect across a vast multi-state corridor on July 21, with heat index values forecast up to 116\u00b0F in parts of Arkansas, Mississippi, and southeastern Missouri, and 115\u00b0F across Oklahoma, northeast Texas, West Tennessee, and the lower Ohio Valley including southern Illinois, Indiana, and Kentucky. The warnings, issued by NWS offices in Little Rock, Memphis, Tulsa, Norman, Shreveport, Fort Worth, and Paducah, span some of the most densely populated parts of the South and Midwest. The heat dome that began dominating the central US earlier this week shows no significant signs of retreat for Tuesday.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Desert Southwest Extreme Heat Watch Issued \u2014 Up to 120\u00b0F Possible Through July 27",
+      "location": "Arizona, Nevada, Southern California (Mojave, Coachella Valley, Death Valley), USA",
+      "type": "weather",
+      "summary": "NWS offices in Phoenix, Las Vegas, and Los Angeles have issued multi-day Extreme Heat Watches running from Wednesday, July 22 through Monday, July 27, covering a broad swath of the Desert Southwest. Afternoon temperatures of 108\u2013116\u00b0F are forecast across the Coachella Valley, Phoenix metro, lower Colorado River Valley, and Mojave Desert, with Death Valley potentially approaching 120\u00b0F \u2014 among the highest readings on Earth. The watches, rated as Major HeatRisk, highlight an unprecedented stretch of consecutive dangerous heat days across the region.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "South Texas Mega-Flood Continues \u2014 Nueces Near Record Stage, Frio in Major Flood",
+      "location": "South Texas River Basins \u2014 Nueces, Frio, San Antonio Rivers; Dimmit, La Salle, Live Oak, McMullen, Goliad Counties, Texas, USA",
+      "type": "weather",
+      "summary": "Active Flood Warnings remain in effect across multiple South Texas river systems on July 21, with the Nueces River near Asherton (Dimmit County) approaching flood-of-record stage and forecast to remain in major flood through early Sunday morning. The Frio River at Tilden is under a major flood warning through Friday night, with the river expected to inundate residences and businesses. The ongoing multi-day event continues to affect downstream communities and infrastructure including a previously collapsed bridge in Uvalde County, and the San Antonio River near Goliad also remains in minor flood.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Bridge collapses in Uvalde County amid flooding on Nueces River, DPS footage shows",
+          "url": "https://www.ksat.com/news/local/2026/07/17/dps-captures-collapse-of-farm-to-market-418-bridge-in-uvalde-county/",
+          "source": "www.ksat.com"
+        },
+        {
+          "title": "Texas Floods Kill Two, More Storms Forecast for Overnight",
+          "url": "https://www.insurancejournal.com/news/southcentral/2026/07/17/878086.htm",
+          "source": "www.insurancejournal.com"
+        }
+      ]
+    },
+    {
+      "title": "Sheveluch Volcano Eruption Intensifies \u2014 Ash to 7,000 m Over Kamchatka",
+      "location": "Sheveluch Volcano, Kamchatka Peninsula, Russia",
+      "type": "volcano",
+      "summary": "Russia's Sheveluch volcano, the most persistently active on the Kamchatka Peninsula, has sent ash columns above 7,000 meters (approximately the cruising altitude of regional aircraft) multiple times during an intensifying July eruption sequence, with at least four significant ash events recorded in two weeks. The ongoing eruption sequence represents an escalation in activity from background levels and poses aviation hazards for trans-Pacific and regional flight paths. Sheveluch is monitored by the Kamchatka Volcanic Eruption Response Team (KVERT), which has maintained elevated aviation color codes.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Sheveluch Sends Ash to Cruising Altitude Again as July Eruption Sequence Intensifies",
+          "url": "https://www.techtimes.com/articles/320718/20260716/sheveluch-sends-ash-cruising-altitude-again-july-eruption-sequence-intensifies.htm",
+          "source": "www.techtimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Multi-State Flash Flood Watches \u2014 Kentucky, Ohio, West Virginia, and Pennsylvania",
+      "location": "Kentucky, Ohio, West Virginia, Pennsylvania, USA (Appalachian and Ohio Valley Region)",
+      "type": "weather",
+      "summary": "NWS offices in Charleston WV, Louisville KY, Jackson KY, Wilmington OH, and Pittsburgh PA have issued overlapping Flash Flood and Flood Watches covering large portions of four states on July 21, as a series of potent thunderstorms threatens to produce excessive rainfall across the Appalachian foothills and Ohio Valley. The watches cover dozens of counties including the Cincinnati-to-Charleston corridor and communities in southwestern Virginia and northeastern Kentucky, with flash flooding possible in rivers, creeks, and low-lying areas through Tuesday night. The event is separate from and in addition to the ongoing Tropical Storm Bertha rainfall threat.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
