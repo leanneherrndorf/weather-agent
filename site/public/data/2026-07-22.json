@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-22",
+  "headline": "Tropical Storm Bertha drives coastal flooding across the northern Gulf as West Virginia rivers reach major flood stage and a record-threatening heat dome intensifies from the Desert Southwest to Texas.",
+  "overview": "Tropical Storm Bertha, now onshore along the northern Gulf Coast, is generating significant coastal flooding, storm surge, and tropical storm-force gusts from Louisiana to the Florida Panhandle. Simultaneously, an historic heat dome maintains Extreme Heat Warnings across dozens of counties from the Desert Southwest to the Southeast, with Death Valley approaching 120\u00b0F and heat indices topping 116\u00b0F in Texas. Compounding the US disaster picture, West Virginia rivers have risen to major flood stage, the Babylon Fire in Utah has grown into the nation's largest active wildfire, and K\u012blauea volcano on Hawai\u02bbi has resumed lava fountaining at its summit crater.",
+  "events": [
+    {
+      "title": "Tropical Storm Bertha \u2014 Coastal Flooding and Storm Surge Strike Northern Gulf Coast",
+      "location": "Louisiana, Mississippi, Alabama, Florida Panhandle, USA",
+      "type": "weather",
+      "summary": "Tropical Storm Bertha has made landfall along the northern Gulf Coast, with active Tropical Storm Warnings spanning from coastal Louisiana parishes through Mobile Bay and the Florida Panhandle, and gusts up to 65 mph reported in lower Plaquemines Parish, Louisiana. A Coastal Flood Warning is in effect for southeastern Louisiana and southern Mississippi and Alabama counties through early Thursday, with significant inundation of roads, low-lying property, and critical infrastructure expected. The storm's slow movement is prolonging tropical storm-force winds and heavy rainfall across the region well into Wednesday.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "West Virginia Rivers Reach Major Flood Stage \u2014 Tygart Valley and West Fork Rivers Inundate Communities",
+      "location": "North-Central West Virginia, USA (Barbour, Upshur, Harrison, Randolph Counties)",
+      "type": "weather",
+      "summary": "Multiple rivers in north-central West Virginia have risen to major flood stage following days of excessive rainfall, with the Tygart Valley River at Philippi and the West Fork River above Clarksburg both under active Major Flood Warnings through Wednesday and into Thursday. At Philippi, flood impacts are described as affecting most of the surrounding area at 25 feet, and at Clarksburg, water is encroaching on residential structures. Numerous additional Flood Warnings are active across Barbour, Randolph, Upshur, Harrison, Lewis, and Pocahontas counties, representing a significant escalation from the prior regional flash flood watch.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "PHOTOS: Severe thunderstorms, flash flooding wreaks havoc on north central West Virginia",
+          "url": "https://www.wboy.com/weather/photos-severe-thunderstorms-flash-flooding-wreaks-havoc-on-north-central-west-virginia/",
+          "source": "www.wboy.com"
+        }
+      ]
+    },
+    {
+      "title": "Desert Southwest Extreme Heat Intensifies \u2014 Up to 120\u00b0F in Death Valley, 119\u00b0F in Coachella Valley Through July 27",
+      "location": "Arizona, Nevada, Southern California (Death Valley, Coachella Valley, Mojave), USA",
+      "type": "weather",
+      "summary": "The Desert Southwest heat dome has intensified further, with Extreme Heat Warnings now locked in through Monday, July 27 across southern Nevada, western Arizona, and southeastern California. Afternoon temperatures of 106\u2013118\u00b0F are forecast for the Coachella Valley, Imperial Valley, and Colorado River corridor, with Death Valley potentially reaching or exceeding 120\u00b0F \u2014 a threshold that, if confirmed, would approach all-time records. Phoenix and surrounding metro areas face 107\u2013115\u00b0F highs, with dangerously warm overnight lows of 80\u201395\u00b0F providing little relief.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Babylon Fire \u2014 America's Largest Active Wildfire Burning on Manti-La Sal National Forest, Utah",
+      "location": "Manti-La Sal National Forest, Utah, USA",
+      "type": "wildfire",
+      "summary": "The Babylon Fire, burning on the Manti-La Sal National Forest in Utah, has grown to become the largest active wildfire in the United States, prompting fear and evacuation concerns for nearby communities. The blaze is compounded by active Red Flag Warnings and Fire Weather Watches across large portions of Oregon, Washington, northern California, and the intermountain west, signaling extreme fire weather conditions. Flash Flood Watches over Utah burn scars, including the Cottonwood and Wapiti burn areas, further complicate firefighting and recovery efforts.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
+          "url": "https://www.capradio.org/news/npr/story?storyid=nx-s1-5892509",
+          "source": "www.capradio.org"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Volcano \u2014 Episode 51 Lava Fountaining Resumes at Halema\u02bbuma\u02bbu Crater",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing episodic eruption sequence has reached Episode 51, with lava fountaining resuming at the Halema\u02bbuma\u02bbu crater within Hawai\u02bbi Volcanoes National Park. The activity, confirmed by USGS Hawaiian Volcano Observatory webcams, continues the pattern of intermittent high-lava-fountain episodes that has defined this eruptive period. The eruption is currently confined to the summit caldera and poses no immediate threat to populated areas, though volcanic gas emissions remain a concern for air quality downwind.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Lava fountaining returns to K\u012blauea's Halema\u02bbuma\u02bbu crater",
+          "url": "https://www.staradvertiser.com/2026/07/15/breaking-news/lava-fountaining-returns-to-kilaueas-halemaumau-crater-3/",
+          "source": "www.staradvertiser.com"
+        }
+      ]
+    },
+    {
+      "title": "Ontario Wildfires Drive Dense Smoke Across Eastern United States",
+      "location": "Western Ontario, Canada / Eastern and Northeastern USA",
+      "type": "wildfire",
+      "summary": "A surge of large wildland fires across western Ontario in mid-to-late July 2026 has generated dense smoke plumes spreading southward, blanketing parts of New York City and other northeastern and eastern US cities in hazardous haze. Ontario officials have been bracing for escalating evacuations as the fires continue to burn, with NASA satellite imagery confirming thick smoke coverage over a vast region. The smoke event compounds existing heat and air quality stress across a broad swath of the eastern US.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Blazes Continue in Ontario as Officials Brace for More Evacuations",
+          "url": "https://www.nytimes.com/2026/07/16/weather/ontario-canada-wildfires.html",
+          "source": "www.nytimes.com"
+        },
+        {
+          "title": "Dense Smoke from Wildland Fires in Ontario",
+          "url": "https://www.earthdata.nasa.gov/news/worldview-image-archive/dense-smoke-from-wildland-fires-ontario",
+          "source": "www.earthdata.nasa.gov"
+        }
+      ]
+    },
+    {
+      "title": "South Texas Mega-Flood Persists \u2014 Nueces River Major Flooding Forecast Through July 26",
+      "location": "South Texas River Basins \u2014 Nueces, Frio Rivers; Dimmit, La Salle, Live Oak, McMullen Counties, Texas, USA",
+      "type": "weather",
+      "summary": "Major flooding continues along the Nueces River near Asherton in Dimmit County, with a Flood Warning in effect through early Sunday, July 26, as the river remains well above flood stage with widespread inundation of livestock and agricultural areas. The Frio River near Derby and at Tilden remains under active Flood Warnings through Wednesday evening, with the Tilden gauge forecast to crest near 28.4 feet against a flood stage of 22.0 feet. The prolonged flood event continues to stress south Texas communities, roadways, and farmland across multiple counties.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Parts of Texas face threats of dangerous flooding while previously hit areas launch cleanup efforts",
+          "url": "https://www.thesunchronicle.com/news/nation_world/threat-of-dangerous-flooding-continues-in-texas-while-hard-hit-areas-launch-cleanup-efforts/article_313cc9c5-cc9b-5560-a8c8-e9897df6f858.html",
+          "source": "www.thesunchronicle.com"
+        }
+      ]
+    }
+  ]
+}
