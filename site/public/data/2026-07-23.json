@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-23",
+  "headline": "Taal Volcano in the Philippines erupts violently, generating a rare tsunami wave, as Tropical Storm Bertha tracks toward the Texas coast and Spain battles one of its largest wildfires on record.",
+  "overview": "July 23 brings a globally active day for natural disasters. Taal Volcano in the Philippines unleashed a violent phreatomagmatic eruption on July 21 that generated a tsunami wave, while Tropical Storm Bertha \u2014 after making landfall in Louisiana \u2014 has tracked westward and now threatens the Texas coast from Galveston to Corpus Christi with tropical storm-force winds and surge. Simultaneously, Spain is battling one of its worst wildfires in history near Madrid, Oregon faces a multifront wildfire emergency with 26 active major fires, and the Desert Southwest heat dome is expanding northward into Montana and Wyoming.",
+  "events": [
+    {
+      "title": "Taal Volcano Erupts \u2014 Phreatomagmatic Blast Generates Tsunami Wave in Philippines",
+      "location": "Taal Volcano, Batangas, Philippines",
+      "type": "volcano",
+      "summary": "A violent phreatomagmatic eruption struck Taal Volcano in Batangas, Philippines on July 21, 2026, sending a massive ash column approximately 2,000 feet into the air and generating a rare tsunami wave observed on the lake. The eruption \u2014 driven by the explosive interaction of magma with water \u2014 poses acute hazards including pyroclastic surges, volcanic ashfall, and volcanic tsunami risk to surrounding communities on Taal Lake's shores. Philippine authorities issued evacuation orders and raised alert levels for affected municipalities in Batangas province.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Watch: 2,000-Foot Taal Volcano Eruption Forms Rare Tsunami Wave in Philippines (Video)",
+          "url": "https://www.surfer.com/news/taal-volcano-eruption-tsunami-video",
+          "source": "www.surfer.com"
+        }
+      ]
+    },
+    {
+      "title": "Tropical Storm Bertha Tracks Toward Texas \u2014 Galveston and Houston Coast Under Active Warnings",
+      "location": "Texas Gulf Coast \u2014 Galveston, Bolivar Peninsula, Chambers County, USA",
+      "type": "weather",
+      "summary": "After making landfall in Louisiana, Tropical Storm Bertha has continued westward along the Gulf Coast and is now directly threatening the Texas shoreline, with active Tropical Storm Warnings issued by NWS Houston/Galveston for Galveston Bay, the Bolivar Peninsula, and offshore waters out to 60 nautical miles. Winds of 30\u201340 mph with gusts to 45 mph and seas of 6\u20139 feet are being recorded near Galveston, threatening to capsize vessels and push dangerous storm surge into low-lying coastal communities. This marks a significant geographic escalation from Bertha's initial Louisiana landfall, with the storm's circulation now targeting the Houston-Galveston metropolitan coastline.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical Storm Bertha expected to hit Texas on Thursday",
+          "url": "https://www.galvnews.com/news/tropical-storm-bertha-expected-to-hit-texas-on-thursday/article_679474cb-5db3-43d9-8c6f-f52e39a2c7ff.html",
+          "source": "www.galvnews.com"
+        },
+        {
+          "title": "Tropical Storm Bertha Path: Texas and Katy Update",
+          "url": "https://thekatynews.com/2026/07/23/tropical-storm-bertha-makes-louisiana-landfall-tracks-toward-texas-see-its-path-and-katy-outlook-the-katy-news",
+          "source": "thekatynews.com"
+        }
+      ]
+    },
+    {
+      "title": "Bertha's Moisture Plume Drives Dangerous East Coast Flooding \u2014 Flash Flood Warnings Across Carolinas and Virginia",
+      "location": "North Carolina, Virginia, and Southeast Virginia (Hampton Roads), USA",
+      "type": "weather",
+      "summary": "Even as Tropical Storm Bertha's core moves along the Texas coast, its expansive moisture plume is fueling a serious and distinct flood threat across the Eastern United States, with Flash Flood Warnings issued for Chesapeake, Norfolk, Portsmouth, and Virginia Beach, and Flood Watches blanketing dozens of counties across North Carolina from the mountains to the Outer Banks. NWS offices in Wakefield VA, Raleigh NC, Newport/Morehead City NC, and Wilmington NC all issued active watches or warnings, with repetitive rounds of heavy rainfall threatening rivers, streams, and coastal lowlands. CNN meteorologists described the setup as a 'serious East Coast flood threat' fueled by Bertha's tropical moisture interacting with stalled frontal boundaries.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Spain Wildfire Near Madrid \u2014 One of Country's Largest-Ever Burns 70,000+ Hectares in Guadalajara Province",
+      "location": "Guadalajara Province, Castilla-La Mancha, Spain",
+      "type": "wildfire",
+      "summary": "A catastrophic wildfire burning north of Madrid in Guadalajara province has devastated approximately 29,000 hectares in its immediate zone, contributing to a total of over 70,000 hectares burned across Spain so far in 2026 \u2014 on pace to be one of the worst wildfire years in the country's recorded history. Firefighting helicopter crews and ground teams were battling the blaze amid a Mediterranean heat wave that has driven exceptionally dry and hot conditions across central and southern Europe. Al Jazeera and AP News both reported the fire as one of the biggest in Spain's modern history, with the Guadalajara fire alone described as devastating.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Spain battles latest in series of major wildfires near Madrid",
+          "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Firefighters battle one of Spain's biggest-ever wildfires during heat wave across the Mediterranean",
+          "url": "https://apnews.com/article/spain-wildfires-europe-heat-wave-ba1eb5c07549f001e7dbb9399025941f",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Oregon Wildfire Emergency \u2014 26 Major Fires Burning, Thousands Under Evacuation Orders",
+      "location": "North-Central and Eastern Oregon, USA",
+      "type": "wildfire",
+      "summary": "Oregon's 2026 wildfire season has escalated sharply, with 26 major wildfires simultaneously burning across the state as of late July, forcing approximately 1,000 people under evacuation orders and blanketing much of Oregon in thick smoke. The outbreak, centered in north-central and eastern Oregon, has drawn a significant multi-agency response with air tankers, hotshot crews, and National Guard resources deployed across multiple fire fronts. Active Red Flag Warnings and Fire Weather Watches remain in effect across Oregon, eastern Washington, and northern Idaho through the weekend as hot, dry, and increasingly gusty conditions are forecast to continue.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Dozens of Wildfires Are Suddenly Burning in Oregon",
+          "url": "https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html",
+          "source": "www.nytimes.com"
+        },
+        {
+          "title": "Latest updates on exploding Oregon wildfire season",
+          "url": "https://www.statesmanjournal.com/story/news/wildfires/2026/07/21/latest-updates-oregon-wildfire-season/90995710007",
+          "source": "www.statesmanjournal.com"
+        }
+      ]
+    },
+    {
+      "title": "Desert Southwest Heat Dome Expands Northward \u2014 Extreme Heat Watches Now Issued for Montana and Wyoming",
+      "location": "Arizona, Southern California, Nevada, Montana, Wyoming, USA",
+      "type": "weather",
+      "summary": "The historic Desert Southwest heat dome that has been baking Arizona, Nevada, and Southern California \u2014 with temperatures up to 120\u00b0F in Death Valley and 119\u00b0F in the Coachella Valley \u2014 has now expanded its reach northward, with new Extreme Heat Watches issued for portions of central, south-central, and southeastern Montana (temperatures of 95\u2013110\u00b0F forecast) and north-central Wyoming through Sunday, July 26. Extreme Heat Warnings remain in effect across the Phoenix metropolitan area (105\u2013118\u00b0F), the Coachella Valley and Imperial Valley (up to 120\u00b0F), the Mojave Desert (108\u2013114\u00b0F), and the Grand Canyon corridor (112\u2013114\u00b0F at Phantom Ranch) through at least July 27. NWS offices from Las Vegas to Phoenix to Flagstaff to Billings all have active major heat alerts, marking one of the broadest simultaneous heat alert footprints of the 2026 summer season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mumbai Drenched by Extreme Monsoon Rainfall \u2014 98mm in a Single Day as Monsoon Intensifies",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "weather",
+      "summary": "Mumbai recorded the highest single-day precipitation of any major city in today's global weather data, with 98.1mm of rainfall \u2014 nearly four inches \u2014 in a 24-hour period, consistent with an intensifying monsoon surge over the western coast of India. Extreme monsoon rainfall of this magnitude routinely overwhelms Mumbai's drainage infrastructure, triggering flash flooding across low-lying neighborhoods, waterlogging of road and rail networks, and dangerous conditions in informal settlements on hillsides prone to landslides. While specific casualty or damage reports from today's event are not yet confirmed in available news sources, rainfall of this magnitude in Mumbai historically causes significant urban disruption and is closely monitored by India's National Disaster Management Authority.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
