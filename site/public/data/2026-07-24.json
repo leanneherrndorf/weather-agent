@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-24",
+  "headline": "Tropical Storm Bertha Makes Landfall as Heat Dome Expands Into Midwest and Southern France Wildfire Triggers Evacuations",
+  "overview": "Tropical Storm Bertha made landfall in Louisiana and is pushing toward the Texas coast, bringing storm surge and flooding threats to the upper Gulf Coast while its moisture plume continues to fuel extensive flash flooding across the Carolinas, Georgia, and Alabama. A rapidly expanding heat dome now threatens the central United States from Texas through Minnesota, with heat index values up to 112\u00b0F forecast through Tuesday \u2014 a significant northeastward surge from yesterday's Southwest-focused event. Internationally, a new wildfire on France's Mediterranean coast forced mass evacuations, while the Akawa Butte Fire near Sisters, Oregon surged past 26,000 acres with extreme pyrocumulus fire behavior.",
+  "events": [
+    {
+      "title": "Tropical Storm Bertha Makes Texas Landfall \u2014 Storm Surge and Flooding Strike Upper Gulf Coast",
+      "location": "Texas Gulf Coast and Louisiana, USA",
+      "type": "weather",
+      "summary": "Tropical Storm Bertha made landfall along the Louisiana coast before tracking westward toward the Texas Gulf Coast, threatening Galveston, Bolivar Peninsula, and the greater Houston area with storm surge up to 3 feet and sustained tropical storm-force winds. The system has already caused major coastal flooding along the Louisiana and Texas shores, and its slow inland movement is expected to dump heavy rainfall across southeastern Texas through Friday. Emergency managers in Harris and Galveston counties remained on high alert as Bertha's landfall represented a direct escalation from the approaching-storm threat reported the prior day.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical Storm Bertha heads toward Texas after making landfall in Louisiana",
+          "url": "https://abcnews.com/US/tropical-storm-bertha-heads-texas-after-making-landfall/story?id=135011934",
+          "source": "abcnews.com"
+        },
+        {
+          "title": "Tropical Storm Bertha approaches Texas coast. Here's what to expect in Houston and Galveston",
+          "url": "https://www.click2houston.com/news/local/2026/07/23/tropical-storm-bertha-nears-texas-coast-officials-urge-residents-to-use-storm-as-a-preparedness-reminder/",
+          "source": "www.click2houston.com"
+        }
+      ]
+    },
+    {
+      "title": "Southern France Wildfire Destroys Over 6,000 Acres \u2014 Hundreds Evacuated Along Mediterranean Coast",
+      "location": "Southern France (Mediterranean Coast), France",
+      "type": "wildfire",
+      "summary": "A fast-moving wildfire on France's Mediterranean coast burned through more than 6,000 acres of pine forest and scrubland, forcing the evacuation of hundreds of residents from hamlets in the Var department. Firefighting aircraft and ground crews battled extreme conditions fueled by the same Mediterranean heat wave driving the ongoing Spanish wildfire crisis, with gusty offshore winds accelerating fire spread. The blaze marks a significant new front in what has become a record wildfire season across southern Europe.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire on France's Mediterranean coast forces hamlet evacuations",
+          "url": "https://www.reuters.com/business/environment/wildfire-frances-mediterranean-coast-forces-hamlet-evacuations-2026-07-19/",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "Devastating wildfire in southern France forces hundreds to flee as it destroys over 6K acres",
+          "url": "https://nypost.com/2026/07/22/world-news/southern-france-wildfire-forces-hundreds-to-flee-as-it-destroys-over-6k-acres/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "Heat Dome Surges Into Central US \u2014 Extreme Heat Watches Issued Across Midwest Through Tuesday",
+      "location": "Iowa, Minnesota, Missouri, Kansas, Nebraska, USA",
+      "type": "weather",
+      "summary": "The intense heat dome that gripped the Desert Southwest and Northern Plains has expanded dramatically northeastward, with the NWS issuing Extreme Heat Watches for broad areas of Iowa, Minnesota, Missouri, Kansas, and Nebraska, where heat index values could reach 108\u2013112\u00b0F from Sunday through Tuesday evening. Overnight low temperatures are forecast to remain in the 70s across the region, offering little recovery from dangerous daytime heat and raising concerns for vulnerable populations. This marks a significant geographic escalation from the prior day's heat event, which was centered primarily on Arizona, Nevada, and southern California.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Bertha's Moisture Plume Drives Widespread Southeast Flooding \u2014 NC, SC, Georgia, and Alabama All Impacted",
+      "location": "North Carolina, South Carolina, Georgia, and Alabama, USA",
+      "type": "weather",
+      "summary": "Tropical Storm Bertha's expansive moisture plume continued to fuel widespread and dangerous flooding across the Southeast on July 24, with active Flood Watches and Flood Warnings spanning more than a dozen counties in North Carolina, South Carolina, Georgia, and Alabama. The flooding has expanded significantly compared to the prior day, now reaching coastal and inland counties of South Carolina and northwest Georgia in addition to the Carolinas already under threat. The Washington Post noted that some of Bertha's worst weather was occurring 800 miles from the storm's center, underscoring the system's unusually broad hydrological footprint.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Akawa Butte Fire Surges Past 26,000 Acres Near Sisters, Oregon \u2014 Pyrocumulus Clouds and 150-Foot Flames",
+      "location": "Sisters, Central Oregon, USA",
+      "type": "wildfire",
+      "summary": "The Akawa Butte Fire in central Oregon exploded to more than 26,000 acres, generating pyrocumulus clouds and flame heights reaching 150 feet as crews battled extreme fire behavior near the community of Sisters. A pyrocumulus cloud formed over the fire on July 22 ahead of thunderstorms, signaling dangerously intense surface heating and erratic wind conditions that hampered containment efforts. Active Red Flag Warnings with gusts up to 45 mph and humidity as low as 10 percent remained in effect across Oregon and Washington through Saturday, raising serious concern about additional fire starts and rapid spread across the region's 26 active major fires.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfire surges past 26K acres, crews battle 150-foot flames in central Oregon",
+          "url": "https://www.oregonlive.com/wildfires/2026/07/akawa-butte-fire-surges-past-26k-acres-as-crews-battle-extreme-fire-behavior-near-sisters.html",
+          "source": "www.oregonlive.com"
+        }
+      ]
+    },
+    {
+      "title": "Rare M5.0 Earthquake Strikes Texas Panhandle \u2014 Strongest Temblor in Region in Over 100 Years",
+      "location": "Texas Panhandle (near Spearman), Texas, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 5.0 earthquake struck the Texas Panhandle approximately 38 km south-southeast of Spearman on July 23, making it the strongest earthquake to shake the region in more than 100 years, according to USGS data. The tremor was felt by at least 477 people across the Panhandle and as far as Amarillo, approximately 68 miles from the epicenter, though no injuries or significant structural damage were reported. The event highlights increasing seismic activity in historically low-seismicity regions of the southern plains, where oil and gas wastewater injection has been linked to induced seismicity in neighboring Oklahoma.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Rare magnitude 5.0 earthquake strikes Texas Panhandle, strongest to rattle region in over 100 years",
+          "url": "https://nypost.com/2026/07/23/us-news/rare-magnitude-5-0-earthquake-strikes-texas-panhandle-strongest-to-rattle-region-in-over-100-years/",
+          "source": "nypost.com"
+        },
+        {
+          "title": "5.0-magnitude earthquake strikes Texas panhandle",
+          "url": "https://www.theguardian.com/us-news/2026/jul/23/earthquake-texas",
+          "source": "www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "Desert Southwest Extreme Heat Warning Persists \u2014 Up to 120\u00b0F in Death Valley and Coachella Valley Through Monday",
+      "location": "Arizona, Nevada, Southern California (Death Valley, Coachella Valley, Phoenix Metro), USA",
+      "type": "weather",
+      "summary": "The NWS maintained Extreme Heat Warnings through Monday evening across a vast area of the Desert Southwest, including Phoenix (106\u2013118\u00b0F), Death Valley and the Coachella Valley (up to 120\u00b0F), and the greater Mojave Desert (108\u2013115\u00b0F). Overnight low temperatures of 80\u201395\u00b0F in desert valleys are denying residents any meaningful overnight recovery, greatly elevating risks of heat stroke for those without air conditioning. The multi-day event, rated Major to Extreme HeatRisk by NWS Phoenix and Las Vegas, represents one of the most sustained heat emergencies in the region's recent record.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
