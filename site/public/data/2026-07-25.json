@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-25",
+  "headline": "France Orders Mass Evacuation of 40,000 from Cap Ferret Peninsula as Southwestern Wildfires Rage Out of Control, While US Heat Dome Pushes Heat Indices to 117\u00b0F Across Expanded Zone from Oklahoma to Montana",
+  "overview": "A catastrophic wildfire emergency in southwestern France has forced the boat evacuation of more than 40,000 people from the Cap Ferret peninsula in the Gironde department, with France requesting EU assistance and President Macron responding. Simultaneously, the expanding US heat dome \u2014 already the most widespread in years \u2014 surged into new territory on July 25, with heat index values reaching 117\u00b0F in central Oklahoma and Extreme Heat Warnings now blanketing a vast corridor from Arizona and Southern California north through Montana, Wisconsin, and the Dakotas. Remnant moisture from ex-Tropical Storm Bertha continues driving major river flooding along the Nueces River system in South Texas, while a sweeping Red Flag Warning complex across the Pacific Northwest threatens rapid wildfire ignition.",
+  "events": [
+    {
+      "title": "France Evacuates 40,000 by Boat from Cap Ferret \u2014 Gironde Wildfire Rages Out of Control",
+      "location": "Cap Ferret Peninsula, Gironde, Southwestern France",
+      "type": "wildfire",
+      "summary": "French authorities ordered the total evacuation of the Cap Ferret peninsula \u2014 a major Atlantic coast tourism hotspot \u2014 as an uncontrolled wildfire tore through the Gironde department, forcing more than 40,000 people to flee by boat to Arcachon and nearby towns. The fire, burning amid worsening drought conditions, is part of a broader wildfire emergency across France and Spain, prompting President Macron to request emergency EU aerial firefighting assistance. This event is geographically distinct from the previously reported Mediterranean coast fire and represents a new and severe outbreak on France's Atlantic coast.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Live: More than 40,000 evacuated in southwestern France as wildfire remains out of control",
+          "url": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
+          "source": "www.france24.com"
+        },
+        {
+          "title": "France orders total evacuation of Cap Ferret peninsula as wildfires rage",
+          "url": "https://www.reuters.com/business/environment/france-requests-help-eu-deal-with-fires-says-macron-2026-07-24",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Surges to New Extremes \u2014 Heat Index Hits 117\u00b0F in Oklahoma, Warnings Now Span Oklahoma to Montana",
+      "location": "Oklahoma, Montana, Wisconsin, South Dakota, Nebraska, Iowa, Kansas, USA",
+      "type": "weather",
+      "summary": "The massive US heat dome significantly expanded its footprint on July 25, with NWS Norman issuing an Extreme Heat Warning for central and northern Oklahoma where heat index values reached up to 117\u00b0F \u2014 among the highest readings anywhere in the country this summer. Extreme Heat Warnings were simultaneously active across eastern Montana (highs of 98\u2013108\u00b0F), northeastern Wyoming, Iowa, Kansas, Nebraska, Wisconsin, and South Dakota, covering a zone stretching nearly 1,500 miles from the Desert Southwest to the northern Great Plains. NWS offices from Billings to Sioux Falls warned of dangerously warm overnight lows offering little relief, sharply increasing the risk of heat-related illness and death.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Spain Wildfire Emergency Escalates \u2014 60,000 Evacuated from Madrid and \u00c1vila Suburbs",
+      "location": "Madrid, \u00c1vila, and Guadalajara Province, Spain",
+      "type": "wildfire",
+      "summary": "The wildfire emergency in central Spain escalated sharply on July 25, with blazes near Madrid and the adjacent province of \u00c1vila prompting the evacuation of approximately 60,000 people from towns west of the capital \u2014 a significant increase from the tens of thousands previously displaced in Guadalajara province. Displaced residents were sheltered in bullrings and community centers as firefighters continued battling what authorities described as one of Spain's largest wildfires on record. The fires are being driven by extreme heat and drought gripping the broader Mediterranean region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Firefighters battle one of Spain's biggest-ever wildfires during heat wave across the Mediterranean",
+          "url": "https://apnews.com/article/spain-wildfires-europe-heat-wave-ba1eb5c07549f001e7dbb9399025941f",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Bertha's Remnants Drive Major Nueces River Flooding Across South Texas",
+      "location": "La Salle, McMullen, Live Oak, and Dimmit Counties, South Texas, USA",
+      "type": "weather",
+      "summary": "After making landfall on July 24, ex-Tropical Storm Bertha weakened into a trough, but its residual moisture and runoff are now driving a major flooding crisis along the Nueces River system in South Texas. NWS Corpus Christi issued major flooding forecasts for the Nueces River near Tilden and Three Rivers, with the river at Cotulla forecast to remain above flood stage through at least July 29. Moderate to major flooding is also occurring on the Frio River near Tilden and on the Nueces near Asherton, threatening livestock, infrastructure, and low-lying communities across multiple counties.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical Storm Bertha tracker: Bertha weakens into a trough with final impacts felt across Texas",
+          "url": "https://www.yahoo.com/news/weather-news/article/tropical-storm-bertha-tracker-bertha-weakens-into-a-trough-with-final-impacts-felt-across-texas-171934573.html",
+          "source": "www.yahoo.com"
+        }
+      ]
+    },
+    {
+      "title": "Pacific Northwest Sweeping Red Flag Warning \u2014 45 mph Gusts and 11% Humidity Threaten Explosive Fire Spread",
+      "location": "Washington, Oregon, and Northern Idaho, USA",
+      "type": "wildfire",
+      "summary": "A large and dangerous Red Flag Warning complex was active across the Pacific Northwest on July 25, covering a broad swath of eastern Washington, central and southern Oregon, and the northern Idaho Panhandle. NWS Spokane warned of southwest winds gusting to 45 mph combined with relative humidity as low as 11% across the Okanogan Highlands and Columbia Basin \u2014 conditions primed for explosive fire behavior and rapid spread of any new ignitions. The extreme fire weather comes as dozens of fires already burn across Oregon and the region, with dry lightning also threatening new starts in Idaho.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Wildfire Smoke Air Quality Crisis \u2014 Hazardous to Unhealthy AQI Levels Across Multiple US States",
+      "location": "Upper Midwest, Great Plains, and Eastern United States",
+      "type": "other",
+      "summary": "A broad and persistent wildfire smoke event is blanketing large portions of the United States, with AirNow.gov reporting AQI values at 'red' (unhealthy) to 'hazardous' levels across multiple states from the Great Lakes to the Eastern Seaboard. The smoke originates from a combination of Canadian wildfires and the dozens of large active fires burning across Oregon and the western US, with NASA Earth Observatory tracking a week of smoky skies across North America. Health officials are urging vulnerable populations \u2014 including the elderly, children, and those with respiratory conditions \u2014 to remain indoors and limit outdoor activity.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "New Mexico Monsoon Flash Flood Threat \u2014 Ruidoso Burn Scars and Mountain Communities at Risk",
+      "location": "South Central Mountains, Northwest Highlands, Chuska Mountains, and West Central New Mexico, USA",
+      "type": "weather",
+      "summary": "NWS Albuquerque issued multiple Flood Watches across a wide swath of New Mexico on July 25, driven by the monsoon season's intensifying rainfall pattern. Of particular concern is the South Central Mountains zone, which includes the Ruidoso area burn scars where stripped hillsides dramatically amplify flash flood and debris flow hazard from even modest rainfall. Watches were also active across the Northwest Highlands, Chuska Mountains, West Central Mountains, and the Gallup/Zuni Pueblo area through Saturday evening.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
