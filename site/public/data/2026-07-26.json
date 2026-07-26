@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-26",
+  "headline": "Record-Breaking US Heat Dome Engulfs 70 Million as Third Heat Emergency of the Month Spans 20+ States",
+  "overview": "A catastrophically broad heat dome \u2014 the third in a single month \u2014 now places roughly 70 million Americans under dangerous heat conditions, with heat indices reaching 116\u00b0F in Missouri and Kansas and air temperatures up to 118\u00b0F in Phoenix and 120\u00b0F in Death Valley. Separately, deadly flash floods struck eastern Afghanistan (at least 26 dead) and West Virginia (at least 2 dead, search and rescue ongoing), while multiple large wildfires continue to burn across southern Europe and the US boundary waters region. The scale and simultaneity of extreme events across multiple continents make this an exceptionally active natural hazard day.",
+  "events": [
+    {
+      "title": "Third US Heat Dome of July Engulfs 70 Million \u2014 Heat Index Hits 116\u00b0F Across 20+ States",
+      "location": "Missouri, Kansas, Minnesota, Iowa, Nebraska, Illinois, Arkansas, Tennessee, Mississippi, Arizona, California, and more \u2014 USA",
+      "type": "weather",
+      "summary": "An expansive and intensifying heat dome \u2014 the third to strike the central and southern US in a single month \u2014 now covers more than 20 states and threatens roughly 70 million people with dangerously hot conditions. Active Extreme Heat Warnings span from the Coachella Valley and Phoenix metro (110\u2013118\u00b0F) through the central plains (heat indices of 108\u2013116\u00b0F in Missouri and Kansas) to Minnesota, Wisconsin, Iowa, Arkansas, Tennessee, and Mississippi. With little overnight temperature relief and no immediate end in sight through Monday, heat-related illness risk is at its highest level of the season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Afghanistan Flash Floods Kill at Least 26 in Eastern Provinces",
+      "location": "Nuristan Province and Eastern Afghanistan",
+      "type": "weather",
+      "summary": "Devastating flash floods swept through eastern Afghanistan \u2014 particularly the mountainous Nuristan province \u2014 killing at least 26 people and leaving scores missing, according to UN agencies and rescue workers on the scene. Buildings were destroyed and rescue teams faced extreme difficulty accessing remote flood-affected communities due to damaged roads and infrastructure. Aid agencies are racing to deliver emergency assistance as search operations continue in the rubble.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Deadly Afghanistan floods kill at least 26 as aid agencies race to respond",
+          "url": "https://news.un.org/en/story/2026/07/1167996",
+          "source": "news.un.org"
+        },
+        {
+          "title": "Rescue crews in Afghanistan search for missing, dead in rubble left by flash flooding",
+          "url": "https://www.thesunchronicle.com/news/nation_world/rescue-crews-in-afghanistan-search-for-missing-dead-in-rubble-left-by-flash-flooding/article_b78d81f9-bf2a-58e5-babe-6f8eeb6b7a40.html",
+          "source": "thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "West Virginia Catastrophic Flash Flooding \u2014 2 Dead, Search and Rescue Ongoing",
+      "location": "North-Central West Virginia, USA",
+      "type": "weather",
+      "summary": "Catastrophic flash flooding struck north-central West Virginia after powerful storms dropped more than 7 inches of rain in a short period, prompting a rare Flash Flood Emergency declaration from the National Weather Service. At least two people have been confirmed dead, with the state government placing the response in a search-and-rescue phase as floodwaters covered roads including Interstate 79. A state of emergency was declared as crews continued to look for additional victims.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "West Virginia flash floods leave 2 dead as extreme rain ravages state, governor's office says",
+          "url": "https://nypost.com/2026/07/23/us-news/west-virginia-flash-floods-leave-2-dead-as-extreme-rain-ravages-state-governors-office-says/",
+          "source": "nypost.com"
+        },
+        {
+          "title": "Catastrophic flooding slams West Virginia \u2014 prompting Flash Flood Emergency from NWS",
+          "url": "https://nypost.com/2026/07/22/us-news/state-of-emergency-issued-in-west-virginia-after-catastrophic-flooding-slams-the-state/",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "Spain Wildfire National Emergency \u2014 60,000 Evacuated from Madrid and \u00c1vila Suburbs",
+      "location": "Madrid, \u00c1vila, and Guadalajara Province, Spain",
+      "type": "wildfire",
+      "summary": "Spain has declared a national emergency as wildfires burning west of Madrid and into the \u00c1vila province forced the evacuation of approximately 60,000 residents from towns and suburbs in the region. Blazes have consumed large swaths of dry vegetation amid a prolonged European heat wave and drought, overwhelming local firefighting resources. The national emergency declaration allows for coordinated military and federal firefighting assets to be deployed across the affected provinces.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfires near Madrid and in southwestern France force tens of thousands to evacuate",
+          "url": "https://apnews.com/article/spain-wildfires-emergency-54c3d375fa1cca8399ea2645a8e119b0",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "France Gironde Wildfire \u2014 Cap Ferret Peninsula Fully Evacuated by Boat",
+      "location": "Cap Ferret Peninsula, Gironde, Southwestern France",
+      "type": "wildfire",
+      "summary": "French authorities have ordered and completed the total evacuation of the Cap Ferret peninsula \u2014 a major tourist destination near Bordeaux \u2014 deploying boats to move residents and visitors cut off by fire-damaged roads as wildfires continue to rage through the Gironde department. Firefighters from across France and neighboring EU countries are battling the blazes amid drought conditions and high winds. France has formally requested EU civil protection assistance, with President Macron directly overseeing the national response.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "France orders total evacuation of Cap Ferret peninsula as wildfires rage",
+          "url": "https://www.reuters.com/business/environment/france-requests-help-eu-deal-with-fires-says-macron-2026-07-24/",
+          "source": "reuters.com"
+        },
+        {
+          "title": "France sends boats, orders evacuation of tourist hotspot Cap Ferret as wildfires continue to rage",
+          "url": "https://www.jpost.com/environment-and-climate-change/article-903550",
+          "source": "jpost.com"
+        }
+      ]
+    },
+    {
+      "title": "Boundary Waters and Superior National Forest Fires \u2014 63,000+ Acres, Pyrocumulonimbus Clouds Observed",
+      "location": "Boundary Waters Canoe Area Wilderness, Northern Minnesota, USA",
+      "type": "wildfire",
+      "summary": "More than a dozen active wildfires are burning across the Boundary Waters Canoe Area (BWCA) and Superior National Forest in northern Minnesota, with combined acreage exceeding 63,000 acres as of mid-week and growing. The fires \u2014 ignited by lightning \u2014 have grown intense enough to generate pyrocumulonimbus (fire-generated thunderstorm) clouds, a hallmark of the most extreme wildfire behavior, as documented by NASA satellite imagery. Smoke from these fires is contributing to widespread air quality degradation across the Upper Midwest.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Death Valley and Southwest Desert Extreme Heat Peaks \u2014 Up to 120\u00b0F, Warnings Extended Through Monday",
+      "location": "Death Valley, Coachella Valley, Phoenix Metro, Colorado River Valley \u2014 Arizona, California, Nevada, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings across the Desert Southwest remain in force through Monday evening as temperatures in Death Valley and along the Colorado River Valley are forecast to reach or exceed 120\u00b0F \u2014 among the highest reliably recorded temperatures on Earth. Phoenix is under warning for 110\u2013118\u00b0F afternoon highs with overnight lows above 80\u00b0F providing negligible relief, and the Coachella Valley is seeing highs of 110\u2013116\u00b0F. NWS Las Vegas classified heat risk at the extreme (purple) HeatRisk level, its highest category, for the greater Mojave Desert region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
