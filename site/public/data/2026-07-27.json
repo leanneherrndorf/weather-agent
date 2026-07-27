@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-27",
+  "headline": "US Heat Dome Death Toll Tops 70 as Heat Index Reaches 119\u00b0F Near Omaha; Spain Wildfire Now One of Country's Largest on Record",
+  "overview": "A catastrophic third July heat dome continues to bake the central and southern United States, with the Washington Post confirming at least 70 heat-related deaths and NWS issuing Extreme Heat Warnings across more than 20 states \u2014 with heat indices locally reaching 119\u00b0F near Omaha. Simultaneously, two of Europe's most destructive wildfires rage in Spain and France, while Taal Volcano in the Philippines escalates with surging seismic activity and multiple eruptions. A severe thunderstorm outbreak adds a convective threat across the Upper Midwest and Great Lakes this morning.",
+  "events": [
+    {
+      "title": "US July Heat Dome \u2014 Death Toll Tops 70, Heat Index Hits 119\u00b0F Near Omaha",
+      "location": "Central and Southern United States (Nebraska, Iowa, Missouri, Kansas, Illinois, Oklahoma, Arkansas, Mississippi, Tennessee, Arizona, California, and more)",
+      "type": "weather",
+      "summary": "The Washington Post confirmed at least 70 heat-related deaths across the US from July's three heat dome events, with epidemiologists warning the true toll may be far higher due to delayed reporting. NWS Extreme Heat Warnings remain active across more than 20 states on July 27, with heat index values reaching 119\u00b0F in the Omaha metro area (Pottawattamie/Douglas Counties) and up to 115\u00b0F across Missouri, Illinois, Indiana, Arkansas, and southeastern Kansas \u2014 now extending toward the Florida Panhandle and Louisiana where Extreme Heat Watches are posted for Tuesday. Phoenix and the broader Southwest face another day of 108\u2013116\u00b0F highs through Wednesday, while Chicago recorded 32\u00b0C (89.6\u00b0F) with 26mm of precipitation from overnight storms.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Spain Wildfire Now Among Country's Largest Ever \u2014 100,000+ Acres Burned, Evacuations Continue",
+      "location": "Castilla y Le\u00f3n, Madrid, \u00c1vila, and Guadalajara Provinces, Spain",
+      "type": "wildfire",
+      "summary": "Firefighters continued battling what is now described as one of Spain's biggest-ever wildfires, with the blaze in central Spain having burned through an enormous area of forest and threatening additional communities. The wildfire is being driven by extreme heat from a Mediterranean-wide heatwave, with tens of thousands of residents remaining evacuated from Madrid and \u00c1vila suburbs. Spain's Military Emergencies Unit is deployed alongside regional firefighting crews in an ongoing effort to prevent the fire from merging with additional ignitions.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Firefighters battle one of Spain's biggest-ever wildfires during heat wave across the Mediterranean",
+          "url": "https://apnews.com/article/spain-wildfires-europe-heat-wave-ba1eb5c07549f001e7dbb9399025941f",
+          "source": "apnews.com"
+        },
+        {
+          "title": "Spain and France wildfires force more than 100,000 to evacuate",
+          "url": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html",
+          "source": "www.cnbc.com"
+        }
+      ]
+    },
+    {
+      "title": "Taal Volcano Escalates \u2014 4+ Phreatomagmatic Eruptions in July, SO\u2082 Surges, Seismic Swarm Ongoing",
+      "location": "Batangas Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Taal Volcano logged its fourth minor phreatomagmatic eruption of July on July 21, followed by a second eruption in a 24-hour period, and PHIVOLCS subsequently reported a major surge in seismic activity and elevated sulfur dioxide (SO\u2082) emissions signaling renewed unrest at the Main Crater. The Philippine Institute of Volcanology and Seismology (PHIVOLCS) is monitoring the situation closely, with alert levels reflecting heightened volcanic activity. Taal, which sits within a populated lake environment south of Manila, is one of the world's most dangerous volcanoes due to its shallow water-magma interaction, and the current phreatomagmatic eruptions indicate ongoing steam-driven explosions at the crater lake.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "France Gironde Wildfire \u2014 Cap Ferret Evacuation Ongoing, EU Assistance Requested",
+      "location": "Cap Ferret Peninsula, Gironde, Southwestern France",
+      "type": "wildfire",
+      "summary": "France's Gironde wildfire remains active on July 27, with the full Cap Ferret peninsula under evacuation orders and France having formally requested European Union firefighting assistance. Thousands of residents and tourists were evacuated by boat from the Cap Ferret peninsula over the preceding days, and firefighting crews continue to battle the blaze driven by the same regional heatwave fueling the Spanish fires. The fire has consumed significant areas of the Landes forest \u2014 one of Europe's largest man-made forests \u2014 with dry, drought-stressed conditions offering little natural firebreak.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "France orders total evacuation of Cap Ferret peninsula as wildfires rage",
+          "url": "https://www.reuters.com/business/environment/france-requests-help-eu-deal-with-fires-says-macron-2026-07-24/",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "Spain and France wildfires force more than 100,000 to evacuate",
+          "url": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html",
+          "source": "www.cnbc.com"
+        }
+      ]
+    },
+    {
+      "title": "Boundary Waters Wildfire Complex \u2014 Severe Thunderstorms Now Sweeping Active Fire Zones",
+      "location": "Boundary Waters Canoe Area Wilderness and Superior National Forest, Northern Minnesota, USA",
+      "type": "wildfire",
+      "summary": "The Boundary Waters wildfire complex, which had already burned more than 63,000 acres and generated rare pyrocumulonimbus clouds, is now being struck by severe thunderstorms on the morning of July 27, with NWS Duluth issuing Severe Thunderstorm Warnings for Cook and Lake Counties directly overlapping the fire zone \u2014 including a storm moving southeast at 55 mph with 60 mph gusts and quarter-sized hail. While precipitation from these storms may offer some firefighting relief, the associated erratic, gusty winds present a dangerous risk of rapid fire spread and spotting. A Washington Post investigation revealed that a DOGE-related grant delay had cut pre-fire fuel-thinning work in the very forest now ablaze.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "'We were shovel ready': A Minnesota forest hit by DOGE cuts is now ablaze",
+          "url": "https://www.washingtonpost.com/weather/2026/07/25/doge-delayed-grant-that-would-have-reduced-fire-fuels-minnesota-forest-now-ablaze/",
+          "source": "www.washingtonpost.com"
+        },
+        {
+          "title": "4 things to know from July 22, 2026 \u2014 Boundary Waters wildfires",
+          "url": "https://www.cbsnews.com/minnesota/video/4-things-to-know-from-july-22-2026/",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Severe Thunderstorm Outbreak \u2014 Upper Midwest and Great Lakes",
+      "location": "Northern Minnesota, Northern Wisconsin, Upper Michigan, Alabama, and Lake Michigan, USA",
+      "type": "weather",
+      "summary": "A significant severe thunderstorm outbreak is underway across the Upper Midwest and Great Lakes region on the morning of July 27, with NWS issuing Severe Thunderstorm Warnings for Cook and Lake Counties (MN), St. Louis County (MN), Gogebic and Ontonagon Counties (Upper Michigan), and Fayette, Marion, Walker, and Winston Counties in Alabama \u2014 with storms producing 60 mph wind gusts and quarter-sized hail. Severe Thunderstorm Watches cover a broad swath from northeastern Minnesota and northern Wisconsin through the Upper Peninsula of Michigan, with the Storm Prediction Center noting increasing atmospheric instability through the day. Special Marine Warnings have also been issued for Lake Michigan due to 34\u201340 knot gusts and sudden wave height increases threatening small craft.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Damaging thunderstorm chance keeps increasing for highly populated southern Michigan",
+          "url": "https://www.yahoo.com/news/weather-news/articles/damaging-thunderstorm-chance-keeps-increasing-151644931.html",
+          "source": "www.yahoo.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.0 Earthquake Near Spearman, Texas Panhandle \u2014 Felt by Nearly 500 People",
+      "location": "38 km SSE of Spearman, Texas Panhandle, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 5.0 earthquake struck the Texas Panhandle at a shallow depth of 5.7 km on July 23 at 10:21 UTC, centered approximately 38 km SSE of Spearman \u2014 about 68 miles from Amarillo. The quake was felt by approximately 495 people per USGS reports, though no injuries, deaths, or structural damage were reported. The Texas Panhandle has seen elevated seismic activity in recent years, linked in part to oilfield operations in the region, and this event is the most significant earthquake recorded by USGS in the past seven days globally.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "5.0-magnitude earthquake strikes Texas panhandle",
+          "url": "https://www.theguardian.com/us-news/2026/jul/23/earthquake-texas",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "5.0 magnitude earthquake hits northwest of Miami, Texas",
+          "url": "https://abcnews.com/US/50-magnitude-earthquake-hits-northwest-miami-texas/story?id=135014180",
+          "source": "abcnews.com"
+        }
+      ]
+    }
+  ]
+}
