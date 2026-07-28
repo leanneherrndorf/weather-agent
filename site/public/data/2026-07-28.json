@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-28",
+  "headline": "M6.8 Earthquake Strikes Kumamoto, Japan with USGS Red Alert as Typhoon Noul Floods Displace 715,000 in Southern China",
+  "overview": "A significant M6.8 earthquake struck near Uto in Japan's Kumamoto Prefecture early Tuesday UTC, earning a USGS red alert level and triggering widespread damage reports. Simultaneously, Typhoon Noul \u2014 now weakened to a tropical storm after landfall \u2014 continues to drench southern China, having displaced more than 715,000 people and cancelled hundreds of flights. Across the Northern Hemisphere, the US heat dome persists with extreme heat warnings spanning 15+ states and a death toll of at least 70, while a new multi-state flash flood threat has emerged across the Northeast US corridor from New Jersey to Massachusetts.",
+  "events": [
+    {
+      "title": "M6.8 Earthquake Strikes Kumamoto Prefecture, Japan \u2014 USGS Red Alert",
+      "location": "Uto, Kumamoto Prefecture, Japan",
+      "type": "earthquake",
+      "summary": "A magnitude 6.8 earthquake struck 5 km east of Uto in Kumamoto Prefecture, Japan at 07:27 UTC on July 28, at a shallow depth of only 10 km, triggering a USGS red alert level \u2014 the highest on the scale. No tsunami alert was issued, and initial damage reports were described as limited, but the shallow depth and proximity to populated areas in Kumamoto Prefecture \u2014 still rebuilding from the devastating 2016 quake sequence \u2014 raised immediate concerns. At least 28 felt reports were logged in the first hours, and emergency assessments were underway.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Japan struck by M6.8 earthquake in Kumamoto prefecture. Damage reported limited so far",
+          "url": "https://www.artemis.bm/news/japan-struck-by-m6-8-earthquake-in-kumamoto-prefecture-damage-reported-limited-so-far",
+          "source": "www.artemis.bm"
+        }
+      ]
+    },
+    {
+      "title": "Typhoon Noul Post-Landfall Flooding Displaces 715,000 in Southern China",
+      "location": "Guangdong and Southern China",
+      "type": "weather",
+      "summary": "Typhoon Noul made landfall in southern China and subsequently weakened to a tropical storm, but not before forcing more than 715,000 people from their homes and cancelling hundreds of flights across China and Hong Kong. Heavy to torrential rainfall continues to flood rivers and low-lying areas across Guangdong Province as the system pushes inland, with Reuters reporting that southern China faces an ongoing threat of flash floods and landslides in the days ahead. The scale of displacement makes this one of the most impactful tropical cyclone events in the region this season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Typhoon Noul forces more than 715,000 from homes and cancels hundreds of flights in China and Hong Kong",
+          "url": "https://www.theguardian.com/world/2026/jul/26/typhoon-noul-china-hong-kong",
+          "source": "www.theguardian.com"
+        },
+        {
+          "title": "Southern China faces torrential rain, floods after Typhoon Noul makes landfall",
+          "url": "https://www.reuters.com/business/environment/southern-china-drenched-typhoon-noul-makes-landfall-2026-07-26/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "US July Heat Dome Persists \u2014 70+ Dead, Extreme Heat Warnings Across 15+ States",
+      "location": "Central, Southern, and Western United States",
+      "type": "weather",
+      "summary": "The prolonged July heat dome shows no signs of abating on July 28, with NOAA issuing active Extreme Heat Warnings from the Gulf Coast to the Desert Southwest spanning more than 15 states including Arkansas, Mississippi, Louisiana, Tennessee, Kentucky, Missouri, Illinois, Oklahoma, Arizona, California, and Nevada, with heat indices reaching up to 115\u00b0F in the Mississippi Delta and temperatures forecast up to 122\u00b0F in California's Coachella Valley. A Washington Post analysis confirmed at least 70 deaths attributable to July's heat dome events, while epidemiologists warn the true toll is likely significantly higher due to underreporting of heat-related mortality. NWS Las Vegas extended Extreme Heat Warnings for the Mojave Desert through August 2, with overnight lows of 80\u201395\u00b0F providing little relief.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "The Post counted 70 deaths from July heat domes. The true toll may not be known.",
+          "url": "https://www.washingtonpost.com/weather/2026/07/26/this-months-heat-domes-killed-least-70-people-us-post-analysis-finds/",
+          "source": "www.washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "title": "Northeast US Flash Flood Threat \u2014 Multi-State Flood Watches from New Jersey to Massachusetts",
+      "location": "New York, New Jersey, Pennsylvania, Connecticut, Massachusetts, USA",
+      "type": "weather",
+      "summary": "A broad and anomalously powerful summer storm system is bringing a significant flash flood threat to the densely populated Northeast corridor on July 28\u201329, with Flood Watches active across New York City's five boroughs, Long Island, northeastern New Jersey, central Pennsylvania, and western Massachusetts through Wednesday evening. NWS offices in New York, Mount Holly, Albany, and Boston all issued overlapping watches, and Flash Flood Warnings were already triggered overnight in Niagara County, NY and Lancaster County, NE as slow-moving thunderstorms dumped 1\u20133 inches of rain in short periods. CNN noted the storm system is unusually strong for summer and may also spawn tornadoes in some areas.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash flood warnings issued as heavy rain pounds New York; beach hazards also posted",
+          "url": "https://www.democratandchronicle.com/story/weather/2026/07/28/flash-flood-warning-new-york-beach-hazards-heavy-rain/91073281007/",
+          "source": "www.democratandchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "France Gironde Wildfire Spawns Pyrocumulonimbus \u2014 Lightning Ignites New Fires",
+      "location": "Cap Ferret Peninsula and Gironde Department, Southwestern France",
+      "type": "wildfire",
+      "summary": "The ongoing Gironde wildfire near Cap Ferret has escalated dramatically with the confirmed formation of a pyrocumulonimbus cloud \u2014 a fire-generated storm cloud of enormous scale \u2014 which was photographed near Lacanau on July 25 and has since unleashed lightning strikes that are igniting additional fires across the region. French President Macron warned the nation on July 28 to brace for \"weeks\" of continued wildfire threat, with EU aerial and ground assistance already deployed. The pyrocumulonimbus development marks a particularly dangerous and rare escalation, as such clouds generate their own unpredictable lightning and severe downdraft winds that can rapidly redirect fire behavior.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Spain Wildfire \u2014 Macron Warns of Weeks More Fire; 100,000+ Acres Burned Across Central Spain",
+      "location": "Castilla y Le\u00f3n, Madrid, \u00c1vila, and Guadalajara Provinces, Spain",
+      "type": "wildfire",
+      "summary": "Spain's catastrophic wildfire complex continued burning on July 28, with French President Macron \u2014 whose own country is battling simultaneous fires \u2014 issuing a stark warning that both nations must prepare to fight fires for weeks longer as extreme drought and heat persist across the Iberian Peninsula and southwestern France. The fires across Castilla y Le\u00f3n, Madrid's western exurbs, and \u00c1vila have now consumed over 100,000 acres, ranking among the largest in modern Spanish history, with tens of thousands still displaced from evacuated zones. Firefighting teams from multiple EU member states remain deployed as Spain's national emergency declaration remains in effect.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfires near Madrid and in southwestern France force tens of thousands to evacuate",
+          "url": "https://apnews.com/article/spain-wildfires-emergency-54c3d375fa1cca8399ea2645a8e119b0",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.8 and M5.7 Earthquake Doublet Strikes Remote Northwestern China",
+      "location": "191\u2013192 km NW of Oula Xiuma, China (Xinjiang/Inner Mongolia border region)",
+      "type": "earthquake",
+      "summary": "Two significant shallow earthquakes \u2014 M5.8 and M5.7 \u2014 struck within 18 minutes of each other at nearly identical locations approximately 191\u2013192 km northwest of Oula Xiuma in a remote border region of northwestern China, both at a depth of 10 km, and both earning USGS yellow alert levels indicating potential for localized casualties or damage. The back-to-back doublet nature of the sequence suggests a possible fault rupture event or aftershock sequence in a sparsely populated but geologically active region. No felt reports were immediately available, likely reflecting the remote location, and Chinese authorities were assessing the area.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "5.8 Earthquake China region.. fairly shallow EQ so damage potential around the epicenter is a good possibility",
+          "url": "https://www.facebook.com/TheEarthMaster/posts/58-earthquake-china-region-fairly-shallow-eq-so-damage-potential-around-the-epic/1640703284721856",
+          "source": "www.facebook.com"
+        }
+      ]
+    }
+  ]
+}
