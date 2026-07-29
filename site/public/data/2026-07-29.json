@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-29",
+  "headline": "Northeast US Flash Floods Turn Life-Threatening as Spain Declares Wildfire National Emergency and 200,000+ Flee",
+  "overview": "A highly anomalous summer storm system is producing life-threatening flash flooding across New York, New Jersey, Connecticut, Massachusetts, and Vermont on July 29, with up to 5.5 inches of rain falling overnight and the threat shifting into New England through the day. Simultaneously, Spain has declared a national emergency as its wildfire crisis escalates to 200,000+ displaced \u2014 now among the country's most destructive fire seasons on record \u2014 while a reinforcing heat dome is building across Europe with temperatures exceeding 37\u00b0C in Paris and projections for 40\u00b0C+ into August. The US heat dome continues to expand its reach with Extreme Heat Warnings now extended through August 2 across over a dozen states.",
+  "events": [
+    {
+      "title": "Northeast US Flash Flood Emergency \u2014 Life-Threatening Inundation Across NY, NJ, CT, MA, VT",
+      "location": "New York, New Jersey, Connecticut, Massachusetts, Vermont, USA",
+      "type": "weather",
+      "summary": "An unusually powerful summer low-pressure system unleashed 2\u20135.5 inches of rain overnight across the greater Northeast, triggering simultaneous Flash Flood Warnings from the Hudson Valley to Long Island, coastal Connecticut, and northern New England. The NWS Albany office issued a cascade of Flash Flood Warnings covering Albany, Greene, Ulster, Rensselaer, Saratoga, Schenectady, Columbia, Dutchess, Sullivan, and Delaware counties, while Schoharie Creek at Prattsville surged toward major flood stage. CNN described the event as a 'life-threatening flash flood threat' driven by an unusually strong storm system for July, with the heaviest impacts now shifting into New England through Wednesday afternoon.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Spain Wildfire National Emergency \u2014 200,000+ Flee as Crisis Escalates Dramatically",
+      "location": "Castilla y Le\u00f3n, Madrid, \u00c1vila, Guadalajara, and Gironde, France",
+      "type": "wildfire",
+      "summary": "Spain's government declared a national emergency as wildfires across central Spain forced the evacuation of more than 200,000 people \u2014 a sharp escalation from the 100,000+ acre burn footprint reported just days ago. AP News and Nation Thailand report Spain had logged more than 29 major wildfires in 2026, with burned area running five times greater than the same period in 2025, as Europe has already lost more land to fire than in any comparable period on record. The concurrent Gironde wildfire in southwestern France continues to threaten Cap Ferret as EU assistance efforts intensify, with the ongoing European heatwave forecast to further hamper firefighting through the coming week.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "More than 200,000 people flee raging wildfires in France and Spain",
+          "url": "https://apnews.com/article/spain-wildfires-emergency-54c3d375fa1cca8399ea2645a8e119b0",
+          "source": "apnews.com"
+        },
+        {
+          "title": "Wildfires force mass evacuations in France and Spain",
+          "url": "https://www.nationthailand.com/news/world/40069040",
+          "source": "www.nationthailand.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Extends Through August 2 \u2014 Warnings Widen Across 15+ States",
+      "location": "Arizona, California, Nevada, Louisiana, Mississippi, Florida, Georgia, Oklahoma, and more, USA",
+      "type": "weather",
+      "summary": "The multi-week US heat dome has expanded and hardened, with NOAA issuing Extreme Heat Warnings now valid through Sunday, August 2 across the Desert Southwest, Gulf South, Southeast, and Southern California \u2014 a temporal extension beyond prior forecasts. Phoenix is forecast to see 109\u2013117\u00b0F, the Coachella Valley and Yuma area 115\u2013120\u00b0F, with Mississippi and Louisiana under heat index warnings up to 115\u2013116\u00b0F. The Washington Post's confirmed death toll stands at 70, with epidemiologists cautioning the true figure is likely much higher due to undercounting of heat-related mortality.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Europe Heat Dome Intensifies \u2014 Paris Hits 37.5\u00b0C, London 33.4\u00b0C; 40\u00b0C+ Forecast Into August",
+      "location": "France, United Kingdom, Spain, and broader Western Europe",
+      "type": "weather",
+      "summary": "A reinforcing heat dome is building over Western Europe, with Paris recording 37.5\u00b0C and London 33.4\u00b0C on July 29 \u2014 values well above seasonal norms. Severe-weather.eu reports that ensemble models are projecting potentially historic upper-air thermal anomalies tracking into the 99th percentile, setting the stage for temperatures above 40\u00b0C across parts of France and Iberia into early August. The heat is directly worsening wildfire conditions in France and Spain, and raising significant public health concerns, particularly for urban populations without widespread air conditioning.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Europe's Heat Dome Furnace Returns: Brutal 40+ \u00b0C Record Heatwave Builds Into August",
+          "url": "https://www.severe-weather.eu/global-weather/extreme-heatwave-excessive-heat-dome-mediterranean-forecast-europe-july-august-2026-mk",
+          "source": "www.severe-weather.eu"
+        },
+        {
+          "title": "France and Spain Firefighters Battle Wildfires as Heatwave Threatens Bordeaux and Madrid Area",
+          "url": "https://newscord.org/article/france-and-spain-firefighters-battle-wildfires-as-heatwave-threatens-bordeaux-an--Story_20260729_Wildfiresinsouthwestc121026e",
+          "source": "newscord.org"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Volcano Episode 52 \u2014 Lava Fountains Reach 100 Feet at Halema\u02bbuma\u02bbu Crater",
+      "location": "Hawai\u02bbi Volcanoes National Park, Big Island, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing summit eruption at Halema\u02bbuma\u02bbu crater entered Episode 52 on July 28, generating lava fountains up to 100 feet high as captured by HVO livestream cameras. The National Park Service confirms the eruption has been continuing intermittently and that some park programs may be canceled depending on eruptive activity, though all activity remains confined within Hawai\u02bbi Volcanoes National Park boundaries. No evacuation orders are in effect and no threat to surrounding communities has been issued.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "August 2026 Events at Hawai\u02bbi Volcanoes National Park",
+          "url": "https://www.nps.gov/havo/learn/news/20260724-august-events.htm",
+          "source": "www.nps.gov"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano Ongoing Eruption \u2014 Lava Effusion and Pyroclastic Flows, Luzon, Philippines",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "PHIVOLCS reports that Mayon Volcano's eruption continued through the week of July 16\u201322 and into late July, characterized by active lava effusion and periodic pyroclastic density currents (PDCs) descending its flanks. Mayon is one of the Philippines' most active volcanoes and its current eruptive phase poses ongoing hazards to communities in proximity to its permanent danger zone. Detailed current data for July 29 is limited; the Watchers.news weekly volcanic activity report is the most recent structured assessment available.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Texas Nueces River Major Flooding \u2014 Crest Moving Downstream Through Live Oak and McMullen Counties",
+      "location": "McMullen County, Live Oak County, South Texas, USA",
+      "type": "weather",
+      "summary": "The NWS Corpus Christi has issued extended Flood Warnings for the Nueces River near Tilden and Three Rivers, with major flooding forecast as the flood crest moves downstream through McMullen and Live Oak counties in South Texas. The river is forecast to remain in major flood stage before gradually falling through the end of July, inundating low-lying areas and agricultural land along the river corridor. Local reporting from MySanAntonio and SouthTexasNews confirms the flood threat is growing as upstream runoff continues to funnel downstream.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Texas flood threat grows as Nueces River rises",
+          "url": "https://www.mysanantonio.com/news/local/article/three-rivers-nueces-river-cresting-22361643.php",
+          "source": "www.mysanantonio.com"
+        }
+      ]
+    }
+  ]
+}
