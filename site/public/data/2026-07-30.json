@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-30",
+  "headline": "Spain's \u00c1vila Wildfire Becomes Largest in Spanish History at 111,000 Acres as Dual Heat Domes Bake Europe and the US Southwest with 120\u00b0F Extremes",
+  "overview": "A catastrophic wildfire in Spain's \u00c1vila province has surpassed 111,000 acres \u2014 consuming an area five times the size of Barcelona \u2014 and is now officially the largest wildfire in Spanish recorded history, as it remains only partially stabilized. Simultaneously, two concurrent heat domes continue to intensify: the US Southwest is enduring life-threatening temperatures of 115\u2013120\u00b0F through Sunday across Arizona, California's Coachella Valley, and the Mojave Desert, while Europe's heat dome drives Berlin to 37.5\u00b0C with 40\u00b0C+ conditions forecast to persist well into August. Separate wildfire and seismic emergencies in Oregon and the Texas Panhandle add to a globally active natural hazard landscape.",
+  "events": [
+    {
+      "title": "Spain\u2013France Wildfires: \u00c1vila Fire Becomes Largest in Spanish History at 111,000 Acres",
+      "location": "\u00c1vila Province, Castilla y Le\u00f3n, Spain; Gironde, France",
+      "type": "wildfire",
+      "summary": "The wildfire burning in \u00c1vila province has now scorched 111,000 acres (193 square miles \u2014 five times the area of Barcelona), confirmed by officials as the largest wildfire in Spanish recorded history. French authorities described the Gironde blaze as 'stabilized but not contained,' while Spanish firefighters on the ground stated the fire was effectively uncontrollable under prevailing conditions. More than 200,000 people remain displaced across Castilla y Le\u00f3n, Madrid, \u00c1vila, Guadalajara, and the French Gironde, with extreme wildfire danger expected to persist through the ongoing European heat dome.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Major wildfire in France 'stabilized' but not contained: Interior minister",
+          "url": "https://abcnews.com/International/major-wildfire-france-stabilized-contained-interior-minister/story?id=135123975",
+          "source": "abcnews.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Reaches Peak Intensity \u2014 115\u2013120\u00b0F in Arizona and Coachella Valley Through Sunday",
+      "location": "Arizona, California, Nevada, Utah, Montana, Oklahoma, Puerto Rico, USA",
+      "type": "weather",
+      "summary": "The US heat dome has reached its most dangerous phase, with NWS Extreme Heat Warnings now active across more than 20 distinct zones spanning Arizona through Montana and including Puerto Rico. The Coachella Valley, Yuma, and Parker Valley in Arizona and California face forecast highs of 115\u2013120\u00b0F through Sunday, August 2, with Phoenix's metropolitan area under a Major-to-Extreme Heat Risk warning for temperatures of 111\u2013117\u00b0F. The heat dome has also dramatically expanded northward, with new Extreme Heat Watches issued for Montana counties expecting 100\u2013110\u00b0F and overnight lows in the 70s \u2014 providing virtually no relief.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Europe Heat Dome Escalates \u2014 Berlin Hits 37.5\u00b0C; 40\u00b0C+ Forecast to Persist Into August",
+      "location": "Germany, France, United Kingdom, Spain, and broader Western Europe",
+      "type": "weather",
+      "summary": "The European heat dome has intensified and expanded eastward, with Berlin recording 37.5\u00b0C on July 30 \u2014 among the highest temperatures in the city's modern history for this period \u2014 while Paris reached 31\u00b0C and London 26.7\u00b0C, both still significantly above seasonal norms. Ensemble forecast models cited by severe-weather.eu indicate mid- to upper-air thermal anomalies tracking into the 99th percentile, with temperatures exceeding 40\u00b0C forecast to continue across Central and Southern Europe well into August. The World Meteorological Organization has issued warnings about the compounding health, economic, and wildfire risks posed by the ongoing European heat emergency.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Europe's Heat Dome Furnace Returns: Brutal 40+ \u00b0C Record Heatwave Builds Into August",
+          "url": "https://www.severe-weather.eu/global-weather/extreme-heatwave-excessive-heat-dome-mediterranean-forecast-europe-july-august-2026-mk",
+          "source": "www.severe-weather.eu"
+        },
+        {
+          "title": "Europe Heatwave 2026: WMO Warns of Rising Extreme Heat",
+          "url": "https://unric.org/en/europe-heatwave-2026-wmo",
+          "source": "unric.org"
+        }
+      ]
+    },
+    {
+      "title": "Oregon Wildfire Complex Explodes \u2014 Bench Fire at 0% Containment; FEMA Denies Emergency Funding",
+      "location": "North-Central and Eastern Oregon, USA",
+      "type": "wildfire",
+      "summary": "A cluster of fast-moving wildfires is burning across north-central and eastern Oregon, with the Bench Fire near Warm Springs the most critical \u2014 having burned 6,963 acres with 0% containment and prompting Level 2 'GET SET' evacuation orders as of July 28\u201329. The Brewer Fire stands at 10% containment and the Akawa Butte Fire at just 6%, with dry, gusty conditions across the region forecast to worsen through Saturday under multiple active NWS Fire Weather Watches. The situation drew significant political attention after FEMA denied emergency funding requests for the wildfires, prompting Oregon's U.S. senators to formally demand answers from the agency.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Oregon senators demand answers after FEMA denies emergency funding for major wildfires",
+          "url": "https://www.kptv.com/2026/07/29/fema-denies-emergency-funding-major-oregon-wildfires",
+          "source": "www.kptv.com"
+        },
+        {
+          "title": "Some Central Oregon wildfires have been 100% contained. See which ones remain",
+          "url": "https://katu.com/news/wildfire-season/lightning-and-dry-gusty-weather-drive-dozens-of-new-wildfires-across-central-oregon-oregon-portland-salem-redmond-sisters-oregon-cascades-forecast-weaher-wildfires-climate-change-global-warming-season",
+          "source": "katu.com"
+        }
+      ]
+    },
+    {
+      "title": "Northeast US Flooding Continues \u2014 Active Warnings Across Upstate New York",
+      "location": "Albany, Schenectady, Columbia, Greene, Rensselaer Counties, New York, USA",
+      "type": "weather",
+      "summary": "Flood warnings remained active into the morning of July 30 across multiple upstate New York counties including Albany, Schenectady, Rensselaer, Columbia, and Greene, as rivers, creeks, and streams continued running above flood stage following the multi-day flash flood emergency. Numerous roads remain closed due to inundation, with emergency managers warning against driving through flooded roadways, and additional heavy rain potential persisting in parts of New Hampshire overnight. While the acute life-threatening flash flood emergency phase from July 29 has begun to wind down, the lingering riverine flooding across the Capital Region represents a continued severe hazard.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "N.Y. Weather: Heavy rain and flooding remains across New York State",
+          "url": "https://www.silive.com/ny-state/2026/07/ny-weather-heavy-rain-and-flooding-remains-across-new-york-state.html",
+          "source": "www.silive.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.0 Earthquake Strikes Texas Panhandle \u2014 Strongest in the Region in a Century",
+      "location": "Roberts County (38 km SSE of Spearman), Texas Panhandle, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 5.0 earthquake struck northwestern Roberts County in the Texas Panhandle on July 23 at 05:21 CDT, registering 498 felt reports across the region and making it the fourth earthquake at or above M5.0 ever recorded in the Texas Panhandle \u2014 and the strongest in approximately 100 years. The USGS recorded the shallow event at a depth of 5.7 km, consistent with the shallow induced or tectonic seismicity historically associated with the region's oil and gas production. No structural damage or injuries have been reported, but the unusual magnitude and broad felt extent have drawn scientific attention to ongoing seismic risk in an area not typically associated with significant earthquakes.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "M5.0 earthquake joins small group of major Texas Panhandle events",
+          "url": "https://watchers.news/2026/07/24/m5-0-earthquake-joins-small-group-of-major-texas-panhandle-events",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Texas Panhandle's strongest quake in a century hit before dawn",
+          "url": "https://www.chron.com/texas/article/texas-panhandle-strongest-earthquake-century-22357248.php",
+          "source": "www.chron.com"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Issues Orange High-Temperature Warning as City Hits 39.2\u00b0C",
+      "location": "Shanghai, China",
+      "type": "weather",
+      "summary": "Shanghai's Meteorological Observatory issued an orange high-temperature warning signal as the city recorded a maximum temperature of 39.2\u00b0C on July 30, well above the seasonal average of 32\u201336\u00b0C and driven by the same broad high-pressure system baking much of East Asia. The alert level is the second-highest in China's warning hierarchy, indicating a significant public health risk particularly for outdoor workers, the elderly, and those without air conditioning. The heat is consistent with a broader East Asian heat pattern, with Tokyo also recording 35.1\u00b0C and Beijing at 35.5\u00b0C, though Shanghai's reading is the most anomalous relative to its typical summer range.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Shanghai Meteorological Observatory issued an orange high-temperature warning signal",
+          "url": "https://www.facebook.com/61578224194170/posts/%EF%B8%8Fshanghai-meteorological-observatory-issued-an-orange-high-temperature-warning-s/122199909566940806",
+          "source": "www.facebook.com"
+        }
+      ]
+    }
+  ]
+}
