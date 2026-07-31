@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-31",
+  "headline": "M6.8 Earthquake Strikes Uto, Japan With Red USGS Alert \u2014 Buildings Collapse, Dozens Injured as US Heat Dome Extends to 120\u00b0F Through Monday",
+  "overview": "A powerful M6.8 earthquake centered near Uto in Kumamoto Prefecture, Japan \u2014 carrying a USGS red alert level \u2014 collapsed buildings and injured dozens on July 28, with some sources reporting a revised magnitude of 7.1; tsunami advisories were issued and later lifted. Simultaneously, a catastrophic heat dome continues to grip the American Southwest with temperatures of 115\u2013120\u00b0F across the Coachella Valley, southern Arizona, and Mojave Desert through at least Monday, while Spain and France's wildfire crisis intensifies as a new attribution report confirms 140,000 hectares burned and a fresh heat wave threatens to fan the flames further. Significant new flooding is also developing across Minnesota and the Dakotas, and Oregon's wildfire season is officially the worst on record for the region since 2000.",
+  "events": [
+    {
+      "title": "M6.8 Earthquake Strikes Uto, Japan \u2014 Buildings Collapse, Dozens Injured",
+      "location": "Uto, Kumamoto Prefecture, Kyushu, Japan",
+      "type": "earthquake",
+      "summary": "A major earthquake struck near Uto in Kumamoto Prefecture, Japan on July 28 at 07:27 UTC, with a USGS-assigned magnitude of 6.8 at a shallow depth of 10 km \u2014 some outlets have reported a revised magnitude of 7.1. The USGS issued a red alert level, reflecting significant expected casualties and damage; buildings collapsed, fires broke out, and dozens were injured, with a hospital in Yatsushiro treating approximately 40 patients. Tsunami advisories were triggered but subsequently lifted, and the region \u2014 still bearing scars from the devastating 2016 Kumamoto earthquakes \u2014 faces a difficult recovery.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 6.8 earthquake in Japan injures dozens, collapses buildings; tsunami advisories lifted",
+          "url": "https://www.accuweather.com/en/weather-news/magnitude-6-8-earthquake-in-japan-injures-dozens-collapses-buildings-tsunami-advisories-lifted/1916299",
+          "source": "accuweather.com"
+        },
+        {
+          "title": "Dozens injured after 7.1-magnitude earthquake strikes Japan's Kumamoto",
+          "url": "https://www.spokesman.com/stories/2026/jul/28/dozens-injured-after-71-magnitude-earthquake-strik",
+          "source": "spokesman.com"
+        }
+      ]
+    },
+    {
+      "title": "US Heat Dome Persists \u2014 115\u2013120\u00b0F Warnings Expand Across Southwest Through Monday",
+      "location": "Arizona, California, Nevada, Utah, Oklahoma, USA",
+      "type": "weather",
+      "summary": "Active Extreme Heat Warnings remain in force across a sweeping area of the American Southwest on July 31, with the NWS in Phoenix warning of afternoon temperatures of 112\u2013120\u00b0F across the Coachella Valley, Yuma, and Imperial Valley through Monday evening, while the Phoenix metro faces 112\u2013117\u00b0F conditions. The heat dome has expanded into new zones including the Mojave Desert, where overnight lows of 80\u201395\u00b0F will offer virtually no relief, and additional warnings cover southern Utah, Oklahoma (heat index to 115\u00b0F), and the Antelope Valley of California (105\u2013115\u00b0F). Dubai's weather data (45.1\u00b0C/113\u00b0F) underscores the global scale of heat extremes this week, though the US Southwest warnings represent the most concentrated danger zone.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Dangerous heat dome to bring triple-digit temperatures to California, Southwest into next week",
+          "url": "https://www.accuweather.com/en/weather-forecasts/dangerous-heat-dome-to-bring-triple-digit-temperatures-to-california-southwest-into-next-week/1916593",
+          "source": "accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Spain\u2013France Wildfire Crisis Escalates \u2014 140,000 Ha Burned; New Heat Wave Incoming",
+      "location": "\u00c1vila, Madrid, Castilla y Le\u00f3n, Spain; Gironde, France",
+      "type": "wildfire",
+      "summary": "A new World Weather Attribution report released July 31 confirms that approximately 140,000 hectares have burned across Spain and France between July 13\u201328 alone, driven by three major fire complexes in \u00c1vila\u2013Madrid\u2013Toledo, Guadalajara, and Gironde \u2014 with climate change identified as a key compounding driver. More than 220,000 people have been evacuated across the two countries, and with a new intense heat wave forecast to push temperatures above 40\u00b0C across the region, firefighting crews face a race against time before conditions deteriorate further. The \u00c1vila fire remains the largest in Spanish recorded history, and France's Cap Ferret peninsula was also evacuated as the Saumos fire threatened the Gironde coast.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+          "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o",
+          "source": "bbc.co.uk"
+        },
+        {
+          "title": "Climate change increases likelihood of compounding drivers of severe wildfire conditions in France and Spain",
+          "url": "https://www.worldweatherattribution.org/climate-change-increases-likelihood-of-compounding-drivers-of-severe-wildfire-conditions-in-france-and-spain",
+          "source": "worldweatherattribution.org"
+        }
+      ]
+    },
+    {
+      "title": "Oregon Wildfire Complex \u2014 Officially Worst Season on Record; Fire Weather Watches Blanket Pacific Northwest",
+      "location": "North-Central and Eastern Oregon; Idaho; Washington; Montana, USA",
+      "type": "wildfire",
+      "summary": "Oregon's wildfire season is now officially the worst for Oregon and Washington since at least 2000, with the Bench Fire having burned 8 homes and 5 other structures near Warm Springs while remaining at 0% containment. The NWS issued simultaneous Fire Weather Watches across a vast swath of the Pacific Northwest for Saturday \u2014 covering parts of eastern Oregon, northern and central Idaho, eastern Washington, and multiple Montana districts \u2014 warning that any fires that develop will spread rapidly under gusty winds and critically low humidity (as low as 8\u201310%). The FEMA emergency funding denial remains unresolved, adding pressure to already-stretched firefighting resources.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfire Updates: Officially the worst wildfire season for Oregon & Washington since at least 2000",
+          "url": "https://www.kptv.com/2026/07/30/wildfire-updates-bench-fire-warm-springs-burns-8-homes-5-other-buildings",
+          "source": "kptv.com"
+        },
+        {
+          "title": "Fire weather watch issued in Central and Eastern Oregon, where massive wildfires are already burning",
+          "url": "https://www.opb.org/article/2026/07/30/wildfires-oregon-weather-fire-big-grass-rowe-creek",
+          "source": "opb.org"
+        }
+      ]
+    },
+    {
+      "title": "Flash Flooding Strikes Minnesota and South Dakota \u2014 Flood Watches Across 20+ Counties",
+      "location": "South-Central and West-Central Minnesota; Northeastern South Dakota, USA",
+      "type": "weather",
+      "summary": "Slow-moving thunderstorms produced widespread heavy rainfall across south-central and west-central Minnesota and the northeastern South Dakota border region overnight into July 31, prompting the NWS in the Twin Cities to issue Flood Watches covering 20 counties with projected rainfall totals of 2\u20134 inches broadly and locally exceeding 6 inches. Flood Warnings were simultaneously issued for Big Stone, Traverse, and Day counties \u2014 where flooding from excessive rainfall was occurring or imminent \u2014 as well as Lyman County in central South Dakota. The event represents a new and distinct flooding episode separate from the Northeast US flash flood emergency earlier this week.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Heavy rainfall continues across west-central and south-central Minnesota (Mankato Free Press)",
+          "url": "https://www.mankatofreepress.com/news/state_national_news/anthropic-says-its-ai-models-hacked-3-organizations-during-testing/article_97be6ad0-d6d2-54fd-b022-e29cd3caf610.html",
+          "source": "mankatofreepress.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.8\u20135.7 Earthquake Sequence Strikes Remote Northwest China",
+      "location": "191\u2013192 km NW of Oula Xiuma, Xinjiang/Gansu Region, China",
+      "type": "earthquake",
+      "summary": "Two significant shallow earthquakes \u2014 M5.8 and M5.7 \u2014 struck within 18 minutes of each other on July 28 at a depth of 10 km in a very remote area of northwest China, approximately 191\u2013192 km northwest of Oula Xiuma in the Xinjiang or Gansu border region. Both events were assigned a USGS yellow alert level, suggesting limited but possible impact in the sparsely populated area; only one felt report was recorded for each event. No tsunami alert was issued, and no major damage or casualty reports have emerged at this time, though the remote location limits available information.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "K\u012blauea Episode 52 \u2014 Lava Fountaining Continues at Halema\u02bbuma\u02bbu Crater",
+      "location": "Hawai\u02bbi Volcanoes National Park, Big Island, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's summit eruption entered its 52nd discrete eruptive episode on July 28 at 19:10 HST, with sustained lava fountaining reaching approximately 100 feet (30 meters) from the north vent inside Halema\u02bbuma\u02bbu crater. The episodic eruption pattern \u2014 now in its most recent phase \u2014 has been ongoing across 2026 and continues to be closely monitored by the USGS Hawaiian Volcano Observatory, with no threat to populated areas at this time. The eruption remains confined within the summit caldera of Hawai\u02bbi Volcanoes National Park.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
