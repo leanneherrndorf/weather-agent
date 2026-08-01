@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-01",
+  "headline": "Deadly US Heat Dome Extends Through Monday as PDS Red Flag Warnings Ignite Across Pacific Northwest; Spain\u2013France Wildfire Smoke Blankets Millions",
+  "overview": "August 1 opens with a convergence of extreme heat, fire, and flooding hazards across multiple continents. The historic US heat dome \u2014 now in its third week \u2014 continues to drive 110\u2013120\u00b0F Extreme Heat Warnings from Arizona to Montana through Monday, while a Particularly Dangerous Situation (PDS) Red Flag Warning from a cold front sweeping the Pacific Northwest threatens explosive fire spread across Oregon, Washington, and Idaho. Simultaneously, the Spain\u2013France wildfire crisis has broadened into a major air quality emergency, with Copernicus data showing millions of Europeans now exposed to PM2.5 concentrations far above safe limits.",
+  "events": [
+    {
+      "title": "US Heat Dome Persists \u2014 Extreme Heat Warnings From Arizona to Montana Through Monday",
+      "location": "Arizona, California, Nevada, Utah, Montana, USA",
+      "type": "weather",
+      "summary": "A sprawling and persistent heat dome continues to drive life-threatening temperatures across the American West, with NWS Extreme Heat Warnings active across dozens of zones from Phoenix (110\u2013117\u00b0F) and the Coachella Valley/Yuma corridor (112\u2013120\u00b0F) to Death Valley, the Mojave Desert, and now much of Montana (100\u2013110\u00b0F) through Monday evening. Overnight low temperatures in the 70s\u201390s are offering little to no relief, dramatically increasing the risk of heat-related illness and death. The heat dome is now in its third consecutive week and has broken or tied dozens of all-time records across the Southwest.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Spain\u2013France Wildfire Crisis: Copernicus Warns Millions Exposed to Dangerous Air Quality",
+      "location": "\u00c1vila, Castilla y Le\u00f3n, Spain; Gironde, France; Western Europe",
+      "type": "wildfire",
+      "summary": "The catastrophic wildfire complex burning across Spain and France \u2014 already the largest in Spanish recorded history at over 140,000 hectares \u2014 has now escalated into a major transboundary air quality emergency. Copernicus Atmosphere Monitoring Service (CAMS) forecast data shows PM2.5 fine particulate levels in Bordeaux reaching nearly five times the safe daily limit, with millions across southwestern Europe exposed to extremely poor air quality through at least August 2. A new World Weather Attribution analysis released this week directly links climate change to the compounding fire weather drivers behind the 2026 Spain\u2013France wildfire season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Extreme wildfires in western Europe expose millions to dangerous air pollution levels",
+          "url": "https://atmosphere.copernicus.eu/extreme-wildfires-western-europe-expose-millions-dangerous-air-pollution-levels",
+          "source": "atmosphere.copernicus.eu"
+        }
+      ]
+    },
+    {
+      "title": "Pacific Northwest Wildfire Crisis Escalates \u2014 PDS Red Flag Warnings as Cold Front Drives Explosive Conditions",
+      "location": "Oregon, Washington, Idaho, Montana, USA",
+      "type": "wildfire",
+      "summary": "A dry cold front sweeping across the Pacific Northwest on August 1 has triggered Particularly Dangerous Situation (PDS) Red Flag Warnings across the Okanogan Valley, Colville Reservation, Waterville Plateau, and Columbia Basin of Washington, along with extensive Red Flag Warnings across central Oregon, north-central Idaho, and much of Montana \u2014 creating ideal conditions for explosive, erratic fire behavior. Oregon's Rowe Creek Complex, the state's largest active fire complex, has now reached 199,047 acres at just 31% containment after igniting July 15, while lightning-sparked new ignitions are reported across Central Oregon. Wind gusts of 25\u201350 mph combined with relative humidities as low as 10\u201320% are expected to rapidly spread any new or existing fires through the evening.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Some Central Oregon wildfires have been 100% contained. See which ones remain",
+          "url": "https://katu.com/news/wildfire-season/lightning-and-dry-gusty-weather-drive-dozens-of-new-wildfires-across-central-oregon-oregon-portland-salem-redmond-sisters-oregon-cascades-forecast-weaher-wildfires-climate-change-global-warming-season",
+          "source": "katu.com"
+        },
+        {
+          "title": "Why Oregon's wildfires have run wild during 2026 season",
+          "url": "https://www.statesmanjournal.com/story/news/wildfires/2026/07/29/why-oregons-wildfires-have-run-wild-2026-season/91083534007",
+          "source": "statesmanjournal.com"
+        }
+      ]
+    },
+    {
+      "title": "Earth-Directed CME Triggers G1\u2013G2 Geomagnetic Storm Forecast for August 2",
+      "location": "Global (Earth-facing)",
+      "type": "other",
+      "summary": "A long-duration M1.9 solar flare from Active Region 4492 coincided with a filament eruption near N20W67 on July 31, producing an eruptive sequence associated with an Earth-directed partial-halo coronal mass ejection (CME). Space weather forecasters at NOAA have issued a G1\u2013G2 (Minor to Moderate) geomagnetic storm watch for August 2, with aurora potentially visible across 10 or more US states. While G1\u2013G2 storms rarely cause significant infrastructure damage, they can disrupt HF radio communications, cause minor fluctuations in power grids, and trigger vivid aurora displays at mid-latitudes.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Long-duration M1.9 flare produces Earth-directed CME, G1-G2 geomagnetic storm conditions forecast for August 2",
+          "url": "https://watchers.news/2026/07/31/long-duration-m1-9-flare-produces-earth-directed-cme-g1-g2-geomagnetic-storm-conditions-forecast-for-august-2",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Nueces River Reaches Major Flood Stage in South Texas \u2014 Fatality Reported",
+      "location": "Live Oak and McMullen Counties, South Texas, USA",
+      "type": "weather",
+      "summary": "The Nueces River is in major flood stage across South Texas, with NWS Corpus Christi issuing Flood Warnings for Live Oak and McMullen Counties as the river crested near Three Rivers at approximately 39.2 feet \u2014 more than 14 feet above the 25-foot flood stage threshold. A person was reported swept away and killed in the Nueces River near Uvalde, and local officials have been preparing communities for potential inundation of low-lying subdivisions. The flood event follows a series of heavy rainfall episodes across South and Central Texas and is expected to recede slowly through the coming days.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Officials prepare Texas communities for potential flooding",
+          "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/29/potential-flood-preparations",
+          "source": "spectrumlocalnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Multi-Day Flood Watch Issued for Florida Gulf Coast \u2014 Tropical Moisture Threat",
+      "location": "Big Bend and Panhandle Florida (Bay, Gulf, Franklin, Wakulla, Taylor, Hernando, Citrus, Levy Counties), USA",
+      "type": "weather",
+      "summary": "NWS Tampa Bay and Tallahassee have issued multi-day Flood Watches covering a broad swath of Florida's Gulf Coast \u2014 from the Panhandle through the Big Bend region \u2014 valid from August 1 through August 3, driven by persistent tropical moisture and slow-moving thunderstorm complexes. Excessive runoff threatens rivers, creeks, and low-lying areas, with forecasters warning that repeated rounds of heavy rainfall could produce localized flooding lasting several days. The Atlantic hurricane season remains quiet for now, but enhanced tropical moisture continues to funnel heavy rainfall into the Florida Gulf Coast region.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hurricane season update includes tropical waves, stormy Florida",
+          "url": "https://www.pnj.com/story/weather/hurricanes/2026/07/31/tropics-update-tropical-waves-stormy-weather-florida-forecast/91060131007",
+          "source": "pnj.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Episode 52 \u2014 Lava Fountaining Continues at Halema\u02bbuma\u02bbu Crater",
+      "location": "Hawai\u02bbi Volcanoes National Park, Big Island, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing Episode 52 eruption continues at Halema\u02bbuma\u02bbu Crater within the summit caldera, with lava fountaining maintaining active activity as of August 1. The eruption remains confined to the crater and poses no immediate threat to populated areas, though volcanic gas (SO\u2082) emissions continue and may affect air quality downwind. The Hawaiian Volcano Observatory (HVO) continues to monitor the eruption closely; no significant escalation from prior days has been reported.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
