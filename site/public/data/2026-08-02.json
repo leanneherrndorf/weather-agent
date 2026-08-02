@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-02",
+  "headline": "Greece ignites as gale-force winds drive wildfires toward Athens, opening a dangerous new front in Europe's wildfire emergency.",
+  "overview": "Europe's wildfire crisis spread dramatically on August 1\u20132 as gale-force winds fanned new blazes across multiple regions of Greece, including areas northwest of Athens, while France and Spain continued to battle ongoing fires totaling over 119,000 hectares burned. In the United States, July 2026 has been confirmed as likely the nation's hottest month on record with more than 9,400 CDC-tracked heat deaths, while a new multi-state flash flood emergency struck the North Carolina and Virginia foothills overnight as separate widespread flooding affected the Midwest and Great Lakes region. Globally, an Earth-directed CME arrived at Earth on August 2 triggering forecast G1\u2013G2 geomagnetic storm conditions, and Sakurajima volcano in Japan continued a persistent eruption sequence.",
+  "events": [
+    {
+      "title": "Greece Wildfires Erupt Near Athens \u2014 Gale Winds Drive New European Fire Front",
+      "location": "Attica, Viotia, and Multiple Regions, Greece",
+      "type": "wildfire",
+      "summary": "Gale-force winds fanned multiple fast-moving wildfires across Greece beginning August 1, opening a dangerous new front in Europe's ongoing wildfire emergency. Fires are burning in the Viotia region northwest of Athens near Porto Germeno, with hundreds of thousands of people already displaced across France and Spain by the broader European crisis. Greek firefighters are battling blazes under critically dry and windy conditions as the European fire season intensifies.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Greece battles raging wildfires as flames appear to ease in France",
+          "url": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Wildfires in Europe: blazes continue to spread in France and Greece",
+          "url": "https://www.euronews.com/my-europe/2026/08/01/wildfires-in-europe-blazes-continue-to-spread-in-france-and-greece",
+          "source": "www.euronews.com"
+        }
+      ]
+    },
+    {
+      "title": "July 2026 Confirmed as Likely America's Hottest Month Ever \u2014 9,400+ Heat Deaths",
+      "location": "Southwest and Western USA (Arizona, California, Nevada, Utah, Montana)",
+      "type": "weather",
+      "summary": "July 2026 is now assessed as likely the hottest month ever recorded in the United States, with CDC mortality data tracking at least 9,436 heat-related deaths \u2014 a figure experts say substantially understates the true toll as heat deaths are routinely misclassified. Extreme Heat Warnings remain active across a vast swath of the Southwest on August 2, with Phoenix area temperatures reaching 109\u2013118\u00b0F and Imperial Valley highs of 107\u2013119\u00b0F; warnings in some areas extend through Tuesday, August 4. The NWS and CDC have jointly issued a national heat risk forecast warning of continued dangerous conditions for tens of millions of people.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Flash Flood Emergency \u2014 North Carolina & Virginia Foothills; Water Rescues at Mt. Airy",
+      "location": "Surry and Stokes Counties, North Carolina; Patrick, Carroll, and Floyd Counties, Virginia, USA",
+      "type": "weather",
+      "summary": "Overnight thunderstorms on August 1\u20132 dropped 4 to 7.5 inches of rain across the northern North Carolina foothills and adjacent southwest Virginia, triggering a Flash Flood Emergency and prompting numerous water rescues in the Mt. Airy and Pilot Mountain areas of Surry County. The Ararat River at Mt. Airy surged toward a crest near 24 feet, well above flood stage, while Flood Warnings covering Surry, Stokes (NC), and Patrick, Carroll, Floyd (VA) counties remained active into Sunday afternoon. Flood Watches extended broadly across the central Appalachians from West Virginia through the Virginia Blue Ridge.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash Flood Emergency in North Carolina | Mount Airy, Pilot Mountain",
+          "url": "https://www.wxii12.com/article/flash-flood-alerts-north-carolina-foothills-mount-airy/73325559",
+          "source": "www.wxii12.com"
+        },
+        {
+          "title": "UPDATE: Stokes and Surry counties under a flash flood warning until early Sunday morning",
+          "url": "https://www.newsobserver.com/news/weather-news/article316739579.html",
+          "source": "www.newsobserver.com"
+        }
+      ]
+    },
+    {
+      "title": "Widespread Midwest & Great Lakes Flash Flood Watches \u2014 Ohio, Indiana, Michigan, Pennsylvania, New York",
+      "location": "Ohio, Indiana, Michigan, Pennsylvania, West Virginia, New York, USA",
+      "type": "weather",
+      "summary": "A broad swath of the Midwest and Great Lakes region is under Flash Flood Watches and Warnings on August 2, covering dozens of counties across Ohio, Indiana, Michigan, Pennsylvania, West Virginia, and western New York as a slow-moving moisture-rich system delivers excessive rainfall. Active Flood Warnings are in place for rivers including the Little Calumet and East Branch DuPage in the Chicago metro area, with the East Branch DuPage at Bolingbrook in minor flood. The threat is expected to persist through Sunday evening into early Monday in many locations.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Red Flag Warnings Expand Across Northern Rockies & Northern Plains \u2014 Critical Fire Weather",
+      "location": "Montana, Wyoming, North Dakota, Idaho, Nebraska, Utah, USA",
+      "type": "wildfire",
+      "summary": "Critical fire weather conditions blanketed an enormous area of the Northern Rockies and Northern High Plains on August 2, with simultaneous Red Flag Warnings active from the Montana Rocky Mountain Front eastward through North Dakota and southward through Wyoming, Idaho, Nebraska, and Utah. NWS offices warned of relative humidity dropping to 5\u201320%, west to northwest winds gusting to 35\u201375 mph, and the passage of two cold fronts capable of causing erratic and explosive fire behavior. Any ignition under these conditions \u2014 including from lightning or human activity \u2014 has the potential to spread rapidly and prove extremely difficult to control.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Earth-Directed CME Arrives \u2014 G1\u2013G2 Geomagnetic Storm Conditions Impact August 2",
+      "location": "Global (Earth-facing)",
+      "type": "other",
+      "summary": "An Earth-directed partial-halo coronal mass ejection (CME), produced by a long-duration M1.9 solar flare from Active Region 4492 on July 31, arrived at Earth on August 2 as forecast, triggering G1\u2013G2 (Minor to Moderate) geomagnetic storm conditions. The eruption was associated with an S1 minor solar radiation storm and a filament eruption near N20W67. G1\u2013G2 storms can cause minor power grid fluctuations, impact satellite operations, and produce aurora visible at higher latitudes.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Long-duration M1.9 flare produces Earth-directed CME, G1-G2 geomagnetic storm conditions forecast for August 2",
+          "url": "https://watchers.news/2026/07/31/long-duration-m1-9-flare-produces-earth-directed-cme-g1-g2-geomagnetic-storm-conditions-forecast-for-august-2",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Sun news: Huge chunk of solar stuff coming to us at Earth",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates",
+          "source": "earthsky.org"
+        }
+      ]
+    },
+    {
+      "title": "Sakurajima Volcano \u2014 21 Eruptions in One Week; Persistent Activity Continues",
+      "location": "Sakurajima (Aira Caldera), Kagoshima Prefecture, Japan",
+      "type": "volcano",
+      "summary": "Japan's Meteorological Agency (JMA) reported 21 discrete eruptions at Sakurajima's Minamidake Crater between July 20 and 27, 2026, underscoring the volcano's sustained and elevated activity level. Sakurajima, situated within the Aira caldera in Kagoshima Bay, is one of Japan's most persistently active volcanoes and poses ongoing hazards to nearby communities from ashfall, ballistic projectiles, and pyroclastic flows. Monitoring networks continue to track the volcano closely given its proximity to the city of Kagoshima.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
