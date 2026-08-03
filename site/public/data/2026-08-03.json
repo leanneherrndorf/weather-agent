@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-03",
+  "headline": "Catastrophic Spokane-Area Wildfires Force 60,000 Evacuations and Destroy 600 Structures as Greece Fire Claims Two Firefighters in Helicopter Collision",
+  "overview": "Monday, August 3 brought a cascade of major natural disasters across two continents. In the United States, explosive wildfires in eastern Washington state near Spokane burned 600 structures and forced roughly 60,000 residents to flee, while a powerful storm system triggered simultaneous flash flood warnings across New York City, New Jersey, Connecticut, and Pennsylvania. Extreme heat warnings remained in force from the Mojave Desert to Phoenix with temperatures reaching 118\u00b0F, and a USGS red-alert earthquake from July 28 continued to rattle Kyushu, Japan.",
+  "events": [
+    {
+      "title": "Spokane-Area Wildfires Explode \u2014 60,000 Evacuated, 600 Structures Destroyed",
+      "location": "Spokane and Eastern Washington, USA",
+      "type": "wildfire",
+      "summary": "Multiple wildfires in eastern Washington state \u2014 including the Old Trails, Autumn Lane, and Fairview Fires near Spokane \u2014 merged into a catastrophic fire event, forcing approximately 60,000 residents to evacuate and destroying around 600 homes, businesses, and other structures. The blazes remained uncontained as of August 3, driven by the ongoing critical fire weather pattern of extreme heat, low humidity, and gusty winds affecting the Northern Rockies and Pacific Northwest. Red Flag Warnings and Fire Weather Watches extended across southern Oregon, Wyoming, Utah, Colorado, and the Dakotas, indicating the broader region remains at extreme ignition risk.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+          "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "'A tremendous tragedy': thousands evacuated, hundreds of structures destroyed in Spokane Area Fires",
+          "url": "https://www.khq.com/fires/a-tremendous-tragedy-thousands-evacuated-hundreds-of-structures-destroyed-in-spokane-area-fires/article_8f1a90ab-1bb3-4fb7-8b6a-8464137bd373.html",
+          "source": "www.khq.com"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfires Claim Two Firefighters in Helicopter Collision; Fourth Day of Destruction Near Athens",
+      "location": "Western Attica and Boeotia, Greece",
+      "type": "wildfire",
+      "summary": "Greek authorities entered the fourth consecutive day battling wildfires raging through Western Attica and Boeotia on August 3, as the disaster turned deadly with the mid-air collision of two firefighting helicopters that killed both crew members. Evacuation orders were issued overnight for three additional communities as crews raced to build firebreaks and prevent the blaze from spreading toward populated areas west and northwest of Athens. The tragedy marks a significant escalation from prior days and drew renewed international attention to Europe's accelerating summer wildfire crisis.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Two dead after firefighting helicopters collide during Greece wildfire mission",
+          "url": "https://www.thevibes.com/articles/world/125770/two-dead-after-firefighting-helicopters-collide-during-greece-wildfire-mission",
+          "source": "www.thevibes.com"
+        },
+        {
+          "title": "Greece battles deadly wildfire, helicopter tragedy",
+          "url": "https://www.turkiyetoday.com/region/greece-battles-deadly-wildfire-and-helicopter-tragedy-3225250",
+          "source": "www.turkiyetoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Major Flash Flood Event Strikes NYC Metro \u2014 Warnings Issued for Manhattan, Brooklyn, NJ, CT, PA",
+      "location": "New York City, New Jersey, Connecticut, and Pennsylvania, USA",
+      "type": "weather",
+      "summary": "A potent storm system sweeping through the Northeast triggered simultaneous Flash Flood Warnings on August 3 covering an extraordinary geographic footprint, including all five New York City boroughs (Manhattan, Brooklyn, Bronx, Queens, Staten Island), multiple New Jersey counties (Bergen, Essex, Passaic, Hudson, Union, Middlesex, Somerset, Mercer, Morris, Hunterdon), Fairfield County CT, Hartford County CT, and Bucks/Montgomery/Philadelphia counties in Pennsylvania. Rainfall of 2\u20134 inches fell in several hours, with ongoing rates of 1 inch per hour; rivers and streams ran critically high and road flooding was widespread across the region. Broad Flood Watches encompassing Delaware, northeastern New Jersey, and New York City remained in effect through Monday evening.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "When will storms hit North Jersey? What to expect Monday",
+          "url": "https://www.northjersey.com/story/news/2026/08/02/when-will-storms-hit-north-jersey-what-to-expect-monday/91140685007",
+          "source": "www.northjersey.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.8 Earthquake Strikes Uto, Kumamoto, Japan \u2014 USGS Red Alert",
+      "location": "Uto, Kumamoto Prefecture, Kyushu, Japan",
+      "type": "earthquake",
+      "summary": "A magnitude 6.8 earthquake struck just 5 km east of Uto city in Kumamoto Prefecture on July 28 at 07:27 UTC, at a shallow depth of 10 km, earning a USGS red alert level \u2014 the highest impact rating \u2014 and generating 88 felt reports. The Watchers initially reported the event at M7.1 before USGS settled on M6.8, and hazardous tsunami waves were considered possible in the immediate aftermath, though no major tsunami was confirmed. Damage was reported across Kyushu, a region still sensitive following the 2016 Kumamoto earthquake sequence, and the event remained one of the most significant seismic occurrences globally in the past seven days.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Strong and shallow M7.1 earthquake hits Kyushu, Japan, hazardous tsunami waves possible",
+          "url": "https://watchers.news/2026/07/28/strong-and-shallow-m7-1-earthquake-hits-kyushu-japan-hazardous-tsunami-waves-possible",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Japan struck by M6.8 earthquake in Kumamoto prefecture. Damage reported limited so far",
+          "url": "https://www.artemis.bm/news/japan-struck-by-m6-8-earthquake-in-kumamoto-prefecture-damage-reported-limited-so-far",
+          "source": "www.artemis.bm"
+        }
+      ]
+    },
+    {
+      "title": "Extreme Heat Warnings Persist Across Southwest US \u2014 Up to 118\u00b0F in Imperial Valley and Coachella",
+      "location": "Arizona, California (Coachella Valley, Mojave, Imperial Valley), Nevada, Utah, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings remained active on August 3 across a vast swath of the American Southwest, with the most dangerous readings forecast in the Coachella Valley and Imperial Valley (112\u2013118\u00b0F), Phoenix metro area (110\u2013115\u00b0F), Mojave Desert (110\u2013120\u00b0F), Zion National Park area (up to 112\u00b0F), and the Grand Canyon's Phantom Ranch (110\u2013114\u00b0F). Extreme Heat Watches were also issued extending into next weekend for the greater Reno\u2013Carson City area and western Nevada, signaling no meaningful relief through at least August 9. The continued heat follows the confirmation of July 2026 as likely the hottest month ever recorded in US history, with over 9,400 heat-related deaths reported.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Atmospheric River Triggers Multi-Day Flood Watch for Southcentral Alaska \u2014 Kenai and Susitna Valleys",
+      "location": "Kenai Mountains, Matanuska-Susitna Valley, Southcentral Alaska, USA",
+      "type": "weather",
+      "summary": "An atmospheric river of moisture streaming over southcentral Alaska prompted the NWS Anchorage to issue Flood Watches running from Monday evening through Thursday morning for the Southern Kenai Mountains (including Seward) and from Tuesday morning through Friday morning for the Lower Matanuska Valley, Western and Southern Susitna Valley, and Central Susitna Valley \u2014 encompassing the cities of Palmer, Wasilla, Big Lake, Willow, Talkeetna, and Trapper Creek. Excessive rainfall runoff was expected to flood rivers, creeks, streams, and low-lying areas, with isolated landslides possible in areas of steep terrain. A separate High Wind Warning for Windy Pass in the Denali Borough warned of south winds gusting to 70 mph through Wednesday.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Fuego Volcano \u2014 Continuous Ash Emissions and Ongoing VAAC Advisories",
+      "location": "Fuego Volcano, Guatemala",
+      "type": "volcano",
+      "summary": "Guatemala's Fuego volcano continued producing ongoing explosive activity and volcanic ash emissions through August 2\u20133, with the VAAC Washington issuing repeated advisories for ash plumes reaching flight levels that threaten regional aviation. Fuego is one of the most persistently active volcanoes in Central America, and its current activity cycle has been tracked daily by the Volcanic Ash Advisory Center. Nearby Santiaguito volcano was also active with ash plumes reaching approximately 15,000 feet (4,600 m) on August 1, underscoring a broader period of elevated volcanic unrest in Guatemala.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Volcanic activity worldwide 2 Aug 2026: Fuego volcano, Popocat\u00e9petl, Semeru, Ibu, Dukono, Reventado...",
+          "url": "https://www.volcanodiscovery.com/de/volcano-activity/news/322632/Volcanic-activity-worldwide-2-Aug-2026-Fuego-volcano-Popocatepetl-Semeru-Ibu-Dukono-Reventado.html",
+          "source": "www.volcanodiscovery.com"
+        },
+        {
+          "title": "Volcanic Activity Worldwide 1 Aug 2026: Santiaguito Volcano, Fuego, Krakatau, Semeru, Sheveluch, Ibu...",
+          "url": "https://www.volcanodiscovery.com/volcano-activity/news/322541/Volcanic-activity-worldwide-1-Aug-2026-Santiaguito-volcano-Fuego-Krakatau-Semeru-Sheveluch-Ibu.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
