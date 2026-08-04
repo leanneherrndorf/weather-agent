@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-04",
+  "headline": "Guatemala Declares Nationwide Orange Alert as Fuego Volcano Erupts, Forcing Village Evacuations",
+  "overview": "August 4 brings a major volcanic escalation in Guatemala, where Fuego has triggered a nationwide orange alert and forced community evacuations. Across the United States, an extreme multi-day heatwave baking the Southwest through August 8 continues to pose life-threatening conditions across millions of people, while new river flooding strikes South Texas and dangerous Red Flag Warnings spread fire weather threats across Oregon and the Pacific Northwest. The M7.1 Kumamoto earthquake in Japan remains a serious ongoing humanitarian crisis with a rising death toll.",
+  "events": [
+    {
+      "title": "Fuego Volcano Erupts \u2014 Guatemala Declares Nationwide Orange Alert, Villages Evacuated",
+      "location": "Fuego Volcano, Guatemala",
+      "type": "volcano",
+      "summary": "On August 4, Guatemalan authorities escalated to a nationwide orange ('danger') alert following a significant eruption of Fuego volcano, ordering the evacuation of nearby villages and warning residents against approaching ravines and danger zones. This marks a sharp escalation from the continuous ash emissions and VAAC advisories reported in previous days. INSIVUMEH has issued guidance for residents to prepare emergency kits as lava flows and pyroclastic activity pose acute threats to surrounding communities.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Guatemala declares nationwide orange alert, evacuates villages as Fuego volcano erupts",
+          "url": "https://www.aninews.in/news/world/us/guatemala-declares-nationwide-orange-alert-evacuates-villages-as-fuego-volcano-erupts20260804142621",
+          "source": "www.aninews.in"
+        },
+        {
+          "title": "Guatemala issues 'danger' alert after Fuego volcano erupts",
+          "url": "https://www.euronews.com/2026/08/04/guatemalan-authorities-issue-danger-alert-after-fuego-volcano-erupts",
+          "source": "www.euronews.com"
+        }
+      ]
+    },
+    {
+      "title": "M7.1 Kumamoto Earthquake Death Toll Rises to 34 \u2014 267,000 Remain Under Evacuation Orders",
+      "location": "Uto, Kumamoto Prefecture, Kyushu, Japan",
+      "type": "earthquake",
+      "summary": "The death toll from the M7.1 earthquake that struck Kumamoto Prefecture has risen to at least 34, with more than 267,000 residents still under evacuation orders as of early August. Authorities continue to assess damage to buildings, bridges, and infrastructure including sections of the Kyushu Expressway, with emergency responders dealing with isolated incidents across affected areas. Aftershock activity continues in the region, keeping risk conditions elevated.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+          "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Death toll rises to 34 after M7.1 Kumamoto earthquake, over 267,000 remain under evacuation orders",
+          "url": "https://watchers.news/2026/07/30/death-toll-rises-to-34-after-m7-1-kumamoto-earthquake-over-267-000-remain-under-evacuation-orders-japan",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Extreme Heat Extends Through August 8 \u2014 110\u2013120\u00b0F in Mojave, Phoenix, and Coachella",
+      "location": "Arizona, California (Mojave, Coachella Valley, Imperial Valley, Antelope Valley), Nevada, USA",
+      "type": "weather",
+      "summary": "The NWS has issued Extreme Heat Warnings across a vast swath of the Southwest, now extended through August 7\u20138, with dangerously hot conditions forecast at 110\u2013120\u00b0F in the Mojave Desert, 107\u2013117\u00b0F in the Imperial Valley, and 107\u2013113\u00b0F across the Phoenix metro area, with overnight lows offering little relief at 80\u201395\u00b0F in the hottest desert zones. Additional Extreme Heat Watches are in effect for the greater Reno-Carson City area and Northern Nevada through August 9, signaling a second heat surge mid-week. With July 2026 already confirmed as the deadliest heat month in US history, the continuation of this event into August represents a compounding life-threatening public health emergency.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Spokane Area Wildfires: Evacuations Expanded, 600+ Structures Destroyed",
+      "location": "Spokane and Eastern Washington, USA",
+      "type": "wildfire",
+      "summary": "Multiple fast-moving wildfires burning across roughly 5,390 acres in Spokane County continue to force expanding evacuations, with Level 3 (Leave Now) orders in effect for tens of thousands of residents and more than 600 structures confirmed destroyed. Governor Bob Ferguson has declared a state of emergency and issued a statewide burn ban through September 30, with officials noting Washington has already seen over 1,000 fires burn approximately 425,000 acres in 2026. The fires remain active with critically dry and warm conditions persisting across Eastern Washington.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Evacuations expanded for Spokane Area Fires burning 5,390 acres, 600+ structures destroyed",
+          "url": "https://www.khq.com/fires/evacuations-expanded-for-spokane-area-fires-burning-5-390-acres-600-structures-destroyed/article_8f1a90ab-1bb3-4fb7-8b6a-8464137bd373.html",
+          "source": "www.khq.com"
+        },
+        {
+          "title": "Level 3 evacuations expand as raging wildfires threaten Spokane, Washington",
+          "url": "https://www.foxweather.com/weather-news/thousands-evacuate-rapidly-spreading-wildfires-spokane",
+          "source": "www.foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfires Enter Fifth Day Near Athens \u2014 Helicopter Collision Killed Two Firefighters",
+      "location": "Western Attica, Boeotia, and Mount Kithairon, Greece",
+      "type": "wildfire",
+      "summary": "Greek firefighters are battling wildfires northwest of Athens for a fifth consecutive day, with active fronts burning in the Mount Kithairon area near Porto Germeno and the broader Attica-Boeotia corridor. Two firefighters were killed when two helicopters collided while making water drops on the blaze, marking a devastating loss for Greece's civil protection services. Strong winds continue to hamper suppression efforts, and the fires remain part of a broader European wildfire emergency.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Two firefighting helicopters collide while battling wildfire in Greece",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/europes-wildfires-update-greece-still-battling-outbreaks-in-spain",
+          "source": "www.euronews.com"
+        }
+      ]
+    },
+    {
+      "title": "Major Nueces River Flooding \u2014 Drowning Investigated, Flood Warnings Active Through August 6",
+      "location": "McMullen and Live Oak Counties, Texas, USA",
+      "type": "weather",
+      "summary": "The Nueces River is experiencing major flooding near Three Rivers and Tilden in South Texas, with the NWS Corpus Christi issuing Flood Warnings through August 5\u20136 as the river is forecast to remain above major flood stage before gradually receding. Texas officials are investigating at least one drowning connected to the flooding event, and downstream communities including Mathis and Calallen face continued inundation risk. Gradual rises on Lake Corpus Christi are also being monitored.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Texas officials investigating drowning as Nueces River floods",
+          "url": "https://www.mysanantonio.com/news/hill-country/article/nueces-river-water-levels-drowning-22370693.php",
+          "source": "www.mysanantonio.com"
+        },
+        {
+          "title": "Officials prepare Texas communities for potential flooding",
+          "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/29/potential-flood-preparations",
+          "source": "spectrumlocalnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Red Flag Warnings Blanket Pacific Northwest and Northern Rockies \u2014 New Fires Ignite in Rogue Valley and Klamath",
+      "location": "Columbia River Gorge, Rogue Valley, Siskiyou Mountains, Klamath National Forest (Oregon, Washington, California, USA)",
+      "type": "wildfire",
+      "summary": "The NWS has issued Red Flag Warnings stretching from the Columbia River Gorge through Southern Oregon's Rogue Valley, Siskiyou Mountains, Klamath and Umpqua National Forests, and into Northern California through August 5, with gusty east and west winds (gusts to 25\u201338 mph) and relative humidity as low as 10\u201315% creating critical fire spread conditions. Named fires including the East Evans Creek and Castle fires are already burning in Rogue Valley fire weather zones, and multiple additional fire starts are possible under these conditions. Red Flag Warnings also continue in Colorado's White River and Summit County areas, compounding a broad multi-state fire weather emergency across the West.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
