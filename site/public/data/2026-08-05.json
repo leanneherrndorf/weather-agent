@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-05",
+  "headline": "Spokane Wildfire Destruction Climbs to 700+ Structures as Multi-State Flooding Erupts Across the Missouri and Mississippi River Corridors",
+  "overview": "The catastrophic Spokane wildfire complex continues to escalate with the structure loss count now exceeding 700, while a sprawling flood threat has emerged across Missouri, Iowa, and Illinois as saturated soils and fresh thunderstorm rounds push rivers toward flood stage. In the American Southwest, Extreme Heat Warnings remain in force through at least August 8\u20139, with temperatures of 110\u2013118\u00b0F persisting across the Mojave, Imperial Valley, and Phoenix metro area.",
+  "events": [
+    {
+      "title": "Spokane Wildfire Complex Escalates \u2014 700+ Structures Destroyed",
+      "location": "Spokane and Eastern Washington, USA",
+      "type": "wildfire",
+      "summary": "The Old Trails Fire and associated wildfires in the Spokane area have now destroyed more than 700 structures, up from the 600 reported on August 4, confirming continued spread through residential zones of northwestern Spokane. Dense smoke from the complex is blanketing the broader Pacific Northwest region, creating dangerous air quality conditions well beyond the immediate burn area. Red Flag Warnings remain active across the Rogue Valley, Klamath, and Siskiyou corridors, raising the risk of new ignitions in already fire-stressed landscapes.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Urban firestorm devastates Spokane as dense smoke envelops the Northwest",
+          "url": "https://yaleclimateconnections.org/2026/08/urban-firestorm-devastates-spokane-as-dense-smoke-envelops-the-northwest",
+          "source": "yaleclimateconnections.org"
+        },
+        {
+          "title": "Smoke, heat headed for Western Washington, as wildfires grow to the east and north",
+          "url": "https://www.kuow.org/2026-08-03/smoke-heat-headed-for-western-washington-as-wildfires-grow-to-the-east-and-north",
+          "source": "www.kuow.org"
+        }
+      ]
+    },
+    {
+      "title": "Multi-State Flash Flood Threat \u2014 Missouri, Iowa, and Illinois Under Widespread Flood Watches",
+      "location": "Missouri, Iowa, and Illinois, USA",
+      "type": "weather",
+      "summary": "A slow-moving cold front is generating rounds of heavy thunderstorms across already saturated soils in the Midwest, prompting Flood Watches covering dozens of counties across central and northeast Missouri, southeast Iowa, and western Illinois, active through August 6. The NWS offices in St. Louis, Kansas City, Quad Cities, and Des Moines have all issued simultaneous advisories, with excessive runoff threatening rivers, streams, and low-lying areas over a multi-state corridor. Additional rainfall rates capable of causing rapid flash flooding are expected through Wednesday evening, extending the threat overnight.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Washington DC and Mid-Atlantic Flash Flood Watch",
+      "location": "Washington DC, Maryland, Northern Virginia, USA",
+      "type": "weather",
+      "summary": "The NWS office in Baltimore/Washington DC issued a Flash Flood Watch for the District of Columbia, Prince George's, Charles, and Montgomery counties in Maryland, and multiple Northern Virginia jurisdictions including Arlington, Alexandria, and Fairfax on the morning of August 5. The watch covered potential for excessive rainfall-driven flash flooding through mid-morning, part of a broader wet atmospheric pattern settling over the Mid-Atlantic. The Washington DC area has been experiencing an active severe weather pattern in early August.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "M6.3 Shallow Earthquake Strikes Mindanao, Philippines",
+      "location": "Sarangani, Mindanao, Philippines",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck 32 km southwest of Sarangani in Mindanao, Philippines at 04:14 UTC on August 5, at a very shallow depth of only 10 km, amplifying the potential for surface shaking and structural damage. The USGS reported 41 felt reports from the event, and while no tsunami alert was issued and the USGS alert level was assessed as green, shallow earthquakes of this magnitude in populated island regions can cause significant localized damage. Mindanao is one of the Philippines' most seismically active islands, situated near the Philippine Trench.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong and shallow M6.3 earthquake hits Mindanao, Philippines",
+          "url": "https://www.google.com/goto?url=CAESlgEB7keqTfc29gS7pKB2HokKWWQI9mdaFEBZ6l9FY7J6vNDdj_bebqSVoymP0MUNlAee-MJU2aiojv9cj2Dv38DSkl0vyRS9X1ef1e-TyDASCYHct_16EVeKanLv1r-RwI0KTT3j6DYeZM2trkyOvsWcJ0AVPRZ-YIGaQCTUxUZ-bd2PyWihAJFm1wS4rLNQKn336mRsj-Y%3D",
+          "source": "www.google.com"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfires Enter Sixth Day Near Athens \u2014 Containment Efforts Intensify",
+      "location": "Western Attica, Boeotia, and Mount Kithairon, Greece",
+      "type": "wildfire",
+      "summary": "Wildfires burning near Athens have now entered their sixth consecutive day, with crews scrambling to establish containment lines before forecast high temperatures and returning winds can drive further spread across Western Attica and Boeotia. The fires, which claimed two firefighters in a helicopter collision earlier in the week, continue to threaten communities northwest of Athens and have drawn international aerial and ground firefighting resources. Europe's broader hot, dry summer has created extreme fire conditions across the Mediterranean, with Greece and France among the hardest-hit nations.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Europe's hot, dry summer takes its toll with fires in France and Greece, and drought in the UK",
+          "url": "",
+          "source": "www.reflector.com"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Extreme Heat Continues Through August 8\u20139 \u2014 110\u2013118\u00b0F Persisting",
+      "location": "Arizona, California (Mojave, Coachella, Imperial Valley), Nevada, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings spanning more than a dozen NWS zones remain in force through August 8\u20139 across the Southwest, with the Imperial Valley and Coachella Valley seeing highs of 110\u2013118\u00b0F and overnight lows offering little relief at 80\u201395\u00b0F in the Mojave Desert. The Phoenix metropolitan area is forecast at 106\u2013114\u00b0F, and Joshua Tree and Death Valley are also under active Extreme Heat Warnings, representing one of the most spatially extensive and prolonged heat events of the 2026 summer season. Public health officials are warning of elevated risk for heat stroke, particularly for those without air conditioning and for outdoor workers.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Alaska Atmospheric River Flooding Intensifies \u2014 Yentna and Susitna Rivers Rising",
+      "location": "Western Susitna Valley and Central Susitna Valley, Southcentral Alaska, USA",
+      "type": "weather",
+      "summary": "Heavy rainfall from a persistent atmospheric river has elevated the Yentna River, including Lake Creek, to flood stage in the Western Susitna Valley, with a Flood Warning issued through August 7, and localized flooding is occurring or imminent in the Petersville area of the Central Susitna Valley. River levels are continuing to climb across portions of southcentral Alaska as heavy rain spreads further into the region, threatening low-water crossings, streams, and flood-prone communities including Talkeetna and Trapper Creek. The multi-day flood event has now produced both active Flood Warnings and Flood Watches simultaneously across the region.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "River levels climb as heavy rain spreads across portions of Alaska",
+          "url": "https://www.alaskasnewssource.com/2026/08/05/river-levels-climb-heavy-rain-spreads-across-portions-alaska",
+          "source": "www.alaskasnewssource.com"
+        },
+        {
+          "title": "Flood watch remains for areas of the Susitna Valley through Wednesday",
+          "url": "https://www.alaskasnewssource.com/2026/08/04/flood-watch-remains-areas-susitna-valley-through-wednesday",
+          "source": "www.alaskasnewssource.com"
+        }
+      ]
+    }
+  ]
+}
