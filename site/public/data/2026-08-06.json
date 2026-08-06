@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-06",
+  "headline": "Typhoon Dolphin threatens earthquake-devastated Kumamoto as compound disaster fears mount, while Spokane wildfires face an incoming dry cold front and Midwest flooding escalates to active warnings.",
+  "overview": "Multiple overlapping crises defined August 6: a developing Typhoon Dolphin is tracking toward Japan's quake-hit Kumamoto region, raising compound disaster fears for still-recovering communities with a death toll of 38. In the United States, the Spokane Wildfire Complex faces a dangerous dry cold front expected to arrive Friday\u2013Saturday, Flash Flood Warnings are now active across Missouri and Kansas\u2013Missouri border counties, and Extreme Heat Warnings continue across the Southwest through August 9. Globally, Greece's wildfires entered a seventh day near Athens, Guatemala's Fuego volcano remained active after days of eruption, and an unusual heat wave baked Beijing and northeastern China with temperatures approaching 38\u00b0C.",
+  "events": [
+    {
+      "title": "Typhoon Dolphin Threatens Earthquake-Stricken Kumamoto \u2014 Compound Disaster Fears Mount",
+      "location": "Kumamoto Prefecture, Kyushu, Japan",
+      "type": "weather",
+      "summary": "Typhoon Dolphin is tracking toward Japan and could bring heavy rainfall and landslides to Kumamoto Prefecture, which is still reeling from the M7.1 earthquake that killed at least 38 people and left 267,000 under evacuation orders. The prospect of a typhoon striking quake-damaged terrain \u2014 with compromised slopes, broken infrastructure, and thousands already displaced \u2014 raises severe compound disaster concerns. Japanese authorities are monitoring the storm's track closely as rescue and recovery operations remain ongoing.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Typhoon Threat Raises Fears of Further Damage In Kumamoto",
+          "url": "https://japan-forward.com/typhoon-dolphin-threat-earthquake-kumamoto-compound-disasters",
+          "source": "japan-forward.com"
+        },
+        {
+          "title": "Death toll from strong earthquake in southwestern Japan rises to 38",
+          "url": "https://www.aa.com.tr/en/asia-pacific/death-toll-from-strong-earthquake-in-southwestern-japan-rises-to-38/4016099",
+          "source": "www.aa.com.tr"
+        }
+      ]
+    },
+    {
+      "title": "Spokane Wildfire Complex Faces Dangerous Dry Cold Front \u2014 Arson Suspect Charged",
+      "location": "Spokane and Eastern Washington, USA",
+      "type": "wildfire",
+      "summary": "The Spokane Area Fires, which have destroyed 700+ structures and prompted thousands of evacuations, are approaching a critical juncture as a dry cold front is forecast to push through the region Friday into Saturday, bringing breezy westerly winds and critically low relative humidity. Fire Weather Watches are now in effect for the eastern Washington Cascades, Okanogan Valley, and the Columbia Basin for Friday and Saturday. In a notable development, a man has been charged with arson in connection with setting the largest of the fires, adding a criminal dimension to what is already one of Washington State's most destructive wildfire events on record.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Man charged with setting largest Spokane wildfire went to prison for killing father",
+          "url": "https://www.pbs.org/newshour/nation/man-charged-with-setting-largest-spokane-wildfire-went-to-prison-for-killing-father",
+          "source": "www.pbs.org"
+        },
+        {
+          "title": "'A tremendous tragedy': thousands evacuated, hundreds of structures destroyed in Spokane Area Fires",
+          "url": "https://www.khq.com/fires/a-tremendous-tragedy-thousands-evacuated-hundreds-of-structures-destroyed-in-spokane-area-fires/article_8f1a90ab-1bb3-4fb7-8b6a-8464137bd373.html",
+          "source": "www.khq.com"
+        }
+      ]
+    },
+    {
+      "title": "Missouri and Midwest Flash Flooding Escalates \u2014 Active Warnings Issued Across Missouri and Kansas",
+      "location": "Missouri, Kansas, Iowa, Illinois, USA",
+      "type": "weather",
+      "summary": "What had been a broad regional Flood Watch has escalated overnight into active Flash Flood Warnings across more than two dozen counties in Missouri and Kansas, including the Kansas City and St. Louis metro areas, with heavy thunderstorms delivering dangerous rainfall rates in the early morning hours of August 6. The NWS has issued multiple Flood Warnings for rivers including Moniteau Creek and Petite Saline Creek in Missouri, with minor to moderate flooding already ongoing or forecast through August 7. Millions in the central Midwest \u2014 including Chicago, St. Louis, and Kansas City \u2014 remain under a Level 2 flash flood risk as additional rounds of heavy rain are expected throughout the day.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Greece Wildfires Enter Seventh Day Near Athens \u2014 Containment Elusive",
+      "location": "Western Attica, Boeotia, and Mount Kithairon, Greece",
+      "type": "wildfire",
+      "summary": "Wildfires in Western Attica and the Boeotia region northwest of Athens have burned for a seventh consecutive day, with firefighting crews from across Greece and international partners struggling to achieve meaningful containment amid persistent winds and dry conditions. CNBC and Reuters reported on August 3 that wind-whipped flames had spread significantly, with aerial assets repeatedly called in to protect communities near Porto Germeno and throughout the broader Attica region. The fires have drawn intense political and public scrutiny in Greece over emergency preparedness and forest management, particularly following the fatal helicopter collision that killed two firefighters earlier in the crisis.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Pictures show firefighters battling raging wildfires in Greece",
+          "url": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
+          "source": "www.cnbc.com"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Extreme Heat Continues \u2014 Warnings Extend Through August 9\u201310",
+      "location": "Arizona, California (Mojave, Coachella, Imperial Valley), Nevada, Utah, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings remain in effect across an exceptionally wide swath of the Southwest, with the NWS in Phoenix, Las Vegas, Salt Lake City, San Diego, and Los Angeles all issuing or extending warnings through August 9\u201310. Afternoon highs of 110\u2013120\u00b0F are forecast for Death Valley, the Mojave Desert, and Imperial Valley, while the Phoenix metro faces 108\u2013114\u00b0F with overnight lows offering little relief. A new extension was issued for the western Nevada Basin and Range through August 10, and the Salt Lake Valley is now also under an Extreme Heat Warning beginning Friday, indicating the event is expanding geographically even as it enters its final days.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Fuego Volcano Eruption Enters Multi-Day Phase \u2014 Intensity Gradually Reducing",
+      "location": "Fuego Volcano, Guatemala",
+      "type": "volcano",
+      "summary": "Guatemala's Fuego volcano has been erupting continuously since August 4, when authorities issued the country's second-highest emergency alert level and ordered preventive evacuations of nearby communities. The days-long eruption \u2014 which sent lava flows and ash columns into surrounding villages \u2014 is now gradually reducing in intensity according to the latest reporting, though authorities say the volcano remains dangerous and evacuations have not been fully lifted. Fuego is one of Central America's most active volcanoes and has caused catastrophic destruction in prior eruption cycles.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Guatemala volcano remains dangerous amid days-long eruption, authorities say",
+          "url": "https://www.google.com/goto?url=CAESjgEB7keqTewv3g_lnat_IlWWJm573GXptgHEwvU3soQzJLIPPhefE_84FibDuWy3Y-o0qtrIaEWlmkCt0-9HJAqWRvFC62-AfHdkP0wID2fTOtX5-ttA-Zv_ckQPECBi3-krmreQ2iC2iuU0GhxLMb3mjTLG6Eb3fZG2QbyOTMPC7trVgsgRWhH_EnZlbXD2",
+          "source": "www.google.com"
+        },
+        {
+          "title": "Guatemala issues second-highest 'danger' alert after Fuego volcano erupts",
+          "url": "https://www.aljazeera.com/news/2026/8/4/guatemala-issues-second-highest-danger-alert-after-fuego-volcano-erupts",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "Beijing and Northeast China Swelter in Unusual Summer Heatwave \u2014 Near-Record Temperatures",
+      "location": "Beijing and Northeast China",
+      "type": "weather",
+      "summary": "Weather data shows Beijing recording a maximum temperature of 37.9\u00b0C (100\u00b0F) on August 6, with Seoul also hitting 35.1\u00b0C and Shanghai reaching 34.4\u00b0C \u2014 a broad heat dome baking East Asia at the peak of summer. News reporting confirms that northeastern Chinese regions, including Beijing and Shenyang, are forecast to see unusually hot conditions persist into the weekend, driving surges in electricity demand and a boom in travel to cooler high-altitude destinations. While not as extreme as the Southwest US event in raw temperature, the scale of population exposure across China's densely populated northeast makes this a significant public health event.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Amid sweltering heat, China's cool destinations surge in popularity",
+          "url": "https://asianews.network/amid-sweltering-heat-chinas-cool-destinations-have-surged-in-popularity",
+          "source": "asianews.network"
+        },
+        {
+          "title": "China Coal Market: Prices Climb on Heat Wave, Supply Disruptions",
+          "url": "https://www.indexbox.io/blog/china-coal-prices-and-demand-surge-amid-heat-wave",
+          "source": "www.indexbox.io"
+        }
+      ]
+    }
+  ]
+}
