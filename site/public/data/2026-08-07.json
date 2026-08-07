@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-07",
+  "headline": "Typhoon Dolphin Makes Landfall in Okinawa as California's Gann Fire Tops 10,000 Acres and Oregon's Grasshopper Fire Threatens Mount Hood",
+  "overview": "Friday, August 7 brought simultaneous natural disaster crises across multiple continents: Typhoon Dolphin closed Okinawa's airport and struck southern Japan as a powerful Category 4 equivalent storm, while two new major wildfires erupted in California and Oregon demanding state emergencies and mass evacuations. India's monsoon season continued its deadly toll with over 100 killed since July, and relentless extreme heat warnings blanketed the southwestern United States through the weekend with temperatures approaching 120\u00b0F in the Mojave Desert.",
+  "events": [
+    {
+      "title": "Typhoon Dolphin Makes Landfall in Okinawa \u2014 Airport Closed, Kumamoto Compound Threat Grows",
+      "location": "Okinawa and Kyushu, Japan",
+      "type": "weather",
+      "summary": "Typhoon Dolphin, a Category 4-equivalent storm that reintensified after multiple eyewall replacement cycles, made landfall in Okinawa on August 7, forcing the closure of Naha Airport and battering the island with destructive winds and heavy rain. The storm is forecast to continue tracking toward earthquake-stricken Kumamoto Prefecture on Kyushu, where weakened terrain from recent seismic activity raises serious compound disaster concerns including landslides and infrastructure failures. Authorities have issued evacuation advisories across southern Japan as the typhoon's path threatens densely populated and geologically vulnerable areas.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Airport closes in Okinawa as Typhoon Dolphin hits parts of southern Japan",
+          "url": "https://www.wral.com/news/ap/a0433-airport-closes-in-okinawa-as-typhoon-dolphin-hits-parts-of-southern-japan",
+          "source": "wral.com"
+        },
+        {
+          "title": "Typhoon Dolphin reintensifies to Category 4 strength, landfall forecast in Okinawa by August 7",
+          "url": "https://watchers.news/2026/08/04/typhoon-dolphin-reintensifies-to-category-4-strength-landfall-forecast-in-okinawa-by-august-7",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Gann Fire Tops 10,300 Acres in California \u2014 Newsom Declares State of Emergency",
+      "location": "Calaveras County, California, USA",
+      "type": "wildfire",
+      "summary": "The Gann Fire, which ignited on August 3 near Valley Springs in Calaveras County, has grown to over 10,300 acres as of August 7, prompting Governor Gavin Newsom to declare a State of Emergency and secure federal disaster assistance for the region. The fast-moving blaze is threatening communities near New Hogan Reservoir, and an arson suspect has been arrested in connection with the fire's origin. Red Flag conditions \u2014 including low humidity and gusty winds \u2014 are forecast to persist across the area through the weekend, complicating containment efforts.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Governor Newsom proclaims State of Emergency in Calaveras County for the Gann Fire response",
+          "url": "https://www.gov.ca.gov/2026/08/06/governor-newsom-proclaims-state-of-emergency-in-calaveras-county-for-the-gann-fire-response",
+          "source": "gov.ca.gov"
+        },
+        {
+          "title": "Arrest made as Gann Fire burns more than 9,300 acres in California foothills",
+          "url": "https://www.sacbee.com/news/local/article316774810.html",
+          "source": "sacbee.com"
+        }
+      ]
+    },
+    {
+      "title": "Grasshopper Fire Threatens Timberline Lodge and Mount Hood Corridor \u2014 Mass Evacuations Ordered",
+      "location": "Clackamas County and Mount Hood, Oregon, USA",
+      "type": "wildfire",
+      "summary": "The Grasshopper Fire expanded rapidly westward near Mount Hood in Oregon, triggering 'Go Now' evacuation orders for Mt. Hood Meadows ski resort and a Level 1 'Be Ready' notice for the historic Timberline Lodge and the broader Mount Hood Corridor. The fire is one of 33 active blazes burning across Oregon, which has already consumed over 2 million acres in 2026, and Red Flag Warnings issued August 7 for the eastern Cascades and Columbia Basin threaten to accelerate its spread. Firefighters are facing challenging terrain and critical fire weather conditions as westerly winds push the fire into new fuels.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Oregon wildfires: Mt. Hood Meadows under 'Go Now' evacuations, 'Be Ready' issued for Mt. Hood Corridor",
+          "url": "https://www.kptv.com/2026/08/04/oregon-wildfires-mt-hood-meadows-under-go-now-evacuations",
+          "source": "kptv.com"
+        },
+        {
+          "title": "Eastern Clackamas County told to prepare to evacuate as Grasshopper Fire burns near Mount Hood",
+          "url": "https://www.opb.org/article/2026/08/04/grasshopper-fire-clackamas-county-evacuation",
+          "source": "opb.org"
+        }
+      ]
+    },
+    {
+      "title": "India Monsoon Floods and Landslides Kill 100+ \u2014 Kerala and Delhi Severely Hit",
+      "location": "Kerala, Delhi, and Multiple States, India",
+      "type": "weather",
+      "summary": "Monsoon floods and landslides have killed more than 100 people across India since July, with Kerala alone reporting 16 dead or missing following catastrophic rainfall on August 2 that triggered destructive landslides and flash flooding. Delhi recorded 58.2mm of precipitation on August 7, adding to widespread inundation across northern India, while Gujarat remained under a red alert for extreme monsoon rainfall and flood risk. The death toll is expected to rise as monsoon activity remains intense across multiple states through mid-August.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "India monsoon floods, landslides kill more than 100 since July: officials",
+          "url": "https://www.france24.com/en/live-news/20260805-india-monsoon-floods-landslides-kill-more-than-100-since-july-officials",
+          "source": "france24.com"
+        },
+        {
+          "title": "16 dead and missing as floods and landslides hit Kerala, India",
+          "url": "https://watchers.news/2026/08/02/16-dead-and-missing-as-floods-and-landslides-hit-kerala-india",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfires Enter Eighth Day \u2014 Weather Deteriorating as Containment Slips",
+      "location": "Western Attica, Boeotia, and Mount Kithairon, Greece",
+      "type": "wildfire",
+      "summary": "Wildfires burning near Athens in western Attica and along Mount Kithairon entered their eighth day on August 7, with firefighters racing to establish containment lines ahead of a forecast return of high temperatures and strong winds. The AP reported that some blazes appeared partially contained, but worsening meteorological conditions threatened to undo progress made over previous days. The fires have devastated forests northwest of Athens and raised acute concerns about repeat ignitions across a landscape still bone-dry from an ongoing drought.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Southwest US Extreme Heat Persists \u2014 Up to 120\u00b0F in Mojave, Warnings Through August 9\u201310",
+      "location": "Arizona, California (Mojave, Coachella, Imperial Valley), Nevada, Utah, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings blanketed a vast swath of the southwestern United States on August 7, with NWS Las Vegas forecasting highs of 110\u2013120\u00b0F across the Mojave Desert and overnight lows offering little relief at 80\u201395\u00b0F \u2014 conditions classified as a Major-to-Extreme Heat Risk. Phoenix's metropolitan area faced temperatures of 108\u2013114\u00b0F through Sunday August 9, while Utah's Zion National Park and Capitol Reef region approached 110\u00b0F. The multi-day event, now in its second week, continues to strain power infrastructure and public health systems across millions of residents throughout the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Widespread Red Flag Warnings Across Northern Rockies and Pacific Northwest \u2014 New Fire Ignition Risk",
+      "location": "Wyoming, Montana, Oregon, Washington, Colorado, USA",
+      "type": "wildfire",
+      "summary": "The National Weather Service issued simultaneous Red Flag Warnings on August 7 across a broad arc of the northern Rockies and Pacific Northwest \u2014 including Wyoming's Wind River and Snowy Range mountains, Montana's Helena and Bitterroot National Forests, Colorado's Fremont and Pueblo counties, and the eastern Cascades and Columbia Basin of Oregon and Washington \u2014 driven by gusty west winds of 15\u201335 mph, temperatures in the 90s\u00b0F, and humidity values as low as 5\u201312%. The conditions create a high probability of rapid fire growth from any ignition source, compounding the threat posed by the already-catastrophic Spokane Wildfire Complex and the new Skillet Fire in Montana's Flathead County. Fire weather watches extending into Saturday signal the threat will persist at least through the weekend across six states.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Skillet Fire Forces Evacuations as All of Montana Burns Under Red Flag Warning",
+          "url": "https://www.techtimes.com/articles/322687/20260802/skillet-fire-forces-evacuations-all-montana-burns-under-red-flag-warning.htm",
+          "source": "techtimes.com"
+        }
+      ]
+    }
+  ]
+}
