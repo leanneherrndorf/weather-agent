@@ -1,0 +1,109 @@
+{
+  "date": "2026-08-08",
+  "headline": "Typhoon Dolphin pivots toward China's eastern coast after battering Okinawa, as Europe's record-breaking heatwave puts Italy and Austria on highest alert and Greece's ninth-day wildfire crisis claims two more lives in a helicopter collision.",
+  "overview": "August 8 brings a multi-front global natural disaster picture: Typhoon Dolphin, having struck Okinawa, is now bearing down on eastern China with landfall expected August 9\u201310 between Zhoushan and Shanghai, prompting mass port closures. A sweeping heatwave has placed all 27 major Italian cities on highest heat alert while Slovakia and Austria report national records, compounding Europe's simultaneous wildfire emergency in Greece. Across the United States, extreme heat is expanding from the Southwest into Missouri and the Midwest, while 99 large wildfires burn simultaneously \u2014 a pace exceeding the 10-year national average.",
+  "events": [
+    {
+      "title": "Typhoon Dolphin Pivots to China \u2014 Landfall Expected Along Zhejiang/Fujian Coast",
+      "location": "Eastern and Southeastern China (Zhejiang, Fujian, Shanghai)",
+      "type": "weather",
+      "summary": "After making landfall in Okinawa on August 7 and injuring five people, Typhoon Dolphin re-intensified over the East China Sea and is now on course to strike China's eastern coast. China's National Meteorological Centre projects landfall between late August 9 and early August 10, most likely between Zhoushan and the Fujian coast, prompting China to shut ports and issue warnings for Zhejiang, Anhui, Jiangsu, Fujian, and Shanghai. Authorities in the affected provinces have mobilized mass evacuations and emergency preparations for storm surge and extreme rainfall.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall",
+          "url": "https://www.straitstimes.com/asia/east-asia/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall",
+          "source": "straitstimes.com"
+        },
+        {
+          "title": "Typhoon Dolphin strengthens near Okinawa, 5 injured as China braces for landfall",
+          "url": "https://watchers.news/2026/08/07/typhoon-dolphin-strengthens-near-okinawa-5-injured-china-braces-for-landfall",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfire Crisis Enters Day 9 \u2014 Two Killed in Firefighting Helicopter Collision",
+      "location": "Western Attica, Boeotia, and Mount Kithairon, Greece",
+      "type": "wildfire",
+      "summary": "Greece's devastating wildfire emergency around Athens entered its ninth day on August 8 with a major new tragedy: two aerial firefighters were killed when two firefighting helicopters collided near Athens while conducting water drops on active fire lines. Containment remains elusive as fire crews race to strengthen perimeter lines before predicted wind increases return, and the humanitarian toll continues to mount with hundreds of displaced residents and animals. The disaster is part of a broader European wildfire emergency that also affected France, where the country's largest fire forced 224,000 people to evacuate.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Firefighting helicopters collide, killing two, as Greece battles wildfires",
+          "url": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires",
+          "source": "aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "Europe Heatwave \u2014 Italy on Highest Alert, Austria and Slovakia Set National Records",
+      "location": "Italy, Austria, Slovakia, and Central Europe",
+      "type": "weather",
+      "summary": "A powerful and persistent heatwave gripping central and southern Europe has intensified through August 7\u20138, prompting Italy to place all 27 of its major cities under the highest heat alert level. Austria and Slovakia have reported national temperature records as the heat ridge extends from the Mediterranean into Central Europe, with conditions forecast to remain dangerous through mid-August. The event is compounding Europe's simultaneous wildfire crisis and straining healthcare systems across the region.",
+      "severity": "extreme",
+      "articles": [
+        {
+          "title": "Central Europe sees record temperatures as heatwave continues",
+          "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues",
+          "source": "aljazeera.com"
+        },
+        {
+          "title": "Europe heat wave puts all major Italian cities on red alert as Austria sets heat record",
+          "url": "https://www.ottumwacourier.com/news/business/europe-heat-wave-puts-all-major-italian-cities-on-red-alert-as-austria-sets-heat/article_b9554923-6720-5e67-b7a9-02bdcfd1a5cc.html",
+          "source": "ottumwacourier.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "Philippines M6.3 Aftershock Strikes Mindanao \u2014 Recovery from M7.8 Ongoing",
+      "location": "Sarangani, Mindanao, Philippines",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck 32 km southwest of Sarangani, Mindanao on August 5 at a shallow depth of 10 km, generating 61 felt reports and rattling communities still in the midst of recovery from the catastrophic M7.8 earthquake that struck the same region on approximately June 8, 2026. That original quake killed at least 35 people near General Santos City, and aftershocks of this magnitude pose serious risks to already-damaged structures and displaced populations. DSWD emergency reports confirm ongoing large-scale humanitarian operations through at least August 6.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Strong and shallow M6.3 earthquake hits Mindanao, Philippines",
+          "url": "https://watchers.news/2026/08/05/strong-and-shallow-m6-3-earthquake-hits-mindanao-philippines",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Philippines Quake Rattles Crowd at Mindanao Subsidy Site, Two Months Into Recovery",
+          "url": "https://www.techtimes.com/articles/323162/20260805/philippines-quake-rattles-crowd-mindanao-subsidy-site-two-months-recovery.htm",
+          "source": "techtimes.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "New Extreme Heat Threat Builds for Missouri and Midwest \u2014 Heat Index Up to 108\u00b0F Through August 12",
+      "location": "Missouri, Kansas, and Southern Illinois, USA",
+      "type": "weather",
+      "summary": "The National Weather Service issued Extreme Heat Watches across a wide swath of Missouri, southeastern Kansas, and southwestern Illinois on August 8, warning of dangerously high heat index values of 105\u2013108\u00b0F possible daily from Sunday through Wednesday, August 12. Multiple NWS offices \u2014 including Springfield, St. Louis, and Kansas City \u2014 flagged the event as a multi-day compounding heat health emergency, with high humidity preventing overnight recovery. The threat arrives as Missouri also contends with active flash flood warnings in southern counties from overnight thunderstorms, creating a complex and simultaneous weather emergency.",
+      "severity": "severe",
+      "articles": [],
+      "continuing": false
+    },
+    {
+      "title": "Southwest US Extreme Heat Persists \u2014 Death Valley and Mojave Near 120\u00b0F Through August 9\u201310",
+      "location": "Arizona, California (Mojave, Coachella, Imperial Valley), Nevada, Utah, USA",
+      "type": "weather",
+      "summary": "An entrenched heat dome continues to produce life-threatening temperatures across the Southwest on August 8, with Extreme Heat Warnings in effect from NWS Las Vegas, Phoenix, Hanford, San Diego, and Salt Lake City through at least August 9\u201310. Temperatures of 110\u2013120\u00b0F are forecast in the Mojave Desert and Death Valley National Park, 108\u2013117\u00b0F in Imperial Valley and the Coachella Valley, and 108\u2013114\u00b0F in metropolitan Phoenix, with overnight lows in the Mojave holding at 80\u201395\u00b0F offering virtually no physiological relief. The event has now persisted for several days and remains one of the most widespread and intense heat emergencies on record for the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "US Wildfire Season Exceeds 10-Year Average \u2014 99 Large Fires Burning Simultaneously",
+      "location": "Pacific Northwest, Northern Rockies, and California, USA",
+      "type": "wildfire",
+      "summary": "The 2026 US wildfire season has surpassed its 10-year average pace, with 99 large fires burning simultaneously across the country as of early August, led by major incidents in Washington, Oregon, and California. Red Flag Warnings remain in effect across the Northern Rockies and Pacific Northwest \u2014 covering Montana, Wyoming, Idaho, Washington, and Oregon \u2014 with relative humidity as low as 5\u201311% and wind gusts up to 40\u201350 mph creating extreme fire spread conditions. The Gann Fire in California (10,300+ acres) and the Grasshopper Fire near Mount Hood, along with the Spokane Complex in eastern Washington, remain among the most active individual incidents driving the season's severity.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
