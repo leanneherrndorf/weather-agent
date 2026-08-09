@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-09",
+  "headline": "Typhoon Dolphin Makes Landfall on China's Zhejiang-Fujian Coast as Fuego Volcano Eruption Forces Mass Evacuations in Guatemala",
+  "overview": "Typhoon Dolphin has struck the Chinese coastline between Zhejiang and Fujian provinces, bringing destructive winds and heavy rain to one of China's most densely populated coastal corridors. Simultaneously, Guatemala's Fuego volcano erupted with its highest alert in years, while a multi-continent heat emergency continues across Europe and the central United States. An unusually widely-felt M5.6 earthquake near Anchorage, Alaska, rounds out a globally active natural hazard picture on August 9.",
+  "events": [
+    {
+      "title": "Typhoon Dolphin Makes Landfall on China's Zhejiang-Fujian Coast",
+      "location": "Zhejiang and Fujian Provinces, China",
+      "type": "weather",
+      "summary": "Typhoon Dolphin has made landfall along the coast between Zhejiang and Fujian provinces, a track meteorologists are calling exceptionally rare given that the storm formed near the International Date Line. Shanghai recorded 83.4 mm of rainfall in a single day \u2014 consistent with the typhoon's outer rainbands sweeping across the Yangtze Delta. Fishing fleets were ordered back to port days in advance, and millions of coastal residents are under evacuation or shelter-in-place orders as the storm moves inland.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Typhoon Dolphin expected to make landfall between Zhejiang and Fujian; meteorologist calls it exceptionally rare as it formed near International Date Line",
+          "url": "https://www.globaltimes.cn/page/202608/1367704.shtml",
+          "source": "www.globaltimes.cn"
+        },
+        {
+          "title": "Typhoon Dolphin may make landfall along Zhejiang-Fujian coast",
+          "url": "https://news.cgtn.com/news/2026-08-07/Typhoon-Dolphin-may-make-landfall-along-Zhejiang-Fujian-coast-1PpmckZ6kEw/p.html",
+          "source": "news.cgtn.com"
+        }
+      ]
+    },
+    {
+      "title": "Fuego Volcano Erupts in Guatemala \u2014 Second-Highest National Alert Issued",
+      "location": "Alotenango, Sacatep\u00e9quez, Guatemala",
+      "type": "volcano",
+      "summary": "Guatemala's Fuego volcano erupted on August 4, prompting authorities to issue the country's second-highest danger alert and ordering evacuations of communities within the volcano's hazard zones approximately 65 km southwest of Guatemala City. The eruption lasted approximately 50 hours, with lava flows, pyroclastic material, and ash forcing thousands to flee before Guatemalan authorities declared the eruption over on August 6 and allowed evacuees to begin returning home. Fuego remains one of Central America's most persistently active volcanoes and is under continued monitoring.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fuego volcano eruption intensifies in Guatemala as evacuations start",
+          "url": "https://www.usatoday.com/picture-gallery/news/world/2026/08/05/guatemala-fuego-volcano-erupts-photos/91180101007",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "Guatemala declares Fuego volcano eruption over, evacuees return home",
+          "url": "https://www.france24.com/en/americas/20260806-guatemala-declares-fuego-volcano-eruption-over-evacuees-return-home",
+          "source": "www.france24.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.6 Earthquake Near Skwentna Widely Felt Across South-Central Alaska",
+      "location": "Skwentna Region, Alaska, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 5.6 earthquake struck approximately 57 km west-northwest of Skwentna, Alaska, at a shallow depth of 10 km on August 8, making it one of the most widely felt seismic events in the region in recent years, with over 1,133 felt reports submitted to USGS \u2014 a remarkably high number for a sub-M6.0 event. The shallow focal depth amplified shaking across the Matanuska-Susitna Borough and as far as Anchorage, roughly 107 miles to the southeast. No tsunami alert was issued and USGS assigned a green alert level, indicating low likelihood of significant damage, though the event is under continued watch given the active seismic environment.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong Mag. 5.6 Earthquake - Matanuska-Susitna Borough, 107 mi Northwest of Anchorage, Alaska, United States, on Friday, Aug 7, 2026",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23254036/mag5quake-Aug-8-2026-59-km-WNW-of-Skwentna-Alaska.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Europe Heatwave Expands West \u2014 France, UK, and Germany Now in the Heat Corridor",
+      "location": "France, United Kingdom, Germany, and Central Europe",
+      "type": "weather",
+      "summary": "The relentless European heatwave has expanded decisively westward, with Paris reaching 32.8\u00b0C, London 31.8\u00b0C, and Berlin 31.6\u00b0C \u2014 conditions well above seasonal norms for early August and adding millions more to the heat-stressed population. This marks a significant escalation from the prior days when extreme heat was concentrated in Italy, Austria, and Slovakia; the westward push now places France and the UK under serious heat strain, straining energy grids, transport infrastructure, and public health systems. Italy remains on its highest alert, and drought conditions fueled by the heatwave are raising additional concerns across the continent.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Central Europe sees record temperatures as heatwave continues",
+          "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Extreme heat pushes temperatures above 40\u00b0C across Europe",
+          "url": "https://www.euronews.com/my-europe/2026/08/06/europe-heatwave-puts-all-major-italian-cities-on-red-alert-as-austria-sets-heat-record",
+          "source": "www.euronews.com"
+        }
+      ]
+    },
+    {
+      "title": "Missouri and Midwest Extreme Heat Warning Extended Through August 12",
+      "location": "Missouri, Kansas, and Southern Illinois, USA",
+      "type": "weather",
+      "summary": "The National Weather Service has formally upgraded heat watches to Extreme Heat Warnings across a broad swath of Missouri, Kansas, and southern Illinois, with heat index values expected to reach 107\u2013109\u00b0F daily through Wednesday, August 12. Overnight lows remaining in the upper 70s to lower 80s are providing little physiological relief, compounding the multi-day heat stress risk for vulnerable populations. The warnings \u2014 issued simultaneously from NWS offices in St. Louis, Springfield, and Kansas City \u2014 represent one of the most geographically extensive Midwest heat emergencies in recent years.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "India Monsoon Floods and Landslides \u2014 Death Toll Surpasses 100",
+      "location": "Kerala, Delhi, and Multiple States, India",
+      "type": "weather",
+      "summary": "Monsoon-driven floods and landslides have killed more than 100 people across India since July, with Kerala and Delhi among the hardest-hit regions as relentless rainfall overwhelms drainage systems, triggers slope failures, and inundates low-lying communities. Kerala has been particularly devastated, with landslides cutting off villages and rescue teams wading through floodwaters to reach stranded residents; Delhi recorded dangerous flooding that disrupted the capital's transport network. Monsoon conditions remain active across the subcontinent with further rain forecast, keeping the disaster risk elevated.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "India monsoon floods, landslides kill more than 100 since July: officials",
+          "url": "https://tribune.com.pk/story/2622234/india-monsoon-floods-landslides-kill-more-than-100-since-july-officials",
+          "source": "tribune.com.pk"
+        },
+        {
+          "title": "16 dead and missing as floods and landslides hit Kerala, India",
+          "url": "https://watchers.news/2026/08/02/16-dead-and-missing-as-floods-and-landslides-hit-kerala-india",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "US Wildfire Season \u2014 Red Flag Warnings Blanket the West and Southern Plains",
+      "location": "Wyoming, Montana, Idaho, Washington, Oklahoma, and Western USA",
+      "type": "wildfire",
+      "summary": "Red Flag Warnings remain active across a sweeping arc of the American West and Southern Plains on August 9, covering Yellowstone National Park, the Wyoming high country, eastern Washington Cascades, Idaho's Salmon River Mountains, and western Oklahoma \u2014 where relative humidity has dropped as low as 10\u201314% with gusts to 40 mph. These conditions sustain an extreme fire ignition and spread environment atop a wildfire season already tracking above the 10-year average with 99 large fires simultaneously active. With multiple major fires already burning in the Pacific Northwest and Northern Rockies, fire managers are warning that any new ignitions in Red Flag zones today could rapidly become uncontrollable.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
