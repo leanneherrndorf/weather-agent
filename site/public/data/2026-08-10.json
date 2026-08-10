@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-10",
+  "headline": "Typhoon Dolphin Floods Zhejiang as Mount Etna's Eruption Shuts Catania Airport and Extreme Heat and Wildfires Grip the US and Europe",
+  "overview": "August 10 sees the aftermath of Typhoon Dolphin battering eastern China's Zhejiang coast as a weakened tropical storm, while Mount Etna produced a major eruption disrupting aviation over Sicily. Across the United States, a dangerous combination of extreme heat warnings from the Southwest to the Midwest, record-breaking rainfall causing flooding in Indiana and Illinois, and a rapidly expanding wildfire in Utah dominate the domestic picture. Europe's prolonged heatwave continues to shatter records, and the Greece wildfire crisis deepened with criminal arson charges filed against a local mayor.",
+  "events": [
+    {
+      "title": "Typhoon Dolphin Weakens to Tropical Storm but Floods Zhejiang",
+      "location": "Wenzhou and Zhejiang Province, China",
+      "type": "weather",
+      "summary": "Typhoon Dolphin made landfall on China's Zhejiang-Fujian coast on August 9 and had weakened to a tropical storm by August 10, but continued to bring significant flooding and structural damage to Wenzhou and surrounding areas. Chinese authorities had evacuated over one million people ahead of landfall, and reports from the ground on August 10 showed vehicles pinned by fallen structures. River flooding remained a concern along the Qiantang, Yong, Jiao, and Shuiyang rivers, which were forecast to see major inundation.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical storm causes some flooding in eastern China",
+          "url": "https://www.bozemandailychronicle.com/wire/international/tropical-storm-causes-some-flooding-in-eastern-China/article_cfeb257e-8e11-5f10-bd88-c294e52553a4.html",
+          "source": "bozemandailychronicle.com"
+        },
+        {
+          "title": "Typhoon Dolphin hits China's east coast, over 1 million evacuated",
+          "url": "https://www.reuters.com/business/environment/typhoon-dolphin-set-hit-chinas-east-coast-triggering-flood-warnings-2026-08-09",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Mount Etna Eruption Sends Ash Plume to 7,300 Metres, Disrupts Catania Airport",
+      "location": "Sicily, Italy",
+      "type": "volcano",
+      "summary": "Mount Etna erupted on August 7\u20138, 2026, producing an ash plume that rose to approximately 7,300 metres and triggered widespread disruption at Catania's Fontanarossa Airport, with flights cancelled or diverted. The Volcanic Ash Advisory Center in Toulouse issued advisories for the ash column, while new lava flows were observed from the summit area. Etna's activity had been noted in weekly volcanic reports, and the event adds to an already active volcanic season across Europe and Central America.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Etna Volcano (Italy): new Lava Flows from Summit Area",
+          "url": "https://www.volcanodiscovery.com/etna/news/323108/Etna-volcano-Italy-new-lava-flows-from-summit-area.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Severe Storms Dump Record Rainfall on Chicago and Indiana \u2014 Flash Flood Emergencies Active",
+      "location": "Chicago, Illinois and Northern Indiana, USA",
+      "type": "weather",
+      "summary": "A powerful line of severe thunderstorms swept across the Chicago metro area and central-northern Indiana overnight into August 10, producing an extraordinary 222.9mm of precipitation recorded in Chicago and triggering Severe Thunderstorm Warnings with 60 mph wind gusts and quarter-sized hail. The NWS issued Flash Flood and Flood Watches across a broad swath of northern Indiana counties \u2014 including Allen, Elkhart, St. Joseph, and Kosciusko \u2014 as well as Flood Warnings in Illinois counties south of Chicago. Rounds of additional storms are forecast to continue threatening the Midwest into the coming week.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flood Watch, severe thunderstorm watch for Chicago area overnight for second round of severe storms",
+          "url": "https://www.cbsnews.com/chicago/news/flood-watch-thunderstorm-chicago-weather",
+          "source": "cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Widemouth 2 Fire Becomes Utah's Largest Wildfire of 2026 at 111,000 Acres",
+      "location": "Kanosh / Richfield, Utah, USA",
+      "type": "wildfire",
+      "summary": "The Widemouth 2 Fire in central Utah has burned through more than 111,000 acres near Richfield, surpassing the Cottonwood Fire (97,000 acres) to become the state's largest wildfire of the 2026 season. The blaze is burning in the Fishlake National Forest and surrounding areas, with Red Flag Warnings in effect across Idaho and Wyoming on August 10 due to winds gusting to 35 mph and humidity as low as 8%. The fire is part of a broader US wildfire crisis that has already seen 99 large fires burning simultaneously across the West.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Widemouth 2 Fire becomes Utah's largest wildfire of 2026 season, burning 111,000 acres",
+          "url": "https://kutv.com/news/wildfire/widemouth-2-fire-becomes-utahs-largest-fire-of-2026-season-burning-111000-acres",
+          "source": "kutv.com"
+        }
+      ]
+    },
+    {
+      "title": "US Southwest and Midwest Extreme Heat Continues \u2014 Heat Index Up to 120\u00b0F",
+      "location": "Arizona, California, Nevada, Missouri, and Illinois, USA",
+      "type": "weather",
+      "summary": "Multiple Extreme Heat Warnings remain in effect across the US Southwest and Midwest on August 10, with Death Valley and the Mojave Desert approaching 120\u00b0F and the Las Vegas Valley hitting 110\u2013115\u00b0F. In the Midwest, dangerously high heat index values of up to 111\u00b0F are forecast for Missouri and southern Illinois, with NWS warnings extended through August 12\u201313. The combined breadth of these alerts \u2014 spanning the Yuma/Parker Valley, Imperial Valley, San Joaquin Valley, Mojave Desert, and the Missouri-Kansas region \u2014 makes this one of the most geographically expansive US heat events in recent memory.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Europe Heatwave Persists \u2014 Records Fall Across France, Germany, and Central Europe",
+      "location": "France, Germany, United Kingdom, and Central Europe",
+      "type": "weather",
+      "summary": "Europe's multi-week heatwave shows no signs of abating as of August 10, with Berlin reaching 30.3\u00b0C, Paris 31.7\u00b0C, and London 26.8\u00b0C \u2014 all well above seasonal norms \u2014 amid a pattern that has already set national records in Austria, Slovakia, and Italy earlier this week. Al Jazeera reported on August 7 that energy and transport systems across the continent are under strain from the sustained heat. Western Europe has now recorded its hottest combined June\u2013July on record, and forecasters warn the heat corridor is expanding westward.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Central Europe sees record temperatures as heatwave continues",
+          "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues",
+          "source": "aljazeera.com"
+        },
+        {
+          "title": "Western Europe records hottest June and July on record",
+          "url": "https://amp.dw.com/en/copernicus-climate-june-july-temperature-record-western-europe-drought-el-nino/a-78298751",
+          "source": "dw.com"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfire Crisis: Mayor and Wind Farm Owner Jailed on Arson Charges",
+      "location": "Western Attica and Boeotia, Greece",
+      "type": "wildfire",
+      "summary": "Greece's wildfire crisis near Athens took a major legal turn as a local mayor and the owner of a wind farm were among three people jailed and charged with arson in connection with the fires burning in Western Attica and the Boeotia region. The fires, which have been burning for over 10 days and have claimed at least two lives \u2014 including firefighters killed in a helicopter collision \u2014 have scorched areas around Porto Germeno and Mount Kithairon, roughly 70 km northwest of Athens. Authorities are now investigating whether deliberate arson played a role in the origin or spread of the blaze.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
