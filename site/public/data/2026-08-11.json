@@ -1,0 +1,131 @@
+{
+  "date": "2026-08-11",
+  "headline": "Magnitude 7.4 earthquake strikes western Colombia, killing at least four and injuring 69, as multi-state flash flooding sweeps the Appalachian and Ohio Valley regions.",
+  "overview": "A powerful M7.4 earthquake near San Jos\u00e9 del Palmar, Colombia \u2014 rated orange alert by USGS \u2014 is the dominant geological event of the day, with over 1,000 felt reports. Simultaneously, a sprawling severe weather system is driving active flash flood warnings and watches across seven US states from Ohio to Virginia and Kentucky, while a new major wildfire erupts in Wyoming. Continuing extremes include record-breaking heat across the US Midwest and Western Europe, and a rising monsoon death toll in India now surpassing 160.",
+  "events": [
+    {
+      "title": "M7.4 Earthquake Strikes Western Colombia \u2014 At Least 4 Dead, 69 Injured",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "A magnitude 7.4 earthquake struck approximately 5 km south of San Jos\u00e9 del Palmar in western Colombia on August 10 at 12:34 UTC, at a depth of 110 km, generating a USGS orange alert \u2014 the second-highest impact level. At least four people were killed and 69 injured, with over 1,000 felt reports submitted, reflecting the earthquake's wide reach across the region. No tsunami alert was issued, and the intermediate depth likely limited surface destruction relative to a shallower event of the same magnitude.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "M7.4 earthquake strikes Colombia",
+          "url": "https://qazinform.com/amp/m74-earthquake-strikes-colombia-killing-four-ad65fa",
+          "source": "qazinform.com"
+        },
+        {
+          "title": "Major Magnitude 7.4 Earthquake - 5 km S of San Jos\u00e9 Del Palmar, Colombia",
+          "url": "https://www.volcanodiscovery.com/earthquakes/23259781/2026-08-10/12h34/magnitude7-Colombia.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Multi-State Flash Flooding Sweeps Appalachian and Ohio Valley \u2014 7 States Under Warnings",
+      "location": "Ohio, West Virginia, Kentucky, Pennsylvania, Maryland, Virginia, Indiana, USA",
+      "type": "weather",
+      "summary": "A slow-moving frontal system is producing repeated rounds of heavy thunderstorms across the Appalachian and Ohio Valley region, triggering active flash flood warnings in Ohio, West Virginia, Pennsylvania, and Maryland, with flood watches extending through Wednesday morning into Kentucky, Virginia, North Carolina, and Indiana. Rainfall totals of 2\u20134 inches have already fallen across many warned counties, with additional accumulations expected; multiple roads have been closed and homes flooded across eastern Ohio and northern West Virginia. A broad flood watch issued by NWS Charleston, WV extends through August 14, signaling a prolonged and serious flooding threat across this densely populated multi-state corridor.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Ohio Valley flood threat targets multiple states today",
+          "url": "https://rollingout.com/2026/08/10/ohio-valley-flood-threat-multiple",
+          "source": "rollingout.com"
+        }
+      ]
+    },
+    {
+      "title": "Weiser Knoll Fire Explodes to Become Wyoming's Largest Wildfire of 2026",
+      "location": "South Pass / Lander, Fremont County, Wyoming, USA",
+      "type": "wildfire",
+      "summary": "The Weiser Knoll Fire ignited on Sunday near South Pass in Fremont County and rapidly spread due to dry fuels, strong winds, and critically low humidity, quickly becoming Wyoming's largest wildfire of 2026. Wyoming Fire Management Officer Jerod DeLay described \"extreme fire behavior\" overnight, and Red Flag Warnings remain in effect across wide swaths of Wyoming on Tuesday, with gusts up to 35 mph and relative humidity as low as 9%. The fire's rapid growth in a fire-weather environment consistent with the broader western US wildfire season adds significant pressure to already-stretched regional firefighting resources.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Weiser Knoll Fire explodes on South Pass, quickly becoming Wyoming's largest wildfire of 2026",
+          "url": "https://wyofile.com/weiser-knoll-fire-explodes-on-south-pass-quickly-becoming-wyomings-largest-wildfire-of-2026",
+          "source": "wyofile.com"
+        },
+        {
+          "title": "Fremont County's new Weiser Knoll Fire estimated to be largest in Wyoming this year",
+          "url": "https://capcity.news/statewide/2026/08/10/fremont-countys-new-weiser-knoll-fire-estimated-to-be-largest-in-wyoming-this-year",
+          "source": "capcity.news"
+        }
+      ]
+    },
+    {
+      "title": "Midwest and Missouri Extreme Heat Intensifies \u2014 Heat Index Reaches 113\u00b0F Through Thursday",
+      "location": "Missouri, Kansas, Southern Illinois, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings are active across central and eastern Missouri, southern Illinois, and portions of Kansas through Wednesday evening, with heat index values reaching up to 113\u00b0F in Perry County, Illinois \u2014 the highest value recorded in current active alerts. NWS Paducah warned that daily heat index values will remain in the triple digits through next weekend, extending the dangerous heat event well beyond initial forecasts. Health authorities warn of significantly elevated risk of heat-related illness, particularly for vulnerable populations lacking air conditioning.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Europe Heatwave Breaks Western Records \u2014 Exceptional Drought Conditions Widen",
+      "location": "France, Germany, United Kingdom, and Central Europe",
+      "type": "weather",
+      "summary": "Western Europe has broken temperature records during an ongoing heatwave, with CNN reporting a new regional record set on August 10; Paris recorded a high of 32.6\u00b0C and surface soil moisture across the continent is at exceptional-to-record deficits \u2014 lower than during the severe summer of 2022. Al Jazeera reported that Central Europe's energy and transport systems are facing strain as the heatwave continues, with no immediate relief forecast. The combination of record heat and severe drought conditions is elevating wildfire danger and agricultural stress across multiple nations simultaneously.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Western Europe breaks temperature record in summer plagued by heatwaves and wildfires",
+          "url": "https://www.cnn.com/2026/08/10/climate/europe-heatwave-wildfire-intl-hnk",
+          "source": "www.cnn.com"
+        },
+        {
+          "title": "Central Europe sees record temperatures as heatwave continues",
+          "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "India Monsoon Death Toll Surpasses 160 as Floods and Landslides Continue",
+      "location": "Kerala, Delhi, and Multiple States, India",
+      "type": "weather",
+      "summary": "India's 2026 monsoon season has now claimed over 160 lives since July, according to Anadolu Agency, as floods and landslides continue to devastate multiple states including Kerala, Himachal Pradesh, and Uttarakhand. Delhi recorded 6.1 mm of precipitation on August 11, consistent with continued monsoon activity, and conditions across the subcontinent remain volatile. The rising toll represents a significant escalation from the 100+ figure reported on August 9, underscoring the compounding humanitarian impact of this year's particularly intense monsoon season.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "India reports over 160 fatalities due to rain-related incidents since July",
+          "url": "https://www.aa.com.tr/en/asia-pacific/india-reports-over-160-fatalities-due-to-rain-related-incidents-since-july/4018994",
+          "source": "www.aa.com.tr"
+        },
+        {
+          "title": "India monsoon death toll tops 100 as floods, landslides devastate regions",
+          "url": "https://www.malaymail.com/news/world/2026/08/05/india-monsoon-death-toll-tops-100-as-floods-landslides-devastate-regions/230312",
+          "source": "www.malaymail.com"
+        }
+      ]
+    },
+    {
+      "title": "Old Trails Fire Arson Suspect Charged \u2014 Told Police He Planned Attack for Weeks",
+      "location": "Spokane, Washington, USA",
+      "type": "wildfire",
+      "summary": "New court documents revealed that the suspect charged with setting the Old Trails Fire \u2014 the largest wildfire in Spokane's history \u2014 told police he had planned to start the fire for weeks and also confessed to setting approximately 25 fires over the past year. The suspect, identified as Aaron Farinacci, faces arson charges following the devastating fire that destroyed homes in a Spokane neighborhood in early August. The case highlights the human-caused dimension of the 2026 western US wildfire season, which is already running at historically destructive levels.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Man charged with arson in Spokane told police he planned to spark wildfire for weeks",
+          "url": "https://www.pbs.org/newshour/nation/man-charged-with-arson-in-spokane-told-police-he-planned-to-spark-wildfire-for-weeks",
+          "source": "www.pbs.org"
+        },
+        {
+          "title": "Court docs: Spokane arson suspect told police he set 25 fires over the past year",
+          "url": "https://www.opb.org/article/2026/08/06/spokane-washington-wildfires-fire-aaron-farinacci",
+          "source": "www.opb.org"
+        }
+      ]
+    }
+  ]
+}
