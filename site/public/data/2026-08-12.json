@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-12",
+  "headline": "Colombia M7.4 Earthquake Death Toll Surges Past 250 as Rescuers Struggle to Reach Epicenter",
+  "overview": "The catastrophic M7.4 earthquake that struck western Colombia on August 10 has emerged as the week's deadliest natural disaster, with the confirmed death toll surpassing 250 as rescue teams remain unable to access the hardest-hit areas. Simultaneously, a deadly derecho swept the US Midwest overnight, a Mendenhall Glacier outburst flood triggered active warnings in Juneau, Alaska, and a developing tropical cyclone threatens Hawaii. Europe's record-breaking fifth heatwave of the season continues, while British Columbia's wildfire crisis deepens with 20,000 residents evacuated.",
+  "events": [
+    {
+      "title": "Colombia M7.4 Earthquake Death Toll Surpasses 250 \u2014 Rescuers Still Unable to Reach Epicenter",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "The M7.4 earthquake that struck 5 km south of San Jos\u00e9 del Palmar on August 10 at a depth of 110 km has killed more than 250 people, a dramatic escalation from initial reports, with the UN warning that the toll will continue to rise as thousands remain missing. Emergency responders have been hampered by damaged roads and remote terrain that have prevented search-and-rescue teams from reaching the epicenter area. The USGS rates the event at red alert level; the quake was felt by over 1,000 people across Colombia and Ecuador.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Live updates: Over 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet",
+          "url": "https://edition.cnn.com/2026/08/11/world/live-news/colombia-earthquake-latest",
+          "source": "edition.cnn.com"
+        },
+        {
+          "title": "Colombia quake death toll tops 250 as rescuers race to find survivors",
+          "url": "https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html",
+          "source": "www.cnbc.com"
+        }
+      ]
+    },
+    {
+      "title": "Deadly Derecho Sweeps US Midwest \u2014 At Least 2 Killed, Widespread Damage and Flash Flooding",
+      "location": "Midwest and Great Lakes, USA",
+      "type": "weather",
+      "summary": "A destructive derecho tore through the Midwest overnight into August 12, killing at least 2 people and unleashing damaging winds, large hail, and torrential rainfall across a broad swath from Nebraska and Iowa through Indiana and the Great Lakes region. NWS issued simultaneous Severe Thunderstorm Warnings across Wisconsin, Nebraska, North Dakota, Minnesota, and Indiana, with wind gusts exceeding 70 mph in some areas and multiple Flash Flood Warnings active across Indiana and Ohio. The storm system is compounding ongoing flood stress in the Ohio Valley and Appalachians, where Flood Watches remain in effect through August 13 across portions of Kentucky, West Virginia, Virginia, and Tennessee.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "At least 2 killed as destructive derecho lashes millions with damaging winds and rain in the Midwest",
+          "url": "https://www.foxweather.com/weather-news/millions-across-midwest-great-lakes-face-multi-day-threat-destructive-storms-flash-flooding",
+          "source": "www.foxweather.com"
+        },
+        {
+          "title": "Deadly Derecho Storms Bring Destruction, Flooding and Power Outages Across the US Midwest",
+          "url": "https://mezha.net/eng/bukvy/513f7bbf_deadly_derecho_storms",
+          "source": "mezha.net"
+        }
+      ]
+    },
+    {
+      "title": "Tropical Cyclone Lala Threatens Hawaii \u2014 Formation Imminent Southeast of the Islands",
+      "location": "Central Pacific Ocean, Southeast of Hawai\u02bbi",
+      "type": "weather",
+      "summary": "Tropical Cyclone Lala is forecast to form imminently from Invest 93C in the Central Pacific, southeast of the Hawaiian Islands, with late-week impacts on Hawaii possible including heavy surf and potentially dangerous waves of up to 20 feet. The system is developing within an exceptionally active monsoon trough that meteorologists say could spawn five to seven tropical systems over a two-week period. Residents and visitors across the Hawaiian Islands are advised to monitor closely as the track and intensity forecast evolves.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Tropical Cyclone Lala Could Form Soon, Southeast of Hawai\u02bbi",
+          "url": "https://www.bigislandvideonews.com/2026/08/10/tropical-cyclone-lala-could-form-soon-southeast-of-hawai%CA%BBi",
+          "source": "www.bigislandvideonews.com"
+        }
+      ]
+    },
+    {
+      "title": "British Columbia Wildfire Crisis \u2014 20,000+ Evacuated, 1 Dead, Military on Standby",
+      "location": "Penticton / Okanagan Region, British Columbia, Canada",
+      "type": "wildfire",
+      "summary": "The fast-moving Bald Range wildfire and associated blazes in British Columbia's Okanagan region have forced more than 20,000 residents to flee, with at least one person killed and numerous homes destroyed as of August 8\u20139. Canadian authorities have placed the military on standby to support evacuation and firefighting operations, with Highway 97 closed northbound and thick smoke enveloping communities around Okanagan Lake. The August 2026 national wildfire outlook warns of above-normal fire potential across a broad swath of western and north-central Canada and the United States.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "British Columbia wildfire forces more than 20000 to flee, destroys homes",
+          "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Canada puts the military on standby as British Columbia wildfires kill 1 and displace thousands",
+          "url": "https://www.bozemandailychronicle.com/wire/business/canada-puts-the-military-on-standby-as-british-columbia-wildfires-kill-1-and-displace-thousands/article_e93b8ff1-5ec9-56e3-9ff4-16dfd7bce1cc.html",
+          "source": "www.bozemandailychronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Mendenhall Glacier Outburst Flood Underway \u2014 Flood Warning Active in Juneau, Alaska",
+      "location": "Juneau, Alaska, USA",
+      "type": "weather",
+      "summary": "Suicide Basin, a glacial lake dammed by the Mendenhall Glacier near Juneau, Alaska, has released its 2026 outburst flood, triggering a Flood Warning from NWS Juneau through August 14 for Mendenhall Lake, the Mendenhall River, and surrounding recreation areas. The basin had filled to capacity by August 11, and water is now lifting a portion of the glacier as it drains in the annual j\u00f6kulhlaup event, raising river levels progressively. Residents and visitors near View Drive, the Back Loop bridge area, and the Mendenhall Glacier Recreation Area have been warned to avoid low-lying zones.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Juneau's Suicide Basin has released, marking the start of glacial outburst flooding",
+          "url": "https://www.adn.com/alaska-news/2026/08/11/juneaus-suicide-basin-is-full-with-glacial-outburst-flooding-expected-within-days",
+          "source": "www.adn.com"
+        },
+        {
+          "title": "Juneau's Suicide Basin is full, with glacial outburst flooding expected within days",
+          "url": "https://www.spokesman.com/stories/2026/aug/11/juneaus-suicide-basin-is-full-with-glacial-outburs",
+          "source": "www.spokesman.com"
+        }
+      ]
+    },
+    {
+      "title": "Europe's Fifth Heatwave of 2026 \u2014 Western Records Fall Again as Drought Widens",
+      "location": "France, United Kingdom, and Western Europe",
+      "type": "weather",
+      "summary": "Western Europe is enduring its fifth heatwave of the 2026 season, with Paris reaching 35.4\u00b0C and London hitting 31.7\u00b0C on August 12 according to current weather data \u2014 part of a summer that the EU's climate monitoring service has confirmed is the hottest on record for western Europe. The UK and France are bracing for continued exceptional heat through the week, with record temperatures being broken repeatedly across France, Germany, and Central Europe amid worsening drought conditions. The prolonged heat has fueled wildfires across southern Europe and is straining energy grids and public health systems.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Western Europe breaks temperature record in summer plagued by heatwaves and wildfires",
+          "url": "https://www.cnn.com/2026/08/10/climate/europe-heatwave-wildfire-intl-hnk",
+          "source": "www.cnn.com"
+        },
+        {
+          "title": "The U.K. and France prepare for another heat wave as western Europe sets a new temperature record",
+          "url": "https://www.latimes.com/world-nation/story/2026-08-10/u-k-france-prepare-for-another-heat-wave-as-western-europe-sets-new-temperature-record",
+          "source": "www.latimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Fuego Volcano Eruption Intensifies in Guatemala \u2014 1,700 Evacuated, Second-Highest Alert Issued",
+      "location": "Alotenango / Escuintla Region, Guatemala",
+      "type": "volcano",
+      "summary": "Guatemala's Fuego volcano intensified its eruption on August 4\u20135, prompting authorities to issue the country's second-highest emergency alert level and order the evacuation of approximately 1,700 residents from communities in Alotenango, roughly 65 km southwest of Guatemala City. The volcano expelled large ash columns, pyroclastic flows, and lahars of ash and mud down its flanks, posing direct threats to nearby communities. Guatemalan emergency management (CONRED) has kept the elevated alert in place as volcanic activity remained elevated into the following days.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated",
+          "url": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Dramatic images show Fuego volcano intense eruptions in Guatemala",
+          "url": "https://www.usatoday.com/picture-gallery/news/world/2026/08/05/guatemala-fuego-volcano-erupts-photos/91180101007",
+          "source": "www.usatoday.com"
+        }
+      ]
+    }
+  ]
+}
