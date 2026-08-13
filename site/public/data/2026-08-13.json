@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-13",
+  "headline": "Colombia Earthquake Death Toll Surpasses 250 as Tropical Storm Lala Targets Hawaii with Direct Hit Expected This Weekend",
+  "overview": "August 13 brings a convergence of escalating crises across three continents. The M7.4 Colombia earthquake death toll has surged past 250 as rescue teams still struggle to reach the epicenter, while Tropical Storm Lala is now expected to be formally named today and is forecast to make a direct hit on Hawaii. Simultaneously, Europe's fifth heatwave of 2026 is shattering records \u2014 Paris reached 37.3\u00b0C and London 35.3\u00b0C \u2014 while a new eruption episode at K\u012blauea and Mount Etna's ash cloud grounding flights at Catania airport add to a globally active natural hazard picture.",
+  "events": [
+    {
+      "title": "Colombia Earthquake Death Toll Surpasses 250 \u2014 Rescue Still Hampered",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "The death toll from the August 10 M7.4 earthquake in western Colombia has surged past 250, up from just 4 confirmed dead in the initial hours, as recovery teams continue to uncover victims in collapsed structures across the remote Choc\u00f3 region. Rescue operations are now in their third day, with access to the epicenter still severely limited by damaged roads and ongoing aftershock risk. The USGS lists the event at red alert level, and over 1,100 felt reports have been registered globally.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Colombia Earthquake: Death Toll Rises to 202 as Rescue Operations Continue Into Third Day",
+          "url": "https://thecitypaperbogota.com/news/colombia-earthquake-death-toll-rises-to-202-as-rescue-operations-continue-into-third-day",
+          "source": "thecitypaperbogota.com"
+        },
+        {
+          "title": "Colombia earthquake rescuers race to find survivors in rubble as death toll increases to at least 132",
+          "url": "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Tropical Storm Lala Expected Today \u2014 Direct Hit on Hawaii Forecast",
+      "location": "Central Pacific Ocean, approaching Hawai\u02bbi",
+      "type": "weather",
+      "summary": "A tropical disturbance that forecasters have been tracking since August 11 is expected to be officially named Tropical Storm Lala on August 13, with the National Hurricane Center projecting a direct hit on the Hawaiian Islands this weekend. The Weather Channel reports the storm could potentially strengthen to hurricane intensity before landfall, a scenario made more likely by an active El Ni\u00f1o pattern elevating sea surface temperatures near Hawaii. Residents across the state are being urged to begin preparations as the storm's track becomes more certain.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Central US Extreme Heat Expands \u2014 Heat Index Up to 115\u00b0F Through Sunday",
+      "location": "Southern Illinois, Missouri, Kansas, Arkansas, Oklahoma, USA",
+      "type": "weather",
+      "summary": "The NWS has issued Extreme Heat Warnings across a broad swath of the central United States, with heat index values reaching up to 115\u00b0F in southern Illinois and 114\u00b0F in central Arkansas \u2014 warnings now extended through Sunday, August 16. The affected zone spans from Oklahoma and Kansas through Missouri, southern Illinois, Indiana, and into the Georgia and South Carolina coasts, where heat indices near 114\u00b0F are also expected. Overnight low temperatures are failing to drop below the upper 70s to lower 80s in the core of the heat dome, significantly elevating the risk of heat-related illness.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mount Etna Eruption Closes Catania Airport \u2014 Ash Cloud Reaches Libya",
+      "location": "Sicily, Italy",
+      "type": "volcano",
+      "summary": "Mount Etna has entered a new significant eruptive phase, generating an ash cloud large enough to force the closure of Catania's international airport and disrupt flight arrivals and departures across Sicily. The ash plume extended as far south as Libya, crossing the central Mediterranean, according to Euronews. Etna, one of the world's most active volcanoes, is monitored continuously by Italian civil protection authorities, and lava flows have been confirmed alongside the heavy ash emissions.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Italy: Etna eruption in Sicily halts Catania flights",
+          "url": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205",
+          "source": "www.dw.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Episode 53 Lava Fountaining Begins at Summit",
+      "location": "Hawai\u02bbi Volcanoes National Park, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "Episode 53 of the ongoing lava fountaining sequence at K\u012blauea's Halema\u02bbuma\u02bbu summit crater began on August 13, marking the latest in a prolonged series of eruptive episodes that have characterized the 2026 eruption cycle. Scientists with the USGS Hawaiian Volcano Observatory are studying whether lava fountain heights will increase during this episode, as the chemistry of erupted material may signal a new growth phase. The eruption remains confined to the summit caldera within Hawai\u02bbi Volcanoes National Park and poses no immediate threat to residential areas.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Major River Flooding Inundates Central Indiana \u2014 White River at Major Flood Stage",
+      "location": "Central and Northern Indiana, USA",
+      "type": "weather",
+      "summary": "The aftermath of the August 12 derecho and days of successive heavy rainfall has pushed rivers across central Indiana to major flood stage, with the White River system \u2014 including gauges at Anderson, Muncie, Noblesville, and Indianapolis \u2014 under active Flood Warnings extending through August 16\u201318. The NWS Indianapolis issued dozens of concurrent Flood Warnings Thursday morning covering over 25 Indiana counties, with the Wabash River, Tippecanoe River, Flatrock River, and East Fork White River all running significantly above flood stage. Fox Weather reports some locations across Indiana and Ohio have received more than six inches of rainfall since Monday.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Europe's Fifth Heatwave \u2014 Paris 37.3\u00b0C, London 35.3\u00b0C as Drought Deepens",
+      "location": "France, United Kingdom, and Western Europe",
+      "type": "weather",
+      "summary": "Weather station data confirms Paris reaching 37.3\u00b0C and London 35.3\u00b0C on August 13, sustained readings consistent with Europe's fifth heatwave of an extraordinary 2026 summer. Italy has placed all major cities on red alert, with the Los Angeles Times reporting that western Europe has already set a new continent-wide temperature record during this prolonged heat season. Exceptional drought conditions continue to widen across France, Germany, and the Iberian Peninsula, with wildfire risk elevated across southern Europe.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "The U.K. and France prepare for another heat wave as western Europe sets a new temperature record",
+          "url": "https://www.latimes.com/world-nation/story/2026-08-10/u-k-france-prepare-for-another-heat-wave-as-western-europe-sets-new-temperature-record",
+          "source": "www.latimes.com"
+        },
+        {
+          "title": "Italy places all major cities on red alert as heatwave grips Europe",
+          "url": "https://www.france24.com/en/europe/20260807-italy-places-all-major-cities-on-red-alert-new-heatwave-grips-europe",
+          "source": "www.france24.com"
+        }
+      ]
+    }
+  ]
+}
