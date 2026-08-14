@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-14",
+  "headline": "Tropical Storm Lala Upgraded to Hurricane \u2014 Extreme Warnings Cover All of Hawaii's Big Island as Direct Strike Approaches",
+  "overview": "Hawaii faces its most dangerous storm in years as Lala rapidly intensified into a hurricane, triggering extreme-level warnings across the entire Big Island and tropical storm watches extending to Maui and neighboring islands. Concurrently, record-breaking flooding continues to devastate Indiana, extreme heat bakes a vast swath of the central and southern United States, and Europe's fifth heatwave of 2026 intensifies with Paris reaching 38.4\u00b0C. Colombia's earthquake rescue effort presses on at red-alert status, while a new wildfire has rapidly grown into Wyoming's largest of the year.",
+  "events": [
+    {
+      "title": "Lala Upgraded to Hurricane \u2014 Direct Strike on Big Island Imminent",
+      "location": "Hawai\u02bbi Island (Big Island) and Maui County, Hawai\u02bbi, USA",
+      "type": "weather",
+      "summary": "Tropical Storm Lala was upgraded to hurricane status, prompting NWS Honolulu to issue Hurricane Warnings for all zones of the Big Island \u2014 including Big Island South where Cat 1-equivalent winds of 55\u201375 mph with gusts to 85 mph are expected \u2014 and Tropical Storm Watches for Maui, Molokai, and Lanai. Dangerous seas of 17\u201323 feet are forecast in the Alenuihaha Channel, and the Big Island Interior, East, and South face Tropical Storm-to-Hurricane-force windows from Friday evening through Sunday morning. A Flood Watch for Maui and the Big Island warns of flash flooding from Lala's heavy rainfall through late Saturday night.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Warning issued; Big Island community advised to prepare for impacts from Lala",
+          "url": "https://www.kitv.com/news/hurricane-warning-issued-big-island-community-advised-to-prepare-for-impacts-from-lala/article_6238ec75-0e59-402c-a2bd-92445ef48446.html",
+          "source": "kitv.com"
+        },
+        {
+          "title": "Tropical Storm Lala \u2014 Hawai\u02bbi Emergency Management Agency",
+          "url": "https://dod.hawaii.gov/hiema/tropical-storm-lala",
+          "source": "dod.hawaii.gov"
+        }
+      ]
+    },
+    {
+      "title": "Indiana Flooding Reaches Record Levels \u2014 Anderson Forecast to Shatter Gauge Records",
+      "location": "Central and Northern Indiana, USA",
+      "type": "weather",
+      "summary": "Major flooding has escalated to record-threatening levels across Indiana, with NWS Indianapolis warning that the White River at Anderson is forecast to reach record flood stage \u2014 a significant escalation from the major flood stage reported on August 13. Dozens of active Flood Warnings and Flash Flood Warnings span the breadth of the state, from the Wabash River basin (warnings extending as far as August 21) to Fall Creek, the Mississinewa, Flatrock, and Driftwood Rivers. Additional rainfall of 1\u20133 inches is expected on top of already-saturated ground, keeping river levels elevated through next week.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flooding and severe weather strike Indiana \u2014 More storms expected in Indy on Aug. 13",
+          "url": "https://www.yahoo.com/news/weather-news/articles/indiana-braces-heavy-rain-flood-115241518.html",
+          "source": "yahoo.com"
+        }
+      ]
+    },
+    {
+      "title": "Central and Southern US Extreme Heat Expands South \u2014 Heat Index Up to 115\u00b0F",
+      "location": "Southern Illinois, Missouri, Kansas, Arkansas, Oklahoma, Georgia, and Florida Panhandle, USA",
+      "type": "weather",
+      "summary": "Active Extreme Heat Warnings blanket a vast multi-state region from Kansas and Missouri through Arkansas, Oklahoma, southern Illinois, southwest Indiana, and now extending south to coastal Georgia, the South Carolina Lowcountry, and the Florida Panhandle, where heat index values of 113\u2013115\u00b0F are forecast through Sunday evening. NWS offices from Paducah to Jacksonville to Tallahassee have all issued concurrent Extreme Heat Warnings, making this one of the broadest simultaneous heat emergency footprints of the 2026 summer. Additionally, an Extreme Heat Watch has been issued for the Phoenix metropolitan area (109\u2013112\u00b0F) and surrounding Arizona desert zones from Monday through Wednesday, signaling the event is expanding geographically.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Colombia M7.4 Earthquake \u2014 Rescue Ongoing, Death Toll Continues to Rise",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "The M7.4 earthquake that struck 5 km south of San Jos\u00e9 del Palmar on August 10 remains on USGS red alert, with rescue operations still underway across the remote Choc\u00f3 region. The earthquake, at a depth of 110 km, was widely felt across Colombia with over 1,138 felt reports logged globally, and aid organizations including Direct Relief have mobilized medical resources to the disaster zone. Access to the epicenter area remains hampered by terrain and infrastructure damage, keeping the full death toll uncertain as search teams continue to work through the rubble.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Colombia Earthquake 2026 \u2014 Disaster Response",
+          "url": "https://www.directrelief.org/emergency/colombia-earthquake-2026",
+          "source": "directrelief.org"
+        },
+        {
+          "title": "Colombia earthquake rescue operations continue with more than 224 dead",
+          "url": "https://abc7news.com/story/colombia-earthquake-rescue-operations-continue-more-224-dead/19667351",
+          "source": "abc7news.com"
+        }
+      ]
+    },
+    {
+      "title": "Europe's Fifth Heatwave Intensifies \u2014 Paris Hits 38.4\u00b0C, Drought Deepens",
+      "location": "France, United Kingdom, and Western Europe",
+      "type": "weather",
+      "summary": "Weather data shows Paris reaching 38.4\u00b0C and London 34.6\u00b0C on August 14, both above the already-extreme readings recorded the day prior, confirming the heatwave is still intensifying rather than abating. The AP reports that millions of Europeans are sweltering as western Europe sets new temperature records during what is now the fifth distinct heatwave of 2026, with drought conditions spreading and wildfires reported in southern England's New Forest. No rainfall is recorded across Paris, London, or Berlin, underscoring the deepening drought that has parched the continent through the summer.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Europe swelters in latest wave of extreme heat",
+          "url": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat",
+          "source": "aljazeera.com"
+        },
+        {
+          "title": "France and UK prepare for another heat wave as western Europe sets new temperature record",
+          "url": "https://apnews.com/article/europe-weather-climate-change-f4f6ecf0953d423e0a70b74cd477c81a",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Weiser Knoll Fire Explodes to 16,000+ Acres \u2014 Wyoming's Largest Wildfire of 2026",
+      "location": "South Pass / Lander Area, Wyoming, USA",
+      "type": "wildfire",
+      "summary": "The Weiser Knoll Fire, burning approximately 13 miles southeast of Lander on Wyoming's South Pass, has rapidly grown to over 16,000 acres and was declared Wyoming's largest wildfire of 2026. Fire management officials cited extremely dry fuels, strong winds, and low humidity as drivers of \"extreme fire behavior\" that persisted overnight. BLM Wyoming reported containment at approximately 30% as of August 12, though the fire's rapid growth trajectory and Red Flag Warning conditions across the broader Pacific Northwest and Intermountain West raise concerns about further spread.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Weiser Knoll Fire explodes on South Pass, quickly becoming Wyoming's largest wildfire of 2026",
+          "url": "https://wyofile.com/weiser-knoll-fire-explodes-on-south-pass-quickly-becoming-wyomings-largest-wildfire-of-2026",
+          "source": "wyofile.com"
+        }
+      ]
+    },
+    {
+      "title": "British Columbia Wildfire Crisis Escalates \u2014 State of Emergency Declared, Thousands Still Displaced",
+      "location": "Okanagan / Penticton Region, British Columbia, Canada",
+      "type": "wildfire",
+      "summary": "British Columbia declared a provincial state of emergency as the Bald Range and associated wildfires in the south Okanagan continued to threaten communities around Penticton and Summerland, with over 20,000 residents remaining displaced and the military on standby. Reuters and AP both confirm evacuation orders remain in force and structures have been destroyed as the fast-moving fire raced toward populated areas along the Okanagan Valley. Red Flag Warning conditions for lightning-driven fire ignitions remain active across portions of the Pacific Northwest and Cascades, adding to the multi-front wildfire pressure on western North America.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Canada puts the military on standby as British Columbia wildfires kill 1 and displace thousands",
+          "url": "https://apnews.com/article/canada-wildfires-british-columbia-de5556e3d5323dd85ee7ed87a378cf8f",
+          "source": "apnews.com"
+        },
+        {
+          "title": "Wildfires burn across western U.S. and Canada as residents are evacuated",
+          "url": "https://triblive.com/news/world/wildfires-burn-across-western-u-s-and-canada-as-residents-are-evacuated/",
+          "source": "triblive.com"
+        }
+      ]
+    }
+  ]
+}
