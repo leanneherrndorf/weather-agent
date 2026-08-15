@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-15",
+  "headline": "Major M7.7 Earthquake Strikes Indonesia's Flores Region as Hurricane Lala Batters Entire Hawaiian Island Chain",
+  "overview": "A powerful M7.7 earthquake struck off the north coast of Flores, Indonesia late on August 14 UTC, triggering initial tsunami warnings and a USGS orange alert for a region with a history of deadly seismic events. Simultaneously, Hurricane Lala \u2014 now bearing down on the entire Hawaiian island chain from the Big Island to Oahu and Kauai \u2014 represents a historic and potentially catastrophic landfalling storm. A multi-day extreme heat emergency continues across the central and southern United States, Indiana's White River has shattered its 1913 flood record, and the Colombia M7.4 earthquake rescue effort remains critical.",
+  "events": [
+    {
+      "title": "M7.7 Earthquake Strikes Flores Region, Indonesia \u2014 USGS Orange Alert",
+      "location": "68 km NNW of Ende, Flores, Indonesia",
+      "type": "earthquake",
+      "summary": "A major magnitude 7.7 earthquake struck the Flores region of Indonesia at 21:58 UTC on August 14, at a very shallow depth of just 10 km, triggering initial tsunami assessment and a USGS orange alert level. The shallow depth and location near Flores \u2014 one of the most seismically hazardous arcs in the world \u2014 raises significant concern for casualties and structural damage; 37 felt reports were logged rapidly. The Flores region suffered a devastating M7.8 earthquake in 1992 that killed over 2,500 people, making this event closely watched by emergency authorities.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Major M7.7 earthquake hits Flores region, Indonesia, tsunami potential reported",
+          "url": "https://watchers.news/2026/08/14/major-m7-7-earthquake-hits-flores-region-indonesia-tsunami-potential-reported",
+          "source": "watchers.news"
+        },
+        {
+          "title": "M7.7 earthquake strikes Flores, Indonesia",
+          "url": "https://earthquakeinsights.substack.com/p/m77-earthquake-strikes-flores-indonesia",
+          "source": "earthquakeinsights.substack.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Lala Makes Historic Strike on Hawai\u02bbi \u2014 Entire Island Chain Under Warnings",
+      "location": "Hawai\u02bbi Island, Maui, Oahu, Kauai, Hawai\u02bbi, USA",
+      "type": "weather",
+      "summary": "Hurricane Lala has significantly escalated beyond yesterday's forecast track, now subjecting the entire Hawaiian island chain to hurricane and tropical storm conditions simultaneously \u2014 a historically rare event. The Big Island's southeast coast faces Category 1-equivalent winds of 74\u2013110 mph, while Tropical Storm Warnings now extend to Oahu (including Honolulu) and all of Kauai, and a Flood Watch covers the entire state through Sunday night. The storm's potential to make a direct hurricane landfall on the Big Island would be the first such event in recorded Hawaiian history, with catastrophic flash flooding, dangerous surf, and sustained hurricane-force winds threatening communities across multiple islands.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Indiana White River Shatters 1913 Flood Record \u2014 Governor Declares Emergency",
+      "location": "Central and Northern Indiana, USA",
+      "type": "weather",
+      "summary": "Indiana's catastrophic flooding has escalated dramatically, with the White River near Indianapolis breaking its all-time gauge record set during the Great Flood of 1913 \u2014 a significant threshold not breached in over a century. The governor has declared a state of emergency as major to record flooding propagates downstream along the White River from Muncie to Edwardsport, with NWS Flood Warnings active through as late as August 24 for some counties. Dozens of river gauges remain at major or record flood stage across central Indiana, and the Wabash River system is also rising, with the disaster expected to take weeks to fully recede.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indiana's White River breaks 1913 flooding record as governor declares state of emergency",
+          "url": "https://www.cbsnews.com/news/indiana-white-river-flooding-record-emergency",
+          "source": "www.cbsnews.com"
+        },
+        {
+          "title": "Historic flooding: Whitewater River reaches record crest in southeast Indiana",
+          "url": "https://www.wlwt.com/article/historic-flooding-whitewater-river-alpine-indiana-crest/73423769",
+          "source": "www.wlwt.com"
+        }
+      ]
+    },
+    {
+      "title": "Colombia M7.4 Earthquake \u2014 Rescue Ongoing, Death Toll Continues to Rise",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "The M7.4 earthquake that struck near San Jos\u00e9 del Palmar on August 10 maintains a USGS red alert \u2014 the highest level \u2014 with 1,151 felt reports logged and the death toll surpassing 250 as of August 14. Rescue operations continue to be hampered by terrain, aftershocks, and damaged infrastructure in the remote Choc\u00f3 department, one of Colombia's most isolated regions. The earthquake remains one of the deadliest seismic events in Colombian history, and international aid teams are still actively engaged in search and recovery operations.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Multi-State Extreme Heat Emergency Expands \u2014 Heat Index Hits 115\u00b0F Across South and Midwest",
+      "location": "Arkansas, Missouri, Kansas, Tennessee, Mississippi, Louisiana, Georgia, South Carolina, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings blanketed a vast swath of the central and southern United States on August 15, with heat index values reaching 115\u00b0F in coastal Georgia and South Carolina, and 113\u2013114\u00b0F across Arkansas and Louisiana. The heat dome has now expanded eastward to include middle Tennessee (up to 112\u00b0F heat index in Nashville) and is forecast to persist through at least Sunday evening, with an Extreme Heat Watch already posted for the Phoenix metropolitan area through next Friday with temperatures of 109\u2013113\u00b0F. The Climate Prediction Center warns that a greater-than-60% chance of extreme heat persists across the region through August 21, raising serious public health concerns.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Timber Fire Threatens Big Sur Landmarks \u2014 Nearly 4,000 Acres Burned",
+      "location": "Big Sur, California, USA",
+      "type": "wildfire",
+      "summary": "The Timber Fire in California's iconic Big Sur coastal range has grown to nearly 4,000 acres, threatening tourist destinations and prompting evacuations and closures of portions of the area as of August 12\u201315. Firefighters are battling steep terrain, dry fuels, and erratic winds in one of California's most ecologically sensitive and visited landscapes. Red Flag Warnings remain active across parts of the Pacific Northwest, reflecting heightened wildfire risk across the broader Western US amid an active monsoon pattern delivering dry lightning.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Massive Big Sur wildfire nearly 4,000 acres as tourist sites threatened",
+          "url": "https://nypost.com/2026/08/12/us-news/massive-big-sur-wildfire-nearly-4000-acres-as-tourist-sites-threatened",
+          "source": "nypost.com"
+        },
+        {
+          "title": "Timber Fire in California's Big Sur grows to 2,000 acres; evacuations, park closures in effect",
+          "url": "https://www.cbsnews.com/sanfrancisco/news/timber-fire-big-sur-california-august-11-2026-evacuations-2000-acres-burned",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Europe's Fifth Heatwave of 2026 Persists \u2014 Berlin 34.8\u00b0C, Paris 33.5\u00b0C, Drought Deepens",
+      "location": "France, Germany, and Western Europe",
+      "type": "weather",
+      "summary": "Western Europe's fifth heatwave of 2026 continues on August 15, with Berlin reaching 34.8\u00b0C and Paris 33.5\u00b0C \u2014 slightly cooler than yesterday's 38.4\u00b0C Paris peak but still well above seasonal norms with no meaningful rainfall across the region. The prolonged heat is deepening an already severe drought across France, Germany, and the UK, where London recorded 27.4\u00b0C with zero precipitation, stressing agricultural systems and river levels. The extended duration of this heatwave sequence \u2014 five distinct events since June \u2014 is being attributed to persistent high-pressure blocking patterns consistent with long-term climate trends.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
