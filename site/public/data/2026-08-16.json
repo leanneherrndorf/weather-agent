@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-16",
+  "headline": "Hurricane Lala Sweeps Entire Hawaiian Island Chain as Mount Etna Closes Catania Airport and a New M6.9 Strikes Sumatra",
+  "overview": "Hurricane Lala, after striking the Big Island, pushed northwest on August 16 bringing Hurricane Warnings to the Big Island and Tropical Storm Warnings to every major Hawaiian island including Oahu and Kauai \u2014 an extraordinarily rare multi-island tropical threat. Simultaneously, a fresh M6.9 earthquake struck North Sumatra, Indonesia, Mount Etna's ongoing eruption forced the closure of Sicily's busiest airport, and extreme heat warnings spanning from the US Gulf Coast to the Desert Southwest continued to endanger tens of millions of Americans. Widespread flooding along Indiana's White River and its tributaries also persisted, with warnings extending as far as Illinois and Ohio.",
+  "events": [
+    {
+      "title": "Hurricane Lala Extends Threat to Oahu, Kauai, and All Hawaiian Islands",
+      "location": "Hawai\u02bbi, USA",
+      "type": "weather",
+      "summary": "Hurricane Lala, having struck the Big Island on August 15, tracked northwestward on August 16 bringing active Hurricane Warnings across the Big Island and Tropical Storm Warnings to every major island in the chain, including Oahu and Kauai \u2014 a historic breadth of coverage. NWS Honolulu forecasts potential winds of 74\u2013110 mph on the Big Island and gusts up to 90 mph on Kauai's north shore, with flash flood warnings issued for heavy rain bands producing 2\u20134 inches per hour. The storm's passage across the full island chain represents one of the most significant tropical cyclone events in Hawaiian recorded history.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mount Etna Eruption Forces Closure of Catania Airport, Sicily",
+      "location": "Sicily, Italy",
+      "type": "volcano",
+      "summary": "Mount Etna entered an intense eruptive phase on August 6, 2026, with its most powerful lava fountaining episode of the year from the Voragine crater escalating into a sustained effusive eruption. By August 14, volcanic ash clouds had forced the closure of Vincenzo Bellini Catania Airport \u2014 Sicily's busiest \u2014 stranding thousands of passengers and prompting airlines to cancel and reroute flights. The eruption continues to be monitored closely as ash fall and lava flows threaten surrounding communities and air traffic across the central Mediterranean.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Mount Etna eruption and volcanic ash shut Sicily's busiest airport",
+          "url": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Italy: Etna eruption in Sicily halts Catania flights",
+          "url": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205",
+          "source": "www.dw.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.9 Earthquake Strikes North Sumatra, Indonesia",
+      "location": "Pematangsiantar, North Sumatra, Indonesia",
+      "type": "earthquake",
+      "summary": "A magnitude 6.9 earthquake struck 15 km NNW of Pematangsiantar in North Sumatra, Indonesia, at 10:54 UTC on August 15, 2026, at a depth of approximately 172 km. The intermediate-depth event was widely felt across the region, with 43 felt reports logged by USGS, though its deep focal depth likely limited surface damage compared to a shallower strike; no tsunami alert was issued and the USGS assigned a green alert level. This is the second significant earthquake to affect the Indonesian archipelago in two days, coming just 24 hours after the M7.7 Flores event, underscoring elevated seismic activity across the region.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong M6.9 earthquake hits North Sumatra, Indonesia",
+          "url": "https://watchers.news/2026/08/15/strong-m6-9-earthquake-hits-north-sumatra-indonesia",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Very strong mag. 6.9 earthquake - Kabupaten Serdang Bedagai, North Sumatra, Indonesia",
+          "url": "https://www.volcanodiscovery.com/earthquakes/23274637/2026-08-15/10h54/magnitude6-Indonesia.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Multi-State Extreme Heat Emergency Persists and Expands to Desert Southwest",
+      "location": "Arkansas, Mississippi, Louisiana, Missouri, Oklahoma, Tennessee, Illinois, Indiana, Arizona, California, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings covering dozens of counties across the South and Midwest remained in effect on August 16, with heat index values up to 115\u00b0F reported across southeast Louisiana and southern Mississippi and triple-digit indices across Arkansas, Oklahoma, Tennessee, Missouri, and southern Illinois. New multi-day Extreme Heat Warnings were simultaneously issued for the Phoenix metropolitan area and the Yuma/Southwest Arizona region, with afternoon temperatures forecast at 108\u2013114\u00b0F through Friday, August 21 \u2014 extending the heat emergency's footprint to the Desert Southwest. Approximately 15 million Americans remained under active Extreme Heat Warnings as of August 16.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Indiana White River Flooding Spreads \u2014 Warnings Extend into Ohio and Illinois",
+      "location": "Indiana, Ohio, and Illinois, USA",
+      "type": "weather",
+      "summary": "Major flooding along Indiana's White River and its tributaries continued on August 16, with NWS flood warnings extending as far out as August 23\u201324 along the lower White River and Wabash River corridors, as the record-shattering crest propagated downstream through Greene, Daviess, Knox, and Gibson counties. The flood pulse is now spreading into neighboring states, with Flood Warnings active along Illinois river systems (including the Illinois River at La Salle and the Vermilion River near Danville) and flash flood warnings triggered by overnight thunderstorms across central and eastern Ohio. Norway Dam discharge in White County, Indiana, continued to exceed 9,000 cubic feet per second, sustaining downstream flood threats.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indiana's White River breaks 1913 flooding record as governor declares state of emergency",
+          "url": "https://www.cbsnews.com/news/indiana-white-river-flooding-record-emergency",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfire Crisis Intensifies \u2014 'Wall of Fire' Forces Sea Evacuations Near Athens",
+      "location": "Attica and Crete, Greece",
+      "type": "wildfire",
+      "summary": "Greece remained under its highest nationwide wildfire alert on August 16, with a large fire near Athens \u2014 which had already killed two helicopter crew members and burned 110 square kilometers of forest \u2014 continuing to force evacuations by sea as a 'wall of fire' approached coastal communities. A separate fire on Crete near Krya Vrysi in the Rethymno region required more than 200 firefighters to contain, with thousands of residents and tourists displaced. The fires are being driven by the broader European heatwave and prolonged drought conditions, underscoring what experts are calling the continent's costliest wildfire season in years.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "'Wall of fire' forces sea evacuation in Greece as wildfires continue across Europe",
+          "url": "https://www.euronews.com/my-europe/2026/08/14/wall-of-fire-forces-sea-evacuation-in-greece-as-wildfires-continue-across-europe",
+          "source": "www.euronews.com"
+        },
+        {
+          "title": "Greece battles new wildfire near Athens driven by strong winds",
+          "url": "https://www.lemonde.fr/en/international/article/2026/08/10/greece-battles-new-wildfire-near-athens-driven-by-strong-winds_6756333_4.html",
+          "source": "www.lemonde.fr"
+        }
+      ]
+    },
+    {
+      "title": "M5.2 Earthquake Strikes Granada Province, Southern Spain",
+      "location": "Otura, Granada, Spain",
+      "type": "earthquake",
+      "summary": "A magnitude 5.2 earthquake struck 1 km southwest of Otura in Granada Province, Andalusia, Spain, at 23:04 UTC on August 14, 2026, at a shallow depth of 10 km. The event was widely felt across the region with 119 felt reports logged by USGS, and the shallow focal depth elevated the potential for localized damage and strong shaking in the Granada metropolitan area. The USGS assigned a yellow alert level; no tsunami warning was issued, but the event is being monitored given the shallow depth and proximity to populated areas.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong Mag. 5.2 Earthquake - Granada, Andalusia, Spain",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23272323/quake-felt-Aug-14-2026-Near-Malaga-Andalusia-Spain.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
