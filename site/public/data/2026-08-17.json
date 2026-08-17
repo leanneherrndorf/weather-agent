@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-17",
+  "headline": "Belgium Records Largest Wildfire in History as Record-Breaking Blaze Threatens German Border",
+  "overview": "A catastrophic wildfire in Belgium's High Fens nature reserve has become the largest in the country's recorded history, forcing hundreds of evacuations and threatening to cross into Germany. Across the Atlantic, Tropical Storm Lala \u2014 downgraded from hurricane \u2014 continues to rake all Hawaiian Islands with damaging winds and flooding rains, compounding hazards from an active K\u012blauea eruption. Extreme heat emergencies persist and expand across more than a dozen U.S. states stretching from Arizona to the Southeast Seaboard, while Colombia's M7.4 earthquake death toll surpasses 250 with rescuers still working.",
+  "events": [
+    {
+      "title": "Belgium's Largest Wildfire on Record Spreads Toward German Border",
+      "location": "High Fens (Hautes Fagnes) Nature Reserve, Belgium",
+      "type": "wildfire",
+      "summary": "A wildfire burning through the protected High Fens (Hautes Fagnes) nature reserve in eastern Belgium has grown into the largest in the country's recorded history, forcing the evacuation of hundreds of residents from surrounding villages. Driven by prolonged drought and strong winds linked to Europe's ongoing heatwave, the blaze has advanced toward the Belgian-German border, prompting emergency response from Belgian army firefighters and cross-border concern from German authorities. The fire threatens one of Western Europe's most ecologically sensitive peat bog ecosystems, where deep organic soils can burn for extended periods.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Belgium's largest wildfire on record spreads towards German border",
+          "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "Tropical Storm Lala Rakes All Hawaiian Islands \u2014 Downgraded But Still Dangerous",
+      "location": "Hawai\u02bbi, USA",
+      "type": "weather",
+      "summary": "Hurricane Lala has weakened to tropical storm status but continues to pound the entire Hawaiian Island chain with destructive winds and drenching rainfall, causing widespread closures across O\u02bbahu, Maui, Kaua\u02bbi, Moloka\u02bbi, and L\u0101na\u02bbi. NWS Honolulu has issued Flood Watches through Monday morning for Kaua\u02bbi, O\u02bbahu, Maui, Moloka\u02bbi, and L\u0101na\u02bbi, with rain bands associated with the storm producing dangerous runoff and stream flooding. The system is passing through the island chain without making a direct landfall, but its breadth means no island is escaping the impacts of high winds gusting to 70 mph on Haleakal\u0101 Summit and flooding rains.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical storm Lala causes widespread closures across Hawai\u02bbi",
+          "url": "https://www.khon2.com/tracking-lala/hawaii-closures-cancellations-tropical-storm-lala",
+          "source": "www.khon2.com"
+        }
+      ]
+    },
+    {
+      "title": "U.S. Extreme Heat Emergency Expands Into Southeast \u2014 Heat Index Reaches 115\u00b0F",
+      "location": "Arizona, California, Arkansas, Mississippi, Louisiana, Alabama, Georgia, North Carolina, South Carolina, Florida, USA",
+      "type": "weather",
+      "summary": "Active Extreme Heat Warnings now span more than a dozen states from the Desert Southwest to the Southeast Seaboard, marking a significant geographic expansion of the ongoing multi-state heat emergency. Phoenix is forecast to reach 109\u2013112\u00b0F through Friday, while Tucson, Yuma, and the lower Colorado River Valley face 107\u2013114\u00b0F; NWS Phoenix has extended warnings through August 21. The heat wave has now engulfed the Southeast, with heat index values of 112\u2013115\u00b0F posted for coastal Georgia, South Carolina, North Carolina, Louisiana, Mississippi, Alabama, and Florida's Panhandle, raising urgent concerns about heat-related illness in densely populated coastal communities.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Extreme heat warning issued for Alabama starting tonight; how hot could Monday be?",
+          "url": "https://www.al.com/weather/2026/08/extreme-heat-warning-issued-for-alabama-starting-tonight-how-hot-could-monday-be.html",
+          "source": "www.al.com"
+        },
+        {
+          "title": "South Carolina will experience dangerous heat this weekend",
+          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-08-15/south-carolina-will-experience-dangerous-heat-this-weekend",
+          "source": "www.southcarolinapublicradio.org"
+        }
+      ]
+    },
+    {
+      "title": "Colombia M7.4 Earthquake Death Toll Surpasses 250 \u2014 Rescue Operations Continue",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "The death toll from the M7.4 earthquake that struck Colombia's Choc\u00f3 Department on August 10 has surpassed 250, with earlier reports placing the count above 132 and CNBC reporting the toll has now topped 250 as rescuers race to find survivors in collapsed structures. The USGS assigned a red alert level to the quake \u2014 the highest on its scale \u2014 reflecting the significant loss of life and widespread structural damage across the remote Pacific coastal region. Colombian President Abelardo De La Espriella has declared a national state of emergency, and rescue operations remain ongoing more than a week after the initial strike.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Colombia quake death toll tops 250 as rescuers race to find survivors",
+          "url": "https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html",
+          "source": "www.cnbc.com"
+        },
+        {
+          "title": "Colombia Earthquake Death Toll Rises To 132, Hundreds Injured",
+          "url": "https://www.i24news.tv/en/news/international/latin-america/artc-colombia-earthquake-death-toll-rises-to-132-hundreds-injured",
+          "source": "www.i24news.tv"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfires \u2014 Two Dead on Island of Salamina Near Athens",
+      "location": "Salamina Island and Attica, Greece",
+      "type": "wildfire",
+      "summary": "Greece's ongoing wildfire crisis has claimed at least two lives on the island of Salamina, located just west of Athens, as firefighters battled multiple simultaneous blazes across Attica and beyond. Helicopters conducted water drops over Salamina while hundreds of residents were evacuated, marking a significant escalation from the previous day's crisis that had centered on Attica and Crete. The fatalities represent the deadliest day of Greece's 2026 fire season and underscore the dangerous conditions fueled by Europe's prolonged heatwave and drought.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens",
+          "url": "https://www.thesunchronicle.com/news/nation_world/firefighters-battle-wildfires-in-belgium-and-greece-as-2-die-on-an-island-near-athens/article_1a6d5eff-9956-58c4-9c26-b88c8907da0e.html",
+          "source": "www.thesunchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Indiana\u2013Midwest Flooding Escalates \u2014 Wabash River Upgraded, Federal Disaster Aid Imminent",
+      "location": "Indiana, Illinois, Ohio, West Virginia, Kentucky, USA",
+      "type": "weather",
+      "summary": "The catastrophic flooding that began with the White River shattering its 1913 record in Indiana has now propagated downstream through the Wabash River system, with NWS Indianapolis upgrading multiple Wabash gauges from minor to moderate flood severity as an additional 1\u20132 inches of rain fell overnight. Flood Warnings now span dozens of counties across Indiana, Illinois, Ohio, West Virginia, and Kentucky, with the Wabash River at some gauges not expected to fall below flood stage until August 24\u201325. Indiana Governor's office confirmed that President Trump has assured federal disaster assistance approval, potentially providing $5 million for response, as water rescues continued overnight in Kanawha County, West Virginia.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Monday, August 17, 2026 \u2014 Federal disaster aid assured for Indiana flooding",
+          "url": "https://addisontimes.substack.com/p/monday-august-17-2026",
+          "source": "addisontimes.substack.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Eruption Episode 53 Active Amid Tropical Storm Lala",
+      "location": "Hawai\u02bbi Volcanoes National Park, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea volcano on Hawai\u02bbi Island is in the midst of eruption episode 53 within the Kaluapele summit caldera, featuring episodic lava fountaining, incandescence, and intermittent spatter that reached several hundred feet \u2014 drawing crowds to U\u0113kahuna bluff in Hawai\u02bbi Volcanoes National Park as recently as August 12. The ongoing eruption creates a compounding hazard as Tropical Storm Lala tracks through the island chain, with heavy rainfall potentially interacting with active lava flows and volcanic gas emissions that could be redistributed by the storm's wind field. The USGS Hawaiian Volcano Observatory continues to monitor the eruption, which remains confined to the summit caldera.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
