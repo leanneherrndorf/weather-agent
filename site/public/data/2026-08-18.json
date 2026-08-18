@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-18",
+  "headline": "M7.7 Flores Earthquake Kills 68, Displaces Thousands in Indonesia as Pacific Northwest Wildfires Destroy 900 Buildings Near Spokane",
+  "overview": "A powerful M7.7 earthquake struck off Flores Island, Indonesia on August 14\u201315, killing at least 68 people and leaving thousands displaced \u2014 emerging as the week's deadliest geological event. Simultaneously, devastating wildfires near Spokane, Washington scorched hundreds of structures and forced mass evacuations under active Red Flag Warnings across the Pacific Northwest. Ongoing crises including the Colombia earthquake rescue effort, a transcontinental U.S. heat emergency now extended into Oklahoma and Texas, and persistent flooding across the Midwest-Ohio Valley continue to strain emergency resources across multiple continents.",
+  "events": [
+    {
+      "title": "M7.7 Flores Earthquake Kills 68, Thousands Displaced in Indonesia",
+      "location": "Ende / Maumere, Flores Island, East Nusa Tenggara, Indonesia",
+      "type": "earthquake",
+      "summary": "A major M7.7 earthquake struck 68 km north-northwest of Ende, Indonesia on August 14 at shallow depth (10 km), triggering building collapses and infrastructure damage in Maumere and Sikka Regency. At least 68 people have been killed and 213 injured, with more than 4,500 homes damaged and thousands of residents still displaced in tent camps three days after the event. The USGS assigned a yellow alert level, and no tsunami was generated despite the shallow, near-coastal strike.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fear grips children after deadly earthquake in eastern Indonesia leaves thousands displaced",
+          "url": "https://apnews.com/article/indonesia-flores-earthquake-displaced-traumatized-children-70f07f6bbaf611924b98594356f25b32",
+          "source": "apnews.com"
+        },
+        {
+          "title": "Major M7.7 earthquake hits Flores region, Indonesia, leaving at least ...",
+          "url": "https://watchers.news/2026/08/14/major-m7-7-earthquake-hits-flores-region-indonesia-tsunami-potential-reported",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Pacific Northwest Wildfires \u2014 Spokane-Area Blazes Scorch 900 Buildings, 10,000+ Acres",
+      "location": "Spokane County, Washington and Lake County, Oregon, USA",
+      "type": "wildfire",
+      "summary": "Wildfires near Spokane, Washington have burned through more than 10,000 acres, destroying approximately 900 structures and forcing mass evacuations across Spokane County, with smoke blanketing the region. Separately, the Picture Rock Fire near Summer Lake, Oregon has grown significantly, and NWS issued Red Flag Warnings for the Lower Columbia Basin of Oregon and the Lower Palouse / Snake River area of Washington, active through Tuesday evening, citing 70 mph gusts and critically low humidity. The combination of intense heat, dry fuels, and strong winds from a passing weather system is driving rapid fire spread across the region.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfires Ravage Washington as Heat and Wind Threaten the Pacific Northwest",
+          "url": "https://mezha.net/eng/bukvy/e329c827_wildfires_ravage_washington",
+          "source": "mezha.net"
+        }
+      ]
+    },
+    {
+      "title": "Colombia M7.4 Earthquake \u2014 Death Toll Rises Past 250, Rescue Continues",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "Rescue and recovery operations are entering their second week following the M7.4 earthquake that devastated the Choc\u00f3 region of northwestern Colombia, with the confirmed death toll surpassing 250 and search teams still working through collapsed structures. Hundreds of buildings were damaged or destroyed, and communities across Choc\u00f3 and neighboring departments remain largely cut off by damaged roads. International aid and diaspora relief efforts are accelerating, with relief organizations and foreign communities organizing supply drives to support survivors.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "More than 160 people killed in Colombia's strongest earthquake in years",
+          "url": "https://www.nbcnews.com/world/latin-america/strong-earthquake-colombia-ecuador-people-evacuating-homes-buildings-rcna591709",
+          "source": "www.nbcnews.com"
+        },
+        {
+          "title": "Community rallies in N.C. to support Colombia relief efforts",
+          "url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/08/17/community-rallies-in-north-carolina-to-support-colombia-earthquake-relief-efforts",
+          "source": "spectrumlocalnews.com"
+        }
+      ]
+    },
+    {
+      "title": "U.S. Extreme Heat Emergency Expands Into Texas and Oklahoma \u2014 Heat Index to 119\u00b0F",
+      "location": "Arizona, California, Nevada, Texas, Oklahoma, Arkansas, Louisiana, Mississippi, Florida, Georgia, North Carolina, South Carolina, USA",
+      "type": "weather",
+      "summary": "The multi-week U.S. extreme heat emergency has significantly expanded today, with NWS issuing new Extreme Heat Warnings for large portions of North Texas and central-to-southeast Oklahoma \u2014 states not covered in prior days' alerts \u2014 in addition to continued warnings across the Desert Southwest, Gulf Coast, and Southeast. Death Valley and the lower Colorado River Valley are forecast to hit 115\u2013118\u00b0F, while the Phoenix metro faces 108\u2013112\u00b0F; in the Southeast, heat index values up to 119\u00b0F are expected in coastal Georgia and South Carolina. NOAA data confirms July 2026 was the hottest month on record for the contiguous U.S., underscoring the severity of this prolonged event.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Midwest\u2013Ohio Valley Flooding Persists \u2014 Wabash, White, and Illinois Rivers Still Inundated",
+      "location": "Indiana, Illinois, Ohio, West Virginia, USA",
+      "type": "weather",
+      "summary": "Dozens of active Flood Warnings remain in force across Indiana, Illinois, Ohio, and West Virginia, with the Wabash River system expected to stay in flood stage through as late as August 27 at some gauges, and the White River crest still moving slowly downstream through central and southern Indiana. New flooding has also emerged along Duck Creek tributaries in Ohio and along multiple tributaries in West Virginia's Harrison and Taylor counties, with emergency management confirming additional road closures. FEMA disaster recovery centers opened in West Virginia's Pleasants and Ritchie counties on August 18, signaling federal escalation of the disaster response.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Belgium's Record Wildfire Grows to 3,000 Hectares \u2014 European Air Support Deployed",
+      "location": "High Fens (Hautes Fagnes) Nature Reserve, Belgium / German Border",
+      "type": "wildfire",
+      "summary": "Belgium's largest wildfire on record has grown to at least 3,000 hectares as it continues burning through the protected High Fens peatland reserve near the German border, prompting European neighbors to deploy firefighting aircraft in support. The fire, which began in the ecologically sensitive Waimes area, has proven extremely difficult to control due to deep peat ignition and rugged terrain, and cross-border containment coordination with Germany has been activated. The blaze represents a major loss of one of Western Europe's most biodiverse and carbon-rich natural areas.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Belgium's High Fens wildfire spreads across 3,000 hectares as Europe sends firefighting aircraft",
+          "url": "https://www.firstpost.com/world/belgiums-high-fens-wildfire-spreads-across-3000-hectares-as-europe-sends-firefighting-aircraft-14038555.html/amp",
+          "source": "www.firstpost.com"
+        },
+        {
+          "title": "Belgium Battles Biggest Wildfire on Record",
+          "url": "https://anewz.tv/world/world-news/23392/belgium-battles-biggest-wildfire-on-record/news",
+          "source": "anewz.tv"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfires Continue \u2014 Arson Arrest on Salamina as Fires Persist Near Athens",
+      "location": "Salamina Island and Attica, Greece",
+      "type": "wildfire",
+      "summary": "Wildfires near Athens continue to burn across the Attica region and on the island of Salamina, where an Israeli tourist has been arrested for negligent arson after a barbecue sparked a blaze that killed two people and forced coastal evacuations. Greek authorities have maintained a maximum fire alert level across much of the mainland, with bans on entering pine forests in multiple regions remaining in effect. The ongoing crisis \u2014 which has affected Attica, Crete, and northern Greek coastal areas including Halkidiki \u2014 poses a growing fiscal and ecological burden, according to government advisers.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Israeli arrested in Greece for negligent arson after BBQ sparks wildfire",
+          "url": "https://www.timesofisrael.com/israeli-arrested-in-greece-for-negligent-arson-after-bbq-sparks-wildfire",
+          "source": "www.timesofisrael.com"
+        },
+        {
+          "title": "Greece Wildfire \u2014 Firefighters battle a wildfire on the island of Salamina",
+          "url": "https://www.goskagit.com/news/world/greece-wildfire/image_f508b7ab-941f-5754-947c-2c5718ac4e05.html",
+          "source": "www.goskagit.com"
+        }
+      ]
+    }
+  ]
+}
