@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-19",
+  "headline": "Mount Etna Eruption Shuts Catania Airport as Multi-Nation Heat Emergency, European Wildfires, and Midwest Floods Persist Simultaneously",
+  "overview": "August 19 brings a convergence of major global natural hazards: Mount Etna's eruption continues to disrupt air travel across Sicily and Malta, while dangerous heat extremes grip a sweeping arc from the U.S. Desert Southwest through the Deep South. In Europe, firefighters in Belgium wage a 'decisive day' battle to contain the continent's most-watched wildfire, and in the Americas, Colombia's earthquake rescue operations wind down with a mounting death toll while Indiana and Illinois remain under dozens of active flood warnings.",
+  "events": [
+    {
+      "title": "Mount Etna Eruption Shuts Catania Airport, Ash Reaches Malta",
+      "location": "Mount Etna, Sicily, Italy",
+      "type": "volcano",
+      "summary": "An ongoing eruptive episode at Mount Etna has repeatedly forced the closure of Catania Vincenzo Bellini Airport \u2014 Sicily's busiest \u2014 due to heavy ashfall, with disruptions extending through at least mid-to-late August and ash clouds tracked as far as Malta. Hundreds of flights have been cancelled or diverted, stranding thousands of summer travelers during peak tourist season. The eruption is producing significant lava fountaining and pyroclastic material, and Italian civil aviation authorities have extended closure orders multiple times as the activity persists.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Mount Etna eruption and volcanic ash shut Sicily's busiest airport",
+          "url": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Etna eruption extends closure of Sicily's Catania airport until Saturday",
+          "url": "https://www.reuters.com/business/environment/etna-eruption-extends-closure-sicilys-catania-airport-until-saturday-2026-08-14/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "U.S. Extreme Heat Emergency Persists \u2014 108\u2013118\u00b0F Across Southwest, South, and Plains",
+      "location": "Arizona, Nevada, California, Texas, Oklahoma, Arkansas, Tennessee, Mississippi, USA",
+      "type": "weather",
+      "summary": "Active Extreme Heat Warnings from the National Weather Service blanket a vast swath of the United States on August 19, with Death Valley and the lower Colorado River Valley forecast to hit 115\u2013118\u00b0F and Phoenix between 108\u2013114\u00b0F \u2014 warnings extended through Friday evening, August 21. Dangerously humid heat is simultaneously pressing into Texas (up to 108\u00b0F), Oklahoma (heat index to 110\u00b0F), Arkansas (heat index over 110\u00b0F), and the Mid-South, compounding public health strain across dozens of counties. The scope and duration of the event, which has now persisted for multiple days across more than a dozen states, mark it as one of the most expansive U.S. heat emergencies in recent memory.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Belgium High Fens Wildfire \u2014 'Decisive Day' Bid to Encircle Blaze",
+      "location": "High Fens (Hautes Fagnes) Nature Reserve, Belgium / German Border",
+      "type": "wildfire",
+      "summary": "August 19 has been declared a 'decisive day' by Belgian authorities as some 500 firefighters and military personnel push to definitively encircle the country's largest wildfire on record, which has already scorched approximately 3,000 of the High Fens nature reserve's 4,500 hectares since igniting on August 14. European aerial support remains deployed, and smoke has been visible from Germany, with cross-border coordination ongoing. The fire began during an exceptional late-summer drought and dry wind event and represents an unprecedented ecological disaster for this protected peatland ecosystem.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "High Fens: Battle to extinguish fire continues on 'decisive day'",
+          "url": "https://www.brusselstimes.com/2277312/high-fens-battle-to-extinguish-fire-continues-on-decisive-day",
+          "source": "www.brusselstimes.com"
+        },
+        {
+          "title": "Firefighters pushing to 'definitively encircle' east Belgium wildfire, authorities say",
+          "url": "https://www.euronews.com/my-europe/2026/08/18/firefighters-pushing-to-definitively-encircle-east-belgium-wildfire-authorities-say",
+          "source": "www.euronews.com"
+        }
+      ]
+    },
+    {
+      "title": "Colombia M7.4 Earthquake \u2014 Rescue Enters 'Final Phase,' Death Toll Still Climbing",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "Rescue operations from the devastating M7.4 earthquake that struck Colombia's Choc\u00f3 region have entered what authorities describe as a 'final phase,' as the window for finding survivors beneath collapsed buildings narrows. The death toll has surpassed 250 and continues to rise as teams work through rubble in remote communities with difficult access. The International Rescue Committee and other humanitarian organizations have launched emergency health and child-protection responses, with thousands still displaced and infrastructure severely damaged across the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Colombia earthquake rescue efforts enter 'final phase' as death toll rises",
+          "url": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises",
+          "source": "www.france24.com"
+        },
+        {
+          "title": "IRC launches health, child protection response as Colombia earthquake death toll rises",
+          "url": "https://www.rescue.org/press-release/irc-launches-health-child-protection-response-colombia-earthquake-death-toll-rises",
+          "source": "www.rescue.org"
+        }
+      ]
+    },
+    {
+      "title": "Midwest Flooding Persists \u2014 White River Crests at Spencer; 128,000+ Affected in Indiana and Illinois",
+      "location": "Indiana, Illinois, USA",
+      "type": "weather",
+      "summary": "Dozens of active Flood Warnings remain in effect across Indiana and Illinois on August 19, with the White River expected to crest at moderate flood stage near Spencer, Indiana through Wednesday night into Thursday, and the Wabash River projected to remain above flood stage at some gauges through as late as August 28. More than 128,000 people across the region have been affected, multiple deaths have been reported, and extensive flood warnings span tributaries including the East Fork White, Sangamon, Spoon, and Illinois Rivers. The prolonged flooding stems from heavy to extreme rainfall over east-central Indiana since mid-August and shows only gradual improvement.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Multiple people dead as flooding continues in Indiana",
+          "url": "https://www.nprillinois.org/2026-08-16/multiple-people-dead-as-flooding-continues-in-indiana",
+          "source": "www.nprillinois.org"
+        }
+      ]
+    },
+    {
+      "title": "M5.9 Earthquake Strikes Remote Qinghai\u2013Tibet Borderlands, China",
+      "location": "Qinghai Province, China (270 km WSW of Yanglong)",
+      "type": "earthquake",
+      "summary": "A magnitude 5.9 earthquake struck a remote area of western China's Qinghai Province on August 18 at 21:36 UTC, at a very shallow depth of just 6 kilometers \u2014 a depth that amplifies ground shaking and structural risk. The USGS assigned a yellow alert level, indicating limited but possible impact; the area is sparsely populated but sits in a seismically active zone near the Qinghai\u2013Tibet Plateau. No tsunami was triggered, and felt reports are not yet available, but the shallow focal depth and moderate-to-strong magnitude make this event worth monitoring for aftershock activity and potential infrastructure damage in the region.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fuerte terremoto magnitud 5.9 \u2014 Qinghai, 273 km al sur de Dunhuang, China (Aug 18 2026)",
+          "url": "https://www.volcanodiscovery.com/es/sismos/informe-sismo/23290345/mag5quake-Aug-18-2026-Qinghai-China.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.2 Earthquake Near Granada, Spain \u2014 124 Felt Reports, Yellow Alert",
+      "location": "Otura, Granada Province, Andalusia, Spain",
+      "type": "earthquake",
+      "summary": "A magnitude 5.2 earthquake struck just 1 kilometer southwest of Otura, a town in the densely populated greater Granada metropolitan area of southern Spain, on August 14 at 23:04 UTC, at a shallow depth of 10 kilometers. The USGS recorded 124 felt reports \u2014 unusually high for a quake of this magnitude \u2014 reflecting the proximity to Granada city (population ~230,000) and surrounding communities. A yellow USGS alert was issued; no major structural collapse has been reported, but the event underscores ongoing seismic risk in the tectonically active Betic Cordillera region of southern Spain, which has a history of damaging earthquakes.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong Mag. 5.2 Earthquake \u2014 Granada, 1 km SW of Otura, Spain, Aug 15, 2026",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23272323/info.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
