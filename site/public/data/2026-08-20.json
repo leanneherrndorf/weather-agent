@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-20",
+  "headline": "Tropical Storm Lala Batters Hawaii as Multi-Front Crisis Continues: US Heat, Colombia Quake, Midwest Floods, and Kilauea Eruption All Active",
+  "overview": "August 20 sees an unusually broad convergence of natural hazards across multiple continents. Hawaii is emerging from a direct tropical storm strike \u2014 the remnants of Hurricane Lala \u2014 while the continental US simultaneously endures a weeks-long extreme heat emergency, catastrophic Midwest flooding now drawing federal disaster declarations, and severe thunderstorms spawning fresh flash floods from Missouri to Ohio. Globally, rescue teams in Colombia continue to work through rubble from last week's M7.4 earthquake, Kilauea's latest lava fountaining episode is underway on the Big Island, and European firefighters are battling both the Belgium High Fens blaze and deadly wildfires in Greece.",
+  "events": [
+    {
+      "title": "Tropical Storm Lala Strikes Hawaii \u2014 Flooding and Damage Persist",
+      "location": "Hawaii, USA",
+      "type": "weather",
+      "summary": "Hurricane Lala made landfall on the Big Island before weakening to a tropical storm, bringing destructive winds and heavy rainfall that caused widespread flooding across Hawaii. Emergency responses remain ongoing as of August 20, with city facilities in Honolulu still operating in crisis mode and flood damage persisting across multiple islands. The storm marked a rare direct tropical cyclone hit on the Hawaiian island chain.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii | Weather News | Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "U.S. Extreme Heat Emergency Extends Into Third Week \u2014 115\u00b0F+ in Death Valley, Phoenix Warnings Through Aug. 23",
+      "location": "Arizona, Nevada, California, Texas, Oklahoma, Arkansas, USA",
+      "type": "weather",
+      "summary": "Active Extreme Heat Warnings from the NWS cover a vast swath of the American Southwest, South, and Southern Plains on August 20, with temperatures reaching 115\u2013118\u00b0F in the Death Valley and lower Colorado River Valley corridor and 108\u2013112\u00b0F across the Phoenix metro area \u2014 warnings there now extended through August 23. North Texas faces highs to 108\u00b0F and Oklahoma heat indices to 110\u00b0F, while Southern California's Coachella Valley sees temperatures to 112\u00b0F. The NWS Las Vegas office notes this represents the longest sustained heat wave of 2026, posing a major HeatRisk to millions.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Colombia M7.4 Earthquake \u2014 Death Toll Climbs, Congressional Rescue Effort Ongoing",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "Rescue operations continue following the devastating M7.4 earthquake that struck western Colombia on August 10, with the death toll having surpassed 250 and thousands more displaced across Choc\u00f3 Department. ReliefWeb situation reports through August 13 detail severe infrastructure damage, with remote communities still cut off by landslides triggered by the quake. Humanitarian organizations warn of compounding risks as access to clean water and shelter remains critically constrained.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Colombia Earthquake: Rapid Situation Overview (13 August 2026) - Colombia | ReliefWeb",
+          "url": "https://reliefweb.int/report/colombia/colombia-earthquake-rapid-situation-overview-13-august-2026",
+          "source": "reliefweb.int"
+        },
+        {
+          "title": "Colombia Earthquake Leaves Hundreds Dead And Thousands Displaced",
+          "url": "https://evrimagaci.org/gpt/colombia-earthquake-leaves-hundreds-dead-and-thousands-displaced-544206",
+          "source": "evrimagaci.org"
+        }
+      ]
+    },
+    {
+      "title": "Midwest\u2013Ohio Valley Flooding Escalates \u2014 Federal Disaster Request, Wabash Warnings Through Aug. 29, New Flash Floods in Ohio and New Jersey",
+      "location": "Indiana, Illinois, Ohio, Missouri, Kentucky, West Virginia, New Jersey, USA",
+      "type": "weather",
+      "summary": "The ongoing Midwest flooding crisis has significantly escalated as of August 20, with the NWS extending Flood Warnings on the Wabash River at multiple gauges through as late as August 29, and congressional representatives formally urging the White House to approve a major federal disaster declaration for Indiana. Overnight, fresh rounds of severe thunderstorms dropped 2\u20134 inches of rain over central Indiana, western Kentucky, southeastern Missouri, and western Ohio, generating simultaneous Flash Flood Warnings across Preble, Greene, and Montgomery counties in Ohio and Hendricks, Morgan, and Putnam counties in Indiana. A new multi-day Flood Watch is active for portions of New Jersey, New York City, and northern Delaware ahead of additional heavy rainfall Thursday afternoon, broadening the impacted zone considerably beyond prior reports.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Multiple people dead as flooding continues in Indiana | NPR Illinois",
+          "url": "https://www.nprillinois.org/2026-08-16/multiple-people-dead-as-flooding-continues-in-indiana",
+          "source": "www.nprillinois.org"
+        },
+        {
+          "title": "Indiana governor announces emergency aid, temporary housing grants amid lethal storms and flooding",
+          "url": "https://indianacapitalchronicle.com/2026/08/17/indiana-governor-announces-emergency-aid-temporary-housing-grants-amid-lethal-storms-and-flooding",
+          "source": "indianacapitalchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Kilauea Volcano \u2014 53rd Lava Fountaining Episode Underway on Hawaii's Big Island",
+      "location": "Kilauea, Hawaii, USA",
+      "type": "volcano",
+      "summary": "Kilauea's summit eruption has entered its 53rd lava fountaining episode, with precursory activity beginning around August 12 and intermittent lava dome fountaining and overflows from the north vent ongoing. The eruption is confined to Halema\u02bbuma\u02bbu crater within Hawai\u02bbi Volcanoes National Park, posing no immediate threat to populated areas, though volcanic gas (vog) emissions are a concern for downwind communities. The episode coincides with the broader crisis brought by Tropical Storm Lala, compounding hazards on the Big Island.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Kilauea Volcano (United States): 53rd Lava Fountaining Episode in Progress",
+          "url": "https://www.volcanodiscovery.com/kilauea/news/325361/Kilauea-volcano-United-States-53rd-lava-fountaining-episode-in-progress.html",
+          "source": "www.volcanodiscovery.com"
+        },
+        {
+          "title": "Kilauea Volcano in Hawaii erupts",
+          "url": "https://www.cbsnews.com/chicago/video/kilauea-volcano-in-hawaii-erupts",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Belgium High Fens Wildfire \u2014 Rains Aid Containment After Record-Breaking Blaze",
+      "location": "High Fens (Hautes Fagnes) Nature Reserve, Belgium / German Border",
+      "type": "wildfire",
+      "summary": "Rainfall has begun aiding containment efforts against the High Fens wildfire, Belgium's largest on record, after firefighters spent days attempting to 'definitively encircle' the blaze that scorched well over 3,000 hectares of protected peatland bog and pine forest. Crews had been supported by European aerial assets, and the defensive line protecting evacuated villages was reported to be holding as of August 18\u201319. While rains represent a notable positive development, conditions in the peat-rich High Fens \u2014 where fires can smolder underground \u2014 mean the threat is not fully extinguished.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Belgium wildfire: Rains help High Fens containment efforts",
+          "url": "https://www.dw.com/en/belgium-wildfire-rains-help-high-fens-containment-efforts/a-78411972",
+          "source": "www.dw.com"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfires \u2014 Deaths Confirmed on Salamina Island, Arson Arrests Near Athens",
+      "location": "Salamina Island and Attica, Greece",
+      "type": "wildfire",
+      "summary": "At least two people have been killed by wildfires on the island of Salamina, west of Athens, as fires continue to burn across the Attica region in Greece. Authorities have made arson-related arrests on Salamina, with investigators pointing to deliberate ignition as a key driver of the outbreak. Firefighters remain stretched across multiple simultaneous fronts as hot, dry conditions persist across the Eastern Mediterranean.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens - NBC News",
+          "url": "https://www.nbcnews.com/world/europe/europe-wildfires-death-toll-rcna592809",
+          "source": "www.nbcnews.com"
+        },
+        {
+          "title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens - Los Angeles Times",
+          "url": "https://www.latimes.com/world-nation/story/2026-08-16/wildfires-ravage-belgium-greece-2-die-on-island-near-athens",
+          "source": "www.latimes.com"
+        }
+      ]
+    }
+  ]
+}
