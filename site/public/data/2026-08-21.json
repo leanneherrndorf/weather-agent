@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-21",
+  "headline": "Typhoon Saudel Threatens Northern Mariana Islands With Possible Super Typhoon Intensification as Colombia Earthquake Death Toll Surpasses 314",
+  "overview": "Tropical Storm Saudel is rapidly intensifying northwest of Guam, with a Typhoon Warning in effect for Pagan and Agrihan in the CNMI and a Tropical Storm Watch for Saipan and Tinian; forecasters warn it could reach super typhoon strength. Simultaneously, the Colombia M7.4 earthquake death toll has climbed to over 314, and a ferocious wave of Red Flag Warnings and Fire Weather Watches has been issued across the U.S. Pacific Northwest as Oregon reports 2.4 million acres burned this season. The U.S. extreme heat emergency continues to expand geographically, now encompassing Louisiana, Mississippi, and parts of Texas, with heat indices up to 115\u00b0F and Phoenix warnings extended through August 28.",
+  "events": [
+    {
+      "title": "Typhoon Saudel Targets Northern Mariana Islands \u2014 Super Typhoon Intensification Possible",
+      "location": "Northern Mariana Islands (CNMI), Western Pacific",
+      "type": "weather",
+      "summary": "Tropical Storm Saudel, which passed east of Guam, is rapidly intensifying as it tracks northwest toward the Northern Mariana Islands. The NWS in Guam has issued a Typhoon Warning for the remote northern islands of Pagan and Agrihan, and a Tropical Storm Watch for the more populous Saipan and Tinian, with west winds of 25\u201335 knots and gusts to 40 knots expected. Forecasters warn the storm could strengthen into a super typhoon in coming days, prompting urgent preparations across the CNMI.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Colombia M7.4 Earthquake \u2014 Death Toll Climbs Past 314, Rescue Continues",
+      "location": "San Jos\u00e9 del Palmar, Choc\u00f3 Department, Colombia",
+      "type": "earthquake",
+      "summary": "The death toll from the August 17 M7.4 earthquake in Colombia's Choc\u00f3 Department has climbed past 314, according to the latest official reports as of August 20, making it one of the deadliest seismic events in the country's modern history. Rescue and recovery operations remain ongoing in the remote San Jos\u00e9 del Palmar area, though efforts are hampered by damaged infrastructure and rugged terrain. International assistance continues to flow into the region as Colombian authorities coordinate what has become a protracted emergency response.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Colombia earthquake death toll rises to 314 as rescue efforts continue",
+          "url": "https://news.az/news/colombia-earthquake-death-toll-rises-to-314-as-rescue-efforts-continue",
+          "source": "news.az"
+        },
+        {
+          "title": "Colombia quake death toll reaches 312 as rescue efforts continue",
+          "url": "https://assamtribune.com/amp/international/colombia-quake-death-toll-reaches-312-as-rescue-efforts-continue-1615836",
+          "source": "assamtribune.com"
+        }
+      ]
+    },
+    {
+      "title": "Pacific Northwest Wildfires \u2014 Red Flag Warnings, Fire Weather Watches Issued Across Oregon, Washington, Idaho, California",
+      "location": "Oregon, Washington, Idaho, Northern California, USA",
+      "type": "wildfire",
+      "summary": "A dangerous combination of gusty winds, low relative humidity, and dry lightning is triggering a broad swath of Red Flag Warnings and Fire Weather Watches across the Pacific Northwest and northern California this weekend, covering zones from the Olympic Mountains and North Cascades to Siskiyou County and the Klamath Basin. Oregon has reported 1,600 wildfires burning approximately 2.4 million acres so far this season, while multiple active fires in Washington are prompting evacuation orders, including escalating levels at the Paradise Fire in Umatilla County. Incoming cold front winds on Saturday are forecast to reach 30\u201340 mph gusts with humidity dropping to 10\u201315%, creating conditions conducive to rapid fire spread.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Containment of Oregon wildfires rises, evacuations lower going into final stretch of summer",
+          "url": "https://www.opb.org/article/2026/08/20/oregon-wildfires-firefighters-fire-weather",
+          "source": "www.opb.org"
+        },
+        {
+          "title": "Wildfire Map Spotlight: Washington Wildfires",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-washington-wildfires",
+          "source": "www.iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "U.S. Extreme Heat Emergency Expands \u2014 Heat Index Up to 115\u00b0F in Louisiana, Mississippi; Phoenix Warning Extended to Aug. 28",
+      "location": "Arizona, Nevada, California, Texas, Oklahoma, Louisiana, Mississippi, Arkansas, USA",
+      "type": "weather",
+      "summary": "The multi-week U.S. extreme heat emergency has geographically expanded on August 21, with new Extreme Heat Warnings covering all of southeast Louisiana, southern Mississippi, northwest Louisiana, and portions of northeast Texas, where heat index values are expected to reach 110\u2013115\u00b0F. In the Desert Southwest, NWS Phoenix has extended its Extreme Heat Warning through August 28, with afternoon temperatures forecast at 107\u2013116\u00b0F; the Las Vegas office warns of 115\u2013118\u00b0F in Death Valley and the lower Colorado River Valley through Friday evening. Extreme heat events of this duration and geographic scope significantly elevate risk of heat-related illness and mortality, particularly for vulnerable populations.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "The New Drought Area: Mid-south U.S./Texas/North Gulf Coast",
+          "url": "https://climateimpactcompany.com/u-s-early-notes-the-new-drought-spp-ercot-heat-2",
+          "source": "climateimpactcompany.com"
+        }
+      ]
+    },
+    {
+      "title": "Southeast U.S. Flash Flooding Spreads to Alabama, Georgia, and North Carolina",
+      "location": "Alabama, Georgia, North Carolina, USA",
+      "type": "weather",
+      "summary": "A separate and new outbreak of flash flooding struck the southeastern United States overnight August 20\u201321, with the NWS issuing Flash Flood Warnings for multiple Alabama counties \u2014 including Madison, Morgan, Cullman, DeKalb, Jackson, Marshall, Blount, and Lawrence \u2014 where 2\u20134 inches of rain fell in under 24 hours, prompting life-threatening flooding. Simultaneous Flash Flood Warnings were issued for northwestern Georgia counties (Catoosa, Walker, Whitfield, Dade), while a broad Flood Watch was posted covering 19 central and eastern North Carolina counties from Friday morning through Saturday morning. This southeastern flooding is geographically distinct from the ongoing Midwest\u2013Ohio Valley flooding centered on the Wabash and White Rivers.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash Flood Warning in Alabama: 2\u20134 Inches of Rain, Life-Threatening Flooding Expected",
+          "url": "https://www.forth.news/stories/CeFDqW4RccyjLoWXfQKSW",
+          "source": "www.forth.news"
+        },
+        {
+          "title": "Flash Flood Warning Issued for Catoosa, Dade and Walker Counties in Georgia",
+          "url": "https://cedarnews.net/newstasks/946024/flash-flood-warning-catoosa-dade-walker-georgia",
+          "source": "cedarnews.net"
+        }
+      ]
+    },
+    {
+      "title": "Greece Wildfires Persist \u2014 Deaths on Salamina, Evacuations Ongoing, Croatia Also Affected",
+      "location": "Salamina Island, Attica, Greece; Croatia",
+      "type": "wildfire",
+      "summary": "Wildfires continue to burn across Greece, with two fatalities confirmed on Salamina Island near Athens and active blazes persisting in the Attica region; hundreds of residents and tourists have been evacuated and travel advisories remain in effect. Arson-related arrests near Athens are under investigation as part of the broader fire emergency. The crisis extends across southeastern Europe, with Croatia's Adriatic coast also experiencing wildfires that injured 36 people near tourist resorts and forced mass evacuations.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Greece wildfires: is it safe to travel right now? Latest advice",
+          "url": "https://www.thetimes.com/travel/advice/wildfires-greece-safe-to-travel-latest-flrxcmxj2",
+          "source": "www.thetimes.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.7 Earthquake Strikes Ayacucho Region, Peru",
+      "location": "Ayacucho Region, Peru (31 km NW of Aniso)",
+      "type": "earthquake",
+      "summary": "A magnitude 6.7 earthquake struck 31 km northwest of Aniso in Peru's Ayacucho region at 18:00 UTC on August 20, at an intermediate depth of approximately 99 km. The USGS assigned a green alert level, and no tsunami alert was issued; 73 felt reports were recorded. The intermediate depth likely limited surface damage, but assessments of impact in this remote Andean area are still being gathered.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Very Strong Mag. 6.7 Earthquake - Ayacucho, 111 km South of Andahuaylas, Peru",
+          "url": "https://www.volcanodiscovery.com/earthquakes/23298679/2026-08-20/18h00/magnitude6-Peru.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
