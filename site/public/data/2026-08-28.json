@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-28",
+  "headline": "Nepal glacier collapse triggers catastrophic debris flow with ~400 fatalities as Lewotobi volcano fires ninth eruption in seven days and the Hawk Fire forces 42,000 to evacuate Reno, Nevada.",
+  "overview": "A glacier avalanche near the Nepal-China border on August 26 unleashed a catastrophic debris flow, killing an estimated 400 or more people across Nepal and Tibet in one of the deadliest natural disasters of 2026. Simultaneously, Indonesia's Mount Lewotobi Laki-laki erupted for the ninth time in seven days on August 28, while multiple large wildfires \u2014 including the Hawk Fire near Reno and the Timber Fire in Big Sur \u2014 continued to burn across the western United States under an expansive extreme heat dome stretching from the Sonoran Desert to the Southern California coast. Kilauea reached its 54th lava fountaining episode, Tropical Storm Moke threatened Hawaii days after Lala, and the remnants of Atlantic Tropical Storm Dolly dissipated without making landfall.",
+  "events": [
+    {
+      "title": "Nepal\u2013Tibet Glacier Collapse and Debris Flow \u2014 ~400+ Fatalities",
+      "location": "Gyirong Valley / Nepal-China Border, Nepal and Tibet",
+      "type": "other",
+      "summary": "On August 26, 2026, a massive glacier collapse near the Nepal-China border sent enormous volumes of rock, mud, and ice cascading into river valleys, triggering devastating flash floods and debris flows that wiped out villages and killed an estimated 400 or more people \u2014 with the toll expected to rise. The disaster also severed the Gyirong border crossing between Nepal and Tibet and affected a significant number of tourists in the region. Experts have linked the root cause to glacial instability, with the event ranking among the worst natural disasters in the Himalayan region in recent years.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "The 26 August 2026 catastrophic debris flow in Nepal and Tibet",
+          "url": "https://eos.org/thelandslideblog/26-august-2026-nepal-and-tibet",
+          "source": "eos.org"
+        },
+        {
+          "title": "Nepal flash flood nightmare: What caused it?",
+          "url": "https://earthsky.org/earth/nepal-flash-flood-glacier-collapse-landslide-aug-26-2026",
+          "source": "earthsky.org"
+        }
+      ]
+    },
+    {
+      "title": "Lewotobi Laki-laki Volcano \u2014 Ninth Eruption in Seven Days, Lahar Risk Continues",
+      "location": "East Nusa Tenggara, Indonesia (Flores Island)",
+      "type": "volcano",
+      "summary": "Mount Lewotobi Laki-laki erupted for the ninth time in seven days on the morning of August 28, 2026, with seismic activity recorded by Indonesia's Geological Agency at ESDM. The sustained eruption sequence has generated significant ash columns and raised serious concerns about lahar flows persisting well beyond individual eruptive events, threatening nearby communities. Indonesian authorities have maintained elevated alert levels for the volcano throughout the week-long sequence.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Hawk Fire \u2014 15,000+ Acres, 42,000 Evacuated Near Reno, Nevada",
+      "location": "Reno, Nevada, USA",
+      "type": "wildfire",
+      "summary": "The Hawk Fire, which ignited near Reno on August 22, 2026, has grown to more than 15,000 acres and prompted evacuation orders for approximately 42,000 residents, with another 45,000 on evacuation warnings \u2014 affecting roughly 90,000 people in and around the city. At least 32 homes have been destroyed and the fire remained largely out of control at the outset, though containment reached approximately 27% by August 24. The blaze is the third major wildfire to strike the Reno area in two weeks, compounding the strain on displaced residents and firefighting resources.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hawk Fire tops 15,000 acres near Reno, spurs 42,000 evacuations and remains out of control",
+          "url": "https://abc7news.com/post/hawk-fire-tops-15000-acres-reno-spurs-42000-evacuations-remains-control/19728579",
+          "source": "abc7news.com"
+        },
+        {
+          "title": "Wildfire near Reno, Nevada, destroys more than 30 homes",
+          "url": "https://apnews.com/article/hawk-fire-reno-nevada-evacuations-b572e2a15fe6a263231e04ea932cf6c8",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Timber Fire \u2014 19,000+ Acres in Big Sur, Highway 1 Closed, California's 3rd Largest Fire of 2026",
+      "location": "Big Sur / Ventana Wilderness, Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "The Timber Fire in Big Sur's Ventana Wilderness has grown to more than 19,000 acres and has been designated California's third-largest fire of 2026, prompting expanded evacuation orders and the closure of iconic Highway 1. Firefighters deployed unconventional tools including so-called \"dragon eggs\" to slow the fire's westward spread toward Manuel Peak, with extreme weather and rugged terrain complicating containment efforts. Red Flag Warnings remain active across broad swaths of interior Southern and Central California, driven by record heat, gusty erratic winds, and critically low humidity.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Timber Fire becomes California's 3rd largest fire of 2026; evacuations expanded, Highway 1 closed again",
+          "url": "https://www.cbsnews.com/sanfrancisco/news/timber-fire-big-sur-august-27-california-3rd-largest-fire-highway-1-closure",
+          "source": "www.cbsnews.com"
+        },
+        {
+          "title": "Big Sur Fire: Highway 1 closes again as firefighters use 'dragon eggs' to slow spread of the Timber Fire",
+          "url": "https://www.mercurynews.com/2026/08/27/big-sur-fire-highway-1-closes-again-as-firefighters-use-dragon-eggs-to-slow-spread-of-the-timber-fire",
+          "source": "www.mercurynews.com"
+        }
+      ]
+    },
+    {
+      "title": "U.S. Extreme Heat Expands to Southern California Coast \u2014 Up to 118\u00b0F in Desert Regions",
+      "location": "Southern California, Arizona, Nevada, USA",
+      "type": "weather",
+      "summary": "A powerful and expansive heat dome is producing dangerously extreme temperatures across the American Southwest on August 28, with NWS issuing Extreme Heat Warnings across the entire Southern California coastline, inland valleys, deserts, and mountains \u2014 an unusual combination that signals a broad, intense event. Death Valley and the Colorado River Valley are expected to reach 115\u2013118\u00b0F, the Coachella Valley up to 115\u00b0F, the Phoenix metro 107\u2013113\u00b0F, and even coastal Los Angeles and Orange County Inland reaching 95\u2013107\u00b0F. Overnight lows in desert zones are remaining in the upper 80s to low 90s, sharply limiting nighttime recovery and elevating health risks for the region's millions of residents.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Extreme heat, thunderstorms possible across Southern California Friday",
+          "url": "https://ktla.com/news/california/southern-california-heat-thunderstorm-cooldown",
+          "source": "ktla.com"
+        }
+      ]
+    },
+    {
+      "title": "Kilauea Volcano \u2014 54th Lava Fountaining Episode Recorded, Eruption Sequence Continues",
+      "location": "K\u012blauea Summit (Halema\u02bbuma\u02bbu), Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing eruption sequence reached its 54th lava fountaining episode on August 25, 2026, with continuous fountaining from the summit vent lasting approximately 9 hours before pausing. The rapid succession of episodes \u2014 up from the 53rd episode reported just days earlier \u2014 indicates a highly active and accelerating eruptive cycle at Halema\u02bbuma\u02bbu crater. The Hawaiian Volcano Observatory continues to monitor the activity closely, and the eruption poses no direct threat to populated areas but coincides with Hawaii's ongoing recovery from Tropical Storms Lala and Moke.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Tropical Storm Moke Threatens Hawaii; Atlantic Tropical Storm Dolly Dissipates",
+      "location": "Central Pacific (Hawaii) and North Atlantic Ocean",
+      "type": "weather",
+      "summary": "Tropical Storm Moke advanced toward Hawaii around August 22\u201323, bringing gusty winds and heavy rain to a Hawaiian island chain still recovering from Tropical Storm Lala, which struck just days earlier \u2014 a rare back-to-back tropical threat for the state. In the Atlantic, Tropical Storm Dolly formed on approximately August 27 but rapidly dissipated over the open ocean by August 28 without threatening land, though some Lesser Antilles islands may still experience residual heavy rainfall. The busy tropical period across both ocean basins underscores an exceptionally active late-August storm season.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+          "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+          "source": "www.npr.org"
+        },
+        {
+          "title": "Tropical Storm Dolly dissipates over the Atlantic Ocean; some islands may see heavy rain",
+          "url": "https://www.cbsnews.com/news/tropical-storm-dolly-forms-atlantic-ocean",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    }
+  ]
+}
