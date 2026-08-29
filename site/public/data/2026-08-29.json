@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-29",
+  "headline": "Nepal\u2013Tibet glacier disaster death toll surpasses 500 as Anak Krakatau erupts repeatedly and Arizona faces a rare simultaneous extreme heat and flash flood emergency.",
+  "overview": "The catastrophic Nepal\u2013Tibet glacial collapse disaster has significantly worsened, with the confirmed death toll surpassing 500 and over 1,400 people still missing as of August 29, with authorities warning a second flood surge remains possible. In the Pacific, Indonesia's Anak Krakatau has erupted six or more times in recent days, triggering safety alerts and spewing incandescent lava, while Russia's Klyuchevskoy sent an ash plume to 20,000 feet. Across the southwestern United States, Phoenix and Tucson face an unusual and dangerous dual threat: Extreme Heat Warnings reaching 115\u00b0F alongside simultaneous Flash Flood Watches from an active monsoon pattern.",
+  "events": [
+    {
+      "title": "Nepal\u2013Tibet Glacier Disaster \u2014 Death Toll Surpasses 500, 1,400+ Still Missing, Second Flood Warned",
+      "location": "Gyirong Valley / Langtang Region, Nepal\u2013Tibet Border",
+      "type": "other",
+      "summary": "The death toll from the August 26 catastrophic glacial collapse and debris flow in Nepal's Langtang National Park and the Gyirong Valley on the Tibet side has risen past 500, a significant escalation from the ~400+ reported on August 28, with more than 1,400 people still unaccounted for. Rescue operations remain severely hampered by destroyed infrastructure and ongoing geological instability, and authorities have issued explicit warnings that a residual upstream blockage could trigger a second devastating flood surge. International humanitarian organizations including CARE have begun emergency response operations in the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Nepal-Tibet flood deaths pass 500, thousands still missing",
+          "url": "https://amp.dw.com/en/nepal-tibet-flood-deaths-pass-500-thousands-still-missing/a-78539559",
+          "source": "amp.dw.com"
+        },
+        {
+          "title": "Death toll nears 500 as rescuers search for 1,400 missing after Nepal-Tibet floods",
+          "url": "https://www.euronews.com/2026/08/27/death-toll-nears-400-as-rescuers-search-for-1400-missing-after-nepal-tibet-floods",
+          "source": "www.euronews.com"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau \u2014 Repeated Eruptions, Incandescent Lava, Safety Alert Triggered",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's Mount Anak Krakatau erupted at least six times in a single morning in late August 2026, with eruptions producing incandescent lava flows visible from nearby coastlines and triggering an elevated safety alert from Indonesian authorities. The volcano's renewed intense activity has prompted maritime warnings in the Sunda Strait between Java and Sumatra. This activity comes amid a broader period of heightened volcanic unrest across Indonesia, with Lewotobi Laki-laki and other volcanoes also erupting simultaneously.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Klyuchevskoy Volcano \u2014 Ash Plume to 20,000 Feet, Aviation Hazard Over Kamchatka",
+      "location": "Kamchatka Peninsula, Russia",
+      "type": "volcano",
+      "summary": "Russia's Klyuchevskoy, one of the world's most active volcanoes, erupted on August 25, 2026, generating an ash plume reaching 20,000 feet (6,100 meters) above sea level and prompting a Volcanic Ash Advisory for aviation across the Kamchatka Peninsula and North Pacific air corridors. The eruption has been ongoing through late August, with satellite imagery capturing impressive lava activity and ash emissions. Klyuchevskoy's eruptions pose a particular hazard to trans-Pacific flight routes, making international aviation authorities closely monitor its activity.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Arizona Monsoon Dual Threat \u2014 Extreme Heat Warnings to 115\u00b0F Alongside Flash Flood Watches",
+      "location": "Phoenix, Tucson, and Central Arizona, USA",
+      "type": "weather",
+      "summary": "An unusual and dangerous combination of hazards is affecting Arizona on August 29, with the NWS issuing simultaneous Extreme Heat Warnings \u2014 reaching 107\u2013115\u00b0F in southwestern Arizona and the lower desert including the Coachella Valley, and 108\u2013111\u00b0F in the Phoenix metro \u2014 alongside Flash Flood Watches covering the entire Phoenix metro, Pinal and Maricopa Counties, Tucson, the Tohono O'odham Nation, and mountain ranges through late Saturday night. The active monsoon pattern is delivering intense thunderstorm cells capable of producing life-threatening flash flooding into arroyos and urban drainage systems even as daytime temperatures remain dangerously high. A separate Flood Watch is also in effect for Yellowstone National Park and the surrounding Wyoming ranges through August 30.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Phoenix could see storms, cooler air after string of hot days",
+          "url": "https://www.yahoo.com/news/weather-news/articles/phoenix-could-see-storms-cooler-120349159.html",
+          "source": "www.yahoo.com"
+        }
+      ]
+    },
+    {
+      "title": "Big Sur Wildfires Escalate \u2014 Second Fire Erupts Near Highway 1 as Timber Fire Surges Again",
+      "location": "Big Sur / Ventana Wilderness, Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "The Timber Fire in Big Sur's Ventana Wilderness surged again on August 27\u201329, with firefighters struggling to gain control as rugged terrain, heavy fuels, and extreme fire weather continue to drive the blaze; as of August 29, a second rapidly growing wildfire has broken out in the Big Sur region, threatening to push toward Highway 1 and compounding the already strained firefighting response. This escalation represents a major worsening of the situation reported on August 28, when the Timber Fire stood at 19,000+ acres. The dual-fire scenario in one of California's most remote and ecologically sensitive coastlines is straining resources and may force additional evacuations.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Second fire growing rapidly in Big Sur burns toward Highway 1",
+          "url": "https://www.latimes.com/california/story/2026-08-29/second-fire-growing-rapidly-in-big-sur-barrels-towa-highway-1",
+          "source": "www.latimes.com"
+        },
+        {
+          "title": "Firefighters struggling to get a handle on Timber fire as blaze surges again in Big Sur",
+          "url": "https://www.latimes.com/california/story/2026-08-27/firefighters-struggling-to-get-handle-on-timber-fire-as-blaze-surges-again-in-big-sur",
+          "source": "www.latimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Hawk Fire \u2014 95% Contained, 32 Homes Destroyed, Nevada Seeks Presidential Emergency Declaration",
+      "location": "Reno / Stead, Nevada, USA",
+      "type": "wildfire",
+      "summary": "The Hawk Fire northwest of Reno, Nevada has reached 95% containment as of August 29, a major milestone since the blaze forced 42,000 evacuations and destroyed at least 32 homes earlier in the week. Nevada has moved to seek a presidential emergency declaration to unlock federal disaster relief funds, underscoring the severity of destruction left behind. The Reno-Stead Airport remains closed to commercial traffic but continues to operate for firefighting and military aircraft as mop-up operations continue.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hawk Fire reaches 95% containment as Nevada seeks presidential emergency declaration",
+          "url": "https://www.2news.com/news/fire/hawk-fire-reaches-95-containment-as-nevada-seeks-presidential-emergency-declaration/article_fdf51688-9d3a-4089-9254-b50a2927f3b5.html",
+          "source": "www.2news.com"
+        },
+        {
+          "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
+          "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Tropical Depression Moke \u2014 Flooding Aftermath on Hawaii's Big Island After Lala-Weakened Infrastructure",
+      "location": "Hawaii (Big Island), USA",
+      "type": "weather",
+      "summary": "Tropical Storm Moke, which had been threatening Hawaii as a named storm, weakened to a tropical depression by August 24 but still delivered significant rainfall \u2014 up to 15 inches projected \u2014 to a Big Island already badly damaged by Hurricane Lala in mid-August 2026, prompting Hawai'i County to declare a local emergency ahead of the storm's passage. The compounding rainfall on top of Lala-damaged drainage infrastructure, roads, and bridges significantly elevated flash flood risk even from a weakened system. As of August 29, the system has moved past the islands, though the Big Island continues recovery operations from both storms.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+          "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+          "source": "www.npr.org"
+        },
+        {
+          "title": "Tropical Depression Moke to sideswipe Hawaii's Big Island with heavy rain, renewed flood risk",
+          "url": "https://www.accuweather.com/en/hurricane/tropical-depression-moke-to-sideswipe-hawaiis-big-island-with-heavy-rain-renewed-flood-risk/1925322",
+          "source": "www.accuweather.com"
+        }
+      ]
+    }
+  ]
+}
