@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-30",
+  "headline": "Nepal-Tibet Himalayan disaster death toll surges to 750 with 3,000 missing as Hurricane Karina rapidly intensifies into a major Pacific storm.",
+  "overview": "The catastrophic Himalayan flood and debris-flow disaster along the Nepal-Tibet border has dramatically worsened, with confirmed deaths now at 750 and more than 3,000 people \u2014 including at least 90 Americans \u2014 still unaccounted for. Simultaneously, Hurricane Karina has strengthened in the eastern Pacific and is forecast to become a Category 3 or stronger storm. Across the American West, dual wildfire and flash-flood threats continue to stress communities from California's Big Sur coast to the Colorado Plateau, while Indonesia's Lewotobi Laki-laki volcano maintains a relentless eruption sequence.",
+  "events": [
+    {
+      "title": "Nepal\u2013Tibet Himalayan Disaster \u2014 Death Toll Rises to 750, Over 3,000 Missing",
+      "location": "Gyirong Valley / Langtang Region, Nepal\u2013Tibet Border",
+      "type": "other",
+      "summary": "The death toll from the catastrophic glacial floods and debris flows along the Nepal-Tibet border has surged to at least 750 confirmed fatalities as of August 30, a sharp increase from the 500 reported the previous day, with more than 3,000 people now listed as missing \u2014 including at least 90 American nationals. Rescue operations remain severely hampered by ongoing landslide risk, destroyed infrastructure, and blocked access routes through the Himalayan terrain. Authorities warn that the full scale of the disaster is still not known, as remote villages and trekking routes have been cut off for days.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Nepal-Tibet flood death toll rises to 750, officials say, more than 3,000 missing",
+          "url": "https://abcnews.com/International/nepal-tibet-flood-death-toll-rises-750-officials/story?id=136067514",
+          "source": "abcnews.com"
+        },
+        {
+          "title": "Death toll from Nepal, Tibet floods, landslides rises to 750, over 3,000 remain missing",
+          "url": "https://www.aa.com.tr/en/asia-pacific/death-toll-from-nepal-tibet-floods-landslides-rises-to-750-over-3-000-remain-missing/4041260",
+          "source": "www.aa.com.tr"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Karina \u2014 Rapid Intensification, Forecast to Become Major Category 3+ Storm in East Pacific",
+      "location": "Eastern Pacific Ocean",
+      "type": "weather",
+      "summary": "Tropical Storm Karina, which formed in the eastern Pacific in late August, has strengthened into a hurricane and is forecast to continue rapidly intensifying into a major Category 3 or higher storm in the coming days. The system is being closely tracked given the potential threat it poses as it moves through the Pacific basin; it joins Tropical Storm Lowell as a second active Pacific system this week. No immediate land threat has been confirmed, but forecasters are monitoring the storm's track closely.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Karina strengthens into a hurricane in the Pacific, forecast to become a Category 3+ storm",
+          "url": "https://www.foxweather.com/weather-news/tracking-hurricane-karina-pacific-tropics",
+          "source": "www.foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Big Sur Dual Wildfire Crisis \u2014 Timber Fire Nears 25,000 Acres, Plaskett Fire Grows Alongside It",
+      "location": "Big Sur / Ventana Wilderness, Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "The Timber Fire in Big Sur has grown to nearly 25,000 acres and remains only 21% contained, while a second fire \u2014 the Plaskett Fire \u2014 has broken out just south of it, prompting additional evacuation orders and stretching already-stressed firefighting resources along the scenic Highway 1 corridor. Highway 1 remains closed to through-traffic, isolating communities and hampering suppression efforts, and erratic coastal winds continue to complicate fire behavior. A Fire Weather Watch is also in effect to the north in the Klamath/Siskiyou region, signaling broader fire risk across the California-Oregon border zone.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Plaskett Fire grows in California's Big Sur just south of Timber Fire; evacuations ordered",
+          "url": "https://www.cbsnews.com/sanfrancisco/news/plaskett-fire-big-sur-california-timber-fire-monterey-county",
+          "source": "www.cbsnews.com"
+        },
+        {
+          "title": "California fire passes 23,000 acres as Highway 1 closure planned",
+          "url": "https://www.ksbw.com/article/timber-fire-big-sur-highway-1-closure-california/73561141",
+          "source": "www.ksbw.com"
+        }
+      ]
+    },
+    {
+      "title": "Southwest Monsoon Flash Flood Threat \u2014 Active Watches Across Arizona, Utah, and Colorado",
+      "location": "Arizona, Utah, and Colorado, USA",
+      "type": "weather",
+      "summary": "The vigorous North American monsoon pattern is producing widespread flash flood watches across a massive swath of the American Southwest, covering areas from metropolitan Phoenix and Tucson through northern Arizona's canyon country and the Colorado Plateau into western Colorado. NWS offices in Flagstaff, Phoenix, Tucson, Salt Lake City, and Grand Junction all have active watches in force, with the most dangerous conditions expected Sunday evening into Monday as a second round of storms organizes. Slot canyons, normally dry washes, and recently burned areas face particularly dangerous runoff, with raging currents possible even in areas far from the direct rainfall.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Stormy weekend in Southeast Arizona",
+          "url": "https://www.kold.com/2026/08/30/stormy-weekend-southeast-arizona",
+          "source": "www.kold.com"
+        }
+      ]
+    },
+    {
+      "title": "Lewotobi Laki-laki \u2014 Relentless Eruption Sequence Continues with Ongoing Lahar Threat",
+      "location": "East Nusa Tenggara, Indonesia (Flores Island)",
+      "type": "volcano",
+      "summary": "Mount Lewotobi Laki-laki on Flores Island has now registered at least nine eruptions over the past seven days, with the most recent confirmed event on August 28 sending an ash column approximately one kilometer above the summit. Indonesia's Geological Agency has maintained high-level alerts as lahar risk from volcanic debris mixing with seasonal rainfall continues to pose a danger to downstream communities well after each individual eruption event subsides. The sustained eruptive sequence makes this one of the most persistently active volcanoes on Earth at this time.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Fire Weather Watch \u2014 Klamath/Siskiyou Region, California\u2013Oregon Border",
+      "location": "Siskiyou County, California and Klamath County, Oregon, USA",
+      "type": "wildfire",
+      "summary": "The National Weather Service office in Medford, Oregon, has issued a Fire Weather Watch for the western Klamath National Forest, central Siskiyou County, and adjacent portions of southern Oregon, effective through August 31, citing dry and windy conditions under which any fires that develop would spread rapidly. South winds of 10\u201320 mph with higher gusts are forecast across the affected zone, which encompasses rugged, fire-prone forest land near the California-Oregon border. The watch comes as the nearby Wrights Springs Fire in Klamath County has reached 75% containment, demonstrating the ongoing volatility of the region this fire season.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "UPDATE: Red flag warning for Western Klamath National Forest and Central Siskiyou County",
+          "url": "https://www.sacbee.com/news/weather-news/article316983928.html",
+          "source": "www.sacbee.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea \u2014 Episode 54 Concludes After 9 Hours; Eruption Sequence Recharging",
+      "location": "K\u012blauea Summit (Halema\u02bbuma\u02bbu), Hawaii, USA",
+      "type": "volcano",
+      "summary": "Episode 54 of K\u012blauea's ongoing episodic summit eruption concluded on August 25 after 9 hours of continuous lava fountaining from the north vent of Halema\u02bbuma\u02bbu crater, following strong rhythmic gas pistoning and elevated seismic tremor. The Hawaiian Volcano Observatory noted that the north vent was already beginning to recharge immediately after the episode ended, consistent with the roughly two-week pause-and-recharge rhythm that has characterized this eruption sequence throughout 2026. Episode 55 is anticipated; HVO is monitoring tiltmeter data closely for the onset of the next fountaining event.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Kilauea Erupts for First Time Since Hurricane Lala Battered Hawaii Volcanoes",
+          "url": "https://www.techtimes.com/articles/325619/20260826/kilauea-erupts-first-time-since-hurricane-lala-battered-hawaii-volcanoes.htm",
+          "source": "www.techtimes.com"
+        }
+      ]
+    }
+  ]
+}
