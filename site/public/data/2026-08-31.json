@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-31",
+  "headline": "Nepal\u2013Tibet flood death toll surpasses 900 as workers are feared trapped in hydropower tunnels; Hurricane Karina explodes to Category 4 in the Eastern Pacific.",
+  "overview": "A catastrophic multi-day flood disaster along the Nepal\u2013Tibet border has now claimed over 900 lives with thousands still missing and rescue workers racing to reach personnel trapped in submerged hydropower tunnels. In the Eastern Pacific, Hurricane Karina has rapidly intensified beyond forecasts to become a powerful Category 4 storm with 145 mph winds, drawing concern for Mexico and Southern California. Simultaneously, new volcanic activity from Indonesia's Mount Sinabung, a deadly Grand Canyon flash flood, and expanding wildfires in California's Big Sur highlight an exceptionally active day for global natural hazards.",
+  "events": [
+    {
+      "title": "Nepal\u2013Tibet Flood Disaster \u2014 Death Toll Exceeds 900, Workers Trapped in Hydropower Tunnels",
+      "location": "Gyirong Valley / Langtang Region / Rasuwa District, Nepal\u2013Tibet Border",
+      "type": "other",
+      "summary": "The death toll from the catastrophic flooding along the Nepal\u2013Tibet border has surged past 900 as of August 31, with thousands still unaccounted for and rescuers urgently working to reach workers feared trapped inside inundated hydropower tunnels. A drone survey revealed a major section of the Pasang Lhamu Highway has been entirely washed away along the swollen Trishuli River, severing the Rasuwa district from the Nuwakot area and severely hampering relief operations. The United Nations described the disaster's impact as 'immense,' and the escalating toll marks one of the deadliest Himalayan flood events in decades.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Nepal, Tibet flood death toll tops 900, thousands missing",
+          "url": "https://www.newsnationnow.com/world/ap-rescue-efforts-intensify-after-nepal-tibet-flooding-as-deaths-climb-past-900",
+          "source": "www.newsnationnow.com"
+        },
+        {
+          "title": "Hundreds of workers feared stuck in hydropower tunnels as Nepal flood deaths hit 900",
+          "url": "https://www.tribdem.com/news/hundreds-of-workers-feared-stuck-in-hydropower-tunnels-as-nepal-flood-deaths-hit-900/article_2e066268-9c7c-515c-99b1-a331180e7680.html",
+          "source": "www.tribdem.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Karina \u2014 Rapidly Intensifies to Category 4 with 145 mph Winds, Concern for Mexico and Southern California",
+      "location": "Eastern Pacific Ocean",
+      "type": "weather",
+      "summary": "Hurricane Karina has exploded well beyond earlier Category 3 forecasts, strengthening into a powerful Category 4 storm on Monday with maximum sustained winds of approximately 145 mph. The National Hurricane Center is tracking the storm's trajectory, with forecasters and media raising concern about potential impacts on Mexico's Pacific coast and Southern California as the storm's future path becomes clearer. This rapid intensification marks a significant escalation from the previous day's projections and puts emergency managers on heightened alert across the eastern Pacific rim.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Karina strengthens into a Category 4 hurricane in the Pacific far from land, forecasters say",
+          "url": "https://www.wane.com/news/top-picks/karina-strengthens-into-a-category-4-hurricane-in-the-pacific-far-from-land-forecasters-say",
+          "source": "www.wane.com"
+        }
+      ]
+    },
+    {
+      "title": "Mount Sinabung Erupts \u2014 Ash Column 3.5 km High over North Sumatra",
+      "location": "Karo Regency, North Sumatra, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's Mount Sinabung on the island of Sumatra erupted on August 31, 2026, sending a thick column of volcanic ash 3.5 kilometers into the sky over Karo Regency. Indonesia's Geological Agency (Badan Geologi) documented the eruption with no immediate reports of casualties, though ash fall poses threats to surrounding communities and agriculture. The eruption adds to an already active volcanic period for Indonesia, with Lewotobi Laki-laki and Anak Krakatau also erupting in recent days.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Indonesia's Mount Sinabung volcano spews ash 3.5km into air after major eruption",
+          "url": "https://www.independent.co.uk/asia/southeast-asia/indonesia-mount-sinabung-ash-volcano-eruption-b3042030.html",
+          "source": "www.independent.co.uk"
+        },
+        {
+          "title": "Licensable picture: Mount Sinabung erupts in Indonesia, spewing ash 3.5 kilometers into sky",
+          "url": "https://www.reutersconnect.com/item/mount-sinabung-erupts-in-indonesia-spewing-ash-35-kilometers-into-sky/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwU1JTSUI1",
+          "source": "www.reutersconnect.com"
+        }
+      ]
+    },
+    {
+      "title": "Grand Canyon Flash Flood \u2014 1 Dead, 62 Airlifted, 15 Missing, Water Infrastructure Severed",
+      "location": "Grand Canyon National Park, Arizona, USA",
+      "type": "weather",
+      "summary": "A sudden and violent flash flood that struck Bright Angel Canyon on Saturday, August 29, has claimed at least one life \u2014 a 46-year-old man whose body was recovered from the Colorado River \u2014 and prompted the emergency airlift of 62 individuals to safety, with at least 15 people still reported missing as of Monday. The flooding destroyed bridges, washed out a metal building, and critically damaged a key water supply line serving park infrastructure, prompting water restrictions. The event underscores the lethal potential of the ongoing Southwest monsoon season, which has driven active Flash Flood Warnings across Arizona, Utah, and Colorado throughout the weekend.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Grand Canyon flash flooding triggers water restrictions, 15 missing",
+          "url": "https://www.foxnews.com/us/deadly-grand-canyon-flooding-knocks-critical-water-line-race-find-missing-hikers",
+          "source": "www.foxnews.com"
+        },
+        {
+          "title": "Flash Flood Kills One, Strands Dozens in Grand Canyon Rescue",
+          "url": "https://streamlinefeed.co.ke/news/flash-flood-kills-one-strands-dozens-in-grand-canyon-rescue",
+          "source": "streamlinefeed.co.ke"
+        }
+      ]
+    },
+    {
+      "title": "Big Sur Dual Wildfires \u2014 Combined Timber and Plaskett Fires Reach 33,000 Acres; US at Preparedness Level 5",
+      "location": "Big Sur / Ventana Wilderness, Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "The combined footprint of the Timber and Plaskett fires burning in Big Sur's Ventana Wilderness has grown to approximately 33,000 acres as of August 30\u201331, a significant expansion from the 25,000 acres reported the previous day. Incident commanders warned the fires could burn for 'weeks, not days,' given extreme fire weather, rugged terrain, and heavy fuel loads, while the United States National Wildfire Preparedness Level has reached Level 5 \u2014 the highest designation \u2014 reflecting critically strained firefighting resources nationwide. Evacuations remain in effect for portions of Monterey County and Highway 1 corridor communities.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "'Measured in weeks, not days': Plaskett and Timber fires near Big Sur scorch 33,000 acres",
+          "url": "https://www.latimes.com/environment/story/2026-08-30/measured-in-weeks-not-days-plaskett-timber-fires-near-big-sur-scorch-33-000-acres",
+          "source": "www.latimes.com"
+        }
+      ]
+    },
+    {
+      "title": "South Korea Torrential Rain \u2014 Seoul Records 94 mm, Heaviest Downpours in Central Regions",
+      "location": "Seoul and Central South Korea",
+      "type": "weather",
+      "summary": "South Korea is being lashed by exceptionally heavy rainfall on August 31, with Seoul recording 94.4 mm of precipitation \u2014 among the highest single-day totals in the monitored city dataset globally today. The Korea Meteorological Administration forecast the heaviest downpours to concentrate in central regions, with storm systems tracking across the peninsula and threatening flooding of low-lying urban and rural areas. Authorities have issued advisories urging residents to avoid rivers, streams, and flood-prone zones.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Heavy downpours forecast across much of S. Korea",
+          "url": "https://www.koreaherald.com/article/10857374",
+          "source": "www.koreaherald.com"
+        },
+        {
+          "title": "Torrential rain to lash South Korea on Monday",
+          "url": "https://globalnation.inquirer.net/336570/torrential-rain-to-lash-south-korea-on-monday",
+          "source": "globalnation.inquirer.net"
+        }
+      ]
+    },
+    {
+      "title": "Southwest Monsoon Flash Flooding \u2014 Active Warnings Across Arizona, Utah, and Colorado; Bryce Canyon Rescues",
+      "location": "Arizona, Utah, and Colorado, USA",
+      "type": "weather",
+      "summary": "The Southwest monsoon continues to drive widespread and dangerous flooding across three states on August 31, with active Flash Flood Warnings issued for Pima and Coconino counties in Arizona, Kane County in Utah, and Flood Watches blanketing northern and central Arizona, Zion and Bryce Canyon National Parks, and portions of the Animas and San Juan river basins in Colorado. At Bryce Canyon National Park, 11 hikers were rescued after sudden flash flooding, while gauge readings on the Paria River at US-89 confirmed active flooding with 1\u20132 inches of rainfall recorded in some areas. A Red Flag Warning remains active across the California\u2013Oregon Klamath/Siskiyou region, indicating the dual threat of flood and fire weather persists across the western US.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
