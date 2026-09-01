@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-01",
+  "headline": "Tropical Storm Edouard makes landfall near the Texas-Louisiana border as Nepal-Tibet flood death toll surpasses 1,000.",
+  "overview": "September 1 brings a convergence of major natural events across three continents. Tropical Storm Edouard is striking the Gulf Coast with storm surge warnings, hurricane watches, and widespread flooding threats across southeast Texas and southwest Louisiana, while the catastrophic Nepal-Tibet glacier-collapse flood disaster has now killed more than 1,000 people. Simultaneously, an ongoing M7.7 earthquake recovery operation in Indonesia's East Nusa Tenggara, a Pacific Category 4 hurricane, sprawling California wildfires, and a new Oregon wildfire degrading Portland's air quality round out a globally active natural-events day.",
+  "events": [
+    {
+      "title": "Tropical Storm Edouard \u2014 Gulf Coast Landfall Near Texas-Louisiana Border",
+      "location": "Southeast Texas and Southwest Louisiana, USA",
+      "type": "weather",
+      "summary": "Tropical Storm Edouard made landfall near the Texas-Louisiana border on September 1, prompting Extreme-severity Storm Surge Warnings across Cameron and Jefferson Parish coastal areas and Hurricane Watches for communities including Johnson Bayou, Holly Beach, Port Arthur, and Sabine Pass. Tropical Storm Warnings extend inland through Orange, Hardin, and Beaumont, where equivalent tropical-storm-force winds of 45\u201355 mph with gusts to 65 mph are occurring, and a broad Flood Watch covers most of southeast Texas through Wednesday morning. The system is a brand-new and immediately impactful event not previously covered in this report series.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Nepal\u2013Tibet Flood Disaster \u2014 Death Toll Surpasses 1,000 as Glacier Collapse Confirmed",
+      "location": "Gyirong Valley / Langtang Region / Nuwakot District, Nepal\u2013Tibet Border",
+      "type": "other",
+      "summary": "The death toll from the catastrophic Himalayan flooding has now surpassed 1,000 across Nepal and China, a significant escalation from the 900+ reported on August 31. Satellite imagery analysis has confirmed the disaster was triggered by a bedrock failure beneath a glacier \u2014 powerful enough to register seismically \u2014 sending catastrophic debris floods down multiple river valleys. Rescue operations remain focused on trapped hydropower workers, and hundreds are still reported missing.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Death toll passes 1,000 from catastrophic flooding in Nepal and China, officials say",
+          "url": "https://www.euronews.com/2026/09/01/death-toll-passes-1000-from-catastrophic-flooding-in-nepal-and-china-officials-say",
+          "source": "www.euronews.com"
+        },
+        {
+          "title": "Death toll from devastating floods in China and Nepal surpasses 1,000",
+          "url": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "M7.7 East Nusa Tenggara Earthquake \u2014 Emergency Period Extended to September 12",
+      "location": "East Nusa Tenggara (Flores Island), Indonesia",
+      "type": "earthquake",
+      "summary": "Indonesia's national disaster agency (BNPB) has extended the emergency response period for the M7.7 earthquake that struck East Nusa Tenggara through September 12, with response and early recovery operations still ongoing. At least 47 people were killed and thousands evacuated, and new aftershock data indicates that many homes are already 46% below collapse safety thresholds, raising further risk. The USGS significant earthquakes feed shows ongoing seismic activity in the region, and airport repair operations are being accelerated to facilitate aid delivery. This earthquake was not listed in prior reports and constitutes a significant ongoing event.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "ASEAN Weekly Disaster Update Week 35 | 24\u201330 August 2026 \u2014 Indonesia",
+          "url": "https://reliefweb.int/report/indonesia/asean-weekly-disaster-update-week-35-24-30-august-2026",
+          "source": "reliefweb.int"
+        },
+        {
+          "title": "Flores Aftershock Strikes Homes Already 46% Below Collapse Safety Threshold",
+          "url": "https://www.techtimes.com/articles/326080/20260831/flores-aftershock-strikes-homes-already-46-below-collapse-safety-threshold.htm",
+          "source": "www.techtimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Karina \u2014 Category 4 Maintains Intensity, Threatening Baja California",
+      "location": "Eastern Pacific Ocean (approx. 1,020 miles WSW of Baja California)",
+      "type": "weather",
+      "summary": "Hurricane Karina remains a powerful Category 4 storm with 145 mph winds, positioned approximately 1,020 miles west-southwest of Baja California's southern tip as of September 1. The storm continues its northward track and poses a significant potential threat to Mexico's Baja Peninsula and Southern California later this week. No significant intensification or track changes beyond prior forecasts have been confirmed, but the storm's persistence at Category 4 strength warrants continued close monitoring.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Where is Tropical Storm Karina now? Powerful 145 mph hurricane sparks concern for Mexico and Southern California",
+          "url": "https://m.economictimes.com/news/international/global-trends/where-is-tropical-storm-karina-now-powerful-145-mph-hurricane-sparks-concern-for-mexico-and-southern-california/articleshow/133650259.cms",
+          "source": "m.economictimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Big Sur Dual Wildfires \u2014 Timber and Plaskett Fires Hold at 33,000 Acres; US at Preparedness Level 5",
+      "location": "Big Sur / Ventana Wilderness, Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "The combined Timber and Plaskett fires in Big Sur continue to burn at approximately 33,000 acres, with fire managers warning that full containment is measured in weeks, not days. The United States remains at National Preparedness Level 5 \u2014 the highest tier \u2014 reflecting the extreme nationwide fire resource demand. Red Flag Warnings issued September 1 across the Northern Sierra Nevada and California-Nevada border zones indicate that critical fire weather conditions persist across the broader region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "'Measured in weeks, not days': Plaskett and Timber fires near Big Sur scorch 33,000 acres",
+          "url": "https://www.latimes.com/environment/story/2026-08-30/measured-in-weeks-not-days-plaskett-timber-fires-near-big-sur-scorch-33-000-acres",
+          "source": "www.latimes.com"
+        },
+        {
+          "title": "Fire in California's Big Sur region doubles in size overnight, forcing evacuations",
+          "url": "https://www.theguardian.com/us-news/2026/aug/29/californias-wildfire-big-sur",
+          "source": "www.theguardian.com"
+        }
+      ]
+    },
+    {
+      "title": "Austin Fire (Oregon) \u2014 Smoke Pushes Portland into Top 10 Most Polluted Cities Globally",
+      "location": "Mt. Hood National Forest / Clackamas County, Oregon, USA",
+      "type": "wildfire",
+      "summary": "The Austin Fire, burning in Oregon's Mt. Hood National Forest southeast of Estacada in Clackamas County, rapidly intensified and is producing dense smoke that has driven Portland into the top 10 most polluted cities in the world as of September 1. Air quality readings exceeded 150 AQI in some Portland areas, prompting health officials to urge residents \u2014 especially sensitive groups \u2014 to limit outdoor activity. The Austin Fire is compounded by the nearby Narrows Fire and a weakening Grouse Fire, all contributing to hazardous air quality across the region.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Austin Fire, Oregon",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-austin-fire-oregon",
+          "source": "www.iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "Lewotobi Laki-laki \u2014 Ongoing Eruptions Compound East Nusa Tenggara Crisis",
+      "location": "East Flores Regency, East Nusa Tenggara, Indonesia",
+      "type": "volcano",
+      "summary": "Mount Lewotobi Laki-laki on Flores Island continued erupting as of September 1, spewing volcanic ash approximately 1 kilometer into the air in its latest episode. The eruption sequence is compounding an already severe humanitarian situation in East Nusa Tenggara, where communities are simultaneously coping with the aftermath of the M7.7 earthquake and ongoing lahar threats from the volcano. Indonesia's airport repair operations are being accelerated to keep aid corridors open across the affected province.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indonesia Speeds Up Repairs at Earthquake-Damaged Airports in NTT",
+          "url": "https://en.tempo.co/read/2118692/indonesia-speeds-up-repairs-at-earthquake-damaged-airports-in-ntt",
+          "source": "en.tempo.co"
+        }
+      ]
+    }
+  ]
+}
