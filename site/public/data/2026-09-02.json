@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-02",
+  "headline": "Nepal-Tibet flood death toll climbs to 1,130 as Tropical Depression Edouard drenches Southeast Texas with up to 21 inches of rain and a new 90,000-acre wildfire destroys 157 structures in North Texas.",
+  "overview": "A catastrophic multi-front natural disaster day unfolded globally on September 2, 2026. The Nepal-Tibet flood disaster continued to worsen with over 1,130 confirmed dead and 4,462 still missing, while Tropical Depression Edouard \u2014 having weakened from tropical storm status \u2014 unleashed historic rainfall and flash flooding across Southeast Texas, cutting power to more than 70,000. Separately, the Ross Fire in North Texas surpassed 90,000 acres with 157 structures destroyed, Hurricane Karina maintained Category 4 intensity threatening Baja California, and an extreme heat event gripped the central United States with heat indices topping 109\u00b0F through the Labor Day weekend.",
+  "events": [
+    {
+      "title": "Nepal\u2013Tibet Flood Disaster \u2014 Death Toll Rises to 1,130; 4,462 Still Missing",
+      "location": "Gyirong Valley / Langtang Region / Nuwakot District, Nepal\u2013Tibet Border",
+      "type": "other",
+      "summary": "The death toll from the catastrophic Nepal-Tibet glacial collapse and flooding event has climbed to at least 1,130 confirmed dead, up from over 1,000 reported on September 1, with 4,462 people still unaccounted for as of September 2. Military personnel continued body recovery operations in Nuwakot district, and some previously missing tourists made contact with authorities. The disaster remains one of the deadliest flood events in the Himalayan region in recorded history, compounded by infrastructure destruction and ongoing search-and-rescue difficulties in remote terrain.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Death toll in Nepal-Tibet flood reaches 1,130, with 4,462 people still missing",
+          "url": "https://www.timesofisrael.com/liveblog_entry/death-toll-in-nepal-tibet-flood-reaches-1130-with-4462-people-still-missing",
+          "source": "timesofisrael.com"
+        },
+        {
+          "title": "Some missing tourists make contact as Nepal flood death toll tops 1,100",
+          "url": "https://www.idahopress.com/news/world/some-missing-tourists-make-contact-as-nepal-flood-death-toll-tops-1-100/article_33c2047b-3bf8-542b-9788-2a56805e893f.html",
+          "source": "idahopress.com"
+        }
+      ]
+    },
+    {
+      "title": "Tropical Depression Edouard \u2014 Catastrophic Flash Flooding Across Southeast Texas; 70,000+ Without Power",
+      "location": "Southeast Texas (Hardin, Liberty, Tyler, Jefferson, Montgomery, San Jacinto Counties), USA",
+      "type": "weather",
+      "summary": "Tropical Storm Edouard weakened to a tropical depression overnight after making landfall near the Texas-Louisiana border, but continued to dump catastrophic rainfall across Southeast Texas on September 2 \u2014 with storm totals of 9 to 21 inches recorded in Hardin, Tyler, Liberty, and surrounding counties. Multiple Flash Flood Warnings and Flood Watches were issued by NWS Houston and NWS Lake Charles, with the NWS describing the threat as 'life-threatening,' and more than 70,000 customers lost power across the region. Houston-area school districts cancelled classes and first responders conducted water rescues across multiple communities.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Edouard weakens into tropical depression after making landfall near Texas-Louisiana line; heavy rain still expected",
+          "url": "https://www.wkyc.com/article/weather/hurricane/edouard-weakens-tropical-depression-landfall-texas-louisiana/507-c852b0bf-fead-4a69-85a4-ada869c00e4d",
+          "source": "wkyc.com"
+        },
+        {
+          "title": "Over 70,000 without power as Tropical Depression Edouard brings heavy rain, powerful winds to Southeast Texas",
+          "url": "https://www.foxweather.com/weather-news/tropical-depression-edouard-soaks-southeast-texas",
+          "source": "foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 90,000+ Acres Burned, 157 Structures Destroyed in North Texas",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "The Ross Fire in North Texas has surpassed 90,000 acres burned after more than a week of burning, destroying at least 157 structures across Palo Pinto and Jack counties and ranking it as the second-largest wildfire in North Texas history. The Texas A&M Forest Service has been actively combating the blaze alongside local first responders amid dangerous fire weather conditions. Fire Weather Watches and Red Flag Warnings remain active across the broader central and northern Plains region through September 3, raising concern about further fire spread.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Ross Fire burns 90,000 acres in Palo Pinto, Jack counties; 157 structures destroyed",
+          "url": "https://fortworthreport.org/2026/09/01/ross-fire-burns-90000-acres-in-palo-pinto-jack-counties-157-structures-destroyed",
+          "source": "fortworthreport.org"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Karina \u2014 Category 4 Approaches Baja California with Imminent Landfall Threat",
+      "location": "Eastern Pacific Ocean / Baja California Peninsula, Mexico",
+      "type": "weather",
+      "summary": "Hurricane Karina has maintained Category 4 intensity and is now tracking toward the Baja California Peninsula, bringing an imminent landfall threat to Mexico's Pacific coast. The storm was part of an unprecedented four-named-storm day on September 1, driven in part by Super El Ni\u00f1o conditions, and forecasters are closely monitoring the potential for heavy rainfall impacts to spread into Southern California. Mexican authorities have issued evacuation orders for vulnerable coastal communities along southern Baja California.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Midwest Extreme Heat Wave \u2014 Heat Index Up to 109\u00b0F Across Illinois, Indiana, Kentucky Through September 5",
+      "location": "Southern Illinois, Southwest Indiana, Western Kentucky, Northeast Missouri, USA",
+      "type": "weather",
+      "summary": "An Extreme Heat Warning is in effect through Saturday, September 5, across a broad swath of the central United States including all of southern Illinois, southwest Indiana, western Kentucky, and southeast Missouri, with peak daily heat indices of 103\u2013109\u00b0F and actual air temperatures reaching 95\u2013101\u00b0F. Chicago recorded a high of 35.2\u00b0C (95.4\u00b0F) on September 2, consistent with an anomalous late-summer heat surge driven by a stalled high-pressure ridge. Health officials across affected states have opened cooling centers and issued warnings about heat-related illness, which the NWS has classified as dangerously life-threatening.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Milford Sound Earthquake Swarm \u2014 M5.3 and M5.2 Shake New Zealand's South Island",
+      "location": "Milford Sound / Arthurs Point, Queenstown-Lakes District, New Zealand",
+      "type": "earthquake",
+      "summary": "Two significant shallow earthquakes \u2014 a M5.3 and a M5.2 \u2014 struck approximately 66\u201370 km northwest of Arthurs Point near Milford Sound within 44 minutes of each other early on September 2 (UTC), both at a depth of just 10 km, generating strong shaking felt across a wide area of New Zealand's South Island. The Queenstown Lakes District Council closed the historic Edith Cavell Bridge for safety inspections following the quakes. No tsunami alert was issued and no major casualties were reported, but structural assessments were ongoing across the affected region.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Milford Sound earthquake: Multiple quakes rattle lower South Island",
+          "url": "https://www.nzherald.co.nz/nz/milford-sound-earthquake-magnitude-55-quake-felt-by-thousands/ZPZ3E67GVVEIFNUKHJYKRA53PU",
+          "source": "nzherald.co.nz"
+        },
+        {
+          "title": "Two quakes rattle Milford Sound, felt around the south",
+          "url": "https://www.1news.co.nz/2026/09/02/two-quakes-rattle-milford-sound-felt-around-the-south",
+          "source": "1news.co.nz"
+        }
+      ]
+    },
+    {
+      "title": "Great Lakes / Pennsylvania Severe Thunderstorm and Tornado Outbreak",
+      "location": "Northwestern Pennsylvania, Northeastern Ohio, Western New York, USA",
+      "type": "weather",
+      "summary": "A fast-moving severe thunderstorm complex swept across the Great Lakes region on the morning of September 2, spawning a Tornado Warning in southern Warren County, Pennsylvania, and triggering simultaneous Severe Thunderstorm Warnings across northeastern Ohio, northwestern Pennsylvania, and western New York. Storms produced wind gusts up to 70 mph and hail up to golf-ball size, with a waterspout threat also noted over Lake Ontario near Wilson, NY. The system tracked southeast at up to 50 mph, posing significant risks of structural damage, downed power lines, and injuries across a densely populated corridor.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
