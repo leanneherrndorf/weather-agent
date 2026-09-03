@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-03",
+  "headline": "Hurricane Lowell tracks as Category 4 toward Hawaii while Edouard's remnants keep Southeast Texas under widespread flood warnings and a dangerous heat wave continues across the Midwest.",
+  "overview": "September 3 brings a multi-front natural disaster picture: a Category 4 Hurricane Lowell is closing in on the Hawaiian Islands with an increasingly concerning forecast track, while the remnants of Tropical Storm Edouard continue to dump catastrophic rainfall across Southeast and East Texas with dozens of active flood warnings. Simultaneously, an Extreme Heat Warning covering southern Illinois, southwest Indiana, western Kentucky, and Missouri extends through Saturday with heat indices of 105\u2013110\u00b0F, and a M6.3 earthquake near the Aleutian Islands triggered a brief tsunami alert. Indonesia's volcanic arc remains hyperactive, with Mount Sinabung producing a fresh 1,000-meter ash eruption on September 2.",
+  "events": [
+    {
+      "title": "Hurricane Lowell \u2014 Category 4 Track Edges Closer to Hawaii",
+      "location": "Central Pacific Ocean / Hawaiian Islands, USA",
+      "type": "weather",
+      "summary": "Hurricane Lowell has intensified to a Category 4 storm in the Central Pacific, with its forecast track shifting progressively closer to the Hawaiian Islands. While the storm is currently generating large dangerous swells along east-facing shores and is expected to be near the islands this weekend, it remains uncertain whether direct wind and rain impacts will materialize. Authorities and forecasters are closely monitoring the track as the system moves westward at approximately 13 mph.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Edouard Remnants \u2014 Catastrophic Multi-County Flooding Continues Across Texas",
+      "location": "Southeast and East Texas, USA",
+      "type": "weather",
+      "summary": "The remnants of Tropical Storm Edouard continue to trigger severe flooding across Southeast and East Texas, with some areas having received more than 20 inches of rain cumulatively. Active Flood Warnings and Flash Flood Warnings span more than a dozen counties including Liberty, Polk, Hardin, San Jacinto, Trinity, Jefferson, Orange, Houston, and Anderson, with the Neches River and multiple smaller waterways remaining at or near flood stage through the weekend. The situation has escalated from yesterday, with river flooding on the Neches River near Alto forecast to persist through at least September 8.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Edouard is still producing heavy rain and a flood risk in Texas",
+          "url": "https://www.wxii12.com/article/tropical-storm-depression-edouard-atlantic-gulf-rain-flooding-texas/73601479",
+          "source": "www.wxii12.com"
+        },
+        {
+          "title": "Remnants of Edouard trigger Texas flooding threat",
+          "url": "",
+          "source": "www.abc-7.com"
+        }
+      ]
+    },
+    {
+      "title": "Midwest Extreme Heat Wave \u2014 Heat Index Up to 110\u00b0F Through Saturday",
+      "location": "Southern Illinois, Southwest Indiana, Western Kentucky, Missouri, USA",
+      "type": "weather",
+      "summary": "Multiple Extreme Heat Warnings remain in effect across a wide swath of the Midwest through Saturday evening, covering southern Illinois, southwest Indiana, western Kentucky, southeast Missouri, and the St. Louis metro area, where heat indices are forecast to reach 105\u2013110\u00b0F. This is now the third or more consecutive day of heat index values exceeding 100\u00b0F across the region, with overnight lows in the mid-70s providing little overnight relief. NWS offices from Paducah to Chicago to the Quad Cities have all issued concurrent Extreme Heat Warnings, underscoring the breadth and persistence of the dangerous heat dome.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "M6.3 Earthquake Near Nikolski, Alaska \u2014 Tsunami Alert Issued",
+      "location": "84 km SSW of Nikolski, Aleutian Islands, Alaska, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck approximately 84 kilometers south-southwest of Nikolski in the Aleutian Islands at 11:17 UTC on September 3, at a depth of 35 kilometers. USGS assigned a green alert level, but a tsunami alert was issued in conjunction with the event given the Aleutians' history of tsunamigenic earthquakes; the alert status and any cancellations are being monitored. Only 2 felt reports have been logged, reflecting the remote, sparsely populated nature of the epicenter area.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Mount Sinabung \u2014 Fresh Eruption with 1,000-Meter Ash Column, North Sumatra",
+      "location": "Karo Regency, North Sumatra, Indonesia",
+      "type": "volcano",
+      "summary": "Mount Sinabung erupted again on the morning of September 2, 2026, producing a thick gray-to-brown ash column reaching 1,000 meters above the summit, according to Indonesia's PVMBG volcanology agency. The eruption is part of a broader period of intense volcanic activity across Indonesia's arc, which saw six volcanoes erupt simultaneously on August 31 \u2014 including Lewotobi Laki-laki, Lewotobi Perempuan, Ili Lewotolok, Semeru, Ibu, and Anak Krakatau. PVMBG has stated the events are not causally linked but reflect independent tectonic stresses along the Sunda-Banda arc.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Are Indonesia's 6 Volcano Eruptions on Aug. 31 Linked? PVMBG Explains",
+          "url": "https://en.tempo.co/amp/2118826/are-indonesias-6-volcano-eruptions-on-aug-31-linked-pvmbg-explains",
+          "source": "en.tempo.co"
+        }
+      ]
+    },
+    {
+      "title": "Big Sur Wildfires \u2014 Plaskett Fire Now California's 2nd Largest of 2026",
+      "location": "Big Sur / Ventana Wilderness, Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "The Plaskett Fire has grown to approximately 27,580 acres and is now California's second-largest wildfire of 2026, remaining at just 1% containment \u2014 a significant escalation from previous reporting. The companion Timber Fire continues burning in the same region, and the dual-fire complex continues to threaten Big Sur's Ventana Wilderness with extreme fire behavior. The US remains at Preparedness Level 5, the highest national readiness designation, as resources are stretched across multiple Western fire fronts.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Timber and Plaskett Fires, California",
+          "url": "https://www.iqair.com/au/newsroom/wildfire-map-spotlight-timber-and-plaskett-fires-california",
+          "source": "www.iqair.com"
+        },
+        {
+          "title": "Plaskett Fire becomes California's second largest wildfire of the year",
+          "url": "https://www.sfchronicle.com/california-wildfires/article/plaskett-fire-timber-big-sur-22413049.php",
+          "source": "www.sfchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "British Columbia Wildfires \u2014 Federal Government Activates Donation Matching",
+      "location": "British Columbia, Canada",
+      "type": "wildfire",
+      "summary": "Multiple major wildfires continue to burn across British Columbia as of September 3, prompting the Canadian federal government to activate a donation-matching program through the Red Cross' 2026 British Columbia Wildfires Appeal, with the matching window open through September 5. In a positive development, campfire bans across Vancouver Island and B.C.'s South Coast are being lifted starting today, suggesting some improvement in fire conditions in coastal zones, though interior fires remain active. The scale of the crisis has triggered a national humanitarian fundraising response.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Government of Canada to match donations to the Red Cross' 2026 British Columbia Wildfires Appeal",
+          "url": "https://finance.yahoo.com/economy/policy/articles/government-canada-match-donations-red-181500477.html",
+          "source": "finance.yahoo.com"
+        }
+      ]
+    }
+  ]
+}
