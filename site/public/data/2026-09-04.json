@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-04",
+  "headline": "Hurricane Lowell Intensifies to Category 5, Threatening a Sharp Turn Toward the Hawaiian Islands",
+  "overview": "A busy September 4 sees Hurricane Lowell escalate to Category 5 in the central Pacific on a forecast track toward Hawaii, while Hurricane Karina raises alarm about a potential California landfall \u2014 a rare prospect. On land, an expansive and prolonged extreme heat wave tightened its grip across the central United States from Illinois to Kansas through at least Tuesday, a shallow M5.4 earthquake struck Sichuan Province in China, and six Indonesian volcanoes remained in varying states of unrest following a remarkable simultaneous eruption event on August 31.",
+  "events": [
+    {
+      "title": "Hurricane Lowell Strengthens to Category 5 \u2014 Sharp Turn Toward Hawaii Forecast",
+      "location": "Central Pacific Ocean / Hawaiian Islands, USA",
+      "type": "weather",
+      "summary": "Hurricane Lowell has intensified to a Category 5 storm and is forecast to execute a sharp northward turn that could bring it into dangerous proximity to the Hawaiian Islands. The storm's track has become increasingly threatening since yesterday's Category 4 designation, with Hawaii residents and authorities on heightened alert. All three simultaneous named Pacific storms \u2014 Lowell, Karina, and Marie \u2014 are visible in satellite imagery, marking an unusually active Pacific hurricane season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Midwest & Central US Extreme Heat Wave Expands \u2014 Heat Index to 110\u00b0F, Extended Through Tuesday",
+      "location": "Illinois, Indiana, Kentucky, Missouri, Kansas, Iowa, USA",
+      "type": "weather",
+      "summary": "The dangerous heat wave gripping the central United States has expanded significantly in both geographic scope and duration, with Extreme Heat Warnings now blanketing portions of Kansas through Tuesday, September 8 \u2014 three days beyond initial forecasts. The NWS is reporting heat index values of 105\u2013110\u00b0F across southern Illinois, southwest Indiana, western Kentucky, and central Missouri, with Chicago recording a maximum temperature of 36\u00b0C (97\u00b0F). Overnight lows in the mid-70s\u00b0F are providing minimal relief, raising the risk of cumulative heat illness, particularly for vulnerable populations.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Hurricane Karina \u2014 Possible Rare California Hurricane Strike This Weekend",
+      "location": "Eastern Pacific Ocean / Baja California / Southern California, USA",
+      "type": "weather",
+      "summary": "Hurricane Karina, which was approaching Baja California as a Category 4 earlier this week, has generated serious concern among meteorologists about a potential track toward Southern California \u2014 which would be an extraordinarily rare event. The SF Chronicle reports forecasters are actively discussing the possibility of a California hurricane strike this weekend, a scenario that has few modern precedents and could affect millions in an area not built for tropical cyclone impacts. Residents along the Southern California and Baja California coasts are urged to monitor updated forecasts closely.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Could California really get hit by a hurricane this weekend?",
+          "url": "https://www.sfchronicle.com/weather/article/pacific-hurricane-california-22410794.php",
+          "source": "www.sfchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Edouard Remnants \u2014 East Texas River Flooding Persists; Warnings Extended Through Sunday",
+      "location": "East and Southeast Texas, USA",
+      "type": "weather",
+      "summary": "Multiple river systems across east Texas continue to run at flood stage in the wake of Edouard's remnants, with active Flood Warnings on the Menard Creek, Neches River, Village Creek, and Pine Island Bayou extended through the weekend \u2014 some as late as Sunday, September 6. Rivers including the Neches at the Saltwater Barrier and Village Creek near Kountze remain elevated and threatening to communities in Hardin, Jefferson, Jasper, Orange, Liberty, Polk, and Angelina Counties. The near-two-feet of rainfall that fell earlier this week continues to work its way downstream through the region's river network.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Edouard's Remnants Near Dallas After Nearly 2 Feet Of Rain Floods East Texas",
+          "url": "https://dallasexpress.com/state/edouards-remnants-near-dallas-after-nearly-2-feet-of-rain-floods-east-texas",
+          "source": "dallasexpress.com"
+        },
+        {
+          "title": "Remnants of Edouard soaks Texas, prompting Flash Flood warnings",
+          "url": "https://www.foxweather.com/weather-news/tropical-depression-edouard-soaks-southeast-texas",
+          "source": "www.foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.4 Earthquake Strikes Sichuan Province, China \u2014 Shallow and Widely Felt",
+      "location": "21 km WNW of Jiangyou, Sichuan Province, China",
+      "type": "earthquake",
+      "summary": "A magnitude 5.4 earthquake struck near Jiangyou in China's Sichuan Province on September 3 at 11:39 UTC, at a shallow depth of just 10 kilometers \u2014 a factor that amplifies surface shaking. The USGS assigned a yellow alert level, indicating the possibility of light damage near the epicenter, and six felt reports were logged. Sichuan is one of China's most seismically active regions and home to the devastating 2008 Wenchuan earthquake, making any significant tremor there worthy of close monitoring.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 5.4 Earthquake Strikes Near Jiangyou, China",
+          "url": "https://cedarnews.net/newstasks/960573/earthquake-magnitude-5-4-strikes-jiangyou-china",
+          "source": "cedarnews.net"
+        }
+      ]
+    },
+    {
+      "title": "Six Indonesian Volcanoes Erupt Simultaneously \u2014 Geological Authorities Rule Out Common Trigger",
+      "location": "Multiple Islands, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's volcanological agency PVMBG confirmed that six volcanoes erupted independently on August 31 in a striking display of the archipelago's extraordinary geological activity: Mount Sinabung (North Sumatra), Mount Ibu (North Maluku), Mount Lewotobi Perempuan and Ili Lewotolok (East Nusa Tenggara), Mount Semeru (East Java), and Mount Anak Krakatau (Sunda Strait). Authorities have explicitly stated the eruptions were not linked and occurred independently along different tectonic fault segments. Activity at several of these volcanoes, including Sinabung and Semeru, has continued into September, keeping alert levels elevated and communities on standby for evacuation.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Are Indonesia's 6 Volcano Eruptions on Aug. 31 Linked? PVMBG Explains",
+          "url": "https://en.tempo.co/read/2118826/are-indonesias-6-volcano-eruptions-on-aug-31-linked-pvmbg-explains",
+          "source": "en.tempo.co"
+        }
+      ]
+    },
+    {
+      "title": "Wapiti Fire Burn Scar Flash Flood & Debris Flow Watches \u2014 Central Idaho and Eastern Oregon",
+      "location": "Sawtooth/Stanley Basin and Boise Mountains, Idaho; Eastern Oregon, USA",
+      "type": "wildfire",
+      "summary": "The NWS offices in Pocatello and Boise issued Flash Flood Watches through Friday evening covering multiple wildfire burn scars across central Idaho and eastern Oregon, including the Wapiti, Anthony, Second Flat, Bald Mountain, Egypt, Fox, Powder River, and Tartar burn areas. Heavy rainfall falling on these fire-denuded hillsides dramatically increases the risk of rapid flash flooding and destructive debris flows, as the scorched soil lacks the vegetation needed to absorb runoff. Authorities have urged residents in and near affected burn scars to monitor conditions closely and be prepared to evacuate on short notice.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash flood watch issued for burn-scarred areas in eastern Oregon, western Idaho",
+          "url": "https://elkhornmediagroup.com/flash-flood-watch-issued-for-burn-scarred-areas-in-eastern-oregon-western-idaho",
+          "source": "elkhornmediagroup.com"
+        }
+      ]
+    }
+  ]
+}
