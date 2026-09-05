@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-05",
+  "headline": "Anak Krakatau Blasts Ash to 15 km as Hurricane Lowell Bears Down on Hawaii and Ross Fire Tops 90,000 Acres in Texas",
+  "overview": "September 5 is defined by converging crises across multiple continents: Anak Krakatau produced a stratospheric eruption reaching 15 km (50,000 ft) overnight, while Hurricane Lowell advances on a direct course toward the Hawaiian Islands and Hurricane Karina simultaneously threatens Baja California and Southern California. On land, the newly emerged Ross Fire has become Texas's largest summer wildfire in modern history at over 90,000 acres, and a punishing multi-day heat wave continues to bake the central United States with heat indices up to 110\u00b0F.",
+  "events": [
+    {
+      "title": "Anak Krakatau Erupts to 15 km \u2014 Ash Column Reaches 50,000 Feet",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Mount Anak Krakatau unleashed a major eruption overnight into Saturday, September 5, 2026, ejecting a volcanic ash column to approximately 15 km (50,000 feet) above sea level \u2014 one of the highest eruption columns recorded at this volcano in years. The Darwin VAAC issued aviation alerts for the region as incandescent lava fountains and rockfalls were also observed. This is a significant escalation from the broader Indonesian multi-volcano activity that began on August 31, with Anak Krakatau now entering a highly dangerous eruptive phase.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "High-level eruption at Anak Krakatau ejects ash over 15 km (50,000 feet) a.s.l., Indonesia",
+          "url": "https://watchers.news/2026/09/04/high-level-eruption-at-anak-krakatau-ejects-ash-over-15-km-50-000-feet-a-s-l-indonesia",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Lowell \u2014 Category 5 Storm Poised for Dramatic Turn Toward Hawaii",
+      "location": "Central Pacific Ocean / Hawaiian Islands, USA",
+      "type": "weather",
+      "summary": "Hurricane Lowell, a powerful Category 5 storm, is forecast to execute a sharp northward turn this weekend, placing the Hawaiian Islands on a direct threat track with damaging rain, wind, and dangerous surf expected even without a direct landfall. AccuWeather and NWS forecasters warn that a shift in the track could bring Lowell uncomfortably close to Kauai or other islands, while significant impacts are likely across the entire chain regardless of the storm's exact path. This marks a critical escalation from yesterday's forecast, with the threat window now imminent.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Hurricane Karina \u2014 Category 3\u20134 Storm Targets Baja California and Southern California This Weekend",
+      "location": "Eastern Pacific Ocean / Baja California / Southern California, USA",
+      "type": "weather",
+      "summary": "Hurricane Karina, which rapidly intensified after forming August 30, continues its northeast track as a major hurricane and is expected to bring significant impacts to Baja California and potentially Southern California this weekend \u2014 a historically rare event. The storm's interaction with the coast could deliver heavy rainfall, flooding, and damaging surf to one of the most densely populated coastlines in North America. Forecasters note that even a near-miss track would drive dangerous moisture and surf into the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Pacific Hurricanes Threaten Southern California With Rare Storms",
+          "url": "https://evrimagaci.org/gpt/pacific-hurricanes-threaten-southern-california-with-rare-storms-544860",
+          "source": "evrimagaci.org"
+        },
+        {
+          "title": "Could California really get hit by a hurricane this weekend?",
+          "url": "https://www.sfchronicle.com/weather/article/pacific-hurricane-california-22410794.php",
+          "source": "www.sfchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 Texas's Largest Summer Wildfire Tops 90,000 Acres; 167 Structures Destroyed",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "The Ross Fire has burned over 90,400 acres in Palo Pinto and Jack Counties in North Texas, making it the largest summer wildfire in Texas history, with only 38% containment as of September 4. The fire has destroyed 167 structures including 18 occupied residences, damaged 95 additional structures, and killed an unknown number of livestock across working farms and ranches. Investigators have linked the fire's origin to a tire blowout, and state and local firefighters continue working to establish containment lines under continued heat stress.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Ross Fire burns more than 90,000 acres so far in North Texas",
+          "url": "https://texasfarmbureau.org/ross-fire-burns-more-than-90000-acres-so-far-in-north-texas",
+          "source": "texasfarmbureau.org"
+        },
+        {
+          "title": "Historic Ross Fire in Texas Linked to Tire Blowout",
+          "url": "https://www.firehouse.com/operations-training/wildland/video/55402737/historic-ross-fire-in-texas-linked-to-tire-blowout",
+          "source": "www.firehouse.com"
+        }
+      ]
+    },
+    {
+      "title": "Midwest and Central US Heat Wave \u2014 Heat Index to 110\u00b0F, Extreme Warnings Through Tuesday",
+      "location": "Illinois, Indiana, Kentucky, Missouri, Kansas, Iowa, USA",
+      "type": "weather",
+      "summary": "A sprawling, multi-day extreme heat event continues to grip the central United States on September 5, with the NWS maintaining Extreme Heat Warnings across dozens of counties in Illinois, Missouri, Kansas, Indiana, and Kentucky \u2014 some extending through Tuesday, September 8. Heat index values are reaching 105\u2013110\u00b0F across the region, driving significant risk of heat-related illness, particularly for vulnerable populations. The heat wave is notable for its duration and geographic breadth, now entering its fifth consecutive dangerous day.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "East Texas River Flooding \u2014 Edouard Remnants Keep Flood Warnings Active Through September 9",
+      "location": "Hardin, Jefferson, Jasper, Orange, Liberty, and Polk Counties, Southeast Texas, USA",
+      "type": "weather",
+      "summary": "River flooding from the remnants of Tropical Storm Edouard persists across multiple southeast Texas counties, with the NWS maintaining Flood Warnings on the Neches River, Village Creek, Pine Island Bayou, and Menard Creek through as late as September 9. Rivers remain well above flood stage following nearly two feet of rain earlier in the week, and continued inundation of low-lying areas is expected for several more days. The extended duration of flooding is placing ongoing pressure on local emergency management and residents unable to return to affected properties.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Edouard's Remnants Near Dallas After Nearly 2 Feet Of Rain Floods East Texas",
+          "url": "https://dallasexpress.com/state/edouards-remnants-near-dallas-after-nearly-2-feet-of-rain-floods-east-texas",
+          "source": "dallasexpress.com"
+        },
+        {
+          "title": "Edouard is still producing heavy rain and a flood risk in Texas",
+          "url": "https://www.wxii12.com/article/tropical-storm-depression-edouard-atlantic-gulf-rain-flooding-texas/73601479",
+          "source": "www.wxii12.com"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Six-Volcano Eruption Cluster \u2014 Ongoing Unrest as Anak Krakatau Dominates",
+      "location": "Multiple Islands, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's multi-volcano eruptive episode that began August 31 continues, with Mount Ibu (North Maluku), Lewotobi Perempuan and Ili Lewotolok (East Nusa Tenggara), Semeru (East Java), Sinabung (North Sumatra), and Anak Krakatau all remaining in states of elevated activity. The Volcanological Survey of Indonesia (PVMBG) has maintained that no common tectonic trigger has been identified linking the simultaneous eruptions. While Anak Krakatau's September 5 explosion is the most severe individual event, the broader cluster continues to strain monitoring and emergency response resources across the archipelago.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Are Indonesia's 6 Volcano Eruptions on Aug. 31 Linked? PVMBG Explains",
+          "url": "https://en.tempo.co/read/2118826/are-indonesias-6-volcano-eruptions-on-aug-31-linked-pvmbg-explains",
+          "source": "en.tempo.co"
+        }
+      ]
+    }
+  ]
+}
