@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-06",
+  "headline": "Hurricane Lowell Turns North Toward Hawaii \u2014 Tropical Storm Watches Issued for Kauai and Niihau as Storm Approaches Monday",
+  "overview": "Hurricane Lowell has executed its forecast northward turn and is now bearing down on the Hawaiian Islands, with Tropical Storm Watches in effect for Kauai and Niihau and Flood Watches covering all main Hawaiian Islands through Tuesday. In the continental US, extreme heat warnings remain widespread across the Midwest and Central Plains through Tuesday, while the Plaskett Fire in California's Big Sur region has surged past 55,000 acres to become the state's second-largest wildfire of 2026. A widely felt magnitude 3.7 earthquake rattled southwest Washington near the volcanic zone around Mount St. Helens, and elevated seismic activity at Colombia's Purac\u00e9 volcano has drawn alerts from geological authorities.",
+  "events": [
+    {
+      "title": "Hurricane Lowell Approaches Hawaii \u2014 Tropical Storm Watches Issued for Kauai and Niihau",
+      "location": "Kauai and Niihau, Hawaii, USA",
+      "type": "weather",
+      "summary": "Hurricane Lowell has made its forecast sharp northward turn and is now on track to approach Kauai and Niihau on Monday, September 7, prompting the National Weather Service to issue Tropical Storm Watches for all zones of Kauai, Niihau, and surrounding waters. Forecast peak winds of 30\u201340 mph with gusts to 60 mph are expected on Niihau, with tropical storm-force winds possible Monday afternoon through early Tuesday morning. A Flood Watch is also active for all main Hawaiian Islands through Tuesday, driven by heavy rainfall along the storm's eastern flank.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical Storm Watch issued for Kauai County ahead of Hurricane Lowell",
+          "url": "https://www.khon2.com/tracking-lowell/lowell-north-sunday-impacts-monday",
+          "source": "khon2.com"
+        },
+        {
+          "title": "Hurricane Lowell forecast: Watches issued as storm nears Hawaii",
+          "url": "https://www.usatoday.com/story/news/weather/2026/09/05/hurricane-lowell-track-storm-expected-near-hawaii-on-monday/91612435007",
+          "source": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Plaskett Fire \u2014 California's 2nd Largest Wildfire of 2026 Tops 55,000 Acres in Big Sur",
+      "location": "Big Sur / Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "The Plaskett Fire burning in the Big Sur region of Monterey County has surpassed 55,000 acres, making it California's second-largest wildfire of 2026 and overtaking the nearby Timber Fire in size. Fire managers report the blaze is spreading aggressively along its eastern edge into Fort Hunter Liggett, an Army installation in southern Monterey County, where steep terrain is complicating suppression efforts. Health authorities are warning residents \u2014 especially children, older adults, and those with respiratory conditions \u2014 to limit outdoor activity as smoke levels remain elevated across the region.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Containment jumps on Plaskett Fire as total area burned in Big Sur tops 55,000 acres",
+          "url": "https://www.sanluisobispo.com/news/local/article317130360.html",
+          "source": "sanluisobispo.com"
+        },
+        {
+          "title": "Plaskett Fire overtakes Timber Fire in size; over 50,000 acres burned in Big Sur",
+          "url": "https://www.cbsnews.com/sanfrancisco/news/big-sur-wildfires-september-1-plaskett-fire-overtakes-timber-fire-in-size",
+          "source": "cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Midwest & Central US Extreme Heat Wave \u2014 Heat Index to 112\u00b0F, Warnings Through Tuesday",
+      "location": "Illinois, Indiana, Kentucky, Missouri, Kansas, Iowa, Arkansas, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings issued by multiple NWS offices remain in effect across the central United States through Tuesday evening, September 8, with heat index values forecast to reach 105\u2013112\u00b0F in the most affected counties spanning Kansas, Missouri, and Arkansas. NWS Tulsa warns of heat indices up to 112\u00b0F in parts of western Arkansas on Sunday afternoon, while NWS Kansas City and Topeka alerts cover broad swaths of both states through Tuesday. Dangerously prolonged heat and high humidity are significantly elevating the risk of heat-related illness for outdoor workers and those without access to cooling.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Hurricane Karina \u2014 Category 4 Storm Tracks Through Eastern Pacific Without Confirmed Landfall",
+      "location": "Eastern Pacific Ocean / Baja California, Mexico",
+      "type": "weather",
+      "summary": "Hurricane Karina, which had strengthened to a powerful Category 4 storm earlier this week, was tracked far offshore \u2014 approximately 1,135\u20131,210 miles west-southwest of the tip of Baja California \u2014 as of the most recent available reports, with news sources indicating it did not ultimately threaten land. No coastal hurricane or tropical storm warnings are active along the US West Coast or Baja California in current NWS alerts, suggesting the storm has continued to track away from shore or weaken. The situation remains subject to further NHC updates, and the storm's eventual dissipation or recurvature should be monitored.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "California Hurricanes",
+          "url": "https://kmph.com/news/local/california-hurricanes",
+          "source": "kmph.com"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 North Texas Wildfire Continues Burning; Containment Progress Ongoing",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "The Ross Fire, Texas's largest summer wildfire on record at over 90,000 acres, continues to burn in Palo Pinto and Jack counties with suppression operations ongoing. As of the latest reports, the fire had reached 38% containment and destroyed 167 structures including 18 occupied residences, with Texas A&M Forest Service tanker aircraft having dispensed over one million gallons of fire retardant in support of the effort. No significant escalation beyond previously reported figures has been confirmed for September 6, though dry and windy conditions across the region continue to pose a risk of renewed spread.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Ross Fire becomes largest summer wildfire in Texas",
+          "url": "https://tfsweb.tamu.edu/ross-fire-becomes-largest-summer-wildfire-in-texas",
+          "source": "tfsweb.tamu.edu"
+        },
+        {
+          "title": "Ross Fire continues burning, now among largest wildfires in North Texas history",
+          "url": "https://news4sanantonio.com/news/local/ross-fire-continues-burning-now-among-largest-wildfires-in-north-texas-history-acres-governor-greg-abbott-dry-ranchland-perimeter-firefighters-water-hoses-trucks-residents",
+          "source": "news4sanantonio.com"
+        }
+      ]
+    },
+    {
+      "title": "M3.7 Earthquake Jolts Southwest Washington Near Mount St. Helens Volcanic Zone",
+      "location": "Castle Rock / Longview, Washington, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 3.7 earthquake struck approximately 20 km east of Castle Rock, Washington \u2014 near the Longview area and within the broader volcanic zone of Mount St. Helens \u2014 at 4 a.m. local time on September 5, waking residents across southwest Washington. Despite its moderate magnitude, the quake generated nearly 1,000 felt reports to the USGS, indicating unusually broad ground-shaking across a wide population area. The event was shallow at approximately 17.6 km depth and carried no tsunami alert; USGS assigned no formal alert level, but the high number of felt reports makes it one of the most widely noticed earthquakes in the Pacific Northwest in recent memory.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Southwest Washington jolted awake at 4 a.m. as magnitude 3.7 quake rattles Longview",
+          "url": "https://seattlered.com/washington-state/longview-washington-earthquake-magnitude-37-september-2026/4120156",
+          "source": "seattlered.com"
+        }
+      ]
+    },
+    {
+      "title": "Purac\u00e9 Volcano \u2014 Elevated Seismic Activity Prompts Alert in Colombia",
+      "location": "Purac\u00e9, Cauca Department, Colombia",
+      "type": "volcano",
+      "summary": "Colombia's Geological Survey has issued warnings following a notable increase in seismic activity at Purac\u00e9 volcano, an active andesitic stratovolcano in the Los Coconucos Volcanic Chain in the Cauca Department. The Volcanological and Seismological Observatory of Popay\u00e1n is actively monitoring the unrest, and the event was included in the global weekly volcanic activity report for the period ending September 2, 2026. Purac\u00e9's summit crater sits at roughly 4,650 meters elevation; an escalation to eruptive activity could affect surrounding communities and the nearby Purac\u00e9 National Natural Park.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Colombian Geological Survey Warns of Purac\u00e9 Volcano Increased Seismic Activity",
+          "url": "https://www.telesurenglish.net/colombian-geological-survey-warns-of-purace-volcano-increased-seismic-activity",
+          "source": "telesurenglish.net"
+        }
+      ]
+    }
+  ]
+}
