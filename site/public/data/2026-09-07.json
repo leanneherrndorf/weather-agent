@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-07",
+  "headline": "Hurricane Lowell Makes Landfall on Kauai as Full Hurricane Warnings Replace Watches Across All Hawaiian Island Zones",
+  "overview": "Hurricane Lowell escalated dramatically overnight, with full Hurricane Warnings now blanketing Kauai and Niihau as the storm tracks north toward the Hawaiian Islands \u2014 the most acute US threat of the day. Simultaneously, a new Extreme Heat Warning stretches across the Phoenix metro and the Desert Southwest through Friday, a separate and intensifying heat crisis from the Midwest wave already in progress. Internationally, the China-Tibet and Nepal flash flood disaster enters its twelfth day with thousands still unaccounted for, while Anak Krakatau's ongoing eruption compounds a concurrent forest fire and haze emergency across Indonesia.",
+  "events": [
+    {
+      "title": "Hurricane Lowell \u2014 Hurricane Warnings Issued for Kauai as Direct Strike Imminent",
+      "location": "Kauai and Niihau, Hawaii, USA",
+      "type": "weather",
+      "summary": "Hurricane Lowell escalated sharply overnight from tropical storm watches to full Hurricane Warnings across all zones of Kauai and Niihau, with NWS Honolulu forecasting peak winds of 60\u201380 mph and gusts to 95 mph on Kauai's North Shore, equivalent to Category 1 hurricane force. The storm was positioned approximately 500 miles south-southwest of Lihue as of early Monday, moving north at 6 mph, with tropical storm force winds expected to arrive by Monday afternoon local time and hurricane conditions through Tuesday morning. Flash Flood Watches are also active for Kauai and Niihau through Tuesday afternoon, with rainfall accumulations of up to 12 inches possible.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Lowell near Hawaii prompts travel warnings",
+          "url": "https://www.insideflyer.com/posts/hurricane-lowell-near-hawaii-prompts-travel-warnings",
+          "source": "insideflyer.com"
+        },
+        {
+          "title": "Hurricane Lowell could bring near hurricane-force gusts to Kauai",
+          "url": "https://www.centraloregondaily.com/news/nation-world/hurricane-lowell-could-bring-near-hurricane-force-gusts-to-kauai/article_deddf8ca-8611-53fb-9446-2a61b35682e8.html",
+          "source": "centraloregondaily.com"
+        }
+      ]
+    },
+    {
+      "title": "China-Tibet / Nepal Flash Flood Disaster \u2014 Thousands Still Missing at Gyirong, Day 12",
+      "location": "Gyirong Port, Tibet / Rasuwa and Nuwakot Districts, Nepal",
+      "type": "weather",
+      "summary": "Twelve days after catastrophic flash floods struck the China-Nepal border zone, rescue teams are still racing to locate thousands of missing people, with Gyirong Port in Tibet's Xizang Autonomous Region described as having been completely washed away. Al Jazeera and AP report that hundreds of individuals remain unaccounted for across both countries, with ongoing operations at a flooded hydropower tunnel in Nepal's Rasuwa district where workers were trapped. China has faced international scrutiny over information controls limiting independent reporting from the disaster zone.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "China, Nepal race to find thousands still missing 12 days after floods",
+          "url": "https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods",
+          "source": "aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau \u2014 Ashfall Reaches Serang City as Eruption Compounds Indonesia's Forest Fire and Haze Crisis",
+      "location": "Sunda Strait / Sumatra / Kalimantan, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau remains at Alert Level III (SIAGA) as of September 7, with ongoing Strombolian eruptions producing ashfall heavy enough that residents in Serang city \u2014 on the Banten coast \u2014 were photographed clearing volcanic ash from their vehicles. A new OCHA Flash Update has framed the situation as a compound disaster: Krakatau's ash is coinciding with a separate but simultaneous forest fire and haze crisis across Sumatra and Kalimantan, straining Indonesia's emergency response capacity. Indonesian authorities warn that despite a reported dip in seismic activity, the volcano remains highly dangerous and capable of renewed large eruptions.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Desert Southwest Extreme Heat Wave \u2014 Phoenix Metro 105\u2013109\u00b0F, Imperial Valley to 112\u00b0F Through Friday",
+      "location": "Phoenix Metro, Yuma, Imperial Valley \u2014 Arizona / California, USA",
+      "type": "weather",
+      "summary": "A new and distinct Extreme Heat Warning is in effect across the Desert Southwest beginning Tuesday, separate from the ongoing Midwest heat event, with NWS Phoenix forecasting afternoon highs of 105\u2013109\u00b0F for the greater Phoenix metropolitan area and Yuma through Thursday, and 106\u2013112\u00b0F for California's Imperial Valley and adjacent Arizona zones through Friday. The multi-day event carries a 'Major Heat Risk' designation and coincides with what KJZZ reported was already the second-hottest summer on record in Phoenix as of Labor Day weekend. Heat-related illness risk is described as significantly elevated throughout the warning period.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Extreme Heat Warning issued September 7 at 12:33AM MST until September 11 at 8:00PM MST by NWS Phoenix AZ",
+          "url": "https://kesq.com/weather/alerts-weather/2026/09/07/extreme-heat-warning-issued-september-7-at-1233am-mst-until-september-11-at-800pm-mst-by-nws-phoenix-az",
+          "source": "kesq.com"
+        },
+        {
+          "title": "Summer 2026 was the second-hottest on record in Phoenix",
+          "url": "https://www.kjzz.org/science/2026-09-02/summer-2026-was-the-second-hottest-on-record-in-phoenix",
+          "source": "kjzz.org"
+        }
+      ]
+    },
+    {
+      "title": "Montana Flash Flood Watch \u2014 Glacier National Park Road Closures, Multi-County Inundation Risk",
+      "location": "Northwestern and North-Central Montana, USA",
+      "type": "weather",
+      "summary": "NWS Great Falls and NWS Missoula issued overlapping Flood Watches covering a broad swath of northwestern and north-central Montana through Tuesday morning, including Glacier National Park's West Glacier Region, the Flathead and Mission Valleys, and the Rocky Mountain Front \u2014 with excessive rainfall runoff threatening creeks, streams, and roads. Glacier National Park has already closed the alpine section of the Going-to-the-Sun Road (Sun Road) due to flood conditions, and forecasters note that another unseasonably cold system could bring mountain snow as early as next weekend. The Labor Day holiday weekend timing increases the potential impact on visitors and campers in the backcountry.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "East Texas River Flooding \u2014 Neches River and Pine Island Bayou Remain in Active Flood Warning",
+      "location": "Hardin, Jefferson, Jasper, and Orange Counties, Southeast Texas, USA",
+      "type": "weather",
+      "summary": "Active Flood Warnings remain in place for the Neches River at the Saltwater Barrier and Pine Island Bayou near Sour Lake through September 9, as river levels remain elevated following Tropical Storm Edouard's historic rainfall of over 20 inches in parts of Southeast Texas. NWS Lake Charles cancelled the Village Creek near Kountze warning but the two primary river gauges affecting Hardin, Jefferson, Orange, and Jasper counties remain above flood stage. The slow drainage of these low-lying river systems continues to threaten homes and roads in the region.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Edouard causes flooding in East Texas, dumping more than 20 inches of rain in places",
+          "url": "https://www.jacksonvilleprogress.com/news/edouard-causes-flooding-in-east-texas-dumping-more-than-20-inches-of-rain-in-places/article_650e2e43-8309-447b-92ab-35de667a77b7.html",
+          "source": "jacksonvilleprogress.com"
+        }
+      ]
+    },
+    {
+      "title": "M5.4 Earthquake Strikes Near Jiangyou, Sichuan, China",
+      "location": "Jiangyou, Sichuan Province, China",
+      "type": "earthquake",
+      "summary": "A magnitude 5.4 earthquake struck 21 km west-northwest of Jiangyou in Sichuan Province, China, at 11:39 UTC on September 3, at a shallow depth of just 10 km \u2014 a depth that maximizes shaking intensity at the surface. USGS assigned a yellow alert level indicating limited but possible impact, and at least 6 felt reports were recorded. Sichuan is one of China's most seismically active provinces; Jiangyou is a city of approximately 900,000 people located northeast of the provincial capital Chengdu.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
