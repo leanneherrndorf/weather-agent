@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-08",
+  "headline": "Hurricane Lowell Strikes Kauai with Category 1 Winds and Confirmed Flash Flooding as Multi-Front Heat, Wildfire, and Earthquake Crisis Continues Across the US",
+  "overview": "Hurricane Lowell made its closest approach to Kauai and Niihau overnight, delivering Category 1 hurricane-force winds and confirmed island-wide flash flooding \u2014 marking a significant escalation from yesterday's watch status. Simultaneously, an expansive and dangerous heat wave is gripping both the Desert Southwest and Southern California, with Death Valley forecast to approach 116\u00b0F and dozens of Extreme Heat Warnings stretching from Phoenix to the Pacific coast. The Ross Fire in North Texas has swelled to over 90,400 acres and is now the largest summer wildfire in Texas history, while a M6.3 earthquake that struck near Nikolski, Alaska on September 3 prompted a tsunami alert and continues to rattle the Aleutian arc.",
+  "events": [
+    {
+      "title": "Hurricane Lowell Strikes Kauai \u2014 Cat 1 Winds, Flash Flooding, Tornado Watch",
+      "location": "Kauai and Niihau, Hawaii, USA",
+      "type": "weather",
+      "summary": "Hurricane Lowell made its closest pass to the Hawaiian Islands overnight into Tuesday, delivering confirmed Category 1 hurricane-force winds across Kauai and Niihau \u2014 gusts reaching 125 mph over Kauai's mountains and up to 160 mph on Niihau, the westernmost inhabited island. NWS Honolulu issued a Flash Flood Warning as nearly all streams on Kauai remained elevated with active flooding impacts even as radar rain totals decreased, and a Tornado Watch covered the island and surrounding waters. The storm may be the first on record to pass directly over Niihau, whose population of fewer than 100 residents faced an extreme and unusual threat.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Another hurricane to bring torrential rains to Hawaii",
+          "url": "https://yaleclimateconnections.org/2026/09/another-hurricane-to-bring-torrential-rains-to-hawaii",
+          "source": "yaleclimateconnections.org"
+        },
+        {
+          "title": "Powerful Hurricane Lowell to turn toward Hawaii with rain, wind and rough seas",
+          "url": "https://www.accuweather.com/en/weather-news/powerful-hurricane-lowell-to-turn-toward-hawaii-with-rain-wind-and-rough-seas/1930875",
+          "source": "www.accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Desert Southwest & Southern California Extreme Heat \u2014 Death Valley Near 116\u00b0F, Coachella to 110\u00b0F",
+      "location": "Phoenix AZ / Las Vegas NV / Coachella Valley / Death Valley, California / Arizona / Nevada, USA",
+      "type": "weather",
+      "summary": "A dangerous and expanding late-season heat wave is now triggering Extreme Heat Warnings across a vast swath of the American West, with afternoon highs of 105\u2013109\u00b0F forecast across the Phoenix metro area through Thursday and temperatures of 112\u2013116\u00b0F expected in Death Valley and the Colorado River Valley through Friday. New warnings issued early Tuesday now extend into Southern California's Inland Empire, Coachella Valley, San Diego County deserts, and coastal Orange and San Diego counties \u2014 a significant geographic expansion beyond yesterday's Desert Southwest focus. The Los Angeles Times reports that residual tropical moisture from former Hurricane Marie is combining with the heat dome to drive unusual humidity alongside the intense temperatures, elevating heat illness risk across coastal communities not typically affected by such events.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Former Hurricane Marie sends big waves to Southern California",
+          "url": "https://www.cnn.com/2026/09/07/weather/video/wxapp-former-hurricane-marie-sends-big-waves-to-southern-california-weather-vrtc",
+          "source": "www.cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 Now Texas's Largest Summer Wildfire at 90,400 Acres, 150+ Structures Destroyed",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "The Ross Fire, burning for 14 days since igniting on August 24, has grown to at least 90,400 acres across Palo Pinto and Jack counties, destroying over 150 structures including 18 occupied residences and damaging 95 more \u2014 making it the largest summer wildfire in North Texas history. As of September 7, containment stood at approximately 38%, with dry, gusty conditions continuing to challenge firefighting efforts. Red Flag Warnings remain in effect across parts of the central and northern US West today, underscoring the persistent fire-weather threat across the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Ross Fire burns more than 90,000 acres so far in North Texas",
+          "url": "https://texasfarmbureau.org/ross-fire-burns-more-than-90000-acres-so-far-in-north-texas",
+          "source": "texasfarmbureau.org"
+        }
+      ]
+    },
+    {
+      "title": "M6.3 Earthquake Near Nikolski, Alaska \u2014 Tsunami Alert Issued for Aleutian Arc",
+      "location": "84 km SSW of Nikolski, Aleutian Islands, Alaska, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck 84 km south-southwest of Nikolski in the Aleutian Islands at 11:17 UTC on September 3, at a depth of 35 km, with a tsunami alert initially issued by USGS \u2014 though the USGS alert level was ultimately assessed as green, indicating limited damage potential. A M4.8 aftershock followed within hours approximately 3.5 km north of the main shock. The Aleutian arc is one of the world's most seismically active zones, and this event underscores the persistent tsunami generation risk in the region; only 3 felt reports were recorded given the extreme remoteness of the area.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong M6.3 earthquake hits near Nikolski, Alaska",
+          "url": "https://watchers.news/2026/09/03/strong-m6-3-earthquake-hits-near-nikolski-alaska",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Very Strong Mag. 6.3 Earthquake \u2014 North Pacific Ocean, Aleutians West, Alaska",
+          "url": "https://www.volcanodiscovery.com/earthquake/major/2026-09-03/11-17/magnitude6-Alaska.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Midwest & Central US Heat Wave \u2014 Heat Index to 112\u00b0F, Warnings Still Active Tuesday",
+      "location": "Oklahoma, Kansas, Missouri, Arkansas, and surrounding states, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings issued by NWS offices in Tulsa, Kansas City, Topeka, and Springfield remain active through Tuesday evening across a broad corridor stretching from eastern Oklahoma and northwest Arkansas through Kansas and Missouri, with heat index values forecast as high as 112\u00b0F in parts of Oklahoma and Arkansas. This late-season heat event has already been described by meteorologists as among the hottest September weather on record for parts of the region, following more than a week of sustained heat dome conditions. Though some warnings are set to expire Tuesday evening, the heat ridge is expected to persist into the week ahead across much of the central US.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Plaskett Fire \u2014 Containment Doubles in Big Sur but 55,000+ Acres Still Active, Highway 1 Closed",
+      "location": "Big Sur / Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "Containment on the Plaskett Fire \u2014 California's second-largest wildfire of 2026 \u2014 has been doubling in recent days, with firefighters making especially strong progress on the western flank near Highway 1 between Alder Creek and Willow Creek Road. However, the fire remains a massive and active threat at over 55,000 acres with Highway 1 still closed along Big Sur's south coast, cutting off a critical stretch of the California coastline. Cooler temperatures and higher humidity have aided crews, but the fire is not expected to be fully contained for days given the rugged and steep terrain involved.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Containment doubles on Plaskett Fire, but Hwy. 1 still closed along Big Sur's south coast",
+          "url": "https://www.yahoo.com/news/weather-news/articles/containment-doubles-plaskett-fire-hwy-180446409.html",
+          "source": "www.yahoo.com"
+        },
+        {
+          "title": "Monterey Co.: Containment Increases On Massive Plaskett Fire Burning In Big Sur",
+          "url": "https://www.sfgate.com/news/bayarea/article/monterey-co-containment-increases-on-massive-22421437.php",
+          "source": "www.sfgate.com"
+        }
+      ]
+    },
+    {
+      "title": "Montana Flash Flood \u2014 Glacier National Park Region Under Active Watch Through Midday",
+      "location": "West Glacier, Flathead/Mission Valleys, and North-Central Montana, USA",
+      "type": "weather",
+      "summary": "Active Flood Watches issued by NWS Missoula and Great Falls offices remain in effect through noon MDT Tuesday across a large swath of northwestern and north-central Montana, including the West Glacier region, Flathead and Mission Valleys, Potomac/Seeley Lake, and multiple eastern glacier and high plains zones. Excessive rainfall is producing potential flooding of creeks, streams, and low-lying roads, with continued impacts to Glacier National Park road access. The event is a continuation of a multi-day flood threat that has already caused road closures in one of the nation's most visited national parks during peak tourist season.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
