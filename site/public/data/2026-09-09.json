@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-09",
+  "headline": "Southern California's Extreme Heat Wave Expands to Coastal Los Angeles and San Diego Beaches as Warnings Blanket the Entire Region Through Friday",
+  "overview": "A dangerous and expanding heat wave now covers virtually all of Southern California \u2014 from the beaches of Los Angeles and San Diego to the Coachella Valley and Death Valley \u2014 with Extreme Heat Warnings active through Friday and Los Angeles recording 41.6\u00b0C (107\u00b0F). Simultaneously, new river flooding warnings emerged along the Raccoon River in Des Moines, Iowa, and Red Flag fire danger conditions intensified across Wyoming and the Northern Plains. Ongoing crises continue in North Texas, Big Sur, Indonesia, and along the China-Tibet/Nepal border.",
+  "events": [
+    {
+      "title": "Southern California Extreme Heat Wave Expands \u2014 Coastal LA and San Diego Beaches Now Under Warning",
+      "location": "Los Angeles, Coachella Valley, San Diego Coast, Inland Empire, California, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings now blanket virtually all of Southern California through Friday, with a significant geographic escalation from prior days: coastal Los Angeles beaches, downtown LA, the San Fernando Valley, Orange County coastal areas, and San Diego's coastline are all included \u2014 an unusual step for normally sea-breeze-cooled areas. Temperatures range from 92\u2013108\u00b0F across LA and coastal zones, 104\u2013110\u00b0F in the Inland Empire, and 110\u2013114\u00b0F in the Coachella Valley and San Diego County deserts, with humidity from Tropical Storm Marie's remnant moisture making heat indices even more oppressive. Weather data confirms Los Angeles reaching 41.6\u00b0C (107\u00b0F), among the highest readings globally on this date.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Miserable humidity persists in Southern California",
+          "url": "https://www.latimes.com/california/story/2026-09-08/miserable-humidity-persists-in-southern-california",
+          "source": "www.latimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 Day 14+, Still Texas's Largest Summer Wildfire at 90,400+ Acres",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "Now entering its third week, the Ross Fire remains the largest summer wildfire in Texas history at approximately 90,400 acres with 167 structures destroyed \u2014 including 18 occupied residences \u2014 and 95 additional structures damaged. Firefighting operations have been so intensive that the Texas A&M Forest Service Abilene Airtanker Base reached a milestone of loading its 1 millionth gallon of fire retardant during the response. Containment progress continues, but the fire has not yet been brought fully under control.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Ross Fire becomes largest summer wildfire in Texas",
+          "url": "https://tfsweb.tamu.edu/ross-fire-becomes-largest-summer-wildfire-in-texas",
+          "source": "tfsweb.tamu.edu"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau \u2014 Ongoing Strombolian Eruptions, Level III Alert, Ashfall Across Sumatra",
+      "location": "Sunda Strait / Sumatra / Kalimantan, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau remains at Alert Level III (SIAGA) \u2014 the second-highest level on Indonesia's four-tier scale \u2014 where it has sat since July 2, 2026, with a series of Strombolian eruptions continuing through at least September 5. Volcanic ash has spread more than 150 kilometers from the vent, reaching Serang City and compounding an already serious forest fire and haze crisis across Sumatra and Kalimantan. NASA Earth Observatory imagery acquired via Landsat 8 on September 5 confirmed ongoing ash and volcanic gas emissions, and a humanitarian coordination platform flash update flagged both air quality and ashfall as concurrent hazards.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "China-Tibet / Nepal Flood Disaster \u2014 Search Continues at Gyirong, Day 13, No Official Missing List Released",
+      "location": "Gyirong Port, Tibet / Rasuwa and Nuwakot Districts, Nepal",
+      "type": "weather",
+      "summary": "Nearly two weeks after a catastrophic flash flood struck the Gyirong border crossing between Tibet and Nepal, Chinese authorities have still not released an official list of missing persons, leaving families to grieve and search for information through online posts. The New York Times reported on September 8 that the information vacuum has driven desperate public outreach on social media as the human toll remains uncertain. In Nepal, rescue workers continue search-and-recovery operations, and thousands of homes still need to be rebuilt across affected districts.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Online Posts Show Families' Grief for Flood Victims on Tibet's Side of China-Nepal Border",
+          "url": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
+          "source": "www.nytimes.com"
+        },
+        {
+          "title": "Nepal must rebuild thousands of homes, no let-up in search for missing",
+          "url": "https://www.reuters.com/business/environment/nepal-must-rebuild-thousands-homes-no-let-up-search-missing-2026-09-03/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Des Moines River Flooding \u2014 Raccoon River and Walnut Creek Flood Warnings Active",
+      "location": "Polk and Dallas Counties, Iowa, USA",
+      "type": "weather",
+      "summary": "The NWS Des Moines has issued Flood Warnings for the Raccoon River at Des Moines Fleur Drive and Walnut Creek at multiple points in Polk and Dallas Counties, with minor flooding occurring and forecast to persist through Wednesday evening. The alerts represent a new flash flooding threat to the Des Moines metropolitan area, with flood-prone roads and low-lying areas at risk of closure from elevated river runoff. The warnings extend the pattern of river and flash flooding events that have affected multiple US river systems this week.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Wyoming and Northern Plains Red Flag Warnings \u2014 Humidity Drops to 5%, Gusts to 40 mph",
+      "location": "Wyoming, North Dakota, and Montana, USA",
+      "type": "weather",
+      "summary": "NWS offices in Cheyenne and Riverton have issued Red Flag Warnings across central and southwest Wyoming \u2014 including the Laramie Range, Green River Basin, Natrona County, and Sweetwater County \u2014 with relative humidity expected to fall as low as 5% Thursday afternoon and westerly wind gusts reaching 40 mph. Fire Weather Watches are also in effect for portions of southwest and north-central North Dakota and south-central Montana's Gallatin National Forest area, where humidity may drop to 11% and gusts reach 30 mph. Any fire ignition under these conditions would spread rapidly, and outdoor burning is strongly discouraged across the region.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "High wildfire danger persists in Wyoming as fall approaches",
+          "url": "https://www.kotatv.com/2026/09/04/wyoming-officials-urge-caution-wildfire-danger-remains-high",
+          "source": "www.kotatv.com"
+        }
+      ]
+    },
+    {
+      "title": "M3.7 Earthquake Near Castle Rock, Washington \u2014 Over 1,000 Felt Reports",
+      "location": "20 km E of Castle Rock, Washington, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 3.7 earthquake struck southwest Washington state approximately 20 km east of Castle Rock on September 5 at 11:09 UTC, generating an unusually high number of felt reports \u2014 over 1,023 \u2014 for an earthquake of its modest size, jolting residents of the Longview area awake in the early morning hours. The event occurred at a depth of 17.6 km and carried no tsunami alert, and USGS assigned no formal alert level, but the widespread felt shaking underscores the seismic sensitivity of the Pacific Northwest region near the Cascadia Subduction Zone. No significant damage has been reported, but the event drew considerable public attention given the region's awareness of larger seismic hazards.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
