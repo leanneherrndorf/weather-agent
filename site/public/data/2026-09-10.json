@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-10",
+  "headline": "Southern California and Desert Southwest Heat Wave Peaks with Tropical Humidity as Beaches Hit Extreme Heat Warning and Death Valley Approaches 116\u00b0F",
+  "overview": "A sprawling, multi-day heat emergency continues to grip the western United States from the California coast to the Arizona and Nevada deserts, now intensified by unusual tropical moisture that is driving heat indices even higher. Simultaneously, a vigorous Bering Sea storm is lashing Alaska's western and Arctic coasts with gusts to 65 mph, while a cluster of flash flood emergencies has erupted across southeastern Ohio and neighboring Appalachian counties overnight. Globally, the Konitsa wildfire in northwestern Greece threatens protected forests, Anak Krakatau's ongoing eruption has now forced the cancellation of 528 international flights, and extreme Red Flag conditions persist across a broad swath of the Northern Rockies and Northern Plains.",
+  "events": [
+    {
+      "title": "Southern California & Desert Southwest Extreme Heat \u2014 Tropical Humidity Amplifies Danger, Beaches Under Warning",
+      "location": "Los Angeles Coast, San Diego Coast, Coachella Valley, Death Valley, Imperial Valley, Phoenix Metro, Arizona, Nevada, USA",
+      "type": "weather",
+      "summary": "The multi-day Western heat emergency reached a new dimension on September 10 as tropical moisture from remnant Hurricane Marie merged with the heat dome, pushing feels-like temperatures even higher and eliminating overnight relief. Extreme Heat Warnings now span from coastal Los Angeles and San Diego beaches \u2014 an unusual extension \u2014 through the inland valleys (92\u2013108\u00b0F), the Coachella Valley (110\u2013114\u00b0F), Imperial Valley (108\u2013115\u00b0F), and Death Valley (112\u2013116\u00b0F), with the Phoenix metro under warning for 105\u2013109\u00b0F. The Coachella Valley and Yuma warnings extend into Friday, making this event the broadest and most complex of the ongoing Western heat siege.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Advisories issued as dangerous heat persists from Texas to lower Mississippi Valley",
+          "url": "https://watchers.news/2026/09/10/advisories-issued-as-dangerous-heat-persists-from-texas-to-lower-mississippi-valley",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Eruption Escalates \u2014 528 International Flights Canceled by Ashfall",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau continues its Level III (SIAGA/Alert) Strombolian eruption phase, ongoing since at least July 2, 2026, with successive explosive eruptions sending ashfall across a wide area affecting aviation. Indonesia's Directorate General of Civil Aviation reported that 528 international flights were canceled as of September 7 due to volcanic ash contaminating airspace over Sumatra, Java, and beyond \u2014 a significant escalation in disruption from prior reports. The Global Volcanism Program and NASA Earth Observatory are actively monitoring the event, and Indonesian authorities continue to enforce exclusion zones around the volcano.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Southeastern Ohio & Appalachia Flash Flooding \u2014 Multiple Counties Under Emergency Warnings",
+      "location": "Gallia, Jackson, Meigs, Vinton, Morgan, Perry, Pike, Adams, Scioto, Washington Counties, Southeastern Ohio; Mason and Jackson Counties, West Virginia; Allen and Finney Counties, Kansas, USA",
+      "type": "weather",
+      "summary": "Overnight thunderstorm complexes dropped 1.5 to 4 inches of rain across a broad swath of southeastern Ohio and neighboring West Virginia counties, triggering simultaneous Flash Flood Warnings and Flood Warnings issued by the NWS Charleston and Wilmington offices through the Thursday morning hours. Numerous roads were reported closed due to flooding, with local law enforcement confirming active inundation in Pike County; the event stretches from southern Ohio into the Ohio River tributary network and echoes a worsening trend of flash flood frequency in the central Appalachian region. Additional flash flood events were simultaneously active in southwestern Kansas (Finney County) and southeastern Louisiana (Jefferson Parish), pointing to a broad convective outbreak across central and eastern US.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Konitsa Wildfire \u2014 150+ Firefighters Battle Blaze Threatening Protected Forests in Northwestern Greece",
+      "location": "Konitsa / Trapezitsa, Epirus, Northwestern Greece",
+      "type": "wildfire",
+      "summary": "A significant wildfire burning in the mountainous Trapezitsa area near the town of Konitsa in Epirus, northwestern Greece, has mobilized over 150 firefighters supported by aerial assets as of early September. The fire threatens ecologically protected forests in the region, prompting authorities to urge vulnerable residents to evacuate and raising concerns about air quality and biodiversity loss. As of September 7, the fire was still actively spreading, and its proximity to a populated town and sensitive natural habitats makes it one of the most significant wildfire events currently active in Europe.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Over 150 firefighters battle wildfire near town in northwestern Greece",
+          "url": "https://www.aa.com.tr/en/europe/over-150-firefighters-battle-wildfire-near-town-in-northwestern-greece/4049036",
+          "source": "www.aa.com.tr"
+        },
+        {
+          "title": "Wildfire Map Spotlight: Konitsa Fire, Greece",
+          "url": "https://www.iqair.com/ca/newsroom/wildfire-map-spotlight-konitsa-wildfire-greece",
+          "source": "www.iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "Bering Sea Storm Lashes Western Alaska \u2014 Gusts to 65 mph on Arctic and Bering Strait Coasts",
+      "location": "Western Arctic Coast, Bering Strait Coast, Diomede, St. Lawrence Island, Shishmaref, Alaska, USA",
+      "type": "weather",
+      "summary": "A powerful Bering Sea storm is driving High Wind Warnings across Alaska's western and Arctic coastlines through Friday afternoon, with sustained southwest winds of 30\u201345 mph and gusts reaching up to 65 mph on the Western Arctic Coast and up to 60 mph near St. Lawrence Island. The NWS Fairbanks office warns of potential property damage, debris hazards, and power outages across the affected remote coastal communities, with travel conditions rated as difficult to impossible. The storm follows a period of relative calm in Southcentral Alaska and represents the most intense wind event to affect Western Alaska this early-autumn season.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Storm impacts await Western Alaska while calm conditions arrive in Southcentral",
+          "url": "https://www.alaskasnewssource.com/2026/09/09/storm-impacts-await-western-alaska-while-calm-conditions-arrive-southcentral",
+          "source": "www.alaskasnewssource.com"
+        },
+        {
+          "title": "September takes a drier and sunnier turn for Southern Alaska, wet and windy to the north",
+          "url": "https://www.alaskasnewssource.com/2026/09/09/september-takes-drier-sunnier-turn-southern-alaska-wet-windy-north",
+          "source": "www.alaskasnewssource.com"
+        }
+      ]
+    },
+    {
+      "title": "Northern Rockies & Northern Plains Red Flag Warnings \u2014 Humidity as Low as 5\u201311%, Gusts to 40 mph",
+      "location": "Wyoming, Montana, North Dakota, Idaho, USA",
+      "type": "weather",
+      "summary": "An expansive corridor of extreme fire weather conditions persists across the Northern Rockies and Northern Plains on September 10, with Red Flag Warnings active from NWS offices in Cheyenne, Riverton, Billings, Glasgow, Bismarck, and Pocatello covering dozens of counties and fire weather zones. Relative humidity is forecast to drop as low as 5\u20137% in parts of central and southern Wyoming and as low as 11\u201313% across Montana and North Dakota, coupled with westerly wind gusts reaching 35\u201340 mph; the NWS Cheyenne office warns that any fires that develop will 'likely spread rapidly.' A Fire Weather Watch has also been issued for northern and central Nevada, extending the threat corridor through Saturday.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flood concern in northwest Montana, with warm and windy conditions along the Montana/Wyoming border and eastern plains",
+          "url": "https://www.kulr8.com/weather/flood-concern-in-northwest-montana-with-warm-and-windy-conditions-along-the-montana-wyoming-border/article_12b110e3-80c1-42fd-ab18-0bddb776d656.html",
+          "source": "www.kulr8.com"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 90,400 Acres, Containment at 57%, Still Texas's Largest Summer Wildfire",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "The Ross Fire remains the largest summer wildfire in Texas history at approximately 90,400 acres, with containment reported at 57% as of the most recent available data \u2014 a meaningful improvement from prior days, though the fire remains active. The fire has destroyed 167 structures including 18 occupied residences and damaged 95 additional structures, with local and state resources continuing suppression operations. Critically dry and windy Red Flag conditions persisting across adjacent Wyoming and Northern Plains counties present a continuing risk of any new ignitions threatening suppression progress.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Ross Fire becomes largest summer wildfire in Texas",
+          "url": "https://tfsweb.tamu.edu/ross-fire-becomes-largest-summer-wildfire-in-texas",
+          "source": "tfsweb.tamu.edu"
+        },
+        {
+          "title": "Wildfire Map Spotlight: Ross Fire, Texas",
+          "url": "https://www.iqair.com/me/newsroom/wildfire-map-spotlight-ross-fire-texas",
+          "source": "www.iqair.com"
+        }
+      ]
+    }
+  ]
+}
