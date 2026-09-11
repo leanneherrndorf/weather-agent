@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-11",
+  "headline": "Hurricane Lowell's historic Hawaii impact leads a day of global extremes, from Colombia's earthquake recovery crisis to a sweeping weekend fire weather emergency across the Western US.",
+  "overview": "September 11 sees the world grappling with a broad spectrum of natural hazards. Hawaii continues to recover from Hurricane Lowell's rare direct strike, which produced the state's first-ever tornado watch and left Kauai in serious distress. Meanwhile, Colombia's M7.4 earthquake survivors mark one month of displacement with no clear end in sight, and an island-wide Extreme Heat Warning blanketed all of Puerto Rico. Across the Western US, an expansive fire weather threat is escalating into a weekend emergency, with utility shutoffs planned in Nevada and California as gusts of up to 80 mph are forecast.",
+  "events": [
+    {
+      "title": "Hurricane Lowell Aftermath \u2014 Hawaii's First-Ever Tornado Watch, Kauai 'In Dire Straits'",
+      "location": "Kauai, Niihau, and Main Hawaiian Islands, Hawaii, USA",
+      "type": "weather",
+      "summary": "Hurricane Lowell passed just west of the Hawaiian island chain on September 7\u20138, 2026, producing the first-ever Tornado Watch ever issued for the state of Hawaii and knocking out power to thousands of residents. Kauai bore the brunt of the storm, suffering damaging winds, heavy rainfall, widespread flooding, and significant structural damage \u2014 with officials describing the island as 'in dire straits' in its aftermath. The storm's passage so close to the populated main islands was an historically rare and dangerous event for the Pacific island chain.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Lowell lashes Hawaii, knocking out power to thousands as flood risk continues",
+          "url": "https://www.cbsnews.com/news/hurricane-lowell-power-outages-flood-risk",
+          "source": "cbsnews.com"
+        },
+        {
+          "title": "Kauai 'in dire straits' after Hurricane Lowell",
+          "url": "https://www.sfgate.com/hawaii/article/kauai-lowell-aftermath-22425651.php",
+          "source": "sfgate.com"
+        }
+      ]
+    },
+    {
+      "title": "Colombia M7.4 Earthquake \u2014 One Month On, Hundreds Homeless in Pereira and Cali Region",
+      "location": "Pereira / Cali Region, Colombia",
+      "type": "earthquake",
+      "summary": "One month after a devastating M7.4 earthquake struck the Pereira and Cali region of Colombia, hundreds of survivors remain homeless and are struggling against sharply rising rents as recovery efforts lag. Buildings continue to be demolished in affected neighborhoods, and the disaster is now testing the new Colombian government's capacity to manage a large-scale humanitarian response. While the acute search-and-rescue phase has ended, the displacement crisis is deepening, making today a significant milestone in an ongoing catastrophe.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Homeless and facing soaring rents, Colombia quake survivors struggle to rebuild lives one month on",
+          "url": "https://www.malaymail.com/news/world/2026/09/11/homeless-and-facing-soaring-rents-colombia-quake-survivors-struggle-to-rebuild-lives-one-month-on/234764",
+          "source": "malaymail.com"
+        }
+      ]
+    },
+    {
+      "title": "Puerto Rico Island-Wide Extreme Heat Warning \u2014 All Regions Under Alert",
+      "location": "Puerto Rico, USA",
+      "type": "weather",
+      "summary": "The National Weather Service in San Juan issued an Extreme Heat Warning covering all regions of Puerto Rico on September 11, from coastal and urban areas to lower-elevation valleys, valid from 10 AM to 5 PM AST. Dangerous heat indices are expected to significantly elevate the risk of heat-related illnesses island-wide, particularly for residents without access to effective cooling. The island-wide scope of the warning \u2014 encompassing San Juan, Ponce, Mayag\u00fcez, and the interior \u2014 marks this as an unusually broad and serious heat event for the US territory.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Western US Weekend Fire Weather Emergency \u2014 PSPS Shutoffs Ordered, Gusts to 80 mph Forecast for Nevada and California",
+      "location": "Nevada, Northern California, Idaho, Wyoming, Nebraska, South Dakota, USA",
+      "type": "weather",
+      "summary": "An expansive and escalating fire weather crisis is set to grip the Western United States this weekend, with Fire Weather Watches and Red Flag Warnings blanketing Nevada, Northern California, Idaho, Wyoming, Nebraska, and South Dakota ahead of a powerful wind event Saturday into Sunday. Gusts of up to 80 mph are forecast along Nevada ridgetops, and NV Energy has announced preventive Public Safety Power Shutoffs (PSPS) for Northern Nevada \u2014 including the Lake Tahoe region \u2014 beginning Saturday morning to reduce wildfire ignition risk. The NWS Sacramento office has extended its Fire Weather Watch through Monday morning for portions of Northern California, underscoring the multi-day threat.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Fire weather conditions could cause power outages for NV Energy customers across Northern Nevada, including Lake Tahoe",
+          "url": "https://www.tahoedailytribune.com/news/nv-energy-issues-public-safety-outage-management-watch-for-locations-across-northern-nevada-including-lake-tahoe",
+          "source": "tahoedailytribune.com"
+        }
+      ]
+    },
+    {
+      "title": "Tibet\u2013Nepal Glacial Flood Disaster \u2014 Search for Missing Continues as Fate of Hundreds Remains Unknown",
+      "location": "Gyirong Port, Tibet, China / Rasuwa and Nuwakot Districts, Nepal",
+      "type": "weather",
+      "summary": "Rescue teams in Nepal and China continued searching for survivors on September 8 \u2014 more than two weeks after a glacier collapse triggered devastating floods that obliterated Gyirong Port and killed at least dozens, with hundreds still unaccounted for. CNN reported that the high-altitude border hub was 'completely washed from the map,' and no official missing-persons list has been released by Chinese authorities. The search operation is hampered by difficult terrain and ongoing instability, and the full human toll of this disaster remains deeply uncertain.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "On the ground in China's wiped-out border zone, the fate of hundreds is still unknown",
+          "url": "https://www.cnn.com/2026/09/06/china/china-nepal-floods-gyirong-port-intl-hnk",
+          "source": "cnn.com"
+        },
+        {
+          "title": "Scenes from Nepal as search for flood survivors continues - September 8, 2026",
+          "url": "https://www.reuters.com/pictures/scenes-nepal-search-flood-survivors-continues-2026-09-08/OIW3AGXOSNMWRHPGQN6J746P54",
+          "source": "reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Konitsa Wildfire \u2014 170 Firefighters, Aircraft and Drones Battle Blaze in Protected Northwestern Greek Forests",
+      "location": "Konitsa / Trapezitsa, Epirus, Northwestern Greece",
+      "type": "wildfire",
+      "summary": "The Konitsa wildfire in the Epirus region of northwestern Greece remained active as of September 7, with the firefighting response having grown to approximately 170 firefighters, 45 fire vehicles, 20 support vehicles, aircraft, helicopters, and drone teams \u2014 up from the 150+ reported in earlier days. The fire continues to threaten ecologically sensitive and legally protected forest areas in the mountainous border region. Air quality monitoring services flagged the blaze as a significant regional pollution concern in addition to the immediate fire threat.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Konitsa Fire, Greece",
+          "url": "https://www.iqair.com/hk-en/newsroom/wildfire-map-spotlight-konitsa-wildfire-greece",
+          "source": "iqair.com"
+        },
+        {
+          "title": "Wildfire spreads near Konitsa as firefighters battle flames from land and air",
+          "url": "https://en.protothema.gr/2026/09/06/wildfire-spreads-near-konitsa-as-firefighters-battle-flames-from-land-and-air",
+          "source": "protothema.gr"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 Day 17, 90,400 Acres, Containment at 57%, Texas's Largest Summer Wildfire Still Burning",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "Now in its 17th day, the Ross Fire continues to burn across approximately 90,400 acres in Palo Pinto and Jack Counties, remaining the largest summer wildfire recorded in Texas history. Containment stood at 57% as of September 10, with 167 structures destroyed \u2014 including 18 occupied residences \u2014 and 95 others damaged. Crews continue to make incremental progress, but dry and windy conditions across the Southern Plains have kept the fire from being fully controlled.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Two weeks later, one of the largest recorded wildfires in North Texas history continues burning",
+          "url": "https://www.keranews.org/texas-news/2026-09-09/two-weeks-later-one-of-the-largest-recorded-wildfires-in-north-texas-history-continues-burning",
+          "source": "keranews.org"
+        },
+        {
+          "title": "Ross Fire becomes largest summer wildfire in Texas",
+          "url": "https://tfsweb.tamu.edu/ross-fire-becomes-largest-summer-wildfire-in-texas",
+          "source": "tfsweb.tamu.edu"
+        }
+      ]
+    }
+  ]
+}
