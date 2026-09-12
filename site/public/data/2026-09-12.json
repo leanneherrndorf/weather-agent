@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-12",
+  "headline": "Massive flood threat blankets the US Northeast and Mid-Atlantic as over 33 million face flash flood watches, while Western Balkans wildfires spread across four countries.",
+  "overview": "On September 12, 2026, the dominant stories are a sweeping multi-state flood threat stretching from the Ohio Valley to coastal New England and the New York metro area, and a rapidly expanding wildfire crisis across Bosnia and Herzegovina, Montenegro, Albania, and Serbia. Anak Krakatau remains at Alert Level III in Indonesia, continuing to disrupt regional aviation, while a significant M6.6 earthquake struck off the coast of Java overnight. Critical fire weather conditions persist across Northern California and Nevada, adding to an already demanding week for emergency responders across three continents.",
+  "events": [
+    {
+      "title": "Northeast & Mid-Atlantic Flood Emergency \u2014 33M+ Under Watches Across NY, NJ, PA, CT, OH, WV, KY",
+      "location": "New York, New Jersey, Pennsylvania, Connecticut, Rhode Island, Ohio, West Virginia, Kentucky, USA",
+      "type": "weather",
+      "summary": "An expansive flood threat is unfolding across more than a dozen states from the Ohio Valley to coastal New England, with Flood Watches issued by multiple NWS offices covering tens of millions of residents. The threat spans from eastern Kentucky and West Virginia through Ohio and Pennsylvania into the New York metro area, Long Island, New Jersey, coastal Connecticut, and Rhode Island, with heavy rain and embedded thunderstorms expected to produce excessive runoff through Sunday. The NWS Pittsburgh and Charleston offices flagged ongoing flash flood potential for portions of southeastern Ohio, West Virginia, and western Pennsylvania \u2014 a region still saturated from earlier this week's Appalachian flooding event.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Over 33M Americans from Texas to New Jersey face renewed flood threat as 1,000-mile long severe storms rage on",
+          "url": "https://www.foxweather.com/weather-news/severe-storms-target-1000-mile-stretch-new-york-plains",
+          "source": "www.foxweather.com"
+        },
+        {
+          "title": "Flood danger surges across West Virginia, Ohio, Kentucky overnight",
+          "url": "https://rollingout.com/2026/09/12/flood-watch-west-virginia-ohio-kentucky",
+          "source": "rollingout.com"
+        }
+      ]
+    },
+    {
+      "title": "Western Balkans Wildfire Crisis \u2014 Bosnia, Montenegro, Albania & Serbia Engulfed",
+      "location": "Bosnia and Herzegovina, Montenegro, Albania, Serbia, Western Balkans",
+      "type": "wildfire",
+      "summary": "A large wildfire that ignited near Zvirnja\u010da, about 85 km west of Sarajevo, on September 4 has exploded to approximately 14,000 hectares by September 7, with multiple simultaneous fires now raging across the western Balkans. The most critical front is in the Konjic area of Bosnia, where high temperatures and wind are driving rapid spread through forested terrain; satellite imagery released by EUMETSAT on September 11 shows smoke plumes blanketing Bosnia, Montenegro, Albania, and Serbia. European Union space assets are actively tracking the fires, and regional emergency services are stretched across multiple fronts.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire spreads across western Bosnia and Herzegovina",
+          "url": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/wildfire-spreads-across-western-bosnia-and-herzegovina",
+          "source": "eu-space.europa.eu"
+        },
+        {
+          "title": "Image of the week: Fires in the western Balkans",
+          "url": "https://www.eumetsat.int/image-week-fires-western-balkans",
+          "source": "www.eumetsat.int"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Eruption Continues at Alert Level III \u2014 Aviation and Ash Impacts Persist",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau remains at Alert Level III \u2014 the second-highest on Indonesia's four-tier scale \u2014 as of early September 12, with repeated eruptions sustaining an ongoing ash and aviation hazard in the region. The eruption, which triggered more than 528 international flight cancellations earlier this week, forced a temporary suspension of operations at Soekarno-Hatta International Airport near Jakarta on September 6, with flights resuming by September 8. Ash has been reported drifting more than 150 kilometers from the vent, and authorities continue to enforce a 5-kilometer exclusion zone around the volcano.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indonesia's main airport suspends flights due to Anak Krakatau eruption",
+          "url": "https://www.aljazeera.com/news/2026/9/6/indonesias-main-airport-suspends-flights-due-to-anak-krakatoa-eruption",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "Atlanta Flash Flooding \u2014 Ground Stop at Hartsfield-Jackson, Flash Flood Warnings Across Metro",
+      "location": "Carroll, Cobb, Douglas, Paulding Counties, Metro Atlanta, Georgia, USA",
+      "type": "weather",
+      "summary": "Flash Flood Warnings were issued Saturday morning by NWS Peachtree City for the northwestern Atlanta metro, covering Carroll, Cobb, Douglas, and Paulding counties, as Doppler radar detected thunderstorms producing dangerous rainfall rates. A ground stop was issued at Hartsfield-Jackson Atlanta International Airport \u2014 one of the world's busiest \u2014 due to the storm activity, disrupting travel across the southeastern United States. The NWS had already declared a First Alert Weather Day for the region on September 11, reflecting a multi-day severe weather pattern affecting northern Georgia.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "LIVE UPDATES: Flash flood warnings for metro Atlanta; Ground stop issued at Atlanta airport",
+          "url": "https://www.wsbtv.com/weather/ground-stop-issued-atlanta-airport-due-thunderstorms/IR3GFOPL5RAU5H3NW4PXDTVPUE",
+          "source": "www.wsbtv.com"
+        },
+        {
+          "title": "FIRST ALERT WEATHER DAY: Flash flood warning for several metro Atlanta counties",
+          "url": "https://www.atlantanewsfirst.com/2026/09/11/first-alert-weather-day-storms-expected-this-afternoon-north-georgia",
+          "source": "www.atlantanewsfirst.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.6 Earthquake Strikes Off Java, Indonesia",
+      "location": "115 km NNE of Teluknaga, Java, Indonesia",
+      "type": "earthquake",
+      "summary": "A magnitude 6.6 earthquake struck deep beneath the Java Sea at 21:23 UTC on September 11, at a depth of approximately 359 kilometers \u2014 a depth that significantly attenuated shaking at the surface and helped prevent major damage or a tsunami. The USGS assigned a green alert level, indicating low likelihood of significant casualties or economic losses, and no tsunami alert was issued. The quake was felt by at least 20 people across the region, which is already on heightened alert due to the ongoing Anak Krakatau eruption in the same general area of Indonesia.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Indonesia Earthquake Today: Powerful 6.6 Quake Strikes Off Java",
+          "url": "https://www.timesnownews.com/world/asia/indonesia-earthquake-today-java-coast-tsunami-warning-article-156142806",
+          "source": "www.timesnownews.com"
+        },
+        {
+          "title": "Magnitude 6.6 earthquake strikes Indonesia Java region",
+          "url": "https://en.yenisafak.com/world/magnitude-66-earthquake-strikes-indonesia-java-region-3723095",
+          "source": "en.yenisafak.com"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 Rain Brings Relief, Containment Expected to Rise from 57%",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "Rainfall swept over the Ross Fire on September 11, delivering a significant and welcome reprieve to the roughly 90,400-acre blaze that has burned for over two weeks and become the largest summer wildfire in North Texas history. Firefighters, who had been battling the fire at 57% containment, are expected to make gains as moisture and cooler conditions settle over Palo Pinto and Jack Counties following Thursday's rain. While the fire is not yet out, the rainfall marks a major turning point and reduces the immediate extreme threat that has persisted since late August.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Rain Brings Needed Relief to North Texas Wildfires",
+          "url": "https://www.insurancejournal.com/news/southcentral/2026/09/11/884830.htm",
+          "source": "www.insurancejournal.com"
+        }
+      ]
+    },
+    {
+      "title": "Northern California & Nevada Red Flag Warnings \u2014 Gusts to 55 mph, Humidity as Low as 8%",
+      "location": "Northern California, Nevada, Idaho, USA",
+      "type": "weather",
+      "summary": "Critical fire weather conditions are entrenched across Northern California and Nevada on September 12, with Red Flag Warnings active from the NWS Sacramento, Eureka, Reno, Elko, and Las Vegas offices covering a broad swath of terrain including Shasta County, Lake County, the Sierra Nevada foothills, and much of central and southern Nevada. Conditions are particularly dangerous in the Sierra Nevada front zones, where southwest winds are gusting to 45\u201355 mph and relative humidity is plunging to as low as 8%, near the threshold for explosive fire growth. The warnings extend through Monday morning in some areas, keeping the weekend fire risk at a high level across the region.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
