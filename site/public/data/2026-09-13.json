@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-13",
+  "headline": "Life-Threatening Flash Floods Strike NYC Metro and Tri-State Region as Active Warnings Blanket NJ, NY, CT, and PA",
+  "overview": "Severe flash flooding is actively threatening the New York\u2013New Jersey\u2013Connecticut tri-state region on September 13, with multiple life-threatening Flash Flood Warnings in effect from NWS Upton and Mount Holly as thunderstorms deliver 1\u20132.5 inches of rain per hour. K\u012blauea volcano on Hawai\u02bbi's Big Island continues an intermittent eruption with over 101 lava overflows recorded since September 7, while burn-scar flash flood and debris-flow watches are in effect across a wide swath of Washington State. Fire weather threats also persist across the West, with new Fire Weather Watches issued for Wyoming and Red Flag Warnings active in Northern California and Montana.",
+  "events": [
+    {
+      "title": "Northeast Flash Flood Emergency \u2014 Life-Threatening Warnings Across NJ, NY, CT, PA",
+      "location": "New Jersey, New York, Connecticut, Pennsylvania, USA",
+      "type": "weather",
+      "summary": "Active Flash Flood Warnings issued by NWS Upton and NWS Mount Holly blanket densely populated areas including Bergen, Essex, Hudson, and Passaic Counties in NJ, Rockland and Westchester Counties in NY, and Fairfield County in CT, with radar-confirmed rainfall rates of 1\u20132 inches per hour and up to 2.5 inches already fallen in some areas. NWS reported life-threatening flash flooding already occurring across multiple zones as of early Sunday morning. The event represents a significant escalation of the multi-day flood threat that placed 33M+ under watches, with conditions now actively dangerous across the metro region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Over 33M Americans from Texas to New Jersey face renewed flood threat as 1,000-mile long severe storms rage on",
+          "url": "https://www.foxweather.com/weather-news/severe-storms-target-1000-mile-stretch-new-york-plains",
+          "source": "www.foxweather.com"
+        },
+        {
+          "title": "Flash Flood Warning in New Jersey Remains in Effect Amid Heavy Rain, Life-Threatening Conditions",
+          "url": "https://www.forth.news/stories/Cf1PFu1SKCEeefBK7q5Mm",
+          "source": "www.forth.news"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Summit Eruption \u2014 101+ Lava Overflows, USGS Alert Level WATCH",
+      "location": "Hawai\u02bbi Volcanoes National Park, Big Island, Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea volcano is intermittently erupting from the north vent within Halema\u02bbuma\u02bbu crater at the summit caldera (Kaluapele), with the Hawaiian Volcano Observatory reporting 101 lava overflows since the eruption's onset on September 7. The current USGS Alert Level is WATCH and the Aviation Color Code is ORANGE, indicating significant volcanic activity with episodic lava fountaining, incandescence, and intermittent spatter. The eruption is confined to the summit caldera within Hawai\u02bbi Volcanoes National Park and does not currently threaten populated areas, though volcanic gas emissions remain a concern.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Washington State Burn-Scar Flash Floods \u2014 Debris Flows Threaten Spokane Region and North-Central WA",
+      "location": "Spokane, North-Central, and Northeast Washington, USA",
+      "type": "weather",
+      "summary": "NWS Spokane issued Flash Flood Watches and Flood Watches for a wide area of Washington State including Spokane County, the Moses Lake Area, Okanogan and Chelan Counties, and the Northeast Mountains, citing the risk of debris flows, ash flows, and rock slides over existing burn scars from recent wildfires. Rainfall rates of 0.20\u20130.30 inches per hour falling on fire-scarred terrain are expected to generate dangerous runoff through Sunday afternoon. Separately, Spokane County officials announced on September 12 plans to formally request a major disaster declaration from the federal government to fund wildfire recovery.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash flood watch affecting Spokane area Sunday caused by prolonged downpours",
+          "url": "https://www.theolympian.com/news/weather-news/article317225649.html",
+          "source": "www.theolympian.com"
+        },
+        {
+          "title": "Spokane County to ask Trump for major wildfire disaster aid",
+          "url": "https://www.khq.com/news/spokane-county-to-ask-trump-for-major-wildfire-disaster-aid/article_4e2aa946-8a7f-4c3c-9ca2-a7d393975a33.html",
+          "source": "www.khq.com"
+        }
+      ]
+    },
+    {
+      "title": "Wyoming & Montana Fire Weather Emergency \u2014 Gusts to 60 mph, Humidity to 13% Forecast for Monday",
+      "location": "Wyoming and Montana, USA",
+      "type": "weather",
+      "summary": "NWS Cheyenne and NWS Riverton issued Fire Weather Watches for Monday across broad stretches of Wyoming, including the North Platte River Basin, Laramie Range, Ferris and Seminoe Mountains, Casper Mountain, and Sweetwater County, with forecast westerly gusts of 45\u201360 mph and relative humidity dropping to as low as 13\u201318%. A concurrent High Wind Watch warns of gusts up to 60 mph along the I-80 corridor in Carbon County. NWS Missoula issued a Red Flag Warning for Eastern Beaverhead National Forest in Montana through Sunday evening, with gusts to 45 mph and low humidity creating conditions where any fires that develop will spread rapidly.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Western Balkans Wildfire Crisis \u2014 Bosnia, Montenegro, Albania and Serbia",
+      "location": "Bosnia and Herzegovina, Montenegro, Albania, Serbia, Western Balkans",
+      "type": "wildfire",
+      "summary": "Wildfires across the Western Balkans continue to burn through Bosnia and Herzegovina, Montenegro, Albania, and Serbia, driven by hot, dry, and windy conditions that have persisted through the week. EUMETSAT satellite imagery published September 11 highlighted the extent of the fires, showing smoke and active fire fronts across the region. The crisis remains one of the most widespread wildfire emergencies in the Balkans in recent memory.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Image of the week: Fires in the western Balkans",
+          "url": "https://www.eumetsat.int/image-week-fires-western-balkans",
+          "source": "www.eumetsat.int"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Eruption \u2014 Alert Level III, Ash Spreading 150+ km",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau remains at Alert Level III (Siaga) as of early September 2026, with repeated eruptions indicating an ongoing magma supply driving sustained explosive activity. Volcanic ash has spread more than 150 kilometres from the volcano, causing aviation hazards and air quality impacts across the region. The eruption has been ongoing for multiple weeks, making it one of the most prolonged activity periods for the volcano in recent years.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Volcanic Eruption Map Spotlight: Anak Krakatau, Indonesia",
+          "url": "https://www.iqair.com/newsroom/volcanic-eruption-map-spotlight-anak-krakatau-indonesia",
+          "source": "www.iqair.com"
+        },
+        {
+          "title": "Years-old footage falsely shared as Indonesia volcano eruption in September 2026",
+          "url": "https://factcheck.afp.com/doc.afp.com.C7JH6CQ",
+          "source": "factcheck.afp.com"
+        }
+      ]
+    },
+    {
+      "title": "Ross Fire \u2014 Rain Brings Relief, Containment Rising from 57% on 90,400-Acre Blaze",
+      "location": "Palo Pinto and Jack Counties, North Texas, USA",
+      "type": "wildfire",
+      "summary": "The Ross Fire, Texas's largest summer wildfire, has burned over 90,400 acres across Palo Pinto and Jack Counties since igniting on August 24, and containment stood at 57% as of September 12 following rainfall that began bringing relief to firefighting efforts. The fire, which has persisted for nearly three weeks, is one of the largest recorded wildfires in North Texas history. Containment is expected to rise further as crews take advantage of improved weather conditions.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Two weeks later, one of the largest recorded wildfires in North Texas history continues burning",
+          "url": "https://www.keranews.org/texas-news/2026-09-09/two-weeks-later-one-of-the-largest-recorded-wildfires-in-north-texas-history-continues-burning",
+          "source": "www.keranews.org"
+        }
+      ]
+    }
+  ]
+}
