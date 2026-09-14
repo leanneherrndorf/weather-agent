@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-14",
+  "headline": "Flash Floods Strike Missouri and Iowa as Fire Weather Emergencies Persist Across Wyoming, Montana, and North Dakota",
+  "overview": "A multi-hazard day unfolds across the United States and globally, with severe flash flooding striking Missouri, Kansas, and Iowa after 4\u20137 inches of rain, while widespread Red Flag Warnings and High Wind Warnings stretch from Wyoming through North Dakota with gusts to 60 mph. Internationally, Indonesia's karhutla wildfire crisis has scorched more than 202,000 hectares and is sending hazardous transboundary haze across Southeast Asia, while volcanic activity at K\u012blauea and Anak Krakatau continues unabated.",
+  "events": [
+    {
+      "title": "Missouri, Kansas & Iowa Flash Flooding \u2014 4\u20137 Inches of Rain, Multi-County Warnings",
+      "location": "Northwest Missouri, Northeast Kansas, and Iowa, USA",
+      "type": "weather",
+      "summary": "Intense thunderstorms dropped 4\u20137 inches of rain across northwest Missouri and northeast Kansas overnight into Monday morning, triggering multiple Flash Flood Warnings across Andrew, Holt, Daviess, DeKalb, Gentry, and Harrison counties in Missouri and Doniphan County in Kansas. A broad Flood Watch also covers much of Iowa \u2014 including the Des Moines metro and surrounding counties \u2014 through Tuesday morning as additional rounds of heavy rainfall are expected. Creeks, streams, urban areas, and highways are flooding, and the NWS Kansas City office described flash flooding as ongoing in several warned areas.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Iowa Weather: Heavy Rain Sunday, Severe Storm Risk Monday",
+          "url": "https://iowaweather.com/rain-returns-sunday-before-an-active-weather-pattern-takes-over",
+          "source": "iowaweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Wyoming, Montana & North Dakota Fire Weather Emergency \u2014 Gusts to 60\u201375 mph, Humidity Below 10%",
+      "location": "Wyoming, Montana, and North Dakota, USA",
+      "type": "weather",
+      "summary": "Critical fire-weather conditions intensified Monday as the NWS issued Red Flag Warnings across central and southwest Wyoming \u2014 including Natrona, Fremont, and Sweetwater counties \u2014 and a sweeping High Wind Warning for much of western North Dakota, with gusts to 60 mph forecast and humidity dropping as low as 10\u201315%. In Wyoming's Absaroka Mountains and Upper Wind River Basin, local gusts to 75 mph are possible, while Montana's Snowy and Judith Mountains face 60 mph gusts through 6 PM MDT. Any fires igniting under these conditions are expected to spread rapidly, and outdoor burning is strongly discouraged across all warned areas.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Indonesia Karhutla Crisis \u2014 202,000+ Hectares Burned, Transboundary Haze Engulfs Southeast Asia",
+      "location": "Indonesia (Sumatra, Kalimantan, and archipelago-wide)",
+      "type": "wildfire",
+      "summary": "Indonesia's annual karhutla (forest and land fire) crisis has reached severe proportions as of September 13\u201314, with surface and underground peat fires scorching over 202,000 hectares across the archipelago, according to The Nation Thailand. The fires are generating thick transboundary haze that is drifting into neighboring Malaysia, Singapore, and Thailand, prompting an environmental coalition to call for recognition of the crisis as ecocide and for transnational corporate accountability. Air quality in affected areas has deteriorated to hazardous levels, with peatland fires \u2014 which burn underground and are extremely difficult to extinguish \u2014 fueling the most persistent pollution.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Indonesia fires scorch 202,000 hectares, fuel cross-border pollution",
+          "url": "https://www.nationthailand.com/news/asean/40070778",
+          "source": "www.nationthailand.com"
+        },
+        {
+          "title": "Wildfire Map Spotlight: Indonesia forest and peatland fires",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-indonesia-forest-and-peatland-fires-september-2026",
+          "source": "www.iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "Western Balkans Wildfire Crisis \u2014 Bosnia, Montenegro, Albania & Serbia",
+      "location": "Bosnia and Herzegovina, Montenegro, Albania, Serbia, Western Balkans",
+      "type": "wildfire",
+      "summary": "Wildfires continue to burn across the Western Balkans, with Bosnia and Herzegovina bearing the most severe impact \u2014 particularly around the Konjic area \u2014 while fires also persist in Montenegro, Albania, and Serbia. EUMETSAT satellite imagery published September 11 captured the breadth of the blazes, which have been driven by high temperatures, low humidity, and strong winds. The crisis has drawn international attention, with Albania reporting destruction of homes in the Himara region and ongoing multi-country firefighting efforts.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Image of the week: Fires in the western Balkans",
+          "url": "https://www.eumetsat.int/image-week-fires-western-balkans",
+          "source": "www.eumetsat.int"
+        },
+        {
+          "title": "BIH: Fire - 10-2026 - #2 (2026-09-10) - Bosnia and Herzegovina",
+          "url": "https://reliefweb.int/report/bosnia-and-herzegovina/bih-fire-10-2026-2-2026-09-10",
+          "source": "reliefweb.int"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Summit Eruption \u2014 Episodic Fountaining and Lava Overflows Continue",
+      "location": "Hawai\u02bbi Volcanoes National Park, Big Island, Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing summit eruption within the Kaluapele caldera continues to produce episodic lava fountaining, incandescence, and intermittent spatter from crater vents, as documented in a USGS Hawaiian Volcano Observatory monitoring overflight on September 10. The eruption, marked by more than 101 lava overflow events, remains at USGS WATCH alert level. HVO continues 24-hour monitoring as eruptive activity shows no signs of abating.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Anak Krakatau Eruption \u2014 243+ Events in 2026, Alert Level III Maintained",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau remains at Alert Level III (Siaga) and has logged 243 eruptions in 2026 alone, with the volcano continuing to spew lava fountains and ash plumes that have reached 150+ km from the vent; a 25-hour eruption in early September sent ash into Jakarta and Lampung province and was captured in satellite imagery by ESA's Sentinel-5P. AFP fact-checkers confirmed the recent eruption activity is genuine, noting the volcano erupted multiple times in September 2026. Indonesia's Geological Agency has noted the concurrent activity of multiple volcanoes across the archipelago, though they are not considered geologically linked.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "AI-generated video misrepresented as recent volcano eruption in Indonesia",
+          "url": "https://factcheck.afp.com/doc.afp.com.C7VA7G4",
+          "source": "factcheck.afp.com"
+        }
+      ]
+    },
+    {
+      "title": "Northern California Red Flag Warnings & PG&E Power Shutoffs \u2014 Redding Metro and Sacramento Valley",
+      "location": "Northern California (Sacramento Valley, Shasta, Tehama, Butte, Plumas, Glenn, Colusa Counties), USA",
+      "type": "weather",
+      "summary": "The NWS Sacramento office has maintained Red Flag Warnings through 5 PM PDT Monday across the Sacramento Valley and adjacent foothills, including the Redding metro area, citing north-to-northwest winds gusting 20\u201335 mph and relative humidity as low as single digits. California's Office of Emergency Services has pre-approved firefighting resources for seven counties ahead of the warnings, and PG&E warned of potential public safety power shutoffs across Northern California counties to reduce ignition risk. The conditions are part of a broader multi-day critical fire-weather pattern that has also gripped Nevada, Wyoming, Montana, and the Northern Plains.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "California Approves Firefighting Resources to Seven Counties Ahead of Red Flag Warnings",
+          "url": "https://www.news.caloes.ca.gov/california-approves-firefighting-resources-to-seven-counties-ahead-of-red-flag-warnings",
+          "source": "www.news.caloes.ca.gov"
+        },
+        {
+          "title": "PG&E power shutoffs possible in Northern California counties",
+          "url": "https://www.kcra.com/article/pge-power-shutoffs-northern-california-weekend/73670836",
+          "source": "www.kcra.com"
+        }
+      ]
+    }
+  ]
+}
