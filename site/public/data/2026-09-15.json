@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-15",
+  "headline": "Midwest flooding expands into Nebraska as multi-day rainfall continues, while new wildfires erupt on Croatia's Bra\u010d Island and California's Big Sur coast.",
+  "overview": "A persistent slow-moving storm system is driving a second day of excessive rainfall across a broad swath of Iowa, Kansas, Missouri, and Nebraska, with Flood Watches now extending through Wednesday and rivers approaching or above flood stage. Simultaneously, new wildfires have ignited on Croatia's Bra\u010d Island \u2014 forcing over 200 evacuations \u2014 and California's Big Sur coast, where two fires have collectively scorched nearly 60,000 acres. Geological and volcanic activity remains elevated globally, with K\u012blauea continuing episodic fountaining in Hawaii, Indonesia's ongoing karhutla wildfire and haze crisis spanning 202,000+ hectares, and a recently recorded M6.5 earthquake off the northwest coast of Java.",
+  "events": [
+    {
+      "title": "Midwest Multi-State Flood Crisis Expands \u2014 Iowa, Kansas, Missouri & Nebraska",
+      "location": "Iowa, Kansas, Missouri, and Nebraska, USA",
+      "type": "weather",
+      "summary": "A second consecutive day of excessive rainfall is battering a broad multi-state corridor, with NWS Flood Watches now active across dozens of counties in Iowa, Kansas, Missouri, and Nebraska through at least Wednesday afternoon. Localized totals of 3\u20135 inches are possible on top of already-saturated soils, threatening rivers including the Raccoon, Missouri, and Kansas to approach or overtop flood stage. The Raccoon River at Des Moines Fleur Drive is under a specific Flood Watch through Tuesday night, and the Kansas City metro area faces escalating river flooding risk through mid-week.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Iowa Weather: Heavy Rain Sunday, Severe Storm Risk Monday",
+          "url": "https://iowaweather.com/rain-returns-sunday-before-an-active-weather-pattern-takes-over",
+          "source": "iowaweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Big Sur Wildfires \u2014 Timber & Plaskett Fires Near 60,000 Acres Combined",
+      "location": "Big Sur, Monterey and San Luis Obispo Counties, California, USA",
+      "type": "wildfire",
+      "summary": "Two large wildfires burning near Big Sur on the California Central Coast have collectively scorched nearly 60,000 acres, with the Timber Fire \u2014 now approximately one month old \u2014 and the Plaskett Fire (ignited August 26) together posing ongoing threats to the rugged coastal region. Evacuation orders and warnings remain active across portions of Monterey County, though growth on both fires has slowed and Highway 1 closures have been partially reduced as containment improves. The fires are burning in steep, inaccessible terrain that has complicated aerial and ground suppression efforts.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "One month after start of Timber Fire, progress made in fighting Big Sur wildfires",
+          "url": "https://www.cbsnews.com/sanfrancisco/news/big-sur-wildfires-september-8-plaskett-fire-timber-fire-1-month",
+          "source": "www.cbsnews.com"
+        },
+        {
+          "title": "Hwy. 1 closure reduces as Big Sur fire containment improves",
+          "url": "https://www.sanluisobispo.com/news/local/article317184159.html",
+          "source": "www.sanluisobispo.com"
+        }
+      ]
+    },
+    {
+      "title": "Bra\u010d Island Wildfire \u2014 200+ Evacuated on Croatia's Largest Adriatic Island",
+      "location": "Bra\u010d Island, Croatia",
+      "type": "wildfire",
+      "summary": "A major wildfire erupted on Bra\u010d, Croatia's largest Adriatic island, forcing the evacuation of more than 200 residents and tourists beginning around September 12\u201313 and continuing to burn as of September 14. Croatian firefighting crews have been deployed near the town of Milna, and the EU Space Agency confirmed visible scarring of the island in satellite imagery. The fire adds to the wider Western Balkans wildfire crisis that has already been burning across Bosnia, Montenegro, Albania, and Serbia this week.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Brac Island Fire, Croatia",
+          "url": "https://www.iqair.com/in-en/newsroom/wildfire-map-spotlight-brac-island-wildfire-croatia",
+          "source": "www.iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Summit Eruption \u2014 Episodic Fountaining Continues, USGS WATCH Maintained",
+      "location": "Hawai\u02bbi Volcanoes National Park, Big Island, Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's summit eruption within Kaluapele caldera continues to produce episodic lava fountaining, incandescence, and intermittent spatter, with the USGS maintaining its WATCH alert level as of September 13. Lava has periodically overflowed crater margins in prior episodes, and activity remains dynamic with precursory low-level lava movement observed in overnight webcam imagery. The eruption poses no immediate threat to populated areas but continues to draw significant scientific and public attention.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Indonesia Karhutla Crisis \u2014 202,000+ Hectares Burned, Transboundary Haze Persists",
+      "location": "Sumatra, Kalimantan, and Indonesian Archipelago",
+      "type": "wildfire",
+      "summary": "Indonesia's karhutla (forest and land fire) season remains in full crisis as of September 13, with widespread surface and peat fires burning across Sumatra and Kalimantan having scorched more than 202,000 hectares in 2026. Thick transboundary haze continues to degrade air quality across neighboring Southeast Asian nations, a recurring and severe public health emergency. The combination of drought-dried peatlands and agricultural burning is driving the crisis, which shows no immediate sign of abatement.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "M6.5 Deep Earthquake \u2014 Northwest Java, Indonesia",
+      "location": "126 km NNE of Teluknaga, Java, Indonesia",
+      "type": "earthquake",
+      "summary": "A magnitude 6.5 earthquake struck approximately 126 km north-northeast of Teluknaga on the northwest coast of Java on September 11 at 21:23 UTC, according to USGS data. The event occurred at a depth of 372 km \u2014 deep enough to significantly attenuate surface shaking \u2014 and was assigned a green USGS alert level with no tsunami alert issued; 21 felt reports were recorded. The Watchers reported the event as an M6.6, suggesting slight magnitude revision, with the epicenter located roughly 115 km north of the Java coast.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong M6.6 earthquake hits Java, Indonesia",
+          "url": "https://watchers.news/2026/09/12/strong-m6-6-earthquake-hits-java-indonesia",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Fairbanks, Alaska Flood Watch \u2014 Chena River at Bankfull Through Saturday",
+      "location": "Fairbanks Metro Area and Upper Kuskokwim Valley, Alaska, USA",
+      "type": "weather",
+      "summary": "The National Weather Service in Fairbanks has issued Flood Watches through Friday\u2013Saturday for the Fairbanks metro area and Upper Kuskokwim Valley, citing the Chena River currently running at or near bankfull with soils saturated from persistent heavy rainfall. Additional rainfall through the week threatens to push the Chena and Little Chena rivers over their banks, potentially affecting Fairbanks, North Pole, Two Rivers, Fort Wainwright, and surrounding communities. Late-season Arctic flooding events of this duration and areal extent are relatively uncommon and warrant close monitoring.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
