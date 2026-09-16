@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-16",
+  "headline": "Rare Tropical Disturbance Fuels Extreme Monsoon Flash Flood Threat Across US Southwest, From Phoenix Metro to Zion National Park",
+  "overview": "A rare tropical disturbance surging out of the Gulf of California is driving a dangerous monsoon flood event across Arizona, New Mexico, Utah, and Colorado on September 16, with the Phoenix metro, Zion National Park, and the Four Corners region all under active flash flood watches. Simultaneously, the Midwest flood crisis deepens as Grand and Platte River systems enter moderate flood stage through Missouri, while K\u012blauea's eruption is reported to be intensifying and Anak Krakatau continues explosive activity in Indonesia's Sunda Strait. Indonesia's broader karhutla wildfire crisis \u2014 linked to over 1,700 deaths in August alone \u2014 persists with transboundary haze blanketing Southeast Asia.",
+  "events": [
+    {
+      "title": "Southwest Monsoon Surge \u2014 Rare Tropical Disturbance Triggers Multi-State Flash Flood Emergency",
+      "location": "Arizona, New Mexico, Utah, and Colorado, USA",
+      "type": "weather",
+      "summary": "A rare tropical disturbance emerging from the Gulf of California is amplifying the North American monsoon, driving active flash flood watches across a vast swath of the US Southwest including the entire Phoenix metro area (Maricopa County), Zion National Park, the Four Corners region, southwest and central New Mexico, and portions of southwest Colorado through Thursday. The NWS has issued dozens of concurrent flood watches and warnings across the region, with excessive runoff threatening slot canyons, normally dry desert washes, and major river corridors. The threat extends from September 16 through at least September 18 as multiple rounds of thunderstorms are forecast.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Midwest Multi-State Flood Crisis \u2014 Grand and Platte Rivers Enter Moderate Flood Stage",
+      "location": "Iowa, Kansas, Missouri, and Nebraska, USA",
+      "type": "weather",
+      "summary": "The multi-state flood crisis across the central US heartland is actively escalating on September 16, with the Grand River system in Missouri now entering moderate flood stage at multiple gauges including near Chillicothe and Sumner, with crests forecast through September 21. Concurrent flood warnings remain active across Iowa's Raccoon and Nishnabotna Rivers, while fresh flood watches cover northeast Kansas\u2013Missouri border counties and portions of southwest Iowa and eastern Nebraska. A slow-moving cold front is continuing to funnel waves of heavy moisture into the region, sustaining the threat of additional river crests and road closures through the coming days.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "K\u012blauea Eruption Intensifies \u2014 Lava Overflows and Heightened Fountaining at Summit",
+      "location": "Hawai\u02bbi Volcanoes National Park, Big Island, Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing summit eruption within Halema\u02bbuma\u02bbu crater is reported to have intensified as of September 15, with more than 50 lava overflow events recorded from the north vent and continued episodic high fountaining activity. Reuters helicopter footage captured lava overflows ahead of renewed fountaining episodes, and the USGS WATCH alert level remains in force. The eruption has been characterized by escalating episodic behavior since it began earlier in 2026, with no indication of imminent cessation.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "K\u012blauea Eruption Intensifies in Hawaii",
+          "url": "https://www.gktoday.in/kilauea-eruption-intensifies-in-hawaii",
+          "source": "gktoday.in"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Eruption \u2014 Explosive Activity Confirmed by NASA and ESA Satellite Imagery",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau in Indonesia's Sunda Strait has been producing explosive eruptions in September 2026, with NASA Earthdata imagery showing brown ash clouds and volcanic gas plumes, and ESA's Sentinel-5P satellite confirming sulfur dioxide emissions from the active vent. The volcano has logged over 243 eruptive events in 2026 and Indonesia's PVMBG has maintained its Alert Level III (SIAGA), restricting access within a 5 km radius. Social media misinformation about the eruption has prompted an AFP fact-check, underscoring the ongoing public interest and real-world significance of the eruption.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Eruption of the Anak Krakatau volcano, Indonesia | EU Space Support Office",
+          "url": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/eruption-anak-krakatau-volcano-indonesia",
+          "source": "eu-space.europa.eu"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Karhutla Crisis \u2014 Over 1,700 Deaths Linked to August Fires, Haze Persists into September",
+      "location": "Sumatra, Kalimantan, and Indonesian Archipelago",
+      "type": "wildfire",
+      "summary": "A damning new analysis from the Centre for Research on Energy and Clean Air (CREA) estimates that Indonesia's 2026 karhutla (forest and land fire) crisis caused over 1,700 deaths in August alone from fire-related air pollution, in addition to the chronic pollution burden from fossil fuel use. As of mid-September, widespread surface and underground peat fires continue to burn across the archipelago, with IQAir's wildfire spotlight confirming active fires persisting across Sumatra and Kalimantan as of September 13. Transboundary haze remains a diplomatic and public health concern for neighboring Malaysia, Singapore, and Brunei, with bilateral coordination efforts ongoing.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Big Sur Wildfires \u2014 Timber Fire Remains Largely Uncontained at ~27%, Air Quality Hazardous",
+      "location": "Big Sur, Monterey and San Luis Obispo Counties, California, USA",
+      "type": "wildfire",
+      "summary": "The Timber Fire burning in Big Sur remains only approximately 27% contained as of September 12, representing a significant ongoing wildfire threat along California's central coast despite the Plaskett Fire having reached 83% containment. The two fires together have scorched nearly 60,000 combined acres in Monterey and San Luis Obispo Counties, generating hazardous air quality conditions for coastal communities. A separate Dog and Lucas Fire complex is also active near Lake County and Mendocino County, indicating a broader Northern California fire situation.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Timber and Plaskett Fires, California",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-timber-and-plaskett-fires-california",
+          "source": "iqair.com"
+        },
+        {
+          "title": "Dog Fire and Lucas Fire \u2014 California fire map",
+          "url": "https://www.sfchronicle.com/projects/california-fire-map/dog-fire-2026",
+          "source": "sfchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Nevada Red Flag Warning \u2014 Extreme Fire Weather Across Central and Eastern Nevada",
+      "location": "Central and Eastern Nevada (Nye, Elko, White Pine Counties), USA",
+      "type": "weather",
+      "summary": "The NWS Elko has issued Red Flag Warnings and Fire Weather Watches covering central and eastern Nevada \u2014 including Northern and Central Nye County and Elko County \u2014 with sustained southerly winds of 20\u201325 mph, gusts to 35 mph, and critically low afternoon relative humidity of 18\u201328% forecast through September 17. These conditions create rapid fire spread potential across the high desert terrain of the Great Basin. The warnings follow a period in early September when nearly all of Nevada was under fire weather watches, indicating a persistent and recurring fire weather pattern across the state this season.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Nearly All of Nevada Under Fire Weather Warnings: Live Tracker Maps",
+          "url": "https://www.newsweek.com/nearly-all-of-nevada-under-fire-weather-warnings-live-tracker-maps-12432473",
+          "source": "newsweek.com"
+        }
+      ]
+    }
+  ]
+}
