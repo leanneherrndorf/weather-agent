@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-17",
+  "headline": "Southwest Monsoon Claims 3 Lives in New Mexico Flash Flooding as Multi-State Flood Emergency Expands Across the Midwest and Ohio Valley",
+  "overview": "A deadly escalation of the Southwest monsoon surge claimed three lives near Newcomb on the Navajo Nation in New Mexico overnight, while a broad flood emergency intensified across the Midwest and Ohio Valley \u2014 stretching from Iowa and Kansas through Indiana and Ohio, with the Wabash River near Linn Grove approaching its flood of record. Remnant moisture from former Tropical Storm Norbert brought a Hawaiian Islands-wide Flood Watch, and dry thunderstorms with 50 mph gusts triggered a Red Flag Warning across southern Idaho and eastern Oregon, compounding an already active week of natural hazards across North America.",
+  "events": [
+    {
+      "title": "Southwest Monsoon Flash Flooding \u2014 3 Dead on Navajo Nation, New Mexico",
+      "location": "Newcomb, Navajo Nation, New Mexico, USA",
+      "type": "weather",
+      "summary": "Flash flooding fueled by a persistent Southwest monsoon surge killed three people \u2014 two adults and a juvenile \u2014 after floodwaters swept them away near Newcomb on the Navajo Nation overnight into September 17. NWS Albuquerque maintained Flood Watches across most of northern and central New Mexico through the evening, with additional rounds of heavy thunderstorms forecast. The fatalities mark a deadly escalation of the multi-day monsoon emergency that has been affecting Arizona, New Mexico, Utah, and Colorado since September 16.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flash flooding kills 3 near Newcomb on Navajo Nation, New Mexico",
+          "url": "https://watchers.news/2026/09/17/flash-flooding-kills-3-near-newcomb-on-navajo-nation-new-mexico",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Midwest & Ohio Valley Flood Surge \u2014 Wabash River Approaches Flood of Record in Indiana",
+      "location": "Indiana, Ohio, Illinois, Iowa, Kansas, Missouri, USA",
+      "type": "weather",
+      "summary": "A multi-day flood emergency expanded dramatically across the Midwest and Ohio Valley on September 17, with the Wabash River near Linn Grove in northeastern Indiana approaching its flood of record and moderate flooding forecast along multiple river gauges through at least September 21. Flash Flood Warnings were simultaneously active across northern Indiana, northwestern Ohio, and north-central Illinois, as storms delivered 1\u20135 inches of rain across a broad corridor from Kansas and Nebraska through Indiana and Ohio. Chicago recorded 63.4 mm of precipitation, among the highest of any major global city on this date, and Flood Watches blanketed portions of east-central Iowa and northwestern Illinois as rivers remained elevated from prior rainfall.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Former Tropical Storm Norbert \u2014 Hawaii Islands-Wide Flood Watch",
+      "location": "Hawaiian Islands, USA",
+      "type": "weather",
+      "summary": "Remnant moisture from former Tropical Storm Norbert brought a Flood Watch to all main Hawaiian Islands from September 16 through Friday morning, with periods of moderate to heavy showers threatening flood-prone roads, low-lying areas, and streams across Kauai, Oahu, Maui, and the Big Island. AccuWeather noted the event compounds flood risks already elevated following a deadly and destructive hurricane season featuring Hurricanes Lala and Lowell. NWS Honolulu warned that excessive runoff could close roads and inundate drainage systems island-wide.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Idaho & Oregon Red Flag Warning \u2014 Dry Lightning and 50 mph Gusts",
+      "location": "Southern Idaho and Eastern Oregon, USA",
+      "type": "weather",
+      "summary": "NWS Boise issued a Red Flag Warning for portions of the Boise National Forest, Sawtooth National Forest, and eastern Oregon's Steens Mountain and Burns BLM lands on September 17, citing dry thunderstorms with minimal rainfall and outflow wind gusts up to 50 mph. The warning highlighted a high risk that any lightning-ignited fires could spread rapidly in low-humidity conditions, compounding an already active western wildfire season that has prompted Oregon's legislature to approve over $120 million in emergency wildfire funding. The threat runs through 9 PM MDT, overlapping with ongoing fire weather concerns across Nevada.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Oregon lawmakers approve more than $120 million to cover cost of 2026 wildfires",
+          "url": "https://oregoncapitalchronicle.com/2026/09/10/oregon-lawmakers-approve-more-than-120-million-to-cover-cost-of-2026-wildfires/",
+          "source": "oregoncapitalchronicle.com"
+        }
+      ]
+    },
+    {
+      "title": "Big Sur Wildfires \u2014 Plaskett Fire Reaches 89% Containment; Timber Fire Stalls at 27%",
+      "location": "Big Sur, Monterey and San Luis Obispo Counties, California, USA",
+      "type": "wildfire",
+      "summary": "The Plaskett Fire achieved 89% containment as of September 16 \u2014 a major advance from 83% on September 12 \u2014 with personnel counts dropping to 348 as crews and equipment are reassigned, though crews remain active in steep and rugged terrain. The Timber Fire, however, remains stubbornly at just 27% containment despite aerial resources being a central suppression tactic, with 1,703 personnel still assigned and hazardous air quality persisting across Monterey and San Luis Obispo Counties. Combined, the two fires continue to exceed 55,000 acres burned, and fire weather concerns persist given overlapping Red Flag conditions elsewhere in the West.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Timber and Plaskett Fires, California",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-timber-and-plaskett-fires-california",
+          "source": "www.iqair.com"
+        },
+        {
+          "title": "Three Monterey County fires near Big Sur have burned nearly 60,000 acres",
+          "url": "https://hanfordsentinel.com/news/national/three-monterey-county-fires-near-big-sur-have-burned-nearly-60-000-acres/article_f9bb3a9a-8b05-54ac-8e81-7b48c36b3e57.html",
+          "source": "hanfordsentinel.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Eruption \u2014 North Vent Lava Overflows and Episodic Dome Fountaining Continue",
+      "location": "Hawai\u02bbi Volcanoes National Park, Big Island, Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's summit eruption within Halema\u02bbuma\u02bbu crater continues with more than 50 lava overflow events recorded from the north vent, along with episodic dome fountaining captured by USGS webcams as recently as September 11. Reuters helicopter footage confirmed lava overflows ahead of renewed fountaining episodes, and HVO maintained its WATCH alert level as the eruption remains active and dynamic. The ongoing activity continues to draw scientific attention while posing air quality and access hazards within Hawai\u02bbi Volcanoes National Park.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "North Africa & Middle East Intense Late-Season Heat \u2014 Cairo 38.8\u00b0C, Dubai 37.3\u00b0C",
+      "location": "Cairo, Egypt and Dubai, UAE",
+      "type": "weather",
+      "summary": "Cairo reached a maximum temperature of 38.8\u00b0C (101.8\u00b0F) on September 17, well above seasonal norms for mid-September when temperatures typically begin easing from summer peaks, making it one of the hottest cities among all globally monitored locations today. Dubai recorded 37.3\u00b0C with overnight lows of 28.9\u00b0C, sustaining the intense heat stress that has characterized the region through an extended summer. No dedicated news coverage directly confirming an anomalous Cairo or Dubai heat event was found in today's search results, though the observed temperatures stand out in the global weather data.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
