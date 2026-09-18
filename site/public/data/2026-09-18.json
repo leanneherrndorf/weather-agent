@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-18",
+  "headline": "M6.5 Aleutian Islands Earthquake Triggers Tsunami Alert as Anak Krakatau Blasts Ash Nearly 10 Miles High Over Indonesia",
+  "overview": "A significant M6.5 earthquake struck the Fox Islands in Alaska's Aleutian chain on September 17, prompting a tsunami alert that was ultimately assessed at green level. Simultaneously, Anak Krakatau's ongoing eruption reached a dramatic new intensity, sending an ash column nearly 10 miles into the atmosphere and blanketing Jakarta with volcanic ash. Across the continental United States, a sprawling flood crisis continues to deepen, with the Wabash River flooding communities in Indiana through at least September 23, new multi-day flash flood watches issued across Montana's burn scars, an unusual flood watch for Fairbanks, Alaska \u2014 currently experiencing its second-wettest September on record \u2014 and fresh flood watches expanding into Wisconsin, Minnesota, and Iowa.",
+  "events": [
+    {
+      "title": "M6.5 Aleutian Islands Earthquake \u2014 Tsunami Alert Issued Near Nikolski, Alaska",
+      "location": "Fox Islands, Aleutian Islands, Alaska, USA",
+      "type": "earthquake",
+      "summary": "A strong M6.5 earthquake struck 165 km west of Nikolski in the Fox Islands region of the Aleutian Islands at 14:19 UTC on September 17, 2026, at a depth of approximately 112 km. The USGS issued a tsunami alert in connection with the event, though the alert level was ultimately assessed as green, indicating low impact. Only 8 felt reports were recorded, consistent with the remote location of the Aleutian arc.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong M6.5 earthquake hits Fox Islands, Aleutian Islands - The Watchers",
+          "url": "https://watchers.news/2026/09/17/strong-m6-5-earthquake-hits-fox-islands-aleutian-islands",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Very strong mag. 6.5 earthquake - 165 km W of Nikolski, Alaska, on Thursday, Sep 17, 2026",
+          "url": "https://www.volcanodiscovery.com/earthquake/major/2026-09-17/14-19/magnitude6-Alaska.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Eruption \u2014 Ash Column Nearly 10 Miles High, Jakarta Blanketed",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's Anak Krakatau volcano produced a powerful eruption that blasted an ash column nearly 10 miles (16 km) into the atmosphere, with volcanic gas and brown ash clouds documented by NASA's Landsat 8 satellite in early-to-mid September 2026. The eruption blanketed Jakarta and nearby cities in volcanic ash, marking a significant escalation from the explosive activity confirmed earlier in the week. Indonesia's MAGMA monitoring agency reports that while activity has shown some subsidence in recent days, eruption risk remains high.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Wabash River Flood Crisis Deepens \u2014 Warning Extended Through September 23 in Indiana",
+      "location": "Wells, Adams, Allen Counties, Indiana, USA",
+      "type": "weather",
+      "summary": "Active flood warnings along the Wabash River near Bluffton and Linn Grove in northeastern Indiana have been extended through September 23, 2026 \u2014 a five-day extension that signals a prolonged and worsening flood event. The Saint Marys River near Fort Wayne and near Decatur is also under flood warning, with multiple counties in northeastern Indiana and adjacent Van Wert County, Ohio affected. Footage from Bluffton showed Kehoe Park in downtown heavily inundated, with flooding actively impacting roads and low-lying structures.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Floods invade northeast Indiana counties | WANE 15",
+          "url": "https://www.wane.com/top-stories/floods-invade-northeast-indiana-counties",
+          "source": "www.wane.com"
+        },
+        {
+          "title": "Severe storms & flooding wreak havoc across northern Indiana | WANE 15",
+          "url": "https://www.wane.com/news/local-news/severe-storms-flooding-wreak-havoc-across-northern-indiana",
+          "source": "www.wane.com"
+        }
+      ]
+    },
+    {
+      "title": "Montana Multi-Day Flash Flood Watch \u2014 Burn Scars at High Risk Through September 20",
+      "location": "Central and Southwest Montana, USA",
+      "type": "weather",
+      "summary": "The NWS offices in Great Falls and Billings have issued Flash Flood and Flood Watches covering vast swaths of central and southwest Montana through September 20, 2026, driven by a strong, slow-moving weather system delivering well-above-normal atmospheric moisture. The greatest concern is over recent summer 2026 burn scars \u2014 including the Horse Gulch, Sand Creek, and Bobcat Lakes areas \u2014 where heavy rainfall can rapidly trigger flash floods and dangerous debris flows. Areas affected span from the Absaroka, Bighorn, Big Belt, Bridger, and Castle Mountains to Gallatin Valley and the Paradise Valley corridor.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Fairbanks, Alaska Flood Watch \u2014 2nd Wettest September on Record",
+      "location": "Fairbanks, Alaska, USA",
+      "type": "weather",
+      "summary": "A Flood Watch is in effect for the Fairbanks metro area, Two Rivers, and the Upper Chena River Valley through Saturday, September 19, as heavy rain threatens to push the Chena and Little Chena rivers out of their banks. Fairbanks is currently experiencing its second-wettest September on record, with above-normal rainfall accumulating throughout the month. Additional widespread rain is expected to return to Interior and Southeast Alaska through the weekend, prolonging the flooding threat.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Upper Midwest Flood Expansion \u2014 Wisconsin, Minnesota, and Iowa Under Watches",
+      "location": "Wisconsin, Minnesota, and Iowa, USA",
+      "type": "weather",
+      "summary": "The multi-state flood crisis that originated in the lower Midwest has expanded northward, with Flood Watches now covering south-central Wisconsin (Dane, Rock, Sauk, and adjacent counties), southeast Minnesota (Olmsted, Winona, Fillmore, and others), and northeast Iowa (Allamakee, Howard, Mitchell, Winneshiek counties), with watches valid into Saturday, September 19. NWS La Crosse warns of two rounds of rain \u2014 steady moderate rainfall followed by the potential for embedded thunderstorms \u2014 that could push creeks and streams out of their banks and cause significant urban and road flooding. A separate Flood Watch for Freeborn County, Minnesota extends through Saturday morning.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "2026 US Wildfire Season \u2014 8.4 Million Acres Burned at 147% of 10-Year Average",
+      "location": "Western United States",
+      "type": "wildfire",
+      "summary": "As of September 15, 2026, a total of 55,419 fires have burned more than 8.4 million acres across the United States \u2014 125% of the 10-year average number of fires and a striking 147% of the 10-year average burned acreage, according to Drought.gov. Record-breaking high temperatures and historic drought conditions across the West have driven the hyperactive season, prompting U.S. Senators from California, Colorado, and Oregon to sound the alarm over inadequate firefighting resources. Montana burn scars from this season are now themselves generating secondary flash flood hazards, illustrating the cascading nature of the 2026 fire-drought cycle.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "California U.S. Senators Alex Padilla, Adam Schiff Sound Alarm on Lack of Firefighting Resources During the 2026 Wildfire Season",
+          "url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/81564-california-u-s-senators-alex-padilla-adam-schiff-sound-alarm-on-lack-of-firefighting-resources-during-the-2026-wildfire-season-say-record-breaking-high-temperatures-and-historic-drought-have-led-to-catastrophic-fires-across-the-west",
+          "source": "goldrushcam.com"
+        }
+      ]
+    }
+  ]
+}
