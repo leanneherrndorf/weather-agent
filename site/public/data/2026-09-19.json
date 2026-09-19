@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-19",
+  "headline": "A vast Midwest flood corridor spanning seven states expands further as Ambae volcano in Vanuatu escalates, and Indonesia's karhutla wildfire crisis deepens.",
+  "overview": "September 19 brings a sprawling multi-state flood emergency across the American Midwest and Great Lakes region, with flash flood warnings and watches active from Iowa and Illinois through Wisconsin, Minnesota, Indiana, and Michigan, while the Wabash River flood in northeast Indiana remains extended through September 24. Internationally, Ambae volcano in Vanuatu is experiencing escalating eruptive activity at Manaro Voui, and Indonesia continues to battle its annual karhutla forest and peatland fire crisis across the archipelago with risks forecast through November. Montana's burn-scar flash flood threat and Alaska's panhandle wind-and-flood event round out a globally active natural hazard day.",
+  "events": [
+    {
+      "title": "Great Lakes\u2013Midwest Mega-Flood Corridor Expands to Seven States",
+      "location": "Iowa, Illinois, Wisconsin, Minnesota, Indiana, Michigan, and Wyoming, USA",
+      "type": "weather",
+      "summary": "A relentless train of heavy thunderstorm complexes has triggered simultaneous flash flood warnings and watches across an unprecedented seven-state swath stretching from northeast Iowa and northwest Illinois through southern Wisconsin, southeast Minnesota, northern Indiana, southwest Michigan, and into Wyoming's Bighorn and Absaroka ranges, with Chicago, Milwaukee, Des Moines, and surrounding metro areas under active threat. The NWS Quad Cities, La Crosse, Milwaukee, Chicago, Northern Indiana, and Grand Rapids offices have all issued overlapping Flood Watches valid through Sunday morning, with 1\u20134 inches already recorded across the corridor and additional rainfall possible. This rapid geographic expansion of the Midwest flooding complex marks a significant escalation beyond prior days' watches, embedding the region in what forecasters are calling a 'soggy September' pattern with a Level 2 flash flood threat persisting through midweek.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Wabash River Flood Extended Through September 24 \u2014 Warnings Expand to Saint Marys River",
+      "location": "Wells, Adams, Allen Counties, Indiana, and Van Wert County, Ohio, USA",
+      "type": "weather",
+      "summary": "The Wabash River flood emergency in northeast Indiana has been extended through September 24, with the NWS Northern Indiana office also issuing new Flood Warnings for the Saint Marys River near Fort Wayne and Decatur, now affecting Van Wert County, Ohio \u2014 a geographic expansion from prior warnings. Flood imagery from Bluffton showed Kehoe Park along the Wabash heavily inundated, and the broader region remains under a Flood Watch through Sunday morning amid continued heavy rainfall. The multi-river flooding now affects a wide arc of northeast Indiana and northwest Ohio with no clear recession in sight before next week.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Floods invade northeast Indiana counties",
+          "url": "https://www.wane.com/top-stories/floods-invade-northeast-indiana-counties",
+          "source": "www.wane.com"
+        },
+        {
+          "title": "Severe storms & flooding wreak havoc across northern Indiana",
+          "url": "https://www.wane.com/news/local-news/severe-storms-flooding-wreak-havoc-across-northern-indiana",
+          "source": "www.wane.com"
+        }
+      ]
+    },
+    {
+      "title": "Ambae Volcano Escalates \u2014 Manaro Voui Alert Level Raised in Vanuatu",
+      "location": "Ambae Island, Vanuatu",
+      "type": "volcano",
+      "summary": "Ambae Island in Vanuatu remains an active volcanic environment due to sustained eruptive activity at Manaro Voui volcano, with the alert level having been upgraded in February 2026 and remaining elevated through at least September 17 per a ReliefWeb humanitarian bulletin. The ongoing eruption poses displacement risks for Ambae's population, which has been evacuated in prior eruption cycles, and authorities continue monitoring for escalation. Data coverage for this remote Pacific island chain is limited, but the sustained elevated alert status makes this one of the most significant ongoing volcanic hazards outside of Indonesia and Hawaii.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "VUT: Volcanic Eruption - 08-2026 - Ambae Volcano 2026 #1, #2 (2026-09-17)",
+          "url": "https://reliefweb.int/report/vanuatu/vut-volcanic-eruption-08-2026-ambae-volcano-2026-1-2-2026-09-17",
+          "source": "reliefweb.int"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Karhutla Crisis \u2014 Widespread Forest and Peatland Fires Across the Archipelago",
+      "location": "Indonesia (Multiple Islands)",
+      "type": "wildfire",
+      "summary": "As of September 13\u201316, Indonesia is experiencing its annual karhutla (forest and land fire) crisis, with surface and underground peat fires burning across the archipelago and generating hazardous air quality conditions for millions of residents. Authorities warn that forest fire risks will persist through at least November 2026, driven by dry season conditions and delayed monsoon onset in some regions. The fires compound the ongoing volcanic ash impacts from Anak Krakatau on the region, creating compounded air quality and health burdens across Java, Sumatra, and Kalimantan.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Indonesia forest and peatland fires",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-indonesia-forest-and-peatland-fires-september-2026",
+          "source": "www.iqair.com"
+        },
+        {
+          "title": "Indonesia: Forest Fire Risks Persist Until November 2026",
+          "url": "https://en.tempo.co/read/2119694/indonesia-forest-fire-risks-persist-until-november-2026",
+          "source": "en.tempo.co"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Panhandle Storm \u2014 High Wind Watch and Flood Watch for Skagway, Haines, and Yakutat",
+      "location": "Skagway, Haines, Klukwan, and Yakutat, Alaska, USA",
+      "type": "weather",
+      "summary": "A strong low-pressure system moving into the Alaska Panhandle this weekend has prompted simultaneous High Wind Watches (gusts up to 60 mph) and Flood Watches for Skagway, Haines Borough, Klukwan, and Yakutat, valid through Monday morning. Elevated freezing levels are accelerating glacial melt on river systems, compounding heavy rainfall runoff and raising the risk of significant river rises in low-lying communities. The dual wind-and-flood threat in these remote coastal communities is particularly dangerous given their limited road access and evacuation infrastructure.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Montana Burn-Scar Flash Flood Threat Expands to Northeast Montana",
+      "location": "Central, Southwest, and Northeast Montana, USA",
+      "type": "weather",
+      "summary": "Montana's multi-day burn-scar flash flood emergency has expanded significantly on September 19, with new Flood Watches issued by NWS Glasgow for five northeast Montana counties (Dawson, Garfield, Petroleum, Prairie, and Wibaux) through Sunday afternoon, adding to the existing central and southwest Montana watches covering the Sand Creek, Bobcat Lakes, and Horse Gulch burn scars. Flash flood and debris flow risks remain elevated wherever rain falls on recently burned terrain, which cannot absorb water normally. The statewide scope of this event \u2014 spanning from Beaverhead County in the southwest to the eastern plains near the North Dakota border \u2014 marks a notable escalation from prior days.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Weather Forecast: Rain for southern Montana through Saturday",
+          "url": "https://www.kpax.com/weather/weather-forecast-rain-for-southern-montana-through-saturday",
+          "source": "www.kpax.com"
+        }
+      ]
+    },
+    {
+      "title": "Guam Flash Flood Warning \u2014 Thunderstorm Complex Strikes West Coast",
+      "location": "Guam, USA (Western Pacific)",
+      "type": "weather",
+      "summary": "Strong thunderstorms with wind gusts exceeding 34 knots (39 mph) and frequent lightning struck the west coast of Guam on the evening of September 19 (local time), prompting both a Flash Flood Warning and a Special Marine Warning from NWS Tiyan. Heavy rainfall led to flash flooding, with residual urban and small-stream flood risk persisting for at least an hour after the main cell passed. The storm also posed hazards to small craft in Guam's coastal waters, with the NWS warning of sudden high winds and dangerous seas.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
