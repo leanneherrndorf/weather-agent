@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-20",
+  "headline": "Midwest Mega-Flood Breaches into New States as West Virginia and Ohio Hit by Flash Floods, Mississippi River Watches Extend to Late September",
+  "overview": "The Great Lakes\u2013Midwest flood crisis dramatically escalated on September 20, with new flash flood warnings erupting across West Virginia, Ohio, and Kentucky as tropical moisture fueled torrential overnight rainfall, while the Wapsipinicon River in Iowa approached record flood levels and fresh Mississippi River flood watches stretched downstream through September 26. Simultaneously, a new M6.4 earthquake struck Papua New Guinea and the Floriston Fire forced closure of Interstate 80 near the California-Nevada border. Dubai recorded a scorching 43\u00b0C as the Arabian Peninsula approaches the astronomical end of summer.",
+  "events": [
+    {
+      "title": "Midwest Mega-Flood Expands South \u2014 West Virginia, Ohio, and Kentucky Inundated",
+      "location": "West Virginia, Ohio, Kentucky, Iowa, Wisconsin, Indiana, Illinois, USA",
+      "type": "weather",
+      "summary": "The sprawling central US flood crisis surged southward on September 20, with NWS Charleston issuing simultaneous Flash Flood Warnings across more than 15 counties in West Virginia, southeastern Ohio, and border counties in Kentucky, driven by tropical airmass-fueled thunderstorms dropping 1.5\u20134 inches of rain overnight. The Wapsipinicon River near De Witt, Iowa is forecast to approach the all-time flood of record, while the Fox River and Des Plaines River systems threaten moderate flooding in the Chicago metropolitan area through Tuesday. New Mississippi River flood watches have been issued downstream from Rock Island, Illinois through Hancock County, Missouri, with crests not expected until late September 26 \u2014 representing the farthest downstream and longest-duration extension of this multi-week flooding disaster yet.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Midwest Flash Flood Alert 2026: Wisconsin, Michigan, Illinois",
+          "url": "https://nomadlawyer.org/midwest-flash-flood-threat-wisconsin-michigan-illinois-travel-disruptions-2026",
+          "source": "nomadlawyer.org"
+        }
+      ]
+    },
+    {
+      "title": "Mississippi River Flood Watch \u2014 Crests Forecast Through September 26 from Iowa to Missouri",
+      "location": "Rock Island, Muscatine, Louisa, Mercer, Henderson, Des Moines, Lee Counties (Iowa, Illinois, Missouri, USA)",
+      "type": "weather",
+      "summary": "NWS Quad Cities issued a cascade of new Mississippi River Flood Watches on the evening of September 19, covering a 200-mile stretch of the river from Rock Island Lock and Dam 15 southward through Hancock County, Illinois and Clark County, Missouri, with the final downstream crests not expected until September 26. Forecasters upgraded anticipated flooding at the Muscatine and New Boston gauges from minor to moderate severity as record upstream runoff from Iowa's swollen Cedar, Iowa, Wapsipinicon, and English River systems drains toward the mainstem. This represents the first time the Mississippi River itself has come under formal flood watches during the 2026 Midwest flood crisis.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Iowa, Illinois Severe Flood Watch | Effective 09/19/2026",
+          "url": "https://govonestop.com/nws/iowa-illinois-severe-flood-watch-effective-09192026-2012-3",
+          "source": "govonestop.com"
+        },
+        {
+          "title": "Midwest Flash Flood Alert 2026: Wisconsin, Michigan, Illinois",
+          "url": "https://nomadlawyer.org/midwest-flash-flood-threat-wisconsin-michigan-illinois-travel-disruptions-2026",
+          "source": "nomadlawyer.org"
+        }
+      ]
+    },
+    {
+      "title": "M6.4 Earthquake Strikes Eastern Papua New Guinea",
+      "location": "49 km NNE of Kainantu, Eastern Highlands, Papua New Guinea",
+      "type": "earthquake",
+      "summary": "A magnitude 6.4 earthquake struck 49 km north-northeast of Kainantu in Papua New Guinea's Eastern Highlands at 09:17 UTC on September 20, 2026, at a depth of approximately 104 km. The USGS recorded 25 felt reports and assigned a green alert level; no tsunami alert was issued, consistent with the event's intermediate focal depth. The Eastern New Guinea region sits along the highly active Pacific Ring of Fire and regularly experiences strong seismicity.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong M6.4 earthquake hits Eastern New Guinea region, Papua New Guinea",
+          "url": "https://watchers.news/2026/09/20/strong-m6-4-earthquake-hits-eastern-new-guinea-region-papua-new-guinea",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Floriston Fire Shuts Down Interstate 80 Near California-Nevada Border",
+      "location": "Floriston, Nevada County, California / Washoe County, Nevada, USA",
+      "type": "wildfire",
+      "summary": "The Floriston Fire, burning approximately nine miles northeast of Lake Tahoe near the California-Nevada state line, forced the closure of Interstate 80 \u2014 one of the nation's most critical east-west freight corridors \u2014 as of September 18, 2026, with the closure continuing into the weekend. Evacuation warnings were issued for communities near Floriston Way, and air quality was degraded across the greater Reno-Tahoe region. The fire adds to the 2026 US wildfire season total, which already stands at 8.4 million acres burned \u2014 147% of the 10-year average.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Floriston Fire north of Lake Tahoe closes I-80 near Reno, prompts evacuation warnings",
+          "url": "https://www.kunr.org/local-stories/2026-09-16/floriston-fire-north-of-lake-tahoe-closes-i-80-near-reno-prompts-evacuation-warnings",
+          "source": "www.kunr.org"
+        },
+        {
+          "title": "Wildfire Map Spotlight: Floriston Fire, California",
+          "url": "https://www.iqair.com/af/newsroom/wildfire-map-spotlight-floriston-fire-california",
+          "source": "www.iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau \u2014 Indonesia Calls Off Search for Missing Journalists",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesian authorities have called off the search-and-rescue operation for journalists and boat crew members who went missing while covering the massive Anak Krakatau eruption \u2014 the same event that sent an ash column nearly 10 miles high and blanketed Jakarta in ash on September 18. A search vessel lost contact with the group in the Sunda Strait during the eruption's most intense phase; an extended search effort has now been terminated. The development marks a tragic human toll from one of Anak Krakatau's most powerful eruptions in recent years.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indonesia calls off search for journalists missing while covering volcano eruption",
+          "url": "https://www.fresnobee.com/news/nation-world/world/article317289563.html",
+          "source": "www.fresnobee.com"
+        },
+        {
+          "title": "Indonesia extends search for eight missing after Anak Krakatau mission boat vanishes",
+          "url": "https://www.malaymail.com/news/world/2026/09/14/indonesia-extends-search-for-eight-missing-after-anak-krakatau-mission-boat-vanishes/235229",
+          "source": "www.malaymail.com"
+        }
+      ]
+    },
+    {
+      "title": "Ambae Volcano \u2014 Sustained Eruption Continues, Evacuation Plans Active in Vanuatu",
+      "location": "Ambae Island (Aoba), Vanuatu",
+      "type": "volcano",
+      "summary": "Manaro Voui volcano on Ambae Island, Vanuatu remains at an elevated alert level following its upgrade in late 2025, with ongoing eruptive activity confirmed through at least September 17, 2026 according to ReliefWeb. Addendum evacuation plans remain in effect for the island's population, reflecting authorities' concern that activity could intensify with little warning. Ambae's history \u2014 including a 2018 eruption that forced the evacuation of the entire island \u2014 makes any escalation there a serious humanitarian concern.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "VUT: Volcanic Eruption - 08-2026 - Ambae Volcano 2026 #1, #2 (2026-09-17) - Vanuatu",
+          "url": "https://reliefweb.int/report/vanuatu/vut-volcanic-eruption-08-2026-ambae-volcano-2026-1-2-2026-09-17",
+          "source": "reliefweb.int"
+        }
+      ]
+    },
+    {
+      "title": "Dubai Records 43\u00b0C as Arabian Peninsula Heat Persists into Late September",
+      "location": "Dubai, United Arab Emirates",
+      "type": "weather",
+      "summary": "Dubai reached a maximum temperature of 43.0\u00b0C (109.4\u00b0F) on September 20, one of the highest readings worldwide on this date and exceptionally late-season even by Arabian Peninsula standards, where astronomical summer ends on September 23. Weather observers in the UAE are cautioning that heat relief may be delayed well past the calendar transition, with high humidity compounding the heat stress for residents and outdoor workers. Dubai's 43\u00b0C reading stands as the most extreme single-city temperature recorded globally among monitored major cities today.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
