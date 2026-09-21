@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-21",
+  "headline": "Typhoon Dujuan makes landfall near Tokyo with 180 km/h gusts and torrential rain, while a 10-state US flood corridor continues to escalate and K\u012blauea opens new eruptive fissures in Hawaii.",
+  "overview": "Typhoon Dujuan, Japan's 25th typhoon of the year, is striking eastern Honshu on September 21\u201322 with violent winds and extreme rainfall, threatening the Tokyo metro area with flooding and landslides. Across the United States, the Midwest\u2013Ohio Valley mega-flood corridor is intensifying with fresh rainfall-driven flash flood emergencies spreading across southeastern Ohio and central West Virginia, while the Mississippi and Illinois river systems face new moderate-to-major crests through late September. Separately, K\u012blauea volcano on Hawai\u02bbi opened new eruptive fissures last week that remain active, and Anak Krakatau in Indonesia produced a dramatic ash column nearly 10 miles high.",
+  "events": [
+    {
+      "title": "Typhoon Dujuan Strikes Eastern Japan \u2014 Tokyo Region Under Flood and Landslide Warnings",
+      "location": "Kanto Region / Tokyo, Japan",
+      "type": "weather",
+      "summary": "Typhoon Dujuan, carrying sustained winds and gusts approaching 180 km/h (112 mph), made landfall along Japan's eastern Pacific coastline on September 21\u201322, directly threatening the Tokyo metropolitan area and the Izu Islands. Weather data shows Tokyo recording 171.8 mm of precipitation alongside the storm, consistent with a major typhoon passage, and the Japan Meteorological Agency has issued flood and landslide warnings across the Kanto region. Mass evacuation advisories were issued and the Tokyo Game Show was shut down a day early as authorities urged residents to shelter in place.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Japan braces for Typhoon Dujuan on September 21\u201322 as gusts reach 180km/h",
+          "url": "https://www.nationthailand.com/news/world/40071271",
+          "source": "nationthailand.com"
+        },
+        {
+          "title": "Typhoon Dujuan sparks flood and landslide warnings across eastern Japan",
+          "url": "https://streamlinefeed.co.ke/news/typhoon-dujuan-sparks-flood-and-landslide-warnings-across-eastern-japan",
+          "source": "streamlinefeed.co.ke"
+        }
+      ]
+    },
+    {
+      "title": "Midwest\u2013Ohio Valley Mega-Flood Intensifies \u2014 Fresh Rainfall Drives New Flash Flood Emergencies in Ohio and West Virginia",
+      "location": "Southeastern Ohio, Central West Virginia, and Indiana, USA",
+      "type": "weather",
+      "summary": "Active overnight and morning thunderstorms on September 21 have triggered a new wave of flash flood warnings across southeastern Ohio counties \u2014 including Athens, Gallia, Meigs, Vinton, Washington, Morgan, Perry, and Muskingum \u2014 and across at least seven counties in central and northwestern West Virginia including Kanawha, Roane, Calhoun, and Wirt. NWS Charleston issued a broad Flash Flood Watch covering portions of both states through midday, with numerous roads closed and streams continuing to rise from excess runoff. Indiana rivers including the Wabash (approaching a record flood stage near Bluffton) and the Saint Marys River (at moderate flood stage through September 26) remain significantly elevated, reflecting the sustained severity of this multi-state corridor.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mississippi and Illinois River Systems Escalate \u2014 Major Flooding Forecast on Wapsipinicon, Rock, and Iowa Rivers Through Late September",
+      "location": "Iowa, Illinois, and Missouri, USA",
+      "type": "weather",
+      "summary": "The broader Midwest river flood corridor has escalated further on September 21, with the Wapsipinicon River near DeWitt now forecast to reach major flood stage through September 27, and the Rock River at Moline forecast for moderate flooding beginning Monday evening through September 25. The Iowa River is under new flood warnings at multiple gauges in Louisa, Johnson, and Washington counties, with the English River at Kalona in major flood as of September 20. Mississippi River flood warnings have been extended through September 27\u201328 across stretches from Missouri to Illinois, with additional flood watches pushed out to September 25\u201326 for downstream gauges at Burlington and Gladstone, representing a downstream progression and intensity increase from prior reports.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "New Mexico and Southwest Flash Flood Threat Expands \u2014 Monsoon Surge to Bring Multi-Day Flooding Risk Through September 26",
+      "location": "New Mexico and Far West Texas, USA",
+      "type": "weather",
+      "summary": "NWS Albuquerque has issued a Flash Flood Watch covering a large portion of central and northern New Mexico \u2014 including the Albuquerque metro area, Sangre de Cristo Mountains, Jemez Mountains, and the Rio Grande Valley \u2014 valid from Tuesday through Wednesday evening, September 23. NWS El Paso extended a companion Flood Watch over south-central New Mexico and Far West Texas including Las Cruces and El Paso, active through September 23. AccuWeather forecasts a surge of tropical moisture from Mexico pushing northward from September 22\u201326, increasing the risk of repeated flash flooding \u2014 a significant threat given that three people were already killed by flash flooding in the region on September 16.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash flooding kills 3 overnight in New Mexico, police say, as serious flood threat ramps up for Southwest",
+          "url": "https://www.cnn.com/2026/09/16/weather/flash-flooding-new-mexico-deaths-arizona-southwest-climate",
+          "source": "cnn.com"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Blasts Ash Nearly 10 Miles High \u2014 Indonesia's Sunda Strait Volcano Surges in Intensity",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau has produced an exceptionally large ash eruption, sending a column nearly 10 miles (approximately 16 km) into the atmosphere \u2014 a dramatic escalation beyond the eruptive activity that prompted the search for missing journalists earlier this week. The eruption was captured in satellite imagery and reported by ScienceDaily, with the volcano ejecting both ash and volcanic gases visible from orbit. Indonesia's volcanic monitoring authorities have maintained elevated alert levels for the Sunda Strait volcano, which sits between the islands of Java and Sumatra.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indonesia's Anak Krakatau",
+          "url": "https://www.nasa.gov/image-article/indonesias-anak-krakatau",
+          "source": "nasa.gov"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Erupts New Fissures in Halema\u02bbuma\u02bbu Crater \u2014 Lava Flows from Multiple New Vents",
+      "location": "Hawai\u02bbi Island (Big Island), Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea volcano opened new eruptive fissures on the northwest wall of Halema\u02bbuma\u02bbu crater on the nights of September 14\u201315, 2026, separate from the established vent complex at the summit. USGS Hawaiian Volcano Observatory monitoring overflights confirmed a shiny grey lava flow erupted between September 14\u201316 from several new vents, with updated reference maps issued on September 16. The eruption remains confined to the summit caldera within Hawai\u02bbi Volcanoes National Park and does not currently threaten populated areas, but represents a new phase of activity at K\u012blauea.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "M6.5 Earthquake Strikes Fox Islands, Aleutian Islands \u2014 Tsunami Alert Issued and Cleared",
+      "location": "169 km W of Nikolski, Aleutian Islands, Alaska, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 6.5 earthquake struck the Fox Islands segment of Alaska's Aleutian chain at 14:19 UTC on September 17, at a depth of 98 km, approximately 169 km west of the remote village of Nikolski (population 18). USGS initially flagged a tsunami alert for the event, though the final USGS alert level was rated green, indicating no significant threat materialized; 8 felt reports were filed. The earthquake occurred in one of the world's most seismically active subduction zones and is the largest seismic event recorded globally in the past seven days.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong M6.5 earthquake hits Fox Islands, Aleutian Islands",
+          "url": "https://watchers.news/2026/09/17/strong-m6-5-earthquake-hits-fox-islands-aleutian-islands",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Very Strong Mag. 6.5 Earthquake - Bering Sea, Aleutians West Census Area, Alaska",
+          "url": "https://www.volcanodiscovery.com/earthquake/major/2026-09-17/14-19/magnitude6-Alaska.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
