@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-22",
+  "headline": "Hurricane Polo nears Category 5 strength off Mexico's Pacific coast as Nepal's glacier-collapse death toll surpasses 1,000",
+  "overview": "A rapidly intensifying Hurricane Polo is approaching Category 5 strength in the Eastern Pacific, threatening Mexico's Pacific coast with catastrophic winds, storm surge, and flooding rain. Simultaneously, Nepal continues to grapple with the aftermath of an August glacier collapse on the Trishuli River, with mass casualty recovery ongoing and scientists attributing the disaster largely to climate change. In the United States, the Midwest mega-flood enters a new phase of severity as Meigs County, Ohio declares a local emergency, the US wildfire season surpasses 8.4 million acres burned, and California issues a statewide emergency ahead of a forecast El Ni\u00f1o winter.",
+  "events": [
+    {
+      "title": "Hurricane Polo Nears Category 5 \u2014 Major Threat to Mexico's Pacific Coast",
+      "location": "Eastern Pacific Ocean / Mexico Pacific Coast",
+      "type": "weather",
+      "summary": "Hurricane Polo rapidly intensified to near-Category 5 strength by 0900 UTC on September 22, carrying maximum sustained winds of 150 mph from a position approximately 215 miles south of Zihuatanejo. The storm is forecast to bring catastrophic winds, dangerous storm surge, and life-threatening flooding rain to southwestern Mexico's Pacific coast, with the National Hurricane Center warning of potential Category 5 conditions at or near landfall. Outer bands are also expected to generate large swells and rip currents along the Southern California coast.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hurricane Polo nears category 5 strength off Mexico's Pacific coast",
+          "url": "https://www.reuters.com/business/environment/hurricane-polo-nears-category-5-strength-off-mexicos-pacific-coast-2026-09-22",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "Polo rapidly strengthens into a Category 4 hurricane as it threatens Mexico's Pacific coast",
+          "url": "https://www.accuweather.com/en/hurricane/polo-rapidly-strengthens-into-a-category-4-hurricane-as-it-threatens-mexicos-pacific-coast/1936067",
+          "source": "www.accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Nepal Glacier-Collapse Flood Death Toll Surpasses 1,000 \u2014 Scientists Cite Climate Change",
+      "location": "Trishuli River Valley, Nepal",
+      "type": "weather",
+      "summary": "The partial collapse of a Himalayan glacier on August 26 sent a massive surge of water, ice, sediment, and rock down the Trishuli River, destroying villages, bridges, roads, and hydroelectric infrastructure across roughly 100 km of river valley. Mass burials are underway as the confirmed death toll has surpassed 1,000, making this one of Nepal's deadliest modern natural disasters. A new scientific analysis released this week concludes that climate-driven glacier instability was a primary contributing factor, raising urgent questions about early warning systems for mountain communities.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Nepal floods of 2026 | Glacier Collapse, Natural Disaster, & Facts",
+          "url": "https://www.britannica.com/event/Nepal-floods-of-2026",
+          "source": "www.britannica.com"
+        },
+        {
+          "title": "Climate change had major role in triggering Nepal floods, scientists say",
+          "url": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say",
+          "source": "www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "title": "Midwest\u2013Ohio Valley Mega-Flood Escalates \u2014 Meigs County Declares Emergency, Evacuations and Water Rescues Underway",
+      "location": "Southeastern Ohio and West Virginia, USA",
+      "type": "weather",
+      "summary": "The multi-day Midwest flooding disaster escalated on September 22 as Meigs County, Ohio declared a local state of emergency following forced evacuations and active water rescue operations. The NWS Charleston WV issued simultaneous Flood Warnings covering Athens, Gallia, Meigs, Vinton, Washington, Jackson, Mason, and Wood counties, with flooding on rivers, creeks, and roads imminent or ongoing across a broad swath of southeastern Ohio and northwestern West Virginia. Flash Flood Watches extending into the evening cover the vast majority of West Virginia counties, indicating the threat remains active and multi-county in scope.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Ohio flooding forces residents to evacuate",
+          "url": "https://www.wowktv.com/news/ohio/flooding-in-meigs-county-ohio-causes-evacuations",
+          "source": "www.wowktv.com"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Downgraded to Alert Level II After Near-Record Eruption",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's Center for Volcanology and Geological Hazard Mitigation has lowered Anak Krakatau's alert status from the highest Level IV back to Level II, signaling a significant de-escalation following the near-10-mile ash column eruption reported on September 21. The downgrade suggests eruptive intensity has decreased substantially, though the volcano remains active and under close monitoring. This marks a notable change from yesterday's extreme classification; authorities have not yet fully lifted exclusion zones around the Sunda Strait volcano.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "California Declares Statewide El Ni\u00f1o Emergency \u2014 Strongest Forecast in Decades",
+      "location": "California, USA",
+      "type": "weather",
+      "summary": "Governor Gavin Newsom declared a statewide emergency on September 21\u201322 in anticipation of what officials are warning may be one of the strongest El Ni\u00f1o seasons on record, with forecasters projecting well-above-normal precipitation, flooding, and infrastructure stress across all of California this winter. The emergency declaration unlocks early mobilization of resources, funding, and pre-positioning of flood and landslide mitigation equipment across the state. The move comes as California's wildfire-scarred hillsides and drought-cracked soils are considered especially vulnerable to rapid runoff and debris flows during intense El Ni\u00f1o rainfall events.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "California declares state of emergency ahead of historic El Ni\u00f1o season",
+          "url": "https://abc7.com/post/california-declares-state-emergency-ahead-el-nio-season/19855071",
+          "source": "abc7.com"
+        },
+        {
+          "title": "State of emergency declared for all of California ahead of strong El Ni\u00f1o forecast",
+          "url": "https://ktla.com/news/california/state-of-emergency-declared-for-all-of-california-ahead-of-strong-el-nino-forecast",
+          "source": "ktla.com"
+        }
+      ]
+    },
+    {
+      "title": "US Wildfire Season Reaches 8.4 Million Acres \u2014 147% of 10-Year Average",
+      "location": "United States (Nationwide)",
+      "type": "wildfire",
+      "summary": "As of September 15, 2026, over 55,400 fires have burned more than 8.4 million acres across the United States \u2014 125% of the 10-year average fire count and 147% of the average acreage, according to the USDA Drought Monitor. The 2026 season has been driven by exceptional drought conditions, with tribal communities in the Northwest among those most severely impacted; one record-setting fire in Nebraska \u2014 the Morrill Fire \u2014 alone scorched 642,000 acres. Active fires continue to burn across the West, and California's newly declared El Ni\u00f1o emergency highlights the complex interplay between this year's fire-damaged landscapes and the coming wet season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "K\u012blauea Enters 45th Lava Fountaining Episode \u2014 Ongoing Eruption in Halema\u02bbuma\u02bbu",
+      "location": "Hawai\u02bbi Island (Big Island), Hawaii, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's summit eruption within Halema\u02bbuma\u02bbu crater has entered its 45th lava fountaining episode, according to VolcanoDiscovery and USGS monitoring reports. Multiple fissures opened since September 14 continue to feed lava flows across the crater floor, with no threat to populated areas but ongoing hazards from volcanic gas emissions and laze. The eruption remains confined entirely within Hawai\u02bbi Volcanoes National Park and continues to be monitored around the clock by the USGS Hawaiian Volcano Observatory.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Kilauea Volcano (Hawai\u02bbi): 45th Lava Fountaining Episode Just Started",
+          "url": "https://www.volcanodiscovery.com/kilauea/news/300523/Kilauea-volcano-Hawai-i-45th-lava-fountaining-episode-just-started.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
