@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-23",
+  "headline": "Category 5 Hurricane Polo Strikes Mexico's Pacific Coast as a Nor'easter Hammers the US East Coast with Major Flooding",
+  "overview": "September 23 brings a multi-front global natural disaster picture: Category 5 Hurricane Polo \u2014 one of the strongest Eastern Pacific storms on record \u2014 is making landfall along Mexico's Pacific coast, while a powerful nor'easter is driving 2\u20134 feet of storm surge flooding from North Carolina to Massachusetts. Elsewhere, a potential tropical cyclone is threatening Hawaii, volcanic activity continues at Vanuatu's Ambae, and broad river flooding persists across the US Midwest and Mississippi Valley.",
+  "events": [
+    {
+      "title": "Category 5 Hurricane Polo Makes Landfall \u2014 One of the Strongest Eastern Pacific Storms on Record",
+      "location": "Mexico Pacific Coast / Eastern Pacific Ocean",
+      "type": "weather",
+      "summary": "Hurricane Polo intensified into a Category 5 storm \u2014 confirmed by NWS and multiple major outlets as one of the strongest Eastern Pacific hurricanes ever recorded \u2014 and is bearing down on Mexico's Pacific coast with life-threatening winds, storm surge, and flooding. The storm rapidly intensified from near-Category 5 status on September 22 to a full Category 5 by September 23, posing an extreme threat to coastal communities. Residents along the Mexican Pacific coast have been urged to evacuate, with forecasters warning of catastrophic and potentially unsurvivable conditions near the point of landfall.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Polo grows into powerful Category 5 storm off Mexico's coast, could produce life-threatening flooding",
+          "url": "https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Significant Nor'easter Strikes US East Coast \u2014 Major Storm Surge and Coastal Flooding from the Carolinas to New England",
+      "location": "US East Coast (North Carolina to Massachusetts)",
+      "type": "weather",
+      "summary": "A powerful nor'easter is battering the US East Coast on September 23, generating 2\u20134 feet of coastal inundation in the most severely affected areas \u2014 including Virginia Beach, Hampton Roads, the Outer Banks of North Carolina, and the Maryland, Delaware, and New Jersey shorelines \u2014 with Coastal Flood Warnings in effect through September 25. Strong northeast winds are trapping water in the lower Chesapeake Bay, causing each tidal cycle to push water progressively higher, and surf of 8\u201315 feet is generating dangerous rip currents along the Atlantic coast. Storm Watch conditions (gusts to 55 kt, seas 13\u201317 ft) are forecast to develop from Thursday through Friday for offshore waters from New Jersey to Cape Cod, extending the threat into the weekend.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Potential Tropical Cyclone Threatens Hawaii \u2014 Flood Watch Issued for Big Island, Maui, and Molokai Through Saturday",
+      "location": "Hawaii, USA",
+      "type": "weather",
+      "summary": "The National Weather Service in Honolulu issued a Flood Watch on September 22 for the eastern end of the Hawaiian island chain \u2014 including the Big Island, Maui, Molokai, Lanai, and Kahoolawe \u2014 as a developing potential tropical cyclone tracks toward the state through September 26. The storm's exact track remains uncertain, but heavy rainfall is considered likely regardless of whether it achieves formal tropical cyclone status before arrival. This comes after an already abnormally active 2026 Hawaii hurricane season that saw two damaging storm bypasses earlier in September.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hurricane seasons: Spotlight on Hawaii as the North Atlantic remains quiet",
+          "url": "https://www.moodys.com/web/en/us/insights/insurance/hurricane-seasons-2026-spotlight-on-hawaii-as-the-north-atlantic-remains-quiet.html",
+          "source": "www.moodys.com"
+        },
+        {
+          "title": "Norbert to boost trade wind showers in Hawaii after deadly hurricane summer",
+          "url": "https://www.accuweather.com/en/hurricane/norbert-to-boost-trade-wind-showers-in-hawaii-after-deadly-hurricane-summer/1934264",
+          "source": "www.accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Mississippi and Iowa\u2013Illinois River Flooding Expands \u2014 Warnings Extended Through Late September",
+      "location": "Iowa, Illinois, Missouri, and Indiana, USA",
+      "type": "weather",
+      "summary": "Flood Warnings along the Mississippi River and its tributaries \u2014 including the Wapsipinicon, Cedar, Iowa, Rock, and Des Plaines rivers \u2014 have been extended through September 27\u201329, with multiple new river gages rising to flood stage across Iowa, Illinois, and Missouri. The NWS has extended warnings at key Mississippi River points including Hannibal, Canton, Clarksville, and Saverton, as accumulated rainfall from prior weeks continues draining southward through the system. Agricultural losses are mounting, with a \"Ring of Fire\" upper-level pattern blamed for historic September rainfall that has stalled corn and soybean harvest across the Corn Belt.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Ambae Volcano (Manaro Voui) Sustains Alert Level 3 \u2014 Ongoing Eruption Triggers Evacuation Planning in Vanuatu",
+      "location": "Ambae Island, Vanuatu",
+      "type": "volcano",
+      "summary": "Manaro Voui, the summit crater of Ambae Island's volcano in Vanuatu, has been at Volcanic Alert Level 3 since February 23, 2026, and remains in a state of minor but persistent eruption with ongoing observations consistent with that elevated alert. A ReliefWeb bulletin issued September 17 confirmed the alert level is unchanged and that evacuation addendum plans for Ambae Island remain active. Level 3 indicates a minor eruption with the volcano in a state of unrest, and local authorities continue to monitor the situation closely given the island's history of mass evacuations during prior major eruption cycles.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Vanuatu Volcano Alert Bulletin No. 18 - 2026: Ambae (Manaro Voui)",
+          "url": "https://reliefweb.int/report/vanuatu/vanuatu-volcano-alert-bulletin-ndeg18-2026-ambae-manaro-voui",
+          "source": "reliefweb.int"
+        },
+        {
+          "title": "VUT: Volcanic Eruption - 08-2026 - Ambae Volcano 2026 #1, #2 (2026-09-17)",
+          "url": "https://reliefweb.int/report/vanuatu/vut-volcanic-eruption-08-2026-ambae-volcano-2026-1-2-2026-09-17",
+          "source": "reliefweb.int"
+        }
+      ]
+    },
+    {
+      "title": "M6.4 Earthquake Strikes Papua New Guinea \u2014 30 Felt Reports, No Tsunami",
+      "location": "49 km NNE of Kainantu, Papua New Guinea",
+      "type": "earthquake",
+      "summary": "A magnitude 6.4 earthquake struck approximately 49 km north-northeast of Kainantu in Papua New Guinea's Eastern Highlands on September 20 at 09:17 UTC, at a depth of 104 km. USGS assigned a green alert level, and no tsunami warning was issued; however, 30 felt reports were recorded, indicating the shaking was widely perceived across the region. Papua New Guinea sits in one of the world's most seismically active zones along the Pacific Ring of Fire, and moderate-to-strong earthquakes at this depth can still cause localized damage and landslides in the mountainous Eastern Highlands.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong M6.4 Earthquake Recorded Near Kainantu, Papua New Guinea",
+          "url": "https://meteo24news.gr/english-edition/strong-m6-4-earthquake-recorded-near-kainantu-papua-new-guinea",
+          "source": "meteo24news.gr"
+        },
+        {
+          "title": "Strong M6.4 earthquake hits Eastern New Guinea region, Papua New Guinea",
+          "url": "https://watchers.news/2026/09/20/strong-m6-4-earthquake-hits-eastern-new-guinea-region-papua-new-guinea",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Extreme Aleutian Storm \u2014 Winds to 80 mph and Seas to 20+ Feet Across the Full Island Chain",
+      "location": "Aleutian Islands, Alaska, USA",
+      "type": "weather",
+      "summary": "A deep low-pressure system in the southern Bering Sea is driving an extreme marine storm across the entire Aleutian Island chain, with NWS Anchorage issuing Storm Warnings from Nikolski to Attu \u2014 a stretch of over 1,100 miles \u2014 valid through September 24. Conditions at the worst-affected zones (Adak to Kiska) are forecast to reach sustained winds of 45\u201350 knots overnight with gusts building to 55\u201365 knots, seas of 15\u201320 feet, and a High Wind Warning for Atka and Adak calling for gusts up to 80 mph on Thursday. The storm presents a severe hazard to maritime traffic and remote island communities throughout the Aleutians.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
