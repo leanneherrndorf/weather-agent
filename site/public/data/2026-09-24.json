@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-24",
+  "headline": "Tropical Storm Nolo Triggers Hurricane Watch Across Hawaii's Big Island as Nor'easter Coastal Flooding Persists from the Carolinas to New Jersey",
+  "overview": "September 24 brings a convergence of significant and escalating natural hazards across the United States and beyond. What was a potential tropical cyclone yesterday has organized into Tropical Storm Nolo and now threatens Hawaii's Big Island with hurricane-force winds and catastrophic flooding, while a powerful Nor'easter continues to drive coastal flooding from North Carolina through New Jersey and into Chesapeake Bay. Elsewhere, a ferocious Aleutian storm is still producing 55-knot winds and 33-foot seas, river flood warnings on the Mississippi extend through the end of the month, and newly reported wildfires are burning in Scotland's Cairngorms and near Colombia's historic Villa de Leyva.",
+  "events": [
+    {
+      "title": "Tropical Storm Nolo Triggers Hurricane Watch Across Hawaii's Big Island",
+      "location": "Hawai\u02bbi Island (Big Island), Hawaii, USA",
+      "type": "weather",
+      "summary": "What was listed as a potential tropical cyclone in yesterday's report has organized into Tropical Storm Nolo, with NWS Honolulu issuing Hurricane Watches covering all zones of Hawaii's Big Island overnight into September 24. The Big Island Summit (Mauna Kea and Mauna Loa) faces the most extreme threat, with peak winds of 55\u201375 mph and gusts to 90 mph forecast and a window for Category 1 hurricane-force winds Friday evening through early Saturday morning; the Kona coast faces potential winds of 74\u2013110 mph. Flood Watches remain in effect island-wide through Saturday as Nolo's heavy rainfall poses a catastrophic flash-flood risk across the mountainous terrain.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Future Nolo could slide south of Hawaii as a hurricane",
+          "url": "https://weather.com/2026/09/23/storms/hurricane/hawaii-flooding-winds-tropical-storm-nolo",
+          "source": "weather.com"
+        },
+        {
+          "title": "Future Nolo threatens Hawaii with hurricane winds, flooding danger",
+          "url": "https://weather.com/2026/09/23/storms/hurricane/hawaii-hurricane-nolo-flooding-wind-forecast",
+          "source": "weather.com"
+        }
+      ]
+    },
+    {
+      "title": "Nor'easter Coastal Flooding Continues \u2014 Virginia Beach to New Jersey Under Active Warnings",
+      "location": "US East Coast (North Carolina to New Jersey)",
+      "type": "weather",
+      "summary": "The powerful Nor'easter that struck the East Coast on September 23 continues to drive significant coastal flooding across a wide swath of the mid-Atlantic seaboard on September 24, with Coastal Flood Warnings active from Hatteras Island and Ocracoke (2\u20134 feet of inundation) northward through Virginia Beach, Hampton Roads, the Chesapeake Bay shores, Maryland beaches, Delaware, and coastal New Jersey. Wave heights of 12\u201317 feet are reported in the Outer Banks surf zone, and Storm Watches have been issued for New Jersey and Massachusetts offshore waters through Saturday as the system's fetch maintains dangerous surf and surge conditions. Gale Warnings and High Wind Watches extending into Friday\u2013Saturday across the Boston and Rhode Island coastal waters signal the storm's lingering influence up the entire Eastern Seaboard.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Extreme Aleutian Storm Persists \u2014 55-Knot Winds and 33-Foot Seas Continue",
+      "location": "Aleutian Islands, Alaska, USA",
+      "type": "weather",
+      "summary": "The ferocious low-pressure system battering the Aleutian Islands shows little sign of relenting on September 24, with NWS Anchorage maintaining Storm Warnings across nearly every coastal and offshore zone from Kiska and Attu to Nikolski and Seguam on both the Pacific and Bering sides. The most extreme readings today include sustained westerly winds of 55 knots and seas of 31\u201333 feet near the Adak-to-Kiska and Kiska-to-Attu corridors, with High Wind Warnings at Atka and Adak reporting gusts to 80 mph. The Kuskokwim Delta is also under a separate Coastal Flood Warning through Saturday, with storm surge pushing water 1.5\u20132.5 feet above the normal highest tide line near Kwigillingok and Kipnuk.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mississippi and Midwest River Flooding Extended Through Late September",
+      "location": "Iowa, Illinois, Missouri, and Indiana, USA",
+      "type": "weather",
+      "summary": "River Flood Warnings across the upper and middle Mississippi River system remain in effect on September 24, with multiple gauges along the Mississippi \u2014 from Burlington, Iowa, to Hannibal and Clarksville, Missouri \u2014 under active warnings that have been extended through as late as September 29\u201330. Major flooding is occurring on the Wapsipinicon River near De Witt, Iowa (affecting Scott and Clinton Counties) through at least September 30, while the Saint Marys River and Wabash River system continues to push flood warnings into Indiana and Ohio. Continued Flood Warnings are also active for the Iowa, Cedar, and English Rivers in Iowa's Louisa and Johnson Counties.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Cairngorms National Park Wildfire Burns in Scottish Highlands",
+      "location": "Cairngorms National Park, Scotland, UK",
+      "type": "wildfire",
+      "summary": "A significant wildfire has broken out in the Cairngorms National Park in the Scottish Highlands, generating thick smoke and prompting calls from local crofters and farmers for a new national wildfire action plan. The blaze is unusual for Scotland in both scale and timing, reflecting an increasingly dry and fire-prone late-summer climate in the region. The BBC and Carbon Brief have both reported on the event, with the Carbon Brief noting it as a spotlight story in the context of the UK's evolving wildfire risk.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Cairngorms crofters and farmers call for new wildfire action plan",
+          "url": "https://www.bbc.co.uk/news/articles/crvgyzqex9veo",
+          "source": "www.bbc.co.uk"
+        },
+        {
+          "title": "DeBriefed 18 September 2026: Scotland's wildfires",
+          "url": "https://www.carbonbrief.org/debriefed-18-september-2026-fresh-wave-of-oil-attacks-india-power-emissions-flatline-scotlands-wildfires",
+          "source": "www.carbonbrief.org"
+        }
+      ]
+    },
+    {
+      "title": "Wildfire Scorches 300+ Hectares Near Historic Villa de Leyva, Colombia",
+      "location": "Villa de Leyva, Boyac\u00e1 Department, Colombia",
+      "type": "wildfire",
+      "summary": "An active wildfire has burned more than 300 hectares of forest near Villa de Leyva, a popular colonial tourist town in Colombia's Boyac\u00e1 Department, according to Al Jazeera and Anadolu Agency reporting. Satellite heat detection data shows the fire remains active, and local officials have warned of a threat to the town itself. The blaze is part of a broader pattern of dry-season fire activity affecting parts of South America in September 2026.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
+          "url": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Wildfire near Villa de Leyva, CO (2026) \u2014 Map & Containment",
+          "url": "https://currentwildfires.com/en/fire/wildfire-near-villa-de-leyva-co-2026",
+          "source": "currentwildfires.com"
+        }
+      ]
+    },
+    {
+      "title": "Purac\u00e9 Volcano Active in Colombia \u2014 Weekly Volcanic Report Notes Ongoing Unrest",
+      "location": "Purac\u00e9 Volcano, Cauca Department, Colombia",
+      "type": "volcano",
+      "summary": "The weekly volcanic activity report for September 10\u201316, 2026, from The Watchers highlights ongoing activity at Purac\u00e9, an active andesitic volcano with a 600-meter summit crater at the northwest end of the Los Coconucos Volcanic Chain in southwestern Colombia. Purac\u00e9 has a history of periodic eruptive episodes, and current unrest warrants continued monitoring by Colombian geological authorities. Data coverage for this region is limited in today's structured feeds, and the alert level has not been independently confirmed as escalated beyond the reporting period.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
