@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-25",
+  "headline": "Tropical Storm Nolo escalates to hurricane threat across Hawaii as Hurricane Watches blanket the Big Island and Tropical Storm Warnings spread to Maui, Lanai, and Molokai.",
+  "overview": "Friday's most urgent event is the rapid escalation of Tropical Storm Nolo toward hurricane status over Hawaii, with Hurricane Watches now covering most of the Big Island and Tropical Storm Warnings extended across the Maui County island chain. On the US mainland, a long-duration nor'easter continues to drive severe coastal flooding northward into the New York City metro area, with 2\u20133 feet of inundation expected across Staten Island, the Bronx, and Long Island. Globally, a major explosive eruption of Anak Krakatau in Indonesia sent ash to 50,000 feet, while Thailand's extensive monsoon flooding continues to threaten Bangkok and dozens of provinces.",
+  "events": [
+    {
+      "title": "Nolo Escalates to Hurricane Threat \u2014 Hurricane Watches Blanket Hawaii's Big Island",
+      "location": "Hawai\u02bbi Island, Maui, Lanai, and Molokai, Hawaii, USA",
+      "type": "weather",
+      "summary": "Tropical Storm Nolo has intensified significantly, prompting the NWS to issue Hurricane Watches across multiple Big Island zones \u2014 including Kohala, the Interior, East, South, Southeast, and Summit \u2014 alongside Tropical Storm Warnings for Hilo, Kohala, and Mauna Kea. The storm's reach has also expanded to Maui County, with Tropical Storm Watches in effect for Maui, Lanai, Molokai, and Kahoolawe, where peak gusts of 85\u201395 mph are forecast on exposed windward shores. A broad Flood Watch covering all affected islands remains in effect through Saturday evening, raising concerns about catastrophic flash flooding on steep volcanic terrain.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Nor'easter Expands \u2014 2\u20133 Ft Coastal Flooding Hits NYC Metro, Storm Warnings Through Sunday",
+      "location": "Virginia to Massachusetts, US East Coast",
+      "type": "weather",
+      "summary": "The nor'easter that struck the US East Coast earlier this week has intensified its reach northward, with Coastal Flood Warnings now covering New York City boroughs \u2014 including Staten Island (2\u20133 ft inundation), Brooklyn, Queens, the Bronx, and Long Island \u2014 as well as coastal Connecticut and Massachusetts through Sunday. NWS Storm Warnings remain in effect for offshore waters from the Carolinas to New England, with seas of 20\u201325 feet and gusts to 60 knots reported in open Atlantic waters. High Wind Warnings are active across coastal Rhode Island and eastern Massachusetts, where gusts up to 60 mph are expected to cause power outages and difficult travel through Saturday night.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Long-duration nor'easter brings coastal flooding to Virginia, threatens Northeast US with damaging winds and heavy rain",
+          "url": "https://watchers.news/2026/09/25/long-duration-noreaster-brings-coastal-flooding-to-virginia-threatens-northeast-us-with-damaging-winds-and-heavy-rain",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Blasts Ash to 50,000 Feet \u2014 Major Eruption, Indonesia",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau produced a powerful explosive eruption in early September 2026, sending an ash column to approximately 50,000 feet (15,000 m) above sea level \u2014 one of its most energetic eruptions in recent years. NASA's Landsat 8 captured the ash and volcanic gas plume on September 5, and Indonesian authorities have since been urging residents in affected areas to take precautions against volcanic ash, which poses serious respiratory health hazards. Ash fallout has spread across communities in the region between Java and Sumatra, prompting ongoing public health warnings from Indonesian police and emergency services.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Bangkok and 70 Provinces Under Flood Threat \u2014 Satellite Imagery Confirms Widespread Risk",
+      "location": "Bangkok and Central/Northern Thailand",
+      "type": "weather",
+      "summary": "Thailand's Geo-Informatics and Space Technology Development Agency (GISTDA) released satellite imagery on September 25 confirming widespread high flood-risk areas across multiple provinces, with Bangkok recording an extreme 112.9 mm of precipitation in a single day. Authorities have issued flash flood and rough seas warnings covering Bangkok and up to 70 of Thailand's 77 provinces, alongside landslide alerts for elevated regions. The ongoing monsoon pattern continues to saturate catchment areas, raising concerns about river overflows and urban flooding across the Thai capital.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "GISTDA's Satellite images show high flood risks across Thailand",
+          "url": "https://www.khaosodenglish.com/featured/2026/09/25/gistdas-satellite-images-show-high-flood-risks-across-thailand",
+          "source": "www.khaosodenglish.com"
+        },
+        {
+          "title": "Bangkok and 70 provinces warned of flash floods and rough seas",
+          "url": "https://www.nationthailand.com/news/general/40071375",
+          "source": "www.nationthailand.com"
+        }
+      ]
+    },
+    {
+      "title": "Red Flag Warning \u2014 Northern Nevada Fire Weather Threat",
+      "location": "Northern Nevada, USA",
+      "type": "wildfire",
+      "summary": "The NWS in Reno issued Red Flag Warnings effective through Friday evening for multiple fire weather zones across northern Nevada, including the Northern and Southern Sierra Front, the West Humboldt Basin, and the Lahontan Basin \u2014 areas covering Carson City, Douglas, Storey, Washoe, and surrounding counties. Conditions include gusty winds and critically low relative humidity, creating prime conditions for rapid fire ignition and spread. The Truckee Meadows Fire District has confirmed elevated danger persisting despite cooling temperatures, warning that any fire igniting under these conditions could spread quickly across dry rangeland.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fire danger remains high in northern Nevada",
+          "url": "https://www.kolotv.com/2026/09/25/fire-danger-remains-high-northern-nevada",
+          "source": "www.kolotv.com"
+        }
+      ]
+    },
+    {
+      "title": "Kuskokwim Delta Coastal Flooding \u2014 Remote Alaska Villages Threatened",
+      "location": "Kuskokwim Delta, Western Alaska, USA",
+      "type": "weather",
+      "summary": "A Coastal Flood Warning is in effect through Saturday morning for the Kuskokwim Delta coast, including the remote villages of Kwigillingok and Kipnuk, where water levels are forecast to reach 1.5\u20132.5 feet above the normal highest tide line. The flooding is driven by a deep low-pressure system in the southern Bering Sea generating southeast-to-south winds of 30\u201350 mph with gusts to 50 mph, causing multiple surge peaks. An accompanying Flood Watch covers interior Kuskokwim Delta communities \u2014 including Bethel, Kwethluk, Napaskiak, and Napakiak \u2014 where river levels combined with storm surge and excessive rainfall may impact low-lying indigenous villages with limited emergency infrastructure.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Manaro Voui (Ambae) Volcano \u2014 Ongoing Ashfall, Humanitarian Impact in Vanuatu",
+      "location": "Ambae Island, Penama Province, Vanuatu",
+      "type": "volcano",
+      "summary": "Manaro Voui on Ambae Island continues its pattern of periodic eruptive activity and relative calm, with ashfall impacting communities across Penama Province. The Vanuatu government has dispatched support to ashfall-affected communities, and French reporting confirms that residents face ongoing water shortages as ash contaminates catchment systems. Activity has oscillated between active phases and lulls since the volcano awakened in early 2026, with the humanitarian situation in these remote Pacific island communities remaining a concern for regional authorities.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Ashfall-hit communities in Penama receive Vanuatu government support",
+          "url": "https://www.rnz.co.nz/news/pacific/1483930/ashfall-hit-communities-in-penama-receive-vanuatu-government-support",
+          "source": "www.rnz.co.nz"
+        }
+      ]
+    }
+  ]
+}
