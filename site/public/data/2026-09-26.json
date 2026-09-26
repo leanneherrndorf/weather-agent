@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-26",
+  "headline": "Hurricane Nolo Makes Closest Approach to Hawaii as Nor'easter Floods Sprawl from North Carolina to Massachusetts",
+  "overview": "Two major weather crises dominate today's global picture: Hurricane Nolo is delivering tropical storm-force winds and heavy rain to the Big Island and Maui County as it passes, while a powerful Nor'easter continues to drive 2\u20133 ft coastal inundation across a 1,000-mile stretch of the US East Coast. Elsewhere, a shallow M6.6 earthquake struck the Loyalty Islands near New Caledonia, Bangkok streets flooded on Saturday, and the Dome Fire continues to burn inside Yosemite National Park.",
+  "events": [
+    {
+      "title": "Hurricane Nolo Passes Hawaii \u2014 Tropical Storm Winds, Flash Flood Threat Ongoing",
+      "location": "Hawai\u02bbi Island, Maui, Lanai, Molokai, Hawaii, USA",
+      "type": "weather",
+      "summary": "Hurricane Nolo continued its closest approach to the Hawaiian Islands through Saturday, with active Hurricane Watches covering much of the Big Island and Tropical Storm Warnings in effect from Kona to Kohala and the summits of Mauna Kea and Mauna Loa. Forecast peak winds of 40\u201360 mph with gusts to 85 mph were recorded across Maui's windward zones, while a Flood Watch remained in effect through Saturday afternoon as heavy rain threatened flash flooding on windward slopes. NWS described the potential for 'catastrophic and life-threatening' impacts if the storm's track shifted closer to populated areas.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Storm updates: Tropical Storm Nolo could hit Hawai\u02bbi as major hurricane",
+          "url": "https://www.hawaiipublicradio.org/live-updates/storm-nolo",
+          "source": "hawaiipublicradio.org"
+        }
+      ]
+    },
+    {
+      "title": "Nor'easter Flooding Persists \u2014 2\u20133 Ft Inundation from Outer Banks to Boston Harbor",
+      "location": "North Carolina to Massachusetts, US East Coast",
+      "type": "weather",
+      "summary": "The powerful Nor'easter grinding up the East Coast continued to drive widespread coastal flooding on Saturday, with Coastal Flood Warnings active from Hatteras Island (2\u20134 ft inundation) through Virginia Beach, the New Jersey Shore, Staten Island, Brooklyn, and coastal Connecticut, with warnings valid through Sunday evening in many areas. Offshore storm warnings described 40\u201350 kt northeast winds and seas of 19\u201324 ft between Moriches Inlet and Montauk, while High Wind Warnings covering coastal NJ and MA warned of gusts to 60 mph capable of downing trees and causing widespread power outages. New York City's mayor urged residents to avoid travel as the Hudson River at Poughkeepsie rose toward minor flood stage.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "M6.6 Shallow Earthquake Strikes Loyalty Islands, New Caledonia",
+      "location": "Loyalty Islands, New Caledonia",
+      "type": "earthquake",
+      "summary": "A magnitude 6.6 earthquake struck 80 km ENE of Tadine, New Caledonia at 21:23 UTC on September 25, with a shallow depth of just 10 km \u2014 a characteristic that typically amplifies ground shaking at the surface. USGS assigned a green alert level and no tsunami alert was issued, though 11 felt reports were recorded. The shallow focal depth in this tectonically active Southwest Pacific zone warrants close monitoring for aftershocks.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong and shallow M6.6 earthquake hits Loyalty Islands, New Caledonia",
+          "url": "https://watchers.news/2026/09/25/strong-and-shallow-m6-6-earthquake-hits-loyalty-islands-new-caledonia",
+          "source": "watchers.news"
+        },
+        {
+          "title": "M6.6 earthquake strikes near France's New Caledonia",
+          "url": "https://qazinform.com/news/m66-earthquake-strikes-near-frances-new-caledonia-5ee4f1",
+          "source": "qazinform.com"
+        }
+      ]
+    },
+    {
+      "title": "Bangkok Streets Flooded \u2014 Evacuations Underway Across Thailand",
+      "location": "Bangkok and Central/Northern Thailand",
+      "type": "weather",
+      "summary": "Heavy monsoon rains flooded Bangkok streets on Saturday, September 26, with photographs confirming residents wading through floodwaters and pushing motorcycles through inundated roads, prompting local evacuations. Weather data shows Bangkok recorded 55.7 mm of precipitation \u2014 among the highest of any major city globally today \u2014 consistent with the widespread flood threat across 70 provinces flagged in earlier reports. Traffic disruptions and emergency response operations are ongoing across the Thai capital and surrounding provinces.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations",
+          "url": "https://www.bozemandailychronicle.com/wire/international/heavy-rain-and-flooding-in-bangkok-disrupts-traffic-and-prompts-evacuations/article_495996ff-ca38-57e6-b5af-9c1af62320d4.html",
+          "source": "bozemandailychronicle.com"
+        },
+        {
+          "title": "Heavy rain and flooding in Bangkok disrupts traffic and prompts evacuations",
+          "url": "https://www.rutlandherald.com/news/world/heavy-rain-and-flooding-in-bangkok-disrupts-traffic-and-prompts-evacuations/article_4bd3f0b2-8e47-5160-9835-bc309dad49dd.html",
+          "source": "rutlandherald.com"
+        }
+      ]
+    },
+    {
+      "title": "Dome Fire Burns Inside Yosemite National Park \u2014 Road Closures, Smoke Impacts",
+      "location": "Yosemite National Park, California, USA",
+      "type": "wildfire",
+      "summary": "The Dome Fire, which ignited inside Yosemite National Park on September 15, continues to burn with flames illuminating the night sky and prompting the closure of Glacier Point Road to visitors. Smoke from the fire has degraded air quality in surrounding areas, with the Fresno Bee reporting that the road will remain closed until conditions improve per InciWeb fire tracking data. A helicopter crash linked to firefighting operations at the Dome Fire was also reported, highlighting the dangerous conditions facing crews battling the blaze inside the iconic park.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Yosemite CA road closed due to wildfire smoke",
+          "url": "https://www.fresnobee.com/news/california/yosemite/article317360265.html",
+          "source": "fresnobee.com"
+        },
+        {
+          "title": "Map shows closure area in Yosemite National Park due to Dome Fire",
+          "url": "https://www.sfgate.com/national-parks/article/yosemite-helicopter-crash-id-22443573.php",
+          "source": "sfgate.com"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau \u2014 Ongoing Eruption Activity, Lava Flows Reshape Sunda Strait",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau remains in an active eruptive phase following its major September 2026 eruptions, with Indonesian geological authorities reporting that ongoing lava effusion has added 32.8 hectares of new land to the volcanic island in the Sunda Strait. The eruption cycle, which included the 50,000-foot ash column reported on September 25, continues to draw international attention as one of the most significant episodes of activity at this globally monitored volcano in recent years. Aviation authorities and maritime operators in the region are maintaining heightened alerts.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Anak Krakatau Eruption Adds 32.8 Hectares of Land in Sunda Strait",
+          "url": "https://jakartaglobe.id/tech/anak-krakatau-eruption-adds-328-hectares-of-land-in-sunda-strait",
+          "source": "jakartaglobe.id"
+        }
+      ]
+    },
+    {
+      "title": "Mississippi and Midwest River Flooding Extended \u2014 Major Flooding on Wapsipinicon Through October",
+      "location": "Iowa, Illinois, Missouri, USA",
+      "type": "weather",
+      "summary": "Flood Warnings remained active Saturday across multiple Midwest river systems, with major flooding declared on the Wapsipinicon River near De Witt, Iowa \u2014 where water is affecting residences \u2014 with the warning extended through October 1. The Mississippi River at Louisiana (MO), Hannibal, and Clarksville continues in minor flood stage with warnings valid through September 29, while the Des Plaines River in Lake County, Illinois remains elevated through Monday. The Wapsipinicon's escalation to 'major flooding' status represents a notable deterioration from the minor-flood conditions reported earlier in the week.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
