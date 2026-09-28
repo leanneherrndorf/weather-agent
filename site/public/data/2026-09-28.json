@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-28",
+  "headline": "Hurricane Polo Nears Record-Breaking Landfall on Mexico's Pacific Coast as Moisture Floods the US Southwest",
+  "overview": "Hurricane Polo, a record-intensity Category 5 storm, is bearing down on Baja California and Sinaloa on Monday with landfall imminent, while its moisture streams northward triggering a sweeping arc of Flood Watches from Arizona to Kansas. On the US East Coast, a tapering Nor'easter leaves a trail of at least one fatality and lingering coastal flood warnings from Delaware to Massachusetts. Globally, Anak Krakatau dramatically escalated its eruption with an ash column reaching 50,000 feet, and a new wildfire near Colombia's historic Villa de Leyva has forced hundreds to evacuate.",
+  "events": [
+    {
+      "title": "Hurricane Polo Makes Landfall \u2014 Record Category 5 Storm Strikes Mexico's Pacific Coast",
+      "location": "Baja California Sur / Sinaloa / Sonora, Mexico",
+      "type": "weather",
+      "summary": "Hurricane Polo, which previously reached 180-mph Category 5 intensity \u2014 described as record-breaking for the eastern Pacific \u2014 is making landfall along Mexico's northwest Pacific coast on September 28, threatening Baja California Sur, Sinaloa, and Sonora with catastrophic winds, storm surge, and extreme rainfall. The storm has been on an extended destructive track along Mexico's coast since at least September 24, causing prior damage in Michoac\u00e1n. Polo's moisture plume is simultaneously driving dangerous flash flood potential across a wide swath of the US Southwest and southern Plains, extending its impacts far beyond the immediate landfall zone.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "What Hurricane Polo's Record-Breaking Intensity Means for Mexico's Coast \u2014 Heading for Baja California",
+          "url": "https://www.latintimes.com/what-hurricane-polos-record-breaking-intensity-means-mexicos-coast-heading-baja-california-599573",
+          "source": "latintimes.com"
+        },
+        {
+          "title": "Hurricane Polo to make landfall in Mexico before tropical downpours drench New Mexico, Texas",
+          "url": "https://www.accuweather.com/en/hurricane/hurricane-polo-to-make-landfall-in-mexico-before-tropical-downpours-drench-new-mexico-texas/1937829",
+          "source": "accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Blasts Ash to 50,000 Feet \u2014 Major Eruption Escalation",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau has dramatically escalated its ongoing eruptive activity, blasting an ash column to approximately 50,000 feet (15,240 m) above sea level \u2014 a significant intensification beyond the lava flows and island-building activity reported in prior days. The towering ash plume poses aviation hazards across a broad area of the Sunda Strait corridor between Java and Sumatra. This eruption is part of a broader cluster of Indonesian volcanic activity in August\u2013September 2026 that has drawn global scientific attention.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Nor'easter Tapering Off After Deadly Flooding \u2014 Coastal Warnings Persist from Delaware to Massachusetts",
+      "location": "Mid-Atlantic and New England, USA",
+      "type": "weather",
+      "summary": "A powerful Nor'easter that battered the US East Coast through the weekend is beginning to taper off on September 28, but has left at least one person dead and widespread flood and coastal flood warnings still in effect across New Jersey, Delaware, Massachusetts, and Rhode Island. Active Coastal Flood Warnings remain for Delaware Beaches and Ocean County, NJ, with up to one foot of inundation above ground level in low-lying areas, while Flood Warnings cover southeastern Massachusetts river systems including the Taunton River through Tuesday evening. Thousands of power outages and significant property damage were reported across the affected region during the storm's peak.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Polo Moisture Triggers Multi-State Flood Watches \u2014 Up to 8 Inches of Rain Forecast Across Southwest US",
+      "location": "Arizona, New Mexico, Utah, Colorado, Texas, USA",
+      "type": "weather",
+      "summary": "Tropical moisture streaming north from Hurricane Polo has placed enormous portions of the US Southwest and southern Plains under active Flood Watches through Tuesday\u2013Wednesday, with the NWS issuing alerts across all of northern and central Arizona, southeast Arizona, southwest New Mexico, southern Colorado, southwest Utah, and the Texas Panhandle and far west Texas. AccuWeather forecasts 4\u20138 inches of rain across parts of New Mexico and Texas, with flash flooding threats particularly acute in burn-scar areas, canyon country, and low-water crossings. Zion National Park, Grand Canyon Country, and Capitol Reef National Park are all included in active watch zones.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Polo's moisture to unleash up to 8 inches of rain on Texas, New Mexico",
+          "url": "https://www.accuweather.com/en/weather-forecasts/polos-moisture-to-unleash-up-to-8-inches-of-rain-on-texas-new-mexico/1939031",
+          "source": "accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Colombia Wildfire Burns ~300 Hectares Near Historic Villa de Leyva \u2014 Arson Suspected",
+      "location": "Villa de Leyva, Boyac\u00e1, Colombia",
+      "type": "wildfire",
+      "summary": "A forest wildfire on San Marcos Hill near Villa de Leyva, a UNESCO-recognized colonial town in Colombia's Boyac\u00e1 department, has scorched nearly 300 hectares and forced the evacuation of more than 400 people amid high temperatures. Authorities are investigating arson as a possible cause, with local officials indicating the fire's rapid spread and origin point are consistent with deliberate ignition. The blaze highlights an active wildfire season affecting northern South America, with Colombia experiencing elevated fire risk due to dry, warm conditions.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Villa de Leyva Wildfire, Explained: What's Burned, Who's Fighting It and Why Arson Is Now on the Table",
+          "url": "https://www.latintimes.com/villa-de-leyva-wildfire-explained-whats-burned-whos-fighting-it-why-arson-now-table-599444",
+          "source": "latintimes.com"
+        },
+        {
+          "title": "Wildfire scorches nearly 300 hectares near Colombia's historic Villa de Leyva",
+          "url": "https://www.aa.com.tr/en/americas/wildfire-scorches-nearly-300-hectares-near-colombias-historic-villa-de-leyva/4063954",
+          "source": "aa.com.tr"
+        }
+      ]
+    },
+    {
+      "title": "High Wind Watch Issued for Montana's Glacier Park Region \u2014 Gusts Up to 75 mph Expected",
+      "location": "East Glacier Park Region / Northern High Plains, Montana, USA",
+      "type": "weather",
+      "summary": "The NWS in Great Falls has issued a High Wind Watch for the East Glacier Park Region and Northern High Plains of Montana, effective from late Monday night through Tuesday evening, with southwest winds of 30\u201350 mph and gusts potentially reaching 75 mph. The event is tied to a cold front system that has already brought early-season snow threats and cooler temperatures to Glacier National Park, raising concerns about hypothermia risk in backcountry areas. High-profile vehicles and mountain travel are expected to be significantly impacted during the wind event's peak.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "HIGH WIND WATCH active from late Monday through Tuesday morning for the East Glacier Park Region",
+          "url": "https://nbcmontana.com/weather/forecasts/cloudy-skies-and-cooler-temperatures-today-breezy-winds-to-start-the-work-week",
+          "source": "nbcmontana.com"
+        },
+        {
+          "title": "Montana Braces for Early Season Snow as Cold Front Targets Glacier National Park",
+          "url": "https://www.travelinglifestyle.net/montana-braces-for-early-season-snow-as-cold-front-targets-glacier-national-park",
+          "source": "travelinglifestyle.net"
+        }
+      ]
+    },
+    {
+      "title": "Flash Flooding Strikes North-Central South Dakota \u2014 Multiple Counties Under Active Flood Warnings",
+      "location": "Campbell, Corson, and Dewey Counties, South Dakota, USA",
+      "type": "weather",
+      "summary": "Heavy thunderstorm rainfall on the morning of September 28 triggered multiple Flood Warnings across north-central South Dakota, with active alerts issued by NWS Aberdeen for Campbell, Corson, and Dewey Counties, covering flooding of rivers, creeks, streams, and low-lying areas. Doppler radar confirmed heavy rainfall producing rapid runoff and ongoing flooding as of the morning hours. The alerts are short-duration but represent a fresh flash flooding threat in a region not previously highlighted in this report cycle.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
