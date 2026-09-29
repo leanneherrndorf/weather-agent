@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-29",
+  "headline": "Polo's Remnant Moisture Triggers Catastrophic Flooding Across a Dozen US States as Mexico Reels from Category 5 Aftermath",
+  "overview": "The remnant circulation of former Hurricane Polo is driving a historic multi-state flood emergency stretching from Arizona and New Mexico through Colorado, Utah, Texas, and deep into the Plains states of Iowa, Nebraska, and Kansas, with up to 18 inches of rain forecast through mid-week. Simultaneously, Mexico's Pacific coast is in a humanitarian emergency phase following Polo's Category 5 landfall, with hundreds of thousands of residents still without power. Elsewhere, a wildfire has burned nearly 4,000 acres inside Yosemite National Park, the Florida Keys are experiencing major king-tide coastal flooding, and Rio de Janeiro has broken its record for the rainiest September on record amid a powerful El Ni\u00f1o.",
+  "events": [
+    {
+      "title": "Polo's Remnant Floods a Dozen US States \u2014 From the Desert Southwest to the Great Plains",
+      "location": "Arizona, New Mexico, Utah, Colorado, Texas, Iowa, Nebraska, Kansas, USA",
+      "type": "weather",
+      "summary": "Tropical moisture from former Hurricane Polo \u2014 compounded by remnants of Tropical Storm Odalys \u2014 is driving an extraordinary, multi-state flash flooding emergency on September 29, with active Flash Flood Warnings issued in Maricopa, Yavapai, and Coconino counties in Arizona, Do\u00f1a Ana, Grant, Luna, and Sierra counties in New Mexico, and Kane and Garfield counties in Utah. The geographic footprint of flood watches has dramatically expanded into the Great Plains, with Flood Watches now covering much of Iowa (through Thursday night), Nebraska, Kansas, Missouri, Oklahoma, and North and Central Texas, where up to 18 inches of rain is forecast through mid-week. NWS Colorado also issued multi-day Flood Watches for the San Luis Valley, Sangre de Cristo Mountains, and Front Range foothills, explicitly attributing the threat to a 'remnant tropical storm system.'",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Polo's moisture to unleash up to 18 inches of rain on Texas, New Mexico",
+          "url": "https://www.accuweather.com/en/weather-forecasts/polos-moisture-to-unleash-up-to-18-inches-of-rain-on-texas-new-mexico/1939031",
+          "source": "www.accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Polo Aftermath \u2014 Hundreds of Thousands Without Power Along Mexico's Pacific Coast",
+      "location": "Baja California Sur, Sinaloa, Sonora, Mexico",
+      "type": "weather",
+      "summary": "With Hurricane Polo's landfall now behind it, Mexico's northwestern Pacific coast has entered a full humanitarian response phase: the Category 5 storm left hundreds of thousands of residents without power and triggered destructive waves, torrential rainfall, and widespread flooding from Baja California Sur through Sinaloa and Sonora. Polo is described by forecasters as among the most powerful Pacific hurricanes on record to strike the Mexican mainland, and damage assessments are still ongoing as emergency crews access hard-hit areas. The storm's moisture, now pushing deep into the US Southwest and Plains, continues to drive cascading secondary flood impacts far beyond Mexico's borders.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Polo slams Mexico with flooding and power cuts",
+          "url": "https://streamlinefeed.co.ke/news/hurricane-polo-slams-mexico-flooding-power-cuts",
+          "source": "streamlinefeed.co.ke"
+        },
+        {
+          "title": "Hurricane Polo makes landfall in Baja California with forecast of life-threatening winds",
+          "url": "https://www.semissourian.com/world/hurricane-polo-makes-landfall-in-baja-california-with-forecast-of-life-threatening-winds-29b10cdd",
+          "source": "www.semissourian.com"
+        }
+      ]
+    },
+    {
+      "title": "Dome Fire Burns ~3,800 Acres Inside Yosemite National Park \u2014 Cause Under Investigation",
+      "location": "Yosemite National Park, California, USA",
+      "type": "wildfire",
+      "summary": "The Dome Fire inside Yosemite National Park has grown to approximately 3,795 acres with only 15% containment as of the latest update, prompting road closures including Glacier Point Road and prompting NPS rangers to appeal to hikers who visited the Chilnualna Falls Trail in early September as part of the cause-of-fire investigation. Despite the active blaze, Yosemite National Park remains open and operating normally in most areas, though smoke is affecting visibility along key corridors. The fire's cause remains under investigation, with arson not ruled out.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Yosemite National Park Dome Fire Wednesday Morning Update: 3,795 Acres with 15% Containment",
+          "url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/81912-yosemite-national-park-dome-fire-wednesday-morning-update-3-795-acres-with-15-containment-yosemite-national-park-is-open-and-operating-normally",
+          "source": "goldrushcam.com"
+        },
+        {
+          "title": "Yosemite Park Rangers Asking for Hiker Help in Dome Fire",
+          "url": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/yosemite-dome-fire-chilnualna-falls",
+          "source": "www.outsideonline.com"
+        }
+      ]
+    },
+    {
+      "title": "Florida Keys Hit by Major Coastal Flooding \u2014 King Tides Inundate Upper Keys Roads and Homes",
+      "location": "Upper Florida Keys (Key Largo), Florida, USA",
+      "type": "weather",
+      "summary": "The NWS Key West issued a Coastal Flood Warning for the Upper Florida Keys on September 29, citing major saltwater flooding on the bayside of Key Largo, with numerous road closures expected and low-lying homes, businesses, and critical infrastructure at risk of inundation. The flooding is driven by a convergence of astronomical king tides \u2014 among the highest of the year \u2014 and heavy rainfall moving into South Florida, with NWS noting that 'little relief can be expected even outside the hours around high tide.' A separate Special Marine Warning for waterspout-capable thunderstorms was also issued off the Miami and Deerfield Beach coasts on the same morning.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "King tides, heavy rain could bring flooding to South Florida as wetter weather moves in",
+          "url": "https://www.cbsnews.com/miami/news/south-florida-weather-king-tides-rain-flooding-forecast-tuesday-sept-29",
+          "source": "www.cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Rio de Janeiro Breaks Record for Rainiest September \u2014 El Ni\u00f1o Blamed",
+      "location": "Rio de Janeiro, Brazil",
+      "type": "weather",
+      "summary": "Rio de Janeiro has recorded its wettest September in history, with AFP reporting that a powerful El Ni\u00f1o pattern is fueling persistent, unusually heavy rainfall that has turned the city's famously sun-drenched beaches grey and caused widespread disruption. Weather data from S\u00e3o Paulo also reflects anomalously high temperatures of 33.3\u00b0C in late September \u2014 well above seasonal norms for the Southern Hemisphere's early spring \u2014 consistent with a region-wide El Ni\u00f1o heat and precipitation anomaly. The record adds to a growing pattern of climate extremes across South America this austral spring season.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Rio breaks record for rainiest September amid powerful El Nino",
+          "url": "https://www.france24.com/en/live-news/20260923-rio-breaks-record-for-rainiest-september-amid-powerful-el-nino",
+          "source": "www.france24.com"
+        },
+        {
+          "title": "Gray skies replace sunshine on Rio beaches amid record rain",
+          "url": "https://www.turkiyetoday.com/world/gray-skies-replace-sunshine-on-rio-beaches-amid-record-rain-3229134",
+          "source": "www.turkiyetoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Krasheninnikov Volcano Issues New Ash Advisory \u2014 Eruption Continues on Kamchatka",
+      "location": "Kamchatka Peninsula, Russia",
+      "type": "volcano",
+      "summary": "Russia's Krasheninnikov volcano, which made headlines earlier this week for its first eruption in approximately 500 years, remains actively erupting as of September 28\u201329, with the Tokyo VAAC issuing a fresh volcanic ash advisory (Advisory #7 of 2026) placing ash at Flight Level 140 (~14,000 feet / 4,300 m) extending northeast and moving at 5 knots. The advisory confirms ongoing eruptive activity at the 1,816-meter stratovolcano, which continues to pose an aviation hazard over the Russian Far East. No population centers are at immediate risk, but the eruption of a volcano dormant for five centuries remains geologically significant.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Washington State Seeks Federal Major Disaster Declaration for Summer 2026 Wildfire Season",
+      "location": "Washington State, USA",
+      "type": "wildfire",
+      "summary": "Washington Governor Bob Ferguson formally submitted a request to the federal government for a Major Disaster Declaration on September 28, calling it a 'milestone' in the effort to help communities recover from the destructive wildfires that swept the state in late July and early August 2026. The request signals that state resources have been exhausted and that impacted residents and local governments need federal assistance for the 'long haul' of recovery. The declaration request, if approved, would unlock FEMA aid for individuals and public infrastructure in the most severely burned counties across the state.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
