@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-30",
+  "headline": "South Florida Hit by Compound Flooding as King Tides and Heavy Rainfall Converge \u2014 While Hurricane Rachel Organizes in the Eastern Pacific",
+  "overview": "As September closes out, an unusually active natural events period continues across multiple continents. South Florida is being struck today by a dual threat of king tides and intense rainfall \u2014 up to 86.8mm recorded in Miami \u2014 compounding ongoing coastal flooding. In the eastern Pacific, the El Ni\u00f1o-fueled 2026 hurricane season has produced yet another threat as Tropical Storm Rachel intensified into hurricane strength by late September, and Anak Krakatau in Indonesia continues its prolonged eruption cycle, now visibly reshaping the Sunda Strait island.",
+  "events": [
+    {
+      "title": "South Florida Compound Flooding \u2014 King Tides and Heavy Rain Converge on Miami, Fort Lauderdale",
+      "location": "Miami-Fort Lauderdale, Florida, USA",
+      "type": "weather",
+      "summary": "South Florida is experiencing severe compound flooding today as peak king tides coincide with heavy rainfall, with Miami recording approximately 86.8mm of precipitation \u2014 among the highest totals of any major city globally today. CBS Miami reported the flooding threat as active this morning (September 30), with coastal roads inundated in Miami, Fort Lauderdale, and surrounding areas. The combination of sea-level-rise-amplified king tides and stalled tropical moisture is making this one of the most significant flooding days for the region in recent weeks, and is a distinct escalation beyond the Florida Keys inundation event reported on September 29.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Heavy rain, king tides bring renewed flooding threat to South Florida as storms move in",
+          "url": "https://www.cbsnews.com/miami/news/south-florida-weather-heavy-rain-king-tides-flooding-wednesday-sept-30-2026",
+          "source": "cbsnews.com"
+        },
+        {
+          "title": "PHOTOS: King tide flooding hits South Florida; more rain to come this week",
+          "url": "https://www.sun-sentinel.com/2026/09/27/king-tide-flooding-hits-south-florida-this-weekend-more-rain-to-come-this-week",
+          "source": "sun-sentinel.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Rachel Intensifies in Eastern Pacific \u2014 El Ni\u00f1o Season's Latest Threat",
+      "location": "Eastern North Pacific Ocean (off Mexico's Pacific Coast)",
+      "type": "weather",
+      "summary": "Tropical Storm Rachel, the 17th named storm of the hyperactive 2026 Eastern Pacific season, was forecast to intensify into a hurricane by Tuesday, September 29, as it tracked west-northwestward away from Mexico's coast. The storm is part of a remarkable El Ni\u00f1o-driven Pacific season that has already produced the record-setting Category 5 Hurricane Polo just days prior. While Rachel is currently expected to remain offshore and not make landfall, it continues to generate large swells and is being closely monitored by the National Hurricane Center.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Tropical Storm Rachel Intensifying Off Mexico's Pacific Coast, Forecast to Become a Hurricane Tuesday",
+          "url": "https://sea.weathernews.com/resources/202609/256",
+          "source": "sea.weathernews.com"
+        }
+      ]
+    },
+    {
+      "title": "M4.2 Earthquake Rattles Puget Sound \u2014 Over 9,000 Reports of Shaking Across Seattle Metro",
+      "location": "Wauna (near Gig Harbor / Port Orchard), Washington, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 4.2 earthquake struck approximately 6 km west-northwest of Wauna, Washington on Tuesday evening (September 29, 21:05 UTC), with shaking felt across a remarkably wide area including Seattle, Tacoma, Bremerton, Olympia, and Issaquah. Over 9,011 felt reports were submitted to USGS \u2014 an exceptionally high count for a sub-M5.0 event, reflecting both the dense population of the Puget Sound region and the quake's shallow depth of roughly 28 km. No tsunami alert was issued and the USGS assigned a green alert level, but the event underscores the seismic hazard facing one of the Pacific Northwest's most populated corridors.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "4.2 magnitude earthquake hits near Port Orchard, felt from Issaquah to Olympia",
+          "url": "https://mynorthwest.com/local/earthquake-seattle-port-orchard/4281375",
+          "source": "mynorthwest.com"
+        },
+        {
+          "title": "Magnitude 4.2 quake hits Puget Sound area centered west-northwest of Gig Harbor",
+          "url": "https://komonews.com/news/local/magnitude-43-quake-hits-puget-sound-area-centered-west-northwest-of-wauna-gig-harbor-belfair-key-peninula-shake-purdy-washington-pierce-county",
+          "source": "komonews.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.6 Earthquake Strikes Loyalty Islands, New Caledonia \u2014 Shallow and Widely Felt",
+      "location": "Loyalty Islands, New Caledonia (South Pacific)",
+      "type": "earthquake",
+      "summary": "A strong magnitude 6.6 earthquake struck 80 km east-northeast of Tadine, New Caledonia on September 25 at 21:23 UTC, at a very shallow depth of just 10 km, making it capable of generating intense local shaking. USGS assigned a green alert level and no tsunami alert was issued, though the shallow depth and proximity to island communities warranted close monitoring. The event was confirmed by both USGS and The Watchers reporting network, with 11 felt reports submitted despite the region's sparse population.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 6.6 Earthquake Strikes Near New Caledonia's Loyalty Islands With No Tsunami Threat",
+          "url": "https://www.natureworldnews.com/articles/73392/20260929/magnitude-66-earthquake-strikes-near-new-caledonias-loyalty-islands-no-tsunami-threat.htm",
+          "source": "natureworldnews.com"
+        },
+        {
+          "title": "Strong and shallow M6.6 earthquake hits Loyalty Islands, New Caledonia",
+          "url": "https://watchers.news/2026/09/25/strong-and-shallow-m6-6-earthquake-hits-loyalty-islands-new-caledonia",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Anak Krakatau Eruption Reshapes Sunda Strait \u2014 New Landmass Emerges, Nearby Island Vegetation Scorched",
+      "location": "Sunda Strait, Indonesia",
+      "type": "volcano",
+      "summary": "Anak Krakatau's prolonged 2026 eruption cycle \u2014 elevated to Level III Alert status since July \u2014 has now produced measurable and lasting environmental changes, marking a significant escalation beyond the 50,000-foot ash blast reported on September 28. A new landmass has emerged near the volcanic island, possibly representing a new eruption center, while satellite data shows that ash drift has caused the vegetation index on neighboring Sertung Island to collapse from 0.72 to near zero, indicating widespread vegetation kill. The volcano erupted continuously for 25 hours between September 4\u20136 alone, and activity has remained intense through the end of September.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Spain's Largest Wildfire of 2026 Burns 460 Hectares in Galicia \u2014 Stabilized After Major Air and Ground Response",
+      "location": "Calvos de Rand\u00edn, Ourense, Galicia, Spain",
+      "type": "wildfire",
+      "summary": "A major wildfire ignited in the parish of Rand\u00edn, Galicia on September 25, rapidly expanding to approximately 460 hectares by the following day \u2014 making it the largest single wildfire recorded in Spain during 2026. The blaze burned through steep terrain in the Ourense province, challenging firefighting crews before being stabilized near midnight between Friday and Saturday (September 25\u201326), according to Galicia Press. Reuters Connect reported aerial and ground crews battling the fire across difficult hillside terrain; no civilian casualties were confirmed in available reporting.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Spain: Wildfire Explodes Across 460 Hectares In Spain As Crews Battle Steep Terrain",
+          "url": "https://www.reutersconnect.com/item/spain-wildfire-explodes-across-460-hectares-in-spain-as-crews-battle-steep-terrain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExODkxNDk",
+          "source": "reutersconnect.com"
+        },
+        {
+          "title": "Estabilizado el incendio de Calvos de Rand\u00edn tras arrasar 460 hect\u00e1reas",
+          "url": "https://www.galiciapress.es/articulo/ultima-hora/2026-09-26/6029323-estabilizado-incendio-calvos-randin-arrasar-460-hectareas-extinguido-fuego-manzaneda",
+          "source": "galiciapress.es"
+        }
+      ]
+    },
+    {
+      "title": "Polo Remnant Moisture Continues Widespread Flooding Across a Dozen US States",
+      "location": "Desert Southwest to Great Plains, USA",
+      "type": "weather",
+      "summary": "The moisture plume from the remnants of Hurricane Polo continues to fuel flooding across an expansive area of the United States stretching from Arizona and New Mexico northward through Utah, Colorado, Texas, Kansas, Nebraska, and Iowa, with heavy rainfall totals still being reported across multiple states. The event has now persisted for multiple days, and weather data shows ongoing precipitation across the central US corridor as the moisture continues to interact with mid-latitude weather systems. With the 2026 wildfire season already having burned more than 8.5 million acres nationally, the flooding rains \u2014 while destructive \u2014 are simultaneously offering some relief to drought- and fire-stressed landscapes across the southwest.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
