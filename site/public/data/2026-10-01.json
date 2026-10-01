@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-01",
+  "headline": "Tropical Storm Choi-wan Strikes Northern Mariana Islands as Southern California Braces for Week-Long Extreme Heat Emergency",
+  "overview": "October 1, 2026 brings a diverse set of significant natural events across the globe. Tropical Storm Choi-wan is battering Saipan and Tinian with tropical-storm-force winds and heavy flooding rain, while Southern California faces an exceptional multi-day extreme heat emergency beginning Friday with temperatures forecast to reach 106\u00b0F. In the central United States, Polo-fueled flooding has dramatically escalated, with the Missouri River and rivers across Texas, Kansas, Iowa, Nebraska, Missouri, and Oklahoma all under active flood warnings \u2014 representing one of the most geographically widespread freshwater flood events in the US so far in 2026.",
+  "events": [
+    {
+      "title": "Tropical Storm Choi-wan Strikes Saipan and Tinian \u2014 CNMI Under Tropical Storm Warning",
+      "location": "Saipan and Tinian, Commonwealth of the Northern Mariana Islands (Western Pacific)",
+      "type": "weather",
+      "summary": "Tropical Storm Choi-wan (26W) is moving westward through the Northern Mariana Islands on October 1, bringing sustained tropical-storm-force winds of 25\u201335 knots with gusts to 55 knots and seas of 11\u201316 feet to Saipan and Tinian. The NWS in Tiyan has issued Tropical Storm Warnings and Flood Watches for both islands, with flash flooding from heavy rainfall expected through at least Sunday. The storm is forecast by JMA to potentially intensify into a typhoon as it tracks toward the Ogasawara Islands.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Tropical Storm No. 27 (Choi-wan) Forms North of Mariana Islands, Forecast to Intensify into a Typhoon Tracking Toward Ogasawara",
+          "url": "https://sea.weathernews.com/resources/202610/260",
+          "source": "sea.weathernews.com"
+        }
+      ]
+    },
+    {
+      "title": "Southern California Extreme Heat Emergency \u2014 Week-Long Event Begins Friday",
+      "location": "Los Angeles, Orange, San Bernardino, Riverside, San Diego, and Ventura Counties, California, USA",
+      "type": "weather",
+      "summary": "The NWS has issued Extreme Heat Warnings across coastal and inland zones of Southern California beginning Friday, October 2, and continuing through Thursday, October 8 \u2014 a highly unusual 7-day extreme heat event for early October. Inland valleys and the Inland Empire are forecast to reach 99\u2013106\u00b0F, with overnight lows remaining in the mid-60s to mid-70s, limiting nighttime recovery. An accompanying Extreme Heat Watch covers Los Angeles and Ventura County coasts and valleys, with temperatures up to 90\u00b0F at the beach and 105\u00b0F inland, raising significant public health concerns throughout the densely populated region.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Exceptionally long October heat wave set to scorch Southern California starting Friday",
+          "url": "https://www.dailynews.com/2026/09/30/exceptionally-long-october-heat-wave-set-to-scorch-southern-california-starting-friday",
+          "source": "dailynews.com"
+        },
+        {
+          "title": "Southern California braces for lengthy October heatwave starting Friday",
+          "url": "https://www.geo.tv/latest/684520-southern-california-braces-for-lengthy-october-heatwave-starting-friday",
+          "source": "geo.tv"
+        }
+      ]
+    },
+    {
+      "title": "Polo-Fueled Flooding Escalates Dramatically \u2014 Missouri River, Texas Hill Country, and Multi-State Rivers Now Inundated",
+      "location": "Texas, Kansas, Nebraska, Iowa, Missouri, Oklahoma, and Colorado, USA",
+      "type": "weather",
+      "summary": "Flooding linked to ex-Tropical Storm Polo's residual moisture has dramatically escalated as of October 1, with the Missouri River itself now under Flood Warnings from St. Joseph, Missouri to Leavenworth, Kansas \u2014 some river crests forecast through October 8. In the Texas Hill Country, life-threatening flash flood warnings were issued for Edwards, Val Verde, Kerr, Kimble, and Real Counties, with 3\u20138 inches of rain falling; North Texas including Dallas, Denton, and Tarrant Counties also saw flash flooding from up to 3 inches of rain. Dozens of Flood Warnings and Flash Flood Warnings remain active across Nebraska, Iowa, Kansas, Oklahoma, and Missouri, making this one of the most geographically extensive US inland flood events of 2026.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Hurricane Rachel Rapidly Intensifying \u2014 Forecast to Become Major Hurricane in Eastern Pacific",
+      "location": "Eastern North Pacific Ocean (off Mexico's Pacific Coast)",
+      "type": "weather",
+      "summary": "Hurricane Rachel has undergone rapid intensification in the Eastern Pacific and is now forecast to potentially become the latest major hurricane (Category 3+) ever recorded in that basin, according to Fox Weather. Moisture from Rachel is expected to interact with the remnants of Polo, extending and potentially worsening the ongoing multi-state flood threat across the Southwest and Plains. The storm's trajectory and intensification represent a significant escalation from its status just 24 hours ago.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Rachel fuels U.S. flood threat, could become latest major hurricane in the Pacific",
+          "url": "https://www.foxweather.com/weather-news/hurricane-rachel-polo-pacific-flood-threat-el-nino",
+          "source": "foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Mount Etna Eruption Closes Catania Airport \u2014 VONA Red Alert Issued, Flights Disrupted",
+      "location": "Mount Etna, Sicily, Italy",
+      "type": "volcano",
+      "summary": "Mount Etna's North-East Crater erupted violently in late September 2026, prompting Italy's INGV (National Institute of Geophysics and Volcanology) to raise the aviation color code to Red (VONA Red) and forcing the closure of Catania-Fontanarossa Airport, Sicily's busiest airport, through at least Sunday, September 28. As of October 1, the alert has been downgraded to Orange and the airport has partially reopened, but disruptions persist for international routes including transatlantic services. Etna remains on elevated watch as further eruptive episodes are possible.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Etna Ash Shuts Catania Airport Until Sunday",
+          "url": "https://migflug.com/afterburner/etna-ash-catania-airport-closed-red-vona-september-2026",
+          "source": "migflug.com"
+        },
+        {
+          "title": "Catania Airport Reopens After Etna: Delta JFK Sicily Route Status",
+          "url": "https://www.traveltourister.com/news/catania-airport-reopens-mount-etna-volcanic-ash-september-30-2026-delta-jfk-sicily-stop-start-chaos",
+          "source": "traveltourister.com"
+        }
+      ]
+    },
+    {
+      "title": "Oregon 2026 Wildfire Season Sets All-Time Record \u2014 2.1 Million Acres Burned, $1.4 Billion in Costs",
+      "location": "Oregon, USA",
+      "type": "wildfire",
+      "summary": "Oregon's 2026 wildfire season has officially become the most destructive on record, burning more than 2.1 million acres \u2014 surpassing all prior records since reliable data collection began in 1992 \u2014 at a suppression and damage cost exceeding $1.4 billion. The season, fueled by record heat and drought intensified by a strong El Ni\u00f1o pattern, saw an unusual concentration of large fires and an extended burning window into autumn. Oregon's record is part of a broader 2026 Western US wildfire crisis, with the national total now exceeding 8.5 million acres burned across multiple states.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Record 2026 Oregon wildfire season burned 2.1M acres, cost $1.4B",
+          "url": "https://idahobusinessreview.com/2026/09/30/oregon-wildfire-season-burns-2-1-million-acres-costs-1",
+          "source": "idahobusinessreview.com"
+        }
+      ]
+    },
+    {
+      "title": "CME Geomagnetic Storm Watch \u2014 G1 Event Forecast to Arrive October 2",
+      "location": "Global (Aurora visible to northern United States)",
+      "type": "other",
+      "summary": "NOAA's Space Weather Prediction Center has issued a G1 (Minor) geomagnetic storm watch for October 2, 2026, following a large solar filament eruption and associated coronal mass ejection (CME) observed on September 28. The CME is forecast to deliver a glancing blow to Earth's magnetosphere, potentially producing visible auroral displays at high to mid-latitudes, including parts of Maine and other northern US states. While a G1 event is the lowest level on the 5-point geomagnetic storm scale and poses minimal risk to infrastructure, the CME's arrival could temporarily affect satellite operations and HF radio communications at high latitudes.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Aurora forecast: Maine and other U.S. states may see the northern lights on October 2 as CME hits Earth",
+          "url": "https://starlust.org/aurora-forecast-maine-and-other-u-s-states-may-see-the-northern-lights-on-october-2-as-cme-hits-earth",
+          "source": "starlust.org"
+        }
+      ]
+    }
+  ]
+}
