@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-02",
+  "headline": "Hurricane Rachel Reaches Category 3 Near Revillagigedo Islands as K\u012blauea Erupts and Choi-wan Earns Typhoon Warning for Remote CNMI Islands",
+  "overview": "October 2 brings a cluster of escalating global hazards: Hurricane Rachel has intensified to a dangerous Category 3 storm off Mexico's Pacific coast, threatening the Revillagigedo Islands with 194 km/h winds, while K\u012blauea volcano on Hawai\u02bbi Island erupted overnight with lava overflowing the north vent of Halema\u02bbuma\u02bbu and nearly 100 summit earthquakes prompting park closures. Tropical Storm Choi-wan has simultaneously escalated in the western Pacific, with a Typhoon Warning now issued for the remote northern CNMI islands of Agrihan and Pagan, and ex-Polo's moisture continues to inundate dozens of rivers across the central United States from Texas to Iowa.",
+  "events": [
+    {
+      "title": "Hurricane Rachel Intensifies to Category 3 \u2014 Revillagigedo Islands at Risk",
+      "location": "Eastern North Pacific Ocean (near Revillagigedo Islands, off Mexico's Pacific Coast)",
+      "type": "weather",
+      "summary": "Hurricane Rachel has rapidly intensified to a Category 3 major hurricane with sustained winds of 194 km/h (120 mph), now positioned approximately 165 km east-northeast of Isla Socorro in the Revillagigedo Archipelago. The storm is tracking westward and poses an immediate threat to these remote Mexican islands with dangerous surf and heavy rain impacts also spreading to Mexico's Pacific coast. Rachel represents a significant escalation from its Category 2 status on October 1, continuing a record-active El Ni\u00f1o-fueled Eastern Pacific hurricane season.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Category 3 Hurricane Rachel Threatens Mexico's Pacific Coast",
+          "url": "https://www.telesurenglish.net/category-3-hurricane-rachel-mexico-coast",
+          "source": "telesurenglish.net"
+        },
+        {
+          "title": "Hurricane Rachel Category 3 storm off Mexico, dangerous surf and heavy rain warnings",
+          "url": "https://www.indiatoday.in/world/story/hurricane-rachel-category-3-mexico-pacific-coast-dangerous-surf-heavy-rain-ptag-3007795-2026-10-02",
+          "source": "indiatoday.in"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Erupts \u2014 Lava Overflows North Vent, Park Areas Closed",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea volcano has entered a new eruptive phase, with lava overflowing the north vent within Halema\u02bbuma\u02bbu crater at the summit, accompanied by nearly 100 earthquakes recorded overnight in the summit area. The Hawaiian Volcano Observatory (HVO) and Hawai\u02bbi Volcanoes National Park have closed portions of the park in response to the abnormal seismic activity and active lava flow, with magma also forcing its way underground and triggering additional intrusion events. The eruption is confined to the summit caldera and does not currently threaten populated areas, but the situation remains dynamic and closely monitored.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Earthquake activity closes portion of Hawai\u02bbi Volcanoes National Park",
+          "url": "https://www.khon2.com/kilauea/kilauea-earthquakes-summit-closures",
+          "source": "khon2.com"
+        },
+        {
+          "title": "K\u012blauea Magma Intrusion Update, National Park Closes Area",
+          "url": "https://www.bigislandvideonews.com/2026/10/01/kilauea-magma-intrusion-update-national-park-closes-area",
+          "source": "bigislandvideonews.com"
+        }
+      ]
+    },
+    {
+      "title": "Choi-wan Earns Typhoon Warning for Agrihan and Pagan \u2014 Significant Escalation in CNMI",
+      "location": "Northern Commonwealth of the Northern Mariana Islands (Agrihan and Pagan), Western Pacific",
+      "type": "weather",
+      "summary": "Tropical Storm Choi-wan (26W) has escalated significantly, with the NWS issuing a Typhoon Warning for the remote northern CNMI islands of Agrihan and Pagan \u2014 a major step up from the Tropical Storm Warning that covered Saipan and Tinian on October 1. The storm is generating sustained tropical storm-force winds of up to 40 knots with gusts to 60 knots and seas of 14 to 20 feet around Saipan and Tinian, while Choi-wan slowly pivots north-northwestward and continues to strengthen. A Flood Watch remains in effect through late Sunday for Guam, Rota, Tinian, and Saipan due to ongoing heavy rainfall from the system.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Polo-Fueled Flooding Enters Prolonged River Stage \u2014 Missouri and Iowa Rivers Inundated Through Next Week",
+      "location": "Iowa, Kansas, Nebraska, Missouri, Texas, and surrounding US states",
+      "type": "weather",
+      "summary": "Remnant moisture from ex-Hurricane Polo continues to drive a massive, multi-state flooding crisis, with dozens of active Flood Warnings spanning rivers from the Texas Hill Country through Kansas, Nebraska, Iowa, and deep into Missouri. Missouri River flood warnings at Glasgow and Napoleon are now extended through October 7, and the Wapsipinicon River in eastern Iowa is forecast to reach major flood stage, while additional river systems including the Iowa, Cedar, English, Des Moines, Grand, and Platte rivers remain in flood. NWS forecasters note that a stalled frontal boundary and continued tropical moisture influx are sustaining the threat, with some warnings in Iowa and Missouri valid through October 9.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Southern California Extreme Heat Warning Extended Through October 8 \u2014 Coastal Areas Now Included",
+      "location": "Los Angeles, Orange, San Bernardino, Riverside, San Diego, Ventura, and Santa Barbara Counties, California, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings now blanket virtually all of Southern California through 8 PM PDT Thursday, October 8, with NWS offices in Los Angeles/Oxnard and San Diego jointly covering coastal, valley, mountain, and inland zones \u2014 an expanded footprint compared to the event's onset. Forecast highs range from the upper 80s to low 90s at the coast, surging to 102\u2013105\u00b0F in the inland valleys of San Bernardino, Riverside, and San Diego counties, with overnight lows remaining in the 70s providing little relief. The NWS notes that dangerously hot conditions are likely to continue into the second week of October, making this one of Southern California's most prolonged early-October heat events on record.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "California heat expected to rise in early October heat wave",
+          "url": "https://www.desertsun.com/story/weather/2026/10/01/california-heat-expected-to-rise-in-early-october-heat-wave-ventura-los-angeles-riverside/92042954007",
+          "source": "desertsun.com"
+        }
+      ]
+    },
+    {
+      "title": "Mendenhall Glacier's Suicide Basin Releases Second Outburst Flood of 2026 \u2014 Juneau Crests Friday",
+      "location": "Juneau, Alaska, USA",
+      "type": "weather",
+      "summary": "A second glacial lake outburst flood from Suicide Basin \u2014 a glacier-dammed lake at the edge of the Mendenhall Glacier \u2014 is underway in Juneau, Alaska, with the Mendenhall Lake and River forecast to crest at approximately 10 feet on the morning of October 2. The NWS Juneau office issued a Flood Warning noting moderate flooding is expected near Mendenhall Lake and River, and the earlier-than-anticipated drainage start time caused the crest forecast to be adjusted forward. While this second 2026 release is not expected to cause major structural damage, it underscores the accelerating pace of glacial outburst flood events at Mendenhall Glacier, which has been releasing with increasing frequency in recent years due to glacial retreat.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Purac\u00e9 Volcano Sends Ash Plume to 18,000 Feet \u2014 Colombia on Alert",
+      "location": "Purac\u00e9 Volcano, Cauca Department, Colombia",
+      "type": "volcano",
+      "summary": "Purac\u00e9 volcano, an active andesitic stratovolcano in southwestern Colombia at the northwest end of the Los Coconucos Volcanic Chain, produced a significant ash plume reaching 18,000 feet (5,500 meters) as of September 30 UTC, prompting a Volcanic Ash Advisory from regional aviation authorities. The Weekly Volcanic Activity Report covering September 24\u201330, 2026 highlighted Purac\u00e9's ongoing unrest, with intermittent ash emissions that pose a hazard to low-flying aircraft and downwind communities. Data on ground-level impacts and evacuation status in surrounding areas is limited at this time.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Purac\u00e9 Volcanic Ash Advisory: ash plume to 18,000 ft (5,500 m) as of Sep 30, 02:10 UTC",
+          "url": "https://www.volcanodiscovery.com/purace/news/367995/vaac-advisory-2026-559.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
