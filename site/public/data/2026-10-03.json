@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-03",
+  "headline": "Hurricane Rachel escalates toward Category 4 as Typhoon Choi-wan batters the Marianas and Guam, while Southern California bakes under a prolonged Extreme Heat Warning with elevated wildfire risk.",
+  "overview": "Two major tropical cyclones dominate the global picture on October 3: Hurricane Rachel has intensified beyond Category 3 in the Eastern Pacific, now threatening to peak as a Category 4 storm, while Typhoon Choi-wan has fully organized and is pushing hazardous winds, seas, and flooding into the Mariana Islands and Guam. Meanwhile, a sprawling multi-state flood emergency persists across the US Midwest as the Missouri and Mississippi rivers remain at or above flood stage, and Southern California endures one of its most dangerous October heat events on record \u2014 with 100\u00b0F+ temperatures and an elevated wildfire threat extending through October 8.",
+  "events": [
+    {
+      "title": "Hurricane Rachel Escalates Toward Category 4 \u2014 Major Pacific Threat Intensifies",
+      "location": "Eastern North Pacific Ocean (near Revillagigedo Islands, off Mexico's Pacific Coast)",
+      "type": "weather",
+      "summary": "Hurricane Rachel, already a Category 3 major hurricane as of October 2, has continued to rapidly intensify and was forecast to reach Category 4 status as early as Friday, October 3, according to reporting from Mexico News Daily. The storm is generating dangerous flood threats along Mexico's Pacific coastal areas in the wake of Tropical Storm Polo, which had already saturated the region with heavy rainfall. Rachel's intensification in the Eastern Pacific underscores an exceptionally active late-season hurricane environment, with both warm sea surface temperatures and low wind shear fueling its growth.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Category 3 Hurricane Rachel Threatens Mexico's Pacific Coast",
+          "url": "https://www.telesurenglish.net/category-3-hurricane-rachel-mexico-coast",
+          "source": "telesurenglish.net"
+        }
+      ]
+    },
+    {
+      "title": "Typhoon Choi-wan Blows Through Marianas \u2014 Guam and CNMI Under Flood Watch Through Sunday",
+      "location": "Mariana Islands \u2014 Guam, Saipan, Tinian, Rota (Western Pacific)",
+      "type": "weather",
+      "summary": "Tropical Storm Choi-wan has intensified into a full typhoon as of Saturday, October 3, sweeping through the Mariana Islands with hazardous winds, rough seas, and heavy rainfall. The Tropical Storm Warning for Saipan and Tinian has been cancelled, indicating the system has passed those islands, but a Flood Watch remains in effect for Guam, Rota, Saipan, and Tinian through late Sunday night as the now-typhoon continues to bring excessive rainfall and flash-flooding potential. Reporting from Guam's Pacific Daily News confirms Saturday as a critical day for the islands, urging continued vigilance for flooding and dangerous surf.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Southern California Extreme Heat + Wildfire Risk \u2014 105\u00b0F Valleys, Wind Advisories Through October 8",
+      "location": "Los Angeles, Orange, Ventura, San Bernardino, Riverside, San Diego, and Santa Barbara Counties, California, USA",
+      "type": "weather",
+      "summary": "Active Extreme Heat Warnings cover virtually all of Southern California through 8:00 PM PDT Thursday, October 8, with inland valleys reaching up to 103\u2013105\u00b0F, coastal areas near 90\u00b0F, and overnight lows remaining dangerously warm in the low-to-mid 70s. Concurrently, Wind Advisories are in effect across the region, with east winds gusting to 35\u201345 mph \u2014 a combination that meteorologists and fire agencies warn creates a critical wildfire ignition environment. AccuWeather and ABC News have flagged the compounding heat-and-wind threat as one of the most dangerous October fire-weather setups in Southern California's recent history, with Los Angeles weather data confirming a maximum of 40.5\u00b0C (105\u00b0F) on October 3.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "October heat wave to bring 100-degree temperatures, wildfire risk to Southern California",
+          "url": "https://www.accuweather.com/en/weather-forecasts/october-heat-wave-to-bring-100-degree-temperatures-wildfire-risk-to-southern-california/1940877",
+          "source": "accuweather.com"
+        },
+        {
+          "title": "Southern California under extreme heat warning, increased fire risk",
+          "url": "https://abcnews.com/US/southern-california-extreme-heat-warning-increased-fire-risk/story?id=136946936",
+          "source": "abcnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Polo-Fueled Midwest Flooding Spreads to Mississippi River and Great Lakes Region",
+      "location": "Iowa, Nebraska, Kansas, Missouri, Illinois, Wisconsin, USA",
+      "type": "weather",
+      "summary": "Flood Warnings triggered by remnant moisture from Tropical Storm Polo continue across a vast swath of the central United States, with new alerts now active along the Missouri River at Jefferson City and Hermann (through October 8), the Mississippi River near Clarksville and Louisiana, Missouri, and rivers in Illinois and Wisconsin \u2014 including the Fox River and Des Plaines River. The flooding has expanded geographically since October 2, with the Missouri River's crest wave moving downstream and secondary tributaries now joining the Wapsipinicon, Iowa, Skunk, and Big Blue rivers already in flood stage. Yale Climate Connections reports that tropical moisture combined with a stalled frontal boundary is the primary driver of this multi-state event.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Missouri River to reach flood stage this weekend after heavy rain upstream",
+          "url": "https://abc17news.com/weather/insider-blog/2026/10/01/missouri-river-to-reach-flood-stage-this-weekend-after-heavy-rain-upstream",
+          "source": "abc17news.com"
+        }
+      ]
+    },
+    {
+      "title": "M4.2 Puget Sound Earthquake Widely Felt by Over 9,500 People Near Gig Harbor, Washington",
+      "location": "Wauna (near Gig Harbor), Pierce County, Washington, USA",
+      "type": "earthquake",
+      "summary": "A magnitude 4.2 earthquake struck 6 km west-northwest of Wauna, Washington at 21:05 UTC on September 29, at a depth of approximately 28 km within the Puget Sound region \u2014 one of the most seismically sensitive urban corridors in the United States. USGS records show the quake generated an extraordinary 9,533 felt reports, making it one of the most widely perceived earthquakes in the Pacific Northwest in recent memory despite its moderate magnitude, reflecting the dense population of the greater Seattle-Tacoma metro area. The USGS issued a green alert level, indicating no significant damage or casualties, though the event serves as a reminder of the region's proximity to active fault systems.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 4.2 quake hits Puget Sound area centered west-northwest of Gig Harbor",
+          "url": "https://komonews.com/news/local/magnitude-43-quake-hits-puget-sound-area-centered-west-northwest-of-wauna-gig-harbor-belfair-key-peninula-shake-purdy-washington-pierce-county",
+          "source": "komonews.com"
+        },
+        {
+          "title": "Magnitude 4.2 quake hits Puget Sound area centered west-northwest of Gig Harbor",
+          "url": "https://wlos.com/news/nation-world/magnitude-43-quake-hits-puget-sound-area-centered-west-northwest-of-wauna-gig-harbor-belfair-key-peninula-shake-purdy-washington-pierce-county",
+          "source": "wlos.com"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Karhutla Wildfires Spread Across Archipelago \u2014 Transboundary Haze Reaches Singapore",
+      "location": "Indonesia (multiple provinces); Singapore and Southeast Asia",
+      "type": "wildfire",
+      "summary": "As of October 1\u20133, 2026, Indonesia is experiencing widespread forest and peatland fires \u2014 known locally as karhutla \u2014 burning across multiple islands of the archipelago, including both surface fires and difficult-to-extinguish underground peat fires. IQAir reports that the smoke and haze produced by these fires has crossed international borders, triggering an air quality alert in Singapore due to transboundary haze; respiratory infection rates in Indonesia reportedly doubled within a single week earlier in the season. Peatland fires are particularly dangerous because they can smolder for weeks underground, making suppression extremely difficult and sustaining regional air quality degradation long after surface fires are extinguished.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Indonesia forest and peatland fires",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-indonesia-forest-and-peatland-fires-september-2026",
+          "source": "iqair.com"
+        },
+        {
+          "title": "Singapore Air Quality Alert: Transboundary Haze",
+          "url": "https://www.iqair.com/bh/newsroom/singapore-air-quality-alert-transboundary-haze",
+          "source": "iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "M4.7 Earthquake Strikes Near Korumburra, Victoria \u2014 Widely Felt Across Melbourne Region",
+      "location": "Korumburra, South Gippsland, Victoria, Australia",
+      "type": "earthquake",
+      "summary": "A magnitude 4.7 earthquake struck 5 km north-northeast of Korumburra, Victoria, Australia at 16:01 UTC on October 2, at a shallow depth of 10 km, generating 517 felt reports across the greater Melbourne region. VolcanoDiscovery reports that residents near the epicenter described the shaking as beginning with a loud bang similar to a nearby explosion, with complex motion lasting 15\u201320 seconds and reaching Modified Mercalli Intensity V (moderate) near the epicenter. The USGS issued a green alert level, indicating no significant damage or casualties expected, but the event is notable as a relatively rare, widely felt earthquake for the Gippsland region southeast of Melbourne.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "M4.7 earthquake strikes near Korumburra, Victoria, Australia",
+          "url": "https://cedarnews.net/newstasks/1025231/m4-7-earthquake-strikes-near-korumburra-victoria-australia",
+          "source": "cedarnews.net"
+        },
+        {
+          "title": "Moderate Mag. 4.7 Earthquake - South Gippsland, Victoria, Australia",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23406090/quake-felt-Oct-2-2026-Near-Melbourne-Victoria-Australia.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
