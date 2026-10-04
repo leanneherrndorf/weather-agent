@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-04",
+  "headline": "Typhoon Choi-wan's Trough Reaches the Philippines as K\u012blauea Eruption Escalates with New Magma Intrusion",
+  "overview": "October 4 brings a cluster of escalating and new natural events across the Pacific, North America, and Europe. Typhoon Choi-wan, after battering the Marianas, is now extending its trough into the Visayas and Mindanao regions of the Philippines, while K\u012blauea's ongoing eruption has been complicated by a new magma intrusion and an 98-quake swarm. Separately, a fresh wildfire ignited in California's Mono County, deadly flash floods struck inland Spain, and Stromboli volcano in Italy was raised to an Orange aviation alert.",
+  "events": [
+    {
+      "title": "Typhoon Choi-wan's Trough Reaches Philippines \u2014 Visayas and Mindanao Affected",
+      "location": "Visayas and Mindanao, Philippines (Western Pacific)",
+      "type": "weather",
+      "summary": "Following its passage through the Mariana Islands, Typhoon Choi-wan has tracked westward and its trough is now influencing weather conditions across the Visayas and Mindanao in the Philippines as of October 4, according to PAGASA. The trough is bringing enhanced rainfall and flooding potential to a broad swath of the central and southern Philippines, marking a significant geographic expansion of the storm's impact zone beyond the CNMI. Authorities in affected Philippine regions are monitoring conditions closely as the system continues its westward trajectory.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Trough of Typhoon Choi-wan affecting Visayas, Mindanao",
+          "url": "https://www.gmanetwork.com/news/weather/content/1004640/trough-of-typhoon-choi-wan-affecting-visayas-mindanao/story",
+          "source": "gmanetwork.com"
+        },
+        {
+          "title": "'Choi-Wan' trough to affect Mindanao, parts of Visayas",
+          "url": "https://www.philstar.com/headlines/weather/2026/10/04/2560875/choi-wan-trough-affect-mindanao-parts-visayas",
+          "source": "philstar.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Eruption Escalates \u2014 Magma Intrusion and 98-Quake Swarm Trigger New Closures",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing summit eruption at Halema\u02bbuma\u02bbu crater has significantly escalated: a magma intrusion forced a new east-west crack beneath the crater floor, accompanied by a swarm of 98 shallow earthquakes in a 24-hour period. The Keanak\u0101ko\u02bbi area of Hawai\u02bbi Volcanoes National Park has been closed as a result of the intrusion, and the volcano remains at USGS Alert Level WATCH. Scientists report that lava fountaining from the north and south vents is ongoing, with the intrusion adding new uncertainty about eruptive behavior in the coming days.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Volcano Watch \u2014 An intrusion during an eruption at the summit of K\u012blauea",
+          "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-intrusion-during-eruption-summit-kilauea",
+          "source": "usgs.gov"
+        },
+        {
+          "title": "Volcano Watch: An intrusion during an eruption at the summit of Kilauea",
+          "url": "https://www.hawaiitribune-herald.com/2026/10/04/features/volcano-watch-an-intrusion-during-an-eruption-at-the-summit-of-kilauea",
+          "source": "hawaiitribune-herald.com"
+        }
+      ]
+    },
+    {
+      "title": "Slink Fire Ignites in Mono County \u2014 Walker Community Evacuated",
+      "location": "South of Topaz Lake, Mono County, California, USA",
+      "type": "wildfire",
+      "summary": "A new wildfire dubbed the Slink Fire ignited on October 3 south of Topaz Lake in Mono County, California, sparked by human activity and burning approximately 150\u2013196 acres as of Sunday morning. The fire has prompted a Local Area Emergency declaration, with a temporary evacuation shelter established at the Walker Community Center. The blaze is occurring amid the broader Southern California extreme heat and fire weather pattern, with fire weather watches also in effect across Wyoming and Montana for Monday.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Breaking: Slink Fire in Mono County sparked by human activity on Oct. 3",
+          "url": "https://www.sacbee.com/news/california/fires/article317483711.html",
+          "source": "sacbee.com"
+        },
+        {
+          "title": "Slink Fire south of Topaz Lake at 196 acres",
+          "url": "https://cedarnews.net/newstasks/1028482/slink-fire-south-topaz-lake-196-acres",
+          "source": "cedarnews.net"
+        }
+      ]
+    },
+    {
+      "title": "Florida Panhandle Flash Floods and Waterspouts \u2014 Multi-State Flood Watch Through Monday",
+      "location": "Florida Panhandle, Southwest Alabama, Southeast Louisiana, and Southern Mississippi, USA",
+      "type": "weather",
+      "summary": "Tropical downpours hammered the western Florida Panhandle on Sunday, with the NWS issuing Flash Flood Warnings for Okaloosa, Bay, and Walton Counties after 2\u20134 inches of rain fell in just hours. A waterspout was reported approximately 11 miles south of Destin, and Flood Watches extended across a wide swath of southwest Alabama, northwest Florida, southeast Louisiana, and southern Mississippi through Monday morning. The event is driven by a persistent moisture feed unrelated to the Polo-fueled Midwest flooding, representing a separate and significant precipitation event along the Gulf Coast.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash flooding threat grows for Pensacola and Florida Panhandle coast",
+          "url": "",
+          "source": "waltonsun.com"
+        },
+        {
+          "title": "Heavy rain this weekend across parts of the Panhandle, Flood Watch in effect",
+          "url": "https://www.fpren.org/2026-10-03/heavy-rain-this-weekend-across-parts-of-the-panhandle-flood-watch-in-effect",
+          "source": "fpren.org"
+        }
+      ]
+    },
+    {
+      "title": "Flash Floods Kill One, Prompt 90 Rescues in Madrigueras, Spain",
+      "location": "Madrigueras, Albacete Province, Castilla-La Mancha, Spain",
+      "type": "weather",
+      "summary": "Intense flash flooding struck the town of Madrigueras in Spain's Albacete Province on October 2\u20133, dropping over 140 mm (5.5 inches) of rain in a short period and killing a 102-year-old woman. Emergency services conducted approximately 90 water rescues as streets and homes were inundated, with storms continuing to affect wide swaths of Spain through the weekend. The event is part of a broader pattern of intense autumn convective rainfall affecting the Iberian Peninsula.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash flooding kills one, prompts around 90 rescues in Madrigueras, Spain",
+          "url": "https://watchers.news/2026/10/03/flash-flooding-kills-one-prompts-around-90-rescues-in-madrigueras-spain",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Showers and storms across Spain this weekend, floods kill 102-year-old woman",
+          "url": "https://www.euronews.com/2026/10/03/showers-and-storms-across-spain-this-weekend-floods-kill-102-year-old-woman",
+          "source": "euronews.com"
+        }
+      ]
+    },
+    {
+      "title": "Stromboli Volcano Raised to Orange Aviation Alert \u2014 Elevated Activity Reported",
+      "location": "Stromboli, Aeolian Islands, Italy",
+      "type": "volcano",
+      "summary": "Italy's INGV has raised Stromboli volcano's aviation color code to ORANGE, signaling a step up from routine Strombolian activity to a level warranting heightened aviation and safety precautions. The alert indicates elevated gas emissions and an increased potential for paroxysmal explosive activity at the Aeolian Islands volcano, which last produced a major paroxysm in 2019. Stromboli is one of the world's most continuously active volcanoes, and an Orange VONA (Volcano Observatory Notice for Aviation) is issued when ash clouds or explosive events could affect aircraft.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Stromboli Volcano, Eolian Islands, Italy: ordinary explosions continue, elevated gas emissions",
+          "url": "https://www.volcanodiscovery.com/stromboli.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Rachel Maintains Major Hurricane Status \u2014 Coastal Mexico Flood Threat Ongoing",
+      "location": "Eastern North Pacific Ocean (off Mexico's Pacific Coast)",
+      "type": "weather",
+      "summary": "Hurricane Rachel continues as a significant major hurricane in the Eastern Pacific, with Mexico News Daily reporting the storm was poised to reach Category 4 intensity and is now fueling dangerous flood threats along Mexico's Pacific coastal areas. The storm is arriving hard on the heels of Polo, which earlier drove widespread Midwest flooding, and its moisture interaction with Mexico's first cold front of the season is generating heavy rain across central and northern Mexico. No direct landfall on populated areas is currently confirmed, but coastal communities and low-lying flood-prone zones remain at elevated risk.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico's Pacific Coast",
+          "url": "https://www.10tv.com/article/syndication/associatedpress/hurricane-rachel-strengthens-to-a-category-3-storm-off-mexicos-pacific-coast/616-d56e33b6-2d9c-47c9-9a90-3ae26c47e6c7",
+          "source": "10tv.com"
+        }
+      ]
+    }
+  ]
+}
