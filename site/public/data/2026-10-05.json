@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-05",
+  "headline": "Typhoon Choi-wan escalates toward Japan's mainland as Southern California endures one of its most intense October heat waves on record, with 37 million people under Extreme Heat Warnings through Thursday.",
+  "overview": "A dangerous convergence of natural hazards is unfolding globally on October 5, 2026. Typhoon Choi-wan, after sweeping through the Marianas and brushing the Philippines, has intensified into a very strong typhoon now on course to approach Japan's mainland by midweek. Simultaneously, Southern California is sweltering under widespread Extreme Heat Warnings through October 8 \u2014 affecting 37 million people and sending Death Valley temperatures near 110\u00b0F \u2014 while Hurricane Rachel maintains Category 3 strength off Mexico's Pacific coast and flood warnings remain active across the U.S. Midwest, Mississippi River corridor, and Florida Panhandle.",
+  "events": [
+    {
+      "title": "Southern California Extreme Heat Wave Expands \u2014 37 Million Under Warning Through Thursday",
+      "location": "Los Angeles, Orange, Ventura, San Bernardino, Riverside, San Diego Counties + Death Valley, California, USA",
+      "type": "weather",
+      "summary": "A sprawling, long-duration October heat wave is baking Southern California under an anomalous upper-level ridge, with Extreme Heat Warnings now active across coastal and inland zones from Santa Barbara to San Diego through 8 PM PDT Thursday, October 8. Temperatures are reaching 106\u00b0F in the valleys and up to 100\u00b0F at the coast, with Death Valley National Park \u2014 under a separate warning through Friday \u2014 expected to approach 110\u00b0F and overnight lows staying near 85\u00b0F. The NWS has issued this warning for more than 150 continuous hours, and roughly 37 million people across the region are under some form of heat alert, creating significant public health risk.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "37 million people under alert for dangerous temperatures as October heat wave bakes California",
+          "url": "https://abcnews.com/US/37-million-people-alert-dangerous-temperatures-october-heat/story?id=136984812",
+          "source": "abcnews.com"
+        },
+        {
+          "title": "California heat wave triggers Heat Advisories and Extreme Heat Warnings through October 8",
+          "url": "https://watchers.news/2026/10/03/california-heat-wave-triggers-heat-advisories-and-extreme-heat-warnings-through-october-8",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Typhoon Choi-wan Escalates Toward Japan Mainland \u2014 Very Strong Storm Forecast by Wednesday",
+      "location": "Western Pacific \u2014 Philippines Trough Remnant; Now Tracking Toward Japan",
+      "type": "weather",
+      "summary": "Typhoon Choi-wan, which previously battered the Mariana Islands and pushed a moisture-laden trough over Visayas and Mindanao, has intensified into a 'very strong' typhoon according to JMA and is now forecast to approach Japan's mainland by Wednesday, October 7 \u2014 a significant escalation in both track and intensity beyond its prior Philippines phase. Japan News reports the storm is moving north-northeast and poses a serious threat to the Japanese archipelago. The Philippines trough influence is winding down, but Japan's coastal and inland areas are now under increasing threat from wind, rain, and potential flooding.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Typhoon Choi-Wan Forecast to Approach Japan's Mainland on Wednesday",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20261002-351831",
+          "source": "japannews.yomiuri.co.jp"
+        },
+        {
+          "title": "Tropical Storm No. 27 (Choi-wan) Forms North of Mariana Islands, Forecast to Intensify into a Typhoon Tracking Toward Ogasawara",
+          "url": "https://sea.weathernews.com/resources/202610/260",
+          "source": "sea.weathernews.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Rachel Persists at Category 3 \u2014 Pacific Mexico Coast Remains on Alert",
+      "location": "Eastern North Pacific Ocean (off Mexico's Pacific Coast)",
+      "type": "weather",
+      "summary": "Hurricane Rachel continues as a Category 3 major hurricane in the Eastern Pacific, maintaining a well-defined eye and cold cloud tops visible in satellite imagery according to CIMSS. The storm remains a threat for heavy rainfall and flooding along Mexico's Pacific coast, consistent with prior NHC advisories. No significant intensification or track change has been reported since the October 4 advisory, but Rachel remains an active and dangerous system as it navigates the Pacific basin.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico's Pacific coast",
+          "url": "https://apnews.com/article/hurricane-rachel-polo-pacific-nino-8752e5abd8b0a52aa01976a4cf3f1462",
+          "source": "apnews.com"
+        },
+        {
+          "title": "Hurricane Rachel reaches Category 3 intensity over the East Pacific \u2014 CIMSS Satellite Blog",
+          "url": "https://cimss.ssec.wisc.edu/satellite-blog/archives/72435",
+          "source": "cimss.ssec.wisc.edu"
+        }
+      ]
+    },
+    {
+      "title": "Polo-Fueled Midwest Flooding Spreads Further \u2014 Mississippi River and Iowa Systems Now Affected",
+      "location": "Iowa, Nebraska, Kansas, Missouri, Illinois, USA",
+      "type": "weather",
+      "summary": "River flooding triggered by the remnants of Tropical Storm Polo continues to spread downstream, with the NWS issuing active flood warnings on the Mississippi River at Louisiana and Clarksville (IL/MO border), the Missouri River at multiple gauges in Missouri, and several Iowa River tributaries \u2014 with some warnings extended as far as October 11. Moderate flooding is occurring on Turkey Creek in Nebraska, and multiple Flood Warnings remain in effect for Polk, Tama, Poweshiek, Saline, Gage, and Missouri River counties. The event has now affected a broad swath of the central U.S. over more than a week, with rivers continuing to crest downstream.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Florida Panhandle Flooding Persists \u2014 Franklin County Flood Warning Active October 5",
+      "location": "Florida Panhandle, Southwest Alabama, Southeast Georgia, USA",
+      "type": "weather",
+      "summary": "Flooding along Florida's Gulf Coast continues into Monday, with the NWS Tallahassee issuing a new Flood Warning for southwestern Franklin County at 11:24 AM EDT citing 3\u20135 inches of accumulated rainfall and widespread standing water. Flood Watches remain in effect across portions of northwest Florida, southwest Alabama, and coastal Georgia, and a Special Marine Warning was issued for waterspouts off Apalachee Bay and adjacent coastal waters. River flooding is also ongoing along the St. Mary's River at Macclenny, affecting the Florida-Georgia border counties.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Heavy rain this weekend across parts of the Panhandle, Flood Watch in effect",
+          "url": "https://www.fpren.org/2026-10-03/heavy-rain-this-weekend-across-parts-of-the-panhandle-flood-watch-in-effect",
+          "source": "www.fpren.org"
+        }
+      ]
+    },
+    {
+      "title": "Red Flag Warnings Ignite Across Wyoming and Montana \u2014 Extreme Fire Weather Through Monday Evening",
+      "location": "Casper, Sweetwater, Natrona, Gallatin, Park, Wheatland, Sweet Grass Counties, Wyoming and Montana, USA",
+      "type": "wildfire",
+      "summary": "The NWS offices in Riverton, WY and Billings, MT have issued concurrent Red Flag Warnings for extensive portions of central and southwest Wyoming and south-central Montana, in effect through 6\u20138 PM MDT Monday. Conditions include relative humidity as low as 10\u201312%, temperatures well above seasonal norms, and west winds gusting to 30\u201335 mph \u2014 a combination that can cause any new or existing fires to spread erratically and explosively. These conditions come during a period of elevated national wildfire concern, with the NIFC currently tracking a 2026 season that has burned roughly 8.56 million acres (124% of average).",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Summer-like weather brings Red Flag Warnings to southern Montana",
+          "url": "https://www.kulr8.com/weather/summer-like-weather-brings-red-flag-warnings-to-southern-montana/article_0fa35402-f582-554b-b387-7869ad95a079.html",
+          "source": "www.kulr8.com"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Karhutla Wildfires Continue \u2014 Toxic Haze Blankets Southeast Asia",
+      "location": "Indonesia (multiple provinces); Singapore and Southeast Asia",
+      "type": "wildfire",
+      "summary": "Indonesia's widespread karhutla (forest and land fires) season continues into October 2026, with surface and underground peat fires burning across the archipelago in what IQAir describes as the worst wildfire season in years. The resulting transboundary haze is blanketing neighboring nations including Singapore and Malaysia, raising serious air quality and public health concerns across the region. The crisis has intensified scrutiny of the Prabowo administration's disaster funding cuts, which have hampered firefighting and prevention efforts.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfire Map Spotlight: Indonesia forest and peatland fires",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-indonesia-forest-and-peatland-fires-september-2026",
+          "source": "www.iqair.com"
+        },
+        {
+          "title": "Toxic Haze Blankets Southeast Asia as Indonesia Battles Worst Wildfire Season in Years",
+          "url": "https://streamlinefeed.co.ke/news/toxic-haze-southeast-asia-indonesia-wildfires",
+          "source": "streamlinefeed.co.ke"
+        }
+      ]
+    }
+  ]
+}
