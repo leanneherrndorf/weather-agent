@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-06",
+  "headline": "Ex-Typhoon Choi-wan Slams Alaska's Aleutian Islands with Hurricane-Force Winds as Southern California Bakes Under Record October Heat Extended Through Friday",
+  "overview": "A major extratropical storm born from Typhoon Choi-wan is battering the Aleutian Islands with winds gusting to 90 mph after the system bypassed Japan and raced into the Bering Sea, triggering hurricane-force wind warnings and high wind watches across western Alaska through Thursday. Meanwhile, an extraordinary Southern California heat wave has expanded in scope and duration \u2014 now encompassing additional desert and coastal zones through Friday \u2014 as Hurricane Rachel pivots toward a potential landfall track threatening southwestern US states with dangerous surf and inland flooding. Flood emergencies persist across a broadening swath of the central US and Florida, while K\u012blauea continues to erupt and Indonesia's wildfire crisis enters its worst stretch in years.",
+  "events": [
+    {
+      "title": "Ex-Typhoon Choi-wan Hammers Aleutian Islands with Hurricane-Force Winds",
+      "location": "Aleutian Islands and Bering Sea, Alaska, USA",
+      "type": "weather",
+      "summary": "After passing offshore of Japan's Honshu without making landfall, the remnants of Typhoon Choi-wan have accelerated northeast into the Bering Sea as a powerful extratropical system, prompting a Hurricane Force Wind Warning for the Kiska-to-Attu corridor and High Wind Watches at Shemya and Attu Islands where southwest winds of 50\u201370 mph with gusts up to 90 mph are forecast through Thursday. NOAA alerts also flag High Wind Watches for Adak, the Pribilof Islands, and St. Lawrence Island as the system expands, with seas building to 13\u201321 feet in the Bering Sea offshore zone by Wednesday. The system represents a significant escalation from yesterday's forecast, which had Choi-wan as an active typhoon tracking toward Japan rather than a rapidly transitioning extratropical storm impacting US territory.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Southern California Heat Wave Expands and Extends \u2014 Death Valley Near 110\u00b0F Through Friday",
+      "location": "Southern California and Desert Southwest, USA",
+      "type": "weather",
+      "summary": "The extraordinary Southern California heat emergency has both broadened geographically and extended its timeline since yesterday, with the NWS Las Vegas office now placing Death Valley under an Extreme Heat Warning through Friday evening (October 9) with highs near 110\u00b0F and overnight lows only falling to around 85\u00b0F. New Extreme Heat Watches have been issued for the Coachella Valley, Imperial Valley (up to 110\u00b0F), San Gorgonio Pass, Yuma (up to 108\u00b0F), and the Gila/Parker River valleys for Wednesday through Friday, expanding the footprint beyond the Los Angeles\u2013Ventura\u2013San Bernardino\u2013Riverside corridor already under warning. The Los Angeles Times reports this October streak of 100-degree days is shattering historical records, with a persistent high-pressure ridge, warm ocean temperatures, and suppressed sea breezes fueling the anomaly.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Hurricane Rachel Pivots Toward SW US \u2014 Dangerous Surf and Inland Flood Threat Emerges",
+      "location": "Eastern North Pacific Ocean / Mexico Pacific Coast / Arizona and New Mexico, USA",
+      "type": "weather",
+      "summary": "Hurricane Rachel has taken a significant track shift, with AccuWeather now forecasting the system may turn toward Mexico and the southwestern United States, threatening renewed heavy rainfall and flooding for Arizona and New Mexico in addition to the dangerous surf already being directed at California and Mexico's Pacific coast. This represents a meaningful escalation from yesterday's scenario in which Rachel was a stationary Category 3 threat off Mexico's coast with no inland turn anticipated. The storm continues to generate dangerous conditions for Pacific coastal Mexico, and its potential inland track adds a new flood dimension for the drought-vulnerable desert Southwest.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Rachel to send big waves to California, may turn toward Mexico, southwestern US",
+          "url": "https://www.accuweather.com/en/hurricane/hurricane-rachel-to-send-big-waves-to-california-may-turn-toward-mexico-southwestern-us/1942200",
+          "source": "www.accuweather.com"
+        },
+        {
+          "title": "Hurricane Rachel strengthens to a Category 3 storm off Mexico's Pacific coast",
+          "url": "https://apnews.com/article/hurricane-rachel-polo-pacific-nino-8752e5abd8b0a52aa01976a4cf3f1462",
+          "source": "apnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Polo-Fueled Midwest Flooding Spreads to New River Systems \u2014 Des Plaines, Iowa, and Wapsipinicon Rivers Now Rising",
+      "location": "Iowa, Illinois, Missouri, Nebraska, Kansas, USA",
+      "type": "weather",
+      "summary": "The massive flood event triggered by ex-Hurricane Polo continues to spread downstream through new river systems, with active NWS Flood Warnings now covering the Des Plaines River (Lake County, Illinois \u2014 escalating from minor to moderate), the Iowa River at multiple points through October 9\u201312, the Wapsipinicon River (Iowa), and additional segments of the Missouri and Big Blue rivers in Kansas and Nebraska. The Mississippi River at Louisiana, Missouri has also entered flood stage under a new warning through Wednesday. A NWS summary confirms atmospheric moisture during the initial rainfall event was near a record for October, with Total Precipitable Water values highly anomalous; however, agricultural reporting suggests the weather pattern is slowly turning drier across the Plains.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Florida Flooding Expands to St. Johns River \u2014 Northeast Florida and New Counties Affected",
+      "location": "Northeast Florida and Southeast Georgia, USA",
+      "type": "weather",
+      "summary": "Florida's flooding crisis has expanded northward and eastward from the Panhandle, with the NWS Melbourne office issuing a new Flood Warning for the St. Johns River near Astor, affecting Volusia and Lake Counties, as the shallow, tidally influenced river responds to northerly winds and repeated heavy rainfall across its basin. A broader Flood Watch is active through Tuesday evening for portions of northeast Florida including coastal and inland Nassau, Duval, Flagler, Clay, Putnam, and St. Johns Counties, while the St. Mary's River at Macclenny (affecting Charlton, Nassau, and Baker Counties) remains under warning through Thursday. Fox Weather notes the St. Johns River is particularly susceptible to tidal and rainfall-driven flooding, raising the risk of prolonged inundation across this heavily populated region.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flash Flood Watch in effect as more heavy rain targets Northeast Florida, Southeast Georgia",
+          "url": "https://www.news4jax.com/weather/2026/10/04/flash-flood-watch-in-effect-as-more-heavy-rain-targets-northeast-florida-southeast-georgia",
+          "source": "www.news4jax.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Eruption Ongoing \u2014 Active Lava Flows from Halema\u02bbuma\u02bbu Summit Vents",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea remains in active eruption, with lava spatter and flows continuing from north and south vents within Halema\u02bbuma\u02bbu crater at the volcano's summit, as documented by USGS's Hawaiian Volcano Observatory in a October 4 Volcano Watch report. The eruption, which escalated in early October following a magma intrusion and a 98-earthquake swarm that triggered additional trail and area closures in Hawai\u02bbi Volcanoes National Park, shows no sign of abating. USGS scientists noted the rare coincidence of an active intrusion occurring simultaneously with an ongoing eruption, a scientifically significant development that continues to be closely monitored.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Volcano Watch \u2014 An intrusion during an eruption at the summit of K\u012blauea",
+          "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-intrusion-during-eruption-summit-kilauea",
+          "source": "www.usgs.gov"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Karhutla Wildfires Reach Worst Level in Years \u2014 Toxic Haze Chokes Southeast Asia",
+      "location": "Indonesia (multiple provinces); Singapore and Southeast Asia",
+      "type": "wildfire",
+      "summary": "Indonesia's annual karhutla (forest and land fire) crisis has intensified to its worst level in years, with surface and underground fires burning across multiple provinces of the archipelago and generating toxic transboundary haze that is blanketing Singapore and neighboring Southeast Asian nations. IQAir data as of October 1 confirms the fires are ongoing and widespread, encompassing both forest and peatland burns; Streamline reporting indicates the crisis is compounding pressure on the government of President Prabowo Subianto, which has made deep cuts to disaster response funding. Air quality across the affected region has deteriorated to hazardous levels for sensitive groups, with no significant rainfall forecast to provide near-term relief.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Toxic Haze Blankets Southeast Asia as Indonesia Battles Worst Wildfire Season in Years",
+          "url": "https://streamlinefeed.co.ke/news/toxic-haze-southeast-asia-indonesia-wildfires",
+          "source": "streamlinefeed.co.ke"
+        },
+        {
+          "title": "Wildfire Map Spotlight: Indonesia forest and peatland fires",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-indonesia-forest-and-peatland-fires-september-2026",
+          "source": "www.iqair.com"
+        }
+      ]
+    }
+  ]
+}
