@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-07",
+  "headline": "Hurricane Rachel Pivots Toward US Southwest While Southern California Bakes Under Record October Heat and Hawaii Braces for Flash Flooding",
+  "overview": "A remarkable cluster of simultaneously active weather crises continues to grip the United States on October 7, with Hurricane Rachel threatening catastrophic inland flooding across Arizona and the Southwest even as Southern California endures a record-shattering October heat wave. Hawaii has issued a new Flash Flood Watch for Kauai and Oahu as a developing low draws deep tropical moisture northward, while Aleutian Islands waters remain under extreme Hurricane Force Wind Warnings extending through Thursday. Globally, a rare and widely felt M4.7 earthquake near Korumburra, Victoria, Australia drew over 500 felt reports, highlighting seismic hazard in an area not accustomed to significant tremors.",
+  "events": [
+    {
+      "title": "Hurricane Rachel Pivots Toward Mexico and SW US \u2014 Flood Threat Intensifies for Arizona and Utah",
+      "location": "Eastern North Pacific / Pacific Mexico Coast / Arizona, New Mexico, Utah, USA",
+      "type": "weather",
+      "summary": "Hurricane Rachel, still an organized tropical system, has begun pivoting northward and is expected to direct heavy tropical moisture into drought-stricken areas of Arizona, Utah, and the broader Colorado River basin by early next week, bringing a serious inland flood risk even as it breaks the region's prolonged heat. AccuWeather reports Rachel will not only make a turn back toward Mexico but also funnel moisture into areas not equipped for tropical rainfall, raising multi-day flash flood threats. Flood-weary communities across the Southwest face the difficult dual challenge of dangerous heat this week followed by potentially life-threatening flooding.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Southern California October Heat Wave Shatters Records \u2014 Death Valley Near 110\u00b0F Through Friday",
+      "location": "Southern California and Desert Southwest, USA",
+      "type": "weather",
+      "summary": "An extraordinary October heat wave continues to grip Southern California, with Extreme Heat Warnings active from Los Angeles and Ventura counties through the Coachella Valley, San Diego deserts, and Death Valley \u2014 where highs are forecast near 110\u00b0F with overnight lows only around 85\u00b0F through Friday, October 9. KTLA reports 14 temperature records were broken across Los Angeles, Ventura, Santa Barbara, and San Luis Obispo counties, with notable highs reaching 104\u00b0F in some valley locations. The NWS has flagged at least major Heat Risk impacts for anyone without adequate cooling or hydration, and the prolonged nature of the heat \u2014 with warm nights providing no overnight recovery \u2014 significantly escalates the health danger.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "October heat wave shatters temperature records across Southern California",
+          "url": "https://ktla.com/news/california/southern-california-heat-wave-record-temperatures",
+          "source": "ktla.com"
+        },
+        {
+          "title": "Record-smashing October heat arrives in Southern California",
+          "url": "https://www.cbsnews.com/losangeles/news/record-smashing-october-heat-arrives-in-southern-california",
+          "source": "cbsnews.com"
+        }
+      ]
+    },
+    {
+      "title": "New Flash Flood Watch \u2014 Developing Low Draws Tropical Moisture Over Kauai and Oahu",
+      "location": "Kauai and Oahu, Hawaii, USA",
+      "type": "weather",
+      "summary": "The NWS Honolulu has issued a Flood Watch for Kauai, Niihau, and Oahu effective Wednesday evening through Thursday afternoon, October 8, as a developing area of low pressure north of the Hawaiian Islands draws deep tropical moisture northward over the island chain. Flash flooding is possible across flood-prone roads and low-lying areas, with the threat favoring leeward areas that have a lower flooding threshold. This is a newly emerging event not present in recent reports, adding Hawaii to an already extensive list of active US weather hazards.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Kauai Weather Forecast for October 07, 2026",
+          "url": "https://kauainownews.com/2026/10/06/kauai-weather-forecast-for-october-07-2026",
+          "source": "kauainownews.com"
+        }
+      ]
+    },
+    {
+      "title": "Aleutian Islands and Bering Sea Storm Intensifies \u2014 Hurricane-Force Winds to 70 kt, Seas to 30 ft",
+      "location": "Aleutian Islands and Bering Sea, Alaska, USA",
+      "type": "weather",
+      "summary": "Multiple Hurricane Force Wind Warnings remain active across the western Aleutian chain and Bering Sea as of October 7, with the NWS Anchorage reporting south winds intensifying to 65\u201370 knots (75\u201380 mph) across zones from Adak to Attu and the central Bering Sea \u2014 with seas building to 22\u201330 feet overnight. High Wind Warnings have also been issued for land areas including Adak and Atka, where gusts are expected to reach 80 mph, and for Shemya/Attu Islands with gusts to 75 mph through Thursday morning. Alaska's news sources confirm this storm system is the dominant hazard across southwest Alaska, with continued high wind threats expanding toward the Seward Peninsula and St. Lawrence Island through Thursday.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Lingering showers progress in Alaska's Southern coast as focus shifts to the next storm",
+          "url": "https://www.alaskasnewssource.com/2026/10/06/lingering-showers-progress-alaskas-southern-coast-focus-shifts-next-storm",
+          "source": "alaskasnewssource.com"
+        }
+      ]
+    },
+    {
+      "title": "Polo-Fueled Midwest Flooding Persists \u2014 Wapsipinicon Major Flood Forecast Through October 13",
+      "location": "Iowa, Illinois, Kansas, USA",
+      "type": "weather",
+      "summary": "Flooding driven by the remnant moisture of Tropical Storm Polo continues to affect multiple river systems across the Midwest, with the Wapsipinicon River near De Witt, Iowa now under a Flood Warning forecasting major flooding through October 13 \u2014 the longest-running active flood outlook in the current event. The Iowa River at multiple gauges, the Cedar River, the Big Blue River in Kansas, and several Illinois tributaries remain in flood stage with warnings valid through the week, affecting Louisa, Muscatine, Benton, Iowa, and Marshall counties. The multi-system, multi-state nature of this flooding event continues to evolve as downstream river gauges respond to the accumulated upstream rainfall of recent weeks.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Rare M4.7 Earthquake Widely Felt Near Korumburra, Victoria, Australia",
+      "location": "Korumburra, Victoria, Australia",
+      "type": "earthquake",
+      "summary": "A magnitude 4.7 earthquake struck 5 km north-northeast of Korumburra in Victoria's South Gippsland region on October 2 at a shallow depth of just 10 km, generating over 517 felt reports \u2014 one of the most widely felt earthquakes in the USGS significant events list this week. Witnesses near the epicenter reported a loud bang similar to an explosion followed by 15\u201320 seconds of complex shaking, with moderate intensity (MMI V) recorded at Korumburra itself. Shallow intraplate earthquakes of this magnitude are uncommon in southeastern Australia, making this event geologically notable even though no tsunami alert or elevated USGS alert level was issued.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Moderate Mag. 4.7 Earthquake - South Gippsland, 144 km Southeast of Kilmore, Mitchell, Victoria, Australia",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23406090/quake-felt-Oct-2-2026-Near-Melbourne-Victoria-Australia.html",
+          "source": "volcanodiscovery.com"
+        },
+        {
+          "title": "Moderate Mag. 4.8 Earthquake (unconfirmed) - South Gippsland, 28 km South of Warragul, Baw Baw, Victoria, Australia",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23406195/mag4quake-Oct-2-2026-Near-Southeast-Coast-of-Australia.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Northeast Florida St. Johns River Flooding Continues \u2014 Flood Watch Still Active for 13 Counties",
+      "location": "Northeast Florida and Southeast Georgia, USA",
+      "type": "weather",
+      "summary": "The NWS Jacksonville has issued a Flood Watch through Wednesday evening for 13 zones across northeast Florida \u2014 including Coastal and Inland Duval, Nassau, Flagler, Clay, Putnam, and St. Johns counties \u2014 as the St. Johns River continues its steady rise driven by northerly winds and repeated heavy rainfall across the basin. Active Flood Warnings are also in effect for the St. Johns River near Astor (Volusia and Lake counties), and the Withlacoochee River at Dunnellon (Levy, Marion, and Citrus counties) remains in flood stage complicated by excessive hydrilla growth blocking flow. This multi-county, multi-river flooding event has now persisted for several days across northeast and central Florida with no immediate relief in the forecast.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
