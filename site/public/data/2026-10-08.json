@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-08",
+  "headline": "Hurricane Isaias \u2014 the first Atlantic hurricane of 2026 \u2014 makes landfall on the Florida Panhandle with winds up to 110 mph gusts, triggering extreme storm surge and hurricane warnings from Louisiana to Florida's Big Bend.",
+  "overview": "The dominant story today is Hurricane Isaias bearing down on the Florida Panhandle and Alabama Gulf Coast, generating extreme NWS alerts across a broad swath of the northern Gulf Coast and setting up life-threatening storm surge and wind hazards by Friday afternoon. Simultaneously, Southern California's October heat wave escalated to trigger wildfires and widespread power outages, a shallow M6.3 earthquake struck Vanuatu, and Stromboli volcano in Italy elevated to an orange aviation alert. Ongoing events include Indonesia's worst karhutla wildfire season in years, K\u012blauea's active summit eruption, and swelling rivers across the U.S. Midwest.",
+  "events": [
+    {
+      "title": "Hurricane Isaias Threatens Florida Panhandle and Alabama Gulf Coast \u2014 Extreme Storm Surge, Winds to 110 mph",
+      "location": "Florida Panhandle and Alabama/Mississippi Gulf Coast, USA",
+      "type": "weather",
+      "summary": "Hurricane Isaias, the first Atlantic hurricane of the 2026 season, is forecast to make landfall along the Florida Panhandle and Alabama Gulf Coast Friday afternoon, with the NWS issuing extreme Hurricane Warnings across coastal areas from Louisiana to Florida's Big Bend. Peak wind forecasts reach 70\u201390 mph with gusts to 110 mph near Pensacola and Santa Rosa Beach, with seas 25\u201330 ft offshore and life-threatening storm surge warnings covering the entire northern Florida and Alabama coast. Flood watches are also in effect for southeastern Alabama and the Florida Panhandle, anticipating widespread heavy rainfall and inland river flooding through Saturday.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hurricane expected along Florida panhandle, Alabama coasts Here's what you need to know.",
+          "url": "https://www.wtvy.com/2026/10/07/hurricane-expected-along-florida-panhandle-alabama-coasts-heres-what-you-need-know",
+          "source": "wtvy.com"
+        }
+      ]
+    },
+    {
+      "title": "Southern California Heat Wave Escalates \u2014 Wildfires Ignite, Power Outages Spread, 14+ Records Broken",
+      "location": "Southern California and Desert Southwest, USA",
+      "type": "weather",
+      "summary": "The Southern California heat wave intensified dramatically on October 8, with NWS issuing Extreme Heat Warnings across Los Angeles, Ventura, San Diego, Orange, San Bernardino, and Riverside counties, with Death Valley approaching 110\u00b0F and Coachella Valley reaching 106\u2013110\u00b0F. KTLA reports at least 14 temperature records were broken across four counties, while AccuWeather confirms the heat has triggered wildfire ignitions and thousands of power outages, straining the regional electricity grid. AccuWeather projects 2026 is on pace to become the worst heat wave year on record for Los Angeles, combining six earlier events with this prolonged October anomaly.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "October heat wave shatters temperature records across Southern California",
+          "url": "https://ktla.com/news/california/southern-california-heat-wave-record-temperatures",
+          "source": "ktla.com"
+        },
+        {
+          "title": "October heat, wildfires strain Southern California grid as thousands lose power",
+          "url": "https://www.accuweather.com/en/weather-news/october-heat-wildfires-strain-southern-california-grid-as-thousands-lose-power/1942270",
+          "source": "accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Shallow M6.3 Earthquake Strikes Vanuatu \u2014 10 km Depth Near Pentecost Island",
+      "location": "102 km NE of Norsup, Vanuatu (Coral Sea)",
+      "type": "earthquake",
+      "summary": "A strong and shallow magnitude 6.3 earthquake struck northeastern Vanuatu at 09:00 UTC on October 8, 2026, at a depth of only 10 km \u2014 a depth that significantly amplifies ground shaking potential. USGS assigned a green alert level and no tsunami alert was issued, though only 4 felt reports were logged, likely reflecting the remote location near Pentecost Island in the Coral Sea. Vanuatu sits on the Pacific Ring of Fire and regularly experiences seismic activity, but M6+ shallow events warrant close monitoring for aftershocks.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong and shallow M6.3 earthquake hits Vanuatu",
+          "url": "https://watchers.news/2026/10/08/strong-and-shallow-m6-3-earthquake-hits-vanuatu-3",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Very Strong Mag. 6.3 Earthquake - Coral Sea, 23 km North of Pentecost Island, Penama Province, Vanuatu",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23420212/quake-felt-Oct-8-2026-Sanma-Vanuatu.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Stromboli Volcano Elevated to Orange Aviation Alert \u2014 Significant Eruptive Increase",
+      "location": "Stromboli, Aeolian Islands, Italy",
+      "type": "volcano",
+      "summary": "Italy's INGV issued a Volcanic Observatory Notice for Aviation (VONA) for Stromboli with an Aviation Colour Code of ORANGE, indicating a significant increase in eruptive activity above its typical persistent Strombolian baseline. The orange alert \u2014 one level below the maximum red \u2014 signals that ash emissions or paroxysmal explosion risk is elevated enough to pose hazards to aircraft in the area. Stromboli has a history of sudden major paroxysms and will be closely watched for escalation to red status.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "October 6, 2026. EN. Italy: Stromboli, Hawaii: Kilauea, Indonesia: Ibu, Peru: Sabancaya, Chile/Argentina: Nevados de Chill\u00e1n",
+          "url": "https://lechaudrondevulcain.com/october-6-2026-en-italy-stromboli-hawaii-kilauea-indonesia-ibu-peru-sabancaya-chile-argentina-nevados-de-chillan",
+          "source": "lechaudrondevulcain.com"
+        },
+        {
+          "title": "Italy Alerts: Fires and Earthquakes \u2014 Stromboli aviation colour code ORANGE",
+          "url": "https://www.dolcevia.com/en/natural-hazards",
+          "source": "dolcevia.com"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Karhutla Wildfires Continue \u2014 Toxic Haze Persists Across Southeast Asia",
+      "location": "Indonesia (multiple provinces); Singapore and Southeast Asia",
+      "type": "wildfire",
+      "summary": "Indonesia's karhutla (forest and land fire) crisis continues into October, described by IQAir as consisting of surface and underground peatland fires burning across the archipelago \u2014 a particularly dangerous combination because peat fires are nearly impossible to fully extinguish and can smolder for weeks. The toxic haze has blanketed neighboring countries including Singapore, with air quality reaching hazardous levels, and reporting indicates the event is the worst wildfire season in several years. Government disaster funding cuts under President Prabowo Subianto have drawn scrutiny as the crisis deepens.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Toxic Haze Blankets Southeast Asia as Indonesia Battles Worst Wildfire Season in Years",
+          "url": "https://streamlinefeed.co.ke/news/toxic-haze-southeast-asia-indonesia-wildfires",
+          "source": "streamlinefeed.co.ke"
+        },
+        {
+          "title": "Wildfire Map Spotlight: Indonesia forest and peatland fires",
+          "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-indonesia-forest-and-peatland-fires-september-2026",
+          "source": "iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Summit Eruption Ongoing \u2014 Active Multi-Vent Lava Flow Continues at Halema\u02bbuma\u02bbu",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's summit eruption continues with active lava fountaining from multiple vents \u2014 north, south, and west \u2014 within Halema\u02bbuma\u02bbu crater, as documented by USGS HVO aerial observations from October 1, 2026. A notable intrusion event occurred during the active eruption period, a relatively unusual phenomenon that HVO scientists are analyzing to understand magma system dynamics beneath the summit. The eruption remains confined to K\u012blauea's summit caldera within Hawai\u02bbi Volcanoes National Park and poses no direct threat to populated areas at this time.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Volcano Watch: An intrusion during an eruption at the summit of K\u012blauea. How does it happen?",
+          "url": "https://mauinow.com/2026/10/05/volcano-watch-an-intrusion-during-an-eruption-at-the-summit-of-kilauea-how-does-it-happen",
+          "source": "mauinow.com"
+        }
+      ]
+    },
+    {
+      "title": "Midwest Flooding Expands \u2014 Cedar and Iowa Rivers Rise as Wapsipinicon Reaches Major Flood Stage",
+      "location": "Iowa and Illinois, USA",
+      "type": "weather",
+      "summary": "Tropical remnant moisture from Hurricane Polo continues to fuel multi-river flooding across the Midwest, with NWS flood warnings now extended to include the Cedar River near Conesville and the Iowa River at Wapello, Marengo, and Oakville \u2014 in addition to the already critically elevated Wapsipinicon River near De Witt, which is forecast to reach major flood stage and remain elevated through October 13. The flooding footprint has expanded significantly from earlier in the week, now affecting Benton, Iowa, Muscatine, Louisa, Clinton, and Scott counties across Iowa. The Daily Mail reports the system threatens 80 million people across eight states with life-threatening flash flood potential.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
