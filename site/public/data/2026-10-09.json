@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-09",
+  "headline": "Hurricane Isaias Makes Violent Landfall on the Florida Panhandle \u2014 Cat 1\u20132 Winds to 130 mph Gusts Strike Pensacola and Santa Rosa Coastal Areas",
+  "overview": "Hurricane Isaias has escalated dramatically, making landfall along the Florida Panhandle on October 9 with Cat 1\u20132 force winds and gusts up to 130 mph near Santa Rosa Beach, triggering extreme Storm Surge and Hurricane Warnings from Louisiana to Georgia. Simultaneously, a newly ignited wildfire named the Danny Fire is driving evacuations near Gorman, California, and closing the I-5 Grapevine amid a persisting Extreme Heat Warning across the Desert Southwest. Elsewhere, an early-season winter storm is building across Montana and Wyoming, Marapi volcano in Sumatra continues to erupt with increasing seismicity, and Midwest flooding remains at major flood stage.",
+  "events": [
+    {
+      "title": "Hurricane Isaias Makes Landfall \u2014 Cat 1\u20132 Conditions Strike FL Panhandle and Alabama Coast",
+      "location": "Florida Panhandle, Alabama, Mississippi, and Louisiana Gulf Coast, USA",
+      "type": "weather",
+      "summary": "Hurricane Isaias made landfall along the Florida Panhandle on October 9, escalating dramatically from its pre-landfall threat status. NWS Mobile issued extreme Hurricane and Storm Surge Warnings across a vast swath of the Gulf Coast, with Santa Rosa Coastal areas reporting Cat 2-equivalent gusts up to 130 mph, Pensacola Beach seeing Cat 1 winds of 75\u201395 mph with gusts to 120 mph, and Destin/Fort Walton Beach experiencing Cat 1 gusts to 105 mph. Storm surge, catastrophic wind damage, life-threatening flash flooding, and widespread power outages are occurring or imminent across portions of FL, AL, MS, and LA, with tropical storm force conditions extending into Georgia, Alabama's interior, and Middle Tennessee.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Isaias bears down on Florida Panhandle. See the storm from space",
+          "url": "https://www.floridatoday.com/story/tech/science/space/2026/10/08/nasa-hurricane-isaias-florida-landfall-space/92150527007/",
+          "source": "floridatoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Danny Fire Erupts Near Gorman \u2014 I-5 Grapevine Closed, Evacuations Ordered as SoCal Heat Wave Persists",
+      "location": "Gorman / Grapevine, Los Angeles County, California, USA",
+      "type": "wildfire",
+      "summary": "The Danny Fire ignited on October 8 near Gorman in Los Angeles County, driven by the ongoing extreme heat wave and critically dry conditions, prompting mandatory evacuation warnings for Gorman-area residents and an extended closure of a stretch of Interstate 5 at the Grapevine. Firefighting crews were gaining ground by late October 8, but Extreme Heat Warnings remain in effect through the evening of October 9 for the Coachella Valley, San Diego County Deserts, Yuma, and Imperial Valley, with temperatures to 109\u00b0F, sustaining extreme fire weather conditions across Southern California and the Desert Southwest. Red Flag Warnings also remain active across Nevada, Wyoming, Montana, South Dakota, and Idaho, indicating a broad regional fire danger.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Fast-moving Danny fire prompts evacuations in Gorman, closes stretch of the I-5",
+          "url": "https://www.latimes.com/california/story/2026-10-08/fast-moving-danny-fire-prompts-evacuations-in-gorman-closes-stretch-of-i-5",
+          "source": "latimes.com"
+        },
+        {
+          "title": "Crews gain ground on Danny Fire in Grapevine",
+          "url": "https://ktla.com/news/local-news/wildfire-near-i-5-in-grapevine-prompts-sigalert-evacuations",
+          "source": "ktla.com"
+        }
+      ]
+    },
+    {
+      "title": "Early-Season Winter Storm Targets Northern Rockies \u2014 Up to 12+ Inches of Snow Forecast for Beartooth and Montana",
+      "location": "Absaroka/Beartooth Mountains, Crazy Mountains, and Central Montana, USA",
+      "type": "weather",
+      "summary": "A potent early-season winter storm system is forecast to bring significant snowfall to portions of Montana and Wyoming beginning Saturday evening, October 10, with Winter Storm Watches in effect for the Absaroka/Beartooth Mountains (12+ inches possible, prompting early closure of Beartooth Pass), the Crazy Mountains, Helena Valley, and multiple Montana ranges including the Big Belt and Little Belt Mountains. Cold air pouring in from western Canada is expected to combine with Pacific moisture, delivering 6\u201312 inches or more at elevation through late Sunday, with gusts up to 45 mph complicating travel and potentially downing power lines. Red Flag Warnings also remain active in the region Friday afternoon ahead of the cold frontal passage, highlighting the sharp weather contrast underway.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Beartooth Pass, MT/WY, to Close Early as Winter Storm Approaches",
+          "url": "https://snowbrains.com/beartooth-pass-closes-early-winter-storm-2026",
+          "source": "snowbrains.com"
+        }
+      ]
+    },
+    {
+      "title": "Marapi Volcano Eruption Intensifies in Sumatra \u2014 Seismicity Up, Ash Emissions Continue",
+      "location": "Marapi Volcano, West Sumatra, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's Marapi volcano on the island of Sumatra continued its eruptive phase throughout the week of October 1\u20137, 2026, with Indonesian volcano agency PVMBG reporting increased seismicity and repeated eruptive events producing ash emissions. The elevated activity signals a heightened phase of the ongoing eruption cycle, with authorities maintaining alert levels and monitoring the situation. Marapi, one of the most active volcanoes on Sumatra, poses risk to surrounding communities and aviation in the region.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Volcanic Activity Worldwide 7 Oct 2026: Fuego Volcano, Semeru, Karangetang, Ibu, Dukono, Reventador,...",
+          "url": "https://www.volcanodiscovery.com/volcano-activity/news/373541/Volcanic-activity-worldwide-7-Oct-2026-Fuego-volcano-Semeru-Karangetang-Ibu-Dukono-Reventador.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Midwest and Southeast Flooding Expands \u2014 Isaias Rainbands Trigger Multi-State Flood Watches",
+      "location": "Iowa, Illinois, Alabama, Mississippi, Tennessee, Georgia, and Florida, USA",
+      "type": "weather",
+      "summary": "The Wapsipinicon River near De Witt, Iowa, remains at major flood stage and is forecast to stay elevated through at least Tuesday, October 13, while the Cedar and Iowa Rivers continue to run high across eastern Iowa and western Illinois. Hurricane Isaias's outer rainbands have dramatically expanded the flood footprint, with Flood Watches now in effect across wide swaths of Alabama, Mississippi, Tennessee, Georgia, and northern Florida \u2014 including a warning of life-threatening flash flooding across coastal Alabama from NWS Mobile. Dozens of river Flood Warnings are active from the Florida Panhandle east through Georgia, and from central Alabama north through Middle Tennessee.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "K\u012blauea Summit Eruption \u2014 New Dike Intrusion Detected During Ongoing Multi-Vent Lava Activity",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing summit eruption at Halema\u02bbuma\u02bbu crater has seen a notable new development: a dike intrusion was detected during the active eruption, a geologically significant event adding complexity to the multi-vent lava flows that have been active for weeks. The intrusion prompted immediate trail closures at Hawai\u02bbi Volcanoes National Park, with officials citing safety concerns from elevated volcanic gas emissions and lava spattering. The eruption remains confined to the summit caldera and poses no threat to populated areas, but geologists are closely monitoring the dike's behavior and potential to influence eruptive output.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Volcano Watch: An intrusion during an eruption at the summit of K\u012blauea. How does it happen?",
+          "url": "https://mauinow.com/2026/10/05/volcano-watch-an-intrusion-during-an-eruption-at-the-summit-of-kilauea-how-does-it-happen",
+          "source": "mauinow.com"
+        },
+        {
+          "title": "Active K\u012blauea forces 'immediate' trail closures at Hawai\u02bbi Volcanoes National Park",
+          "url": "https://www.foxweather.com/weather-news/active-kilauea-forces-immediate-trail-closures-hawaii-volcanoes-national-park",
+          "source": "foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Southern California and Desert Southwest Extreme Heat \u2014 Coachella Valley, Death Valley, Yuma to 109\u00b0F Through Friday Evening",
+      "location": "Southern California and Desert Southwest, USA",
+      "type": "weather",
+      "summary": "Extreme Heat Warnings remained in effect through the evening of October 9 for the Coachella Valley, San Diego County Deserts, San Gorgonio Pass, Death Valley National Park, Yuma, and the Imperial Valley, with afternoon temperatures reaching 103\u2013109\u00b0F and dangerous heat index values near 100\u00b0F in Death Valley. The prolonged heat event has now shattered more than 14 October records across the region and directly contributed to the explosive ignition of the Danny Fire near Gorman. While the warning period is set to expire Friday evening, the underlying pattern of anomalously warm and dry conditions is expected to linger into the weekend, keeping fire risk critically elevated.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
