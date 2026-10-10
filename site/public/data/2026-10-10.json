@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-10",
+  "headline": "M7.7 Earthquake Strikes Panama with USGS Red Alert as Tropical Storm Rachel Threatens Southern California and Post-Isaias Floods Spread Across the Southeast",
+  "overview": "A major M7.7 earthquake struck near Pitaloza Arriba, Panama on October 9 with a USGS red alert and a swarm of powerful aftershocks \u2014 making it the most significant geological event of the week globally. Simultaneously, a rare late-season Tropical Storm Rachel is bearing down on the San Diego and Baja California coastline, bringing coastal flood warnings and tropical storm watches to Southern California. Across the US Southeast, the remnants of Hurricane Isaias continue to drive catastrophic flash flooding from Alabama and Georgia into the Carolinas and Tennessee.",
+  "events": [
+    {
+      "title": "M7.7 Earthquake Strikes Panama \u2014 USGS Red Alert, Aftershock Swarm Ongoing",
+      "location": "Pitaloza Arriba, Panama (Veraguas Province)",
+      "type": "earthquake",
+      "summary": "A powerful and shallow M7.7 earthquake struck approximately 12 km west-southwest of Pitaloza Arriba, Panama at 17:56 UTC on October 9, 2026 at a depth of just 12.6 km, earning a USGS red alert \u2014 the highest level \u2014 with 731 felt reports. A significant M6.6 aftershock struck 90 minutes later near R\u00edo Grande at 10 km depth, accompanied by a brief tsunami alert, and a M6.0 followed early October 10 near La Tronosa. The shallow rupture and proximity to populated areas raises serious concerns about structural damage, casualties, and ongoing seismic hazard across central Panama.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Major M7.7 earthquake hits Panama, hazardous tsunami waves possible - The Watchers",
+          "url": "https://watchers.news/2026/10/09/major-m7-7-earthquake-hits-panama-hazardous-tsunami-waves-possible",
+          "source": "watchers.news"
+        },
+        {
+          "title": "M7.7 earthquake strikes southern Panama",
+          "url": "https://earthquakeinsights.substack.com/p/m77-earthquake-strikes-southern-panama",
+          "source": "earthquakeinsights.substack.com"
+        }
+      ]
+    },
+    {
+      "title": "Tropical Storm Rachel Approaches Southern California \u2014 Rare Landfall Threat for San Diego",
+      "location": "San Diego County, Southern California, USA / Baja California, Mexico",
+      "type": "weather",
+      "summary": "Tropical Storm Rachel, an unusually rare late-season Eastern Pacific tropical system, is tracking toward the San Diego\u2013Tijuana coastline, prompting NWS to issue Tropical Storm Watches for San Diego coastal areas, inland valleys, mountains, and desert zones as of Saturday morning. Coastal Flood Warnings are active for San Diego and Orange County beaches through Sunday afternoon, with significant coastal flooding, erosion, and 5\u20139 ft surf expected; flooding of 1\u20133 inches of rain is forecast across much of SoCal and Baja California. The storm's approach marks an extraordinary meteorological event \u2014 tropical systems making landfall in Southern California are exceedingly rare and mark a significant escalation from yesterday's heat wave pattern.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Remarkable weather weekend ahead as Tropical Storm Rachel approaches San Diego and early-season trough ends record-breaking autumn heatwave - Weather West",
+          "url": "https://weatherwest.com/archives/44111",
+          "source": "weatherwest.com"
+        },
+        {
+          "title": "Tropical Storm Rachel to impact San Diego, Baja California \u2013 NBC 7 San Diego",
+          "url": "https://www.nbcsandiego.com/news/local/tropical-storm-rachel-could-bring-rain-high-surf-to-san-diego-this-weekend/4084670",
+          "source": "www.nbcsandiego.com"
+        }
+      ]
+    },
+    {
+      "title": "Post-Isaias Flooding Spreads Deep into Southeast \u2014 Flash Floods Strike Atlanta, Charleston, Tennessee",
+      "location": "Alabama, Georgia, South Carolina, North Carolina, Tennessee, Florida, USA",
+      "type": "weather",
+      "summary": "The remnants of Hurricane Isaias have tracked inland, delivering catastrophic rainfall and triggering an extensive web of Flash Flood Warnings and Watches across the Southeast \u2014 including active Flash Flood Warnings for metro Atlanta (Clayton, DeKalb, Fulton, Gwinnett counties), downtown Charleston, SC, and broad swaths of Alabama, Mississippi, Tennessee, and both Carolinas. NWS Tallahassee upgraded the Shoal River near Mossy Head, FL from Moderate to Major flood severity, High Wind Warnings up to 70 mph gusts are in effect across the southern Appalachians and north Georgia mountains, and Tropical Storm Warnings remain posted for Gulf coastal waters. Dozens of rivers across the region remain at or rising toward flood stage, and widespread power outages are reported across northern Alabama and Georgia.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Early-Season Winter Storm Intensifies Across Montana and Northern Rockies \u2014 Up to 20 Inches Forecast",
+      "location": "Montana Ranges, Rocky Mountain Front, and Central Montana, USA",
+      "type": "weather",
+      "summary": "A sprawling early-season winter storm has prompted Winter Storm Warnings across a vast area of Montana and the Northern Rockies, now covering the Absaroka/Beartooth, Crazy, Big Belt, Bridger, Castle, Little Belt, Highwood, Snowy, Judith, Elkhorn, and Boulder mountain ranges, as well as the Rocky Mountain Front, Cascade County, and Melville Foothills. NWS Billings and Great Falls are forecasting total snow accumulations of 10\u201320 inches in higher elevations and 5\u201311 inches in valley locations through Monday noon, with winds gusting to 45 mph. Beartooth Pass is closing early due to hazardous conditions, and this storm has escalated significantly from yesterday's 12-inch forecast with expanded warning areas.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Marapi Volcano Eruption Continues \u2014 Elevated Seismicity and Ash Emissions Persist",
+      "location": "Marapi Volcano, West Sumatra, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's PVMBG reports that eruptive activity at Marapi on Sumatra continued through the week of October 1\u20137, 2026, with seismicity increasing during the period. Eruptive events including ash emissions have been ongoing, maintaining elevated alert status. The ongoing activity poses a continued hazard to surrounding communities and aviation in the region.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Stromboli Volcano Remains at Orange Aviation Alert \u2014 Lava Overflow Recorded",
+      "location": "Stromboli, Aeolian Islands, Italy",
+      "type": "volcano",
+      "summary": "Stromboli volcano in the Aeolian Islands remains at Orange alert (Level 3 of 4), with INGV-Osservatorio Etneo reporting a short-lived lava overflow event on October 5, 2026 as eruption activity continued into the current reporting period. The orange aviation alert level reflects a significant and sustained eruptive increase from baseline activity. Monitoring continues with the possibility of further escalation toward a red alert level.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Stromboli Volcano (Eolian Islands, Italy): Short-lived Lava Overflow on 5 Oct 2026",
+          "url": "https://www.volcanodiscovery.com/stromboli/news/372388/Stromboli-volcano-Eolian-Islands-Italy-short-lived-lava-overflow-on-5-Oct-2026.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Summit Eruption \u2014 Dike Intrusion Confirmed, New Ground Cracks Open at Caldera Floor",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "USGS HVO confirms a new dike intrusion at K\u012blauea's summit, with InSAR imagery showing deformation and earthquake activity between late September and early October 2026 and new ground cracks visible on the caldera floor from the U\u0113kahuna overlook. Trail closures at Hawai\u02bbi Volcanoes National Park remain in effect as the multi-vent lava activity continues at Halema\u02bbuma\u02bbu. The intrusion represents a meaningful escalation from the previously reported ongoing eruption, indicating new magma pathways are opening beneath the summit caldera.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Active K\u012blauea forces 'immediate' trail closures at Hawai'i Volcanoes National Park | Fox Weather",
+          "url": "https://www.foxweather.com/weather-news/active-kilauea-forces-immediate-trail-closures-hawaii-volcanoes-national-park",
+          "source": "www.foxweather.com"
+        },
+        {
+          "title": "October 7, 2026 \u2014 InSAR image showing K\u012blauea summit deformation and earthquakes between September 24\u2013October 2, 2026 | U.S. Geological Survey",
+          "url": "https://www.usgs.gov/media/images/october-7-2026-insar-image-showing-kilauea-summit-deformation-and-earthquakes-between",
+          "source": "www.usgs.gov"
+        }
+      ]
+    }
+  ]
+}
