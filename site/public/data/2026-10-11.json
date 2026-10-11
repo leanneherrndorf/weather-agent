@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-11",
+  "headline": "Tropical Storm Rachel makes rare Southern California landfall, triggering life-threatening flash floods and coastal flooding from San Diego to Los Angeles.",
+  "overview": "Tropical Storm Rachel completed a historic landfall along the Southern California and Baja California coast on October 11, unleashing life-threatening flash floods, coastal flooding, and high winds across the Southwest. Simultaneously, the remnants of Hurricane Isaias triggered tornado warnings and catastrophic river flooding across the Carolinas, while Panama's devastating M7.7 earthquake sequence was punctuated by a M6.6 aftershock that prompted a tsunami alert. Early-season winter conditions continued to grip Montana, and a new Red Flag Warning raised wildfire concerns near Redding, California.",
+  "events": [
+    {
+      "title": "Tropical Storm Rachel Makes Rare Landfall \u2014 Life-Threatening Flash Floods and Coastal Flooding Slam SoCal and Southwest",
+      "location": "San Diego County, Orange County, Riverside County, and Southern California / Southwest USA",
+      "type": "weather",
+      "summary": "Tropical Storm Rachel made a historically rare landfall along the Southern California and northern Baja California coast on October 11, 2026, triggering a barrage of Flash Flood Warnings across Orange, Riverside, La Paz, Imperial, Inyo, Mohave, and Clark counties \u2014 with up to 1.5 inches of rain falling in under an hour. Coastal Flood Warnings were issued for San Diego and Los Angeles County beaches, including Malibu, with damaging 8-foot tide levels recorded at the Sunday morning high tide. Flood Watches blanketed the broader Southwest from southern California through Utah, Nevada, Arizona, and Idaho, while High Wind Warnings with gusts up to 70 mph were issued for the Colorado River Valley and Lake Mead corridor.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Tropical Storm Rachel brings flash-flood threat to Southern California and U.S. Southwest",
+          "url": "https://watchers.news/2026/10/10/tropical-storm-rachel-brings-flash-flood-threat-to-southern-california-and-u-s-southwest",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Tropical Storm Rachel to bring a rare flooding event to Southern California and the Southwest this weekend",
+          "url": "https://www.fox8live.com/2026/10/10/rachel-bring-rare-flooding-event-southern-california-southwest-this-weekend",
+          "source": "fox8live.com"
+        }
+      ]
+    },
+    {
+      "title": "Panama Earthquake Sequence Escalates \u2014 M6.6 Aftershock Issues Tsunami Alert, Swarm Continues",
+      "location": "Veraguas Province, Panama",
+      "type": "earthquake",
+      "summary": "The deadly M7.7 earthquake that struck Veraguas Province on October 9 has been followed by a vigorous aftershock sequence, including a M6.6 at shallow 10 km depth that triggered a tsunami alert \u2014 a dangerous new development for Panama's Pacific coastal communities. An additional M6.0 near La Tronosa (also at 10 km depth, USGS yellow alert) and a M5.8 near El Cacao were also recorded, keeping felt reports high with over 1,200 reports for the mainshock alone. The shallow depth of these aftershocks and the tsunami alert from the M6.6 represent a significant escalation from prior reporting and heighten the risk profile for coastal residents in the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Very Strong Mag. 6.6 Earthquake - 68 km Southwest of Santiago, Provincia de Veraguas, Panama",
+          "url": "https://www.volcanodiscovery.com/earthquake/major/2026-10-09/20-25/magnitude6-Panama.html",
+          "source": "volcanodiscovery.com"
+        },
+        {
+          "title": "Very Strong Mag. 6.0 Earthquake - 7 km N of La Tronosa, Panama",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23425346/quake-felt-Oct-10-2026-Near-Panama-City-Panama-Panama.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Post-Isaias Flooding and Tornado Warning Strike the Carolinas \u2014 Rivers Rising Across Western NC",
+      "location": "North Carolina, South Carolina, Virginia, and Georgia, USA",
+      "type": "weather",
+      "summary": "Remnant moisture from Hurricane Isaias unleashed a severe weather outbreak across the Carolinas on October 11, including an Extreme-rated Tornado Warning near Wadesboro, Anson County, NC, and a Severe Thunderstorm Warning covering seven counties in central North Carolina. Life-threatening Flash Flood Warnings were issued for western NC mountain counties \u2014 including Avery, Burke, Caldwell, Buncombe, Henderson, Polk, and Rutherford \u2014 with training thunderstorms producing 3\u20136 inches of rainfall and rivers such as the Green, Upper Broad, and French Broad rising to dangerous levels. Flood Warnings extended to coastal Georgia and Florida, with river flooding forecast to persist along the St. Mary's River through October 14, and more than 10,000 customers lost power across western North Carolina.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Montana Winter Storm Peaks \u2014 Up to 30 Inches Possible in Northern Rockies as Warnings Expand",
+      "location": "Montana Ranges, Rocky Mountain Front, and Central Montana, USA",
+      "type": "weather",
+      "summary": "A powerful early-season winter storm continued to intensify across Montana on October 11, with Winter Storm Warnings in effect for the Absaroka/Beartooth Mountains, Crazy Mountains, Little Belt and Highwood Mountains, Snowy and Judith Mountains, Gallatin Valley, and the Rocky Mountain Front. Forecast snowfall totals escalated significantly from prior reports, with 10\u201320 inches expected across much of the affected region and isolated amounts approaching 30 inches within the Bob Marshall Wilderness \u2014 an upward revision from the 20-inch maximum cited in prior reports. Winds gusting to 45 mph combined with heavy wet snow are expected to bring down trees and power lines, with very difficult travel conditions on major highways including US-191.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Mountain snow, strong winds and hard freeze expected across western Montana",
+          "url": "https://nbcmontana.com/weather/forecasts/mountain-snow-strong-winds-and-hard-freeze-expected-across-western-montana",
+          "source": "nbcmontana.com"
+        }
+      ]
+    },
+    {
+      "title": "Red Flag Warning Issued for Northern California \u2014 Critical Fire Weather Near Redding and Sacramento Valley",
+      "location": "Shasta County, Tehama County, and Glenn County, Northern California, USA",
+      "type": "wildfire",
+      "summary": "The National Weather Service in Sacramento issued a Red Flag Warning effective from 7 AM Sunday through 5 AM Monday for a broad swath of northern California, including the Redding metro area, the northern Sacramento Valley in Tehama County, and central Glenn County along Interstate 5. The warning cites a dangerous combination of gusty southwest winds and low relative humidity, conditions under which any ignition could spread rapidly. The warning area neighbors the region still recovering from the Timber Fire in Big Sur, and the National Interagency Fire Center has flagged the Sierra Front and Lahontan Basin at above-normal significant wildfire potential for October.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Timber Fire in Big Sur Reaches 97% Containment After Two-Month Battle",
+      "location": "Big Sur, Monterey County, California, USA",
+      "type": "wildfire",
+      "summary": "The Timber Fire in Big Sur, which burned through Pfeiffer Big Sur State Park and required more than 1,000 firefighters over a roughly two-month campaign, reached 97% containment as of Saturday October 10, enabling the park to prepare for reopening. The fire was described as the biggest wildfire in the Channel Islands' recorded history in connection with reporting about a sailboat that allegedly ignited the blaze, signaling the enormous scope of destruction in the region. While the immediate threat has passed, today's Red Flag Warning for nearby Northern California serves as a reminder that California's fire season risk remains elevated.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Famous Big Sur state park to reopen after major wildfire winds down",
+          "url": "https://www.eastbaytimes.com/2026/10/10/famous-big-sur-state-park-to-reopen-after-major-wildfire-winds-down",
+          "source": "eastbaytimes.com"
+        },
+        {
+          "title": "Pfeiffer Big Sur State Park to reopen after devastating Timber Fire",
+          "url": "https://nypost.com/2026/10/10/us-news/pfeiffer-big-sur-state-park-to-reopen-after-devastating-timber-fire",
+          "source": "nypost.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.3 Earthquake Strikes Vanuatu \u2014 Shallow Quake Near Norsup",
+      "location": "102 km NE of Norsup, Vanuatu, Southwest Pacific",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck approximately 102 km northeast of Norsup, Vanuatu, on October 8 at a shallow depth of 10 km, according to USGS data. No tsunami alert was issued and the USGS assigned a green alert level, suggesting limited likelihood of significant casualties or damage, though only 5 felt reports were submitted \u2014 consistent with the remote location of the epicenter. Vanuatu sits within the Pacific Ring of Fire and regularly experiences seismic activity; no reports of structural damage or injuries have emerged from this event.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
