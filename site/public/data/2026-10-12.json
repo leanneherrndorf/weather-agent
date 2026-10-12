@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-12",
+  "headline": "Panama Earthquake Recovery Enters Critical Phase as International Teams Arrive; Mayon Volcano Erupts in Philippines; Post-Rachel and Post-Isaias Flooding Continues Across US",
+  "overview": "The Panama M7.7 earthquake sequence remains the dominant global event, with international rescue teams now on the ground, over 400 schools damaged, and classes suspended across the country. Separately, Mayon Volcano in the Philippines produced a new eruption on October 10\u201311 with Strombolian activity recorded, adding to an active week for volcanoes globally. In the United States, flood warnings remain in effect across a wide swath of states \u2014 from the Southeast to the Desert Southwest \u2014 as the twin legacies of Tropical Storm Rachel and post-Isaias rainfall continue to drain through river systems.",
+  "events": [
+    {
+      "title": "Panama M7.7 Earthquake \u2014 Recovery and International Aid Underway, Schools Closed",
+      "location": "Veraguas Province, Panama",
+      "type": "earthquake",
+      "summary": "Three days after the catastrophic M7.7 earthquake struck Panama's Azuero Peninsula, international urban search-and-rescue teams including Virginia Task Force 1 are on the ground assessing damage and supporting response efforts. UNICEF's second situation report confirms 419 educational facilities have been damaged nationwide and classes were suspended on October 12 while safety inspections continue. The USGS maintains its red alert level for the original quake; the aftershock sequence \u2014 including the M6.6 event that briefly triggered a tsunami alert \u2014 continues to rattle the region.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Morning Notes for October 12, 2026 \u2014 Rescue Team Dispatched to Panama",
+          "url": "https://www.ffxnow.com/2026/10/12/morning-notes-for-october-12-2026",
+          "source": "ffxnow.com"
+        },
+        {
+          "title": "UNICEF Panama Situation Report No. 2 (Earthquake), 11 October 2026",
+          "url": "https://reliefweb.int/report/panama/unicef-panama-situation-report-no-2-earthquake-11-october-2026",
+          "source": "reliefweb.int"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano Erupts \u2014 Strombolian Activity and Ash Emission, Alert Level 2",
+      "location": "Mayon Volcano, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano on Luzon Island produced a confirmed eruption on October 10 at 19:18 UTC, with Strombolian activity recorded above the crater summit in the early hours of October 11. The volcano remains under Alert Level 2, with the permanent danger zone around the summit closed to entry. Ash cloud heights were initially unconfirmed but the eruption represents a notable escalation for one of the Philippines' most historically active volcanoes.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Mayon Volcano records Strombolian activity on 11 October",
+          "url": "https://www.ad-hoc-news.de/unterhaltung/reisen/mayon-volcano-records-strombolian-activity-on-11-october/70290841",
+          "source": "ad-hoc-news.de"
+        },
+        {
+          "title": "Volcanic Activity Worldwide 10 Oct 2026: Stromboli Volcano, Fuego, Krakatau, Semeru, Ibu, Dukono, Reventador, Mayon...",
+          "url": "https://www.volcanodiscovery.com/volcano-activity/news/375739/Volcanic-activity-worldwide-10-Oct-2026-Stromboli-volcano-Fuego-Krakatau-Semeru-Ibu-Dukono-Re.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Post-Rachel Flash Flooding Spreads Into Desert Southwest \u2014 Life-Threatening Surge on Paria River",
+      "location": "Kane County, Utah / Coconino County, Arizona (Paria Canyon / Grand Canyon Region)",
+      "type": "weather",
+      "summary": "Moisture from the remnants of Tropical Storm Rachel triggered life-threatening flash flooding in Utah's iconic Paria Canyon slot canyon system overnight into October 12, with a flood wave sending the Paria River at US-89 surging 3 feet and reaching 2,200 cubic feet per second. The NWS Salt Lake City and NWS Flagstaff both issued Flash Flood Warnings and broad Flood Watches covering Zion, Capitol Reef, Bryce Canyon, Glen Canyon, and much of the Arizona Plateau, warning of raging currents in narrow canyon slot systems. Road closures were reported across the Coachella Valley in California, where Rachel made landfall, with cleanup still ongoing.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flash Flood Warning Issued in Kane, Utah",
+          "url": "https://cedarnews.net/newstasks/1054868/flash-flood-warning-kane-utah-4",
+          "source": "cedarnews.net"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Summit Eruption Escalates \u2014 Trail Closures Forced at Hawai\u02bbi Volcanoes National Park",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi Island, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's ongoing eruption episode \u2014 marked by a confirmed dike intrusion, new ground cracks up to 15 cm (6 inches) wide on the caldera floor, and elevated ground deformation \u2014 has now forced immediate, unplanned trail closures at Hawai\u02bbi Volcanoes National Park. Scientists from the USGS Hawaiian Volcano Observatory report that recent activity patterns have made precise eruption forecasting extremely difficult, as the volcano continues to exhibit intermittent lava overflows and heightened seismicity. The evolving unrest puts the summit area on an unpredictable footing heading into the week.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Active K\u012blauea forces 'immediate' trail closures at Hawai\u02bbi Volcanoes National Park",
+          "url": "https://www.foxweather.com/weather-news/active-kilauea-forces-immediate-trail-closures-hawaii-volcanoes-national-park",
+          "source": "foxweather.com"
+        },
+        {
+          "title": "Recent K\u012blauea activity means scientists can't forecast eruptions",
+          "url": "https://www.foxweather.com/earth-space/scientists-cant-predict-kilauea-volcano-eruption-recent-activity",
+          "source": "foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Post-Isaias River Flooding Persists Across Southeast \u2014 Carolinas, Florida, Louisiana, and Texas",
+      "location": "North Carolina, South Carolina, Georgia, Florida, Louisiana, and Texas, USA",
+      "type": "weather",
+      "summary": "Active Flood Warnings remain in effect across a broad multi-state region as rivers swollen by Isaias-related rainfall continue to crest and drain. Key systems in flood stage include the French Broad River (Henderson and Transylvania counties, NC), the Congaree River in South Carolina (forecast in moderate flood stage through Thursday), the Satilla River in Georgia, multiple Florida river systems including the St. Johns and Withlacoochee, and both the Calcasieu River in Louisiana and Neches River in Texas \u2014 with the Louisiana warning extended through October 16. The prolonged, multi-river flood event signals that widespread impacts will continue well into mid-week.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Pacific Northwest Hard Freeze Watch \u2014 Killing Frost Threatens Crops Across Washington and Oregon",
+      "location": "Washington State and Oregon, USA (Yakima Valley, Okanogan Valley, Columbia Basin, Wallowa County, Grande Ronde Valley)",
+      "type": "weather",
+      "summary": "A broad Freeze Watch is in effect from this evening through Tuesday morning across agricultural heartlands of Washington and Oregon, with sub-freezing temperatures as low as 21\u00b0F possible in the Grande Ronde Valley and 25\u00b0F in Wallowa County \u2014 well below the threshold that kills most crops and sensitive vegetation. The NWS Pendleton office has flagged that frost and freeze conditions could cause significant agricultural damage across the Lower Columbia Basin, Yakima Valley, Okanogan Valley, Blue Mountain foothills, and Kittitas Valley. The timing \u2014 during harvest season \u2014 raises concerns for orchards, vineyards, and late-season field crops.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Marapi Volcano Sustains Elevated Ash Emissions and Seismicity \u2014 West Sumatra",
+      "location": "Marapi Volcano, West Sumatra, Indonesia",
+      "type": "volcano",
+      "summary": "Marapi volcano continued its prolonged eruptive episode through the week of October 1\u20137, with PVMBG reporting increased seismicity and repeated ash emission events. The volcano has maintained near-continuous eruptive activity through early October, posing ongoing hazards to communities and aviation in the region. Marapi's current episode is part of a multi-week escalation that has kept the volcano on elevated alert status.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
