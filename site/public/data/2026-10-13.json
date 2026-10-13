@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-13",
+  "headline": "Hurricane Simon Batters Western Mexico as Twin M6.8 and M6.7 Earthquakes Strike Mid-Atlantic Ridge, Triggering Tsunami Alert",
+  "overview": "Hurricane Simon continued its destructive slow trek up the western coast of Mexico on October 13, having already claimed at least five lives while its moisture feeds a widening flood threat across the US Great Plains. Simultaneously, two strong shallow earthquakes \u2014 an M6.8 and M6.7 \u2014 struck the central Mid-Atlantic Ridge within hours of each other, with the larger event prompting a tsunami alert. Across the globe, extreme October heat gripped Mumbai, wildfire haze caused deadly crashes in Sumatra, and a fast-moving brush fire forced evacuations near Santa Clarita, California.",
+  "events": [
+    {
+      "title": "Hurricane Simon Batters Western Mexico \u2014 Deadly Slow-Moving Storm Threatens Catastrophic Surge",
+      "location": "Western Mexico (Pacific Coast)",
+      "type": "weather",
+      "summary": "Hurricane Simon, which approached as a Category 4 storm with catastrophic wind and storm-surge potential, continued its slow and destructive northward crawl along the west-central coast of Mexico as of October 13, contributing to at least five deaths across multiple tropical systems. The storm's protracted coastal track has prolonged heavy rainfall and surge exposure for communities along the Mexican Pacific coast. Simon's remnant moisture is simultaneously being drawn northward into the US Great Plains, fueling a multi-day flood threat from Texas to Illinois.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hurricane Simon still hitting western Mexico after tropical systems kill 5",
+          "url": "https://www.cbsnews.com/news/hurricane-simon-still-hitting-western-mexico-after-tropical-systems-kill-5",
+          "source": "www.cbsnews.com"
+        },
+        {
+          "title": "Category 4 Hurricane Simon approaches western Mexico with catastrophic wind and storm-surge threat",
+          "url": "https://watchers.news/2026/10/10/category-4-hurricane-simon-approaches-western-mexico-with-catastrophic-wind-and-storm-surge-threat",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Twin Mid-Atlantic Ridge Earthquakes \u2014 M6.8 Triggers Tsunami Alert, M6.7 Follows Hours Earlier",
+      "location": "Central Mid-Atlantic Ridge (Remote Atlantic Ocean)",
+      "type": "earthquake",
+      "summary": "Two strong, shallow earthquakes struck the central Mid-Atlantic Ridge on October 13: an M6.7 at 05:44 UTC and a larger M6.8 at 12:23 UTC, both at approximately 10 km depth. The M6.8 triggered a USGS tsunami alert, though the remote mid-ocean location means population exposure is extremely limited; USGS assigned green impact alert levels for both events. The dual strikes along this tectonically active spreading ridge are geologically notable and are being monitored for any further escalation.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong and shallow M6.9 earthquake hits central Mid-Atlantic Ridge",
+          "url": "https://watchers.news/2026/10/13/strong-and-shallow-m6-9-earthquake-hits-central-mid-atlantic-ridge",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Shallow M6.7 earthquake hits central Mid-Atlantic Ridge",
+          "url": "https://watchers.news/2026/10/13/shallow-m6-7-earthquake-hits-central-mid-atlantic-ridge",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Panama Earthquake Sequence \u2014 Humanitarian Crisis Deepens as New M6.1 Aftershock Strikes",
+      "location": "Veraguas Province, Panama",
+      "type": "earthquake",
+      "summary": "The Panama earthquake sequence, triggered by the M7.7 mainshock on October 9, continues to evolve with a new M6.1 aftershock recorded on October 12 at 23:20 UTC, adding to an extensive swarm that includes the earlier M6.6 and M6.0 events. More than 800 people remain in shelters \u2014 primarily in Veraguas, Col\u00f3n, and Los Santos \u2014 while over 8,000 children require humanitarian assistance, and 656 educational facilities have sustained damage with classes suspended. The ongoing aftershock sequence is prolonging fear and displacement, with many residents refusing to return to damaged structures.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Panama earthquakes: 8,000 children in need of humanitarian assistance",
+          "url": "https://tanzaniatimes.net/over-8000-children-in-need-of-humanitarian-assistance-following-the-panama-earthquakes",
+          "source": "tanzaniatimes.net"
+        },
+        {
+          "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 03 (as of 12 October 2026, 14:30)",
+          "url": "https://reliefweb.int/report/panama/panama-earthquake-azuero-veraguas-situation-report-no-03-12-october-2026-1430",
+          "source": "reliefweb.int"
+        }
+      ]
+    },
+    {
+      "title": "Simon's Remnant Moisture Drives Multi-Day Flood Threat Across the Great Plains",
+      "location": "Kansas, Missouri, Oklahoma, Texas, USA",
+      "type": "weather",
+      "summary": "A slow-moving upper-level storm system is drawing tropical moisture from Hurricane Simon's remnants northward into the Great Plains, generating active Flood Watches across more than a dozen counties in Kansas and Missouri and prompting AccuWeather warnings of flooding downpours from Texas to Illinois through Thursday. NWS offices in Wichita, Topeka, Kansas City, and Springfield have all issued multi-county Flood Watches, with forecast rainfall totals of 2\u20134 inches possible over already-saturated ground. Travel delays and flash flooding are expected across a broad corridor of the central US through at least October 14.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Bike Fire Burns 172 Acres Near Santa Clarita \u2014 Evacuations Ordered in Los Angeles County",
+      "location": "Santa Clarita, Los Angeles County, California, USA",
+      "type": "wildfire",
+      "summary": "A fast-moving brush fire dubbed the Bike Fire ignited near Santa Clarita on October 11 and burned approximately 172 acres, forcing evacuations of residential neighborhoods on hillsides in Los Angeles County. The fire broke out amid record drought and extreme October heat that have placed Southern California on a dangerous fire-weather edge, with multiple agencies responding. The cause remains undetermined, and containment status as of October 13 has not been fully confirmed in available reports.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Bike Fire forcing evacuations in Santa Clarita",
+          "url": "https://www.foxla.com/news/bike-fire-forcing-evacuations-santa-clarita",
+          "source": "www.foxla.com"
+        }
+      ]
+    },
+    {
+      "title": "Mumbai Records Hottest October Day in Over a Decade \u2014 IMD Issues Yellow Heat Alert",
+      "location": "Mumbai, India",
+      "type": "weather",
+      "summary": "Mumbai recorded a high of 38.2\u00b0C on October 12\u201313, its hottest October temperature in over a decade and its second heat wave event in less than a week, according to the India Meteorological Department. The IMD has issued a yellow heat alert covering Mumbai, Thane, Palghar, Raigad, and Ratnagiri districts, warning of oppressive, heatwave-like conditions across the Maharashtra coast. The extreme warmth, occurring during what is normally a festive and transitional season, reflects a persistent anomalous heat pattern affecting the Indian subcontinent this October.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "At 38.2\u00b0C, Mumbai records second heat wave in less than a week; hottest October in a decade",
+          "url": "https://www.hindustantimes.com/cities/mumbai-news/at-38-2-c-city-sees-hottest-october-day-in-over-a-decade-101791833021488.html",
+          "source": "www.hindustantimes.com"
+        },
+        {
+          "title": "Mumbai Heatwave: Mercury Hits 38.2 Degree Celsius As October Heat Intensifies; Will Residents Get Relief In Coming Days?",
+          "url": "https://www.ndtvprofit.com/india/mumbai-heatwave-mercury-hits-38-2c-as-october-heat-intensifies-will-residents-get-relief-in-coming-days-12177496",
+          "source": "www.ndtvprofit.com"
+        }
+      ]
+    },
+    {
+      "title": "Sumatra Wildfire Haze Claims Two Lives in Lampung \u2014 Deadly Highway Crashes, Flight Delays",
+      "location": "Lampung Province, Sumatra, Indonesia",
+      "type": "wildfire",
+      "summary": "Thick wildfire haze blanketing Lampung's Tulang Bawang regency in southern Sumatra triggered a series of deadly traffic accidents on a major highway, killing two people and injuring at least five others as drastically reduced visibility caused multi-vehicle collisions. Indonesian police are investigating the crashes, while the broader haze from ongoing Sumatran wildfires has disrupted air travel, forcing airlines to delay flights across affected areas. The events underscore the far-reaching secondary hazards of Indonesia's seasonal fire and haze crisis, which also coincides with elevated temperatures recorded in Jakarta (37.2\u00b0C max).",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Indonesian police investigate deadly highway crashes linked to wildfire haze in Lampung",
+          "url": "https://asianews.network/indonesian-police-investigate-deadly-highway-crashes-linked-to-wildfire-haze-in-lampung",
+          "source": "asianews.network"
+        },
+        {
+          "title": "Police investigate deadly highway crashes linked to wildfire haze in Lampung",
+          "url": "https://www.thejakartapost.com/indonesia/2026/10/10/police-investigate-deadly-highway-crashes-linked-to-wildfire-haze-in-lampung",
+          "source": "www.thejakartapost.com"
+        }
+      ]
+    }
+  ]
+}
