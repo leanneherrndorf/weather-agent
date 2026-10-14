@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-14",
+  "headline": "Dangerous Santa Ana Wind Event Triggers Red Flag Warnings Across Southern California as Hurricane Simon's Remnants Continue to Unleash Flash Floods Across Oklahoma and Texas",
+  "overview": "Southern California faces its most significant fire-weather threat of the season as Santa Ana winds with gusts up to 70 mph and critically low humidity prompt Red Flag Warnings across Los Angeles, Ventura, San Bernardino, Riverside, and San Diego counties Thursday through Friday. Simultaneously, moisture from the remnants of Hurricane Simon continues to drive widespread flash flooding across Oklahoma and the Texas Panhandle, with multiple active Flash Flood Warnings issued through mid-morning. Globally, Panama's earthquake sequence persists, Mumbai's record October heat extends into a third day, and a powerful atmospheric river targets Southeast Alaska with Storm Warnings and flood watches.",
+  "events": [
+    {
+      "title": "Santa Ana Wind Event \u2014 Red Flag Warnings Blanket Southern California Ahead of Critical Fire Threat",
+      "location": "Los Angeles, Ventura, San Bernardino, Riverside, and San Diego Counties, California, USA",
+      "type": "weather",
+      "summary": "The NWS has issued Red Flag Warnings and High Wind Watches spanning virtually all of the Southern California coastal ranges, valleys, and mountains, effective Thursday through Saturday, with northeast Santa Ana winds forecast at 25\u201345 mph and gusts of 50\u201370 mph possible near mountain passes and the San Gabriel range. Critically low relative humidity of 15\u201325% combined with these wind speeds creates extreme fire-spread conditions, with the NWS warning of a 'high risk for extreme fire behavior with any new fire starts.' Preventive power shutoffs (PSPS) are being considered for Malibu and surrounding areas, and Fire Weather Watches also extend into the Tehachapi area and Santa Barbara County mountains through Friday.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Santa Ana winds, critical fire danger on tap for Southern California",
+          "url": "https://www.ocregister.com/2026/10/13/santa-ana-winds-critical-fire-danger-on-tap-for-southern-california",
+          "source": "ocregister.com"
+        }
+      ]
+    },
+    {
+      "title": "Simon's Remnant Moisture Escalates \u2014 Active Flash Flood Warnings Sweep Oklahoma and Texas Panhandle",
+      "location": "Oklahoma (statewide), Texas Panhandle and West Texas, Kansas, Missouri, USA",
+      "type": "weather",
+      "summary": "What was forecast as a multi-day flood watch threat has now materialized into widespread active Flash Flood Warnings across Oklahoma and the Texas Panhandle this morning, with 2\u20136 inches of rain already falling in western Oklahoma counties including Beckham, Custer, and Washita, and thunderstorms continuing to fire. The NWS Norman office has issued cascading warnings covering Oklahoma County and the Canadian River basin, where minor river flooding is already occurring near Bridgeport. Flood Watches remain in effect across dozens of counties in Kansas and Missouri through Thursday, as a second wave of storms is expected to push additional rainfall into already-saturated soils.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flood watches raise Kansas and Missouri concern as Simon moisture feeds storms",
+          "url": "https://www.usairnet.com/weather/news/2026/10/20261013-080142-simon-plains-flood-watches-kansas-missouri-october-13-2026",
+          "source": "usairnet.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Simon Continues Slow, Destructive Crawl Up Mexico's Pacific Coast",
+      "location": "Western Mexico (Pacific Coast, Sinaloa and Nayarit States)",
+      "type": "weather",
+      "summary": "Hurricane Simon remained an active and highly destructive storm as of October 13, continuing to batter west-central Mexico's Pacific coast with near-Category 5-intensity impacts including 30-inch rainfall totals in some areas, 33-foot waves, and catastrophic coastal surge, having already contributed to at least five deaths across the 2026 Pacific tropical season. The storm's unusually slow movement has prolonged inundation and flooding well beyond what a faster-moving storm would produce, and communities along the Sinaloa and Nayarit coasts remain under siege. Damage assessment is ongoing as the storm begins a gradual northward drift, though heavy rain and surge threats persist for coastal zones on October 14.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Simon still hitting western Mexico after tropical systems kill 5",
+          "url": "https://www.cbsnews.com/news/hurricane-simon-still-hitting-western-mexico-after-tropical-systems-kill-5",
+          "source": "cbsnews.com"
+        },
+        {
+          "title": "MEXICO HIT by HURRICANE SIMON \u2014 30 INCHES of Rain & 33-FT WAVES (Latest Updates)",
+          "url": "https://www.youtube.com/watch?v=rLu2uCsk-HI",
+          "source": "youtube.com"
+        }
+      ]
+    },
+    {
+      "title": "Powerful Atmospheric River Targets Southeast Alaska \u2014 Storm Warning, Flood Watches Issued",
+      "location": "Southeast Alaska Panhandle (Ketchikan to Cape Fairweather), USA",
+      "type": "weather",
+      "summary": "A strong atmospheric river is bearing down on the Alaska Panhandle, prompting Storm Warnings from Cape Spencer to Cape Fairweather with east winds of 35\u201345 knots, gusts to 55 knots, and seas of 19\u201324 feet expected for offshore zones through October 15. Inland Flood Watches have been issued for Ketchikan Gateway Borough, Annette Island, Wrangell, Prince of Wales Island, and Petersburg Borough, where persistent moderate to heavy rain from multiple moisture waves is expected to produce prolonged precipitation through at least Friday morning. Alaska's News Source has flagged this as a First Alert event, warning of widespread heavy rain and gusty winds building into Southeast Alaska by Thursday.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "First Alert: Widespread heavy rain and gusty winds build into Southeast by Thursday",
+          "url": "https://www.alaskasnewssource.com/2026/10/14/first-alert-widespread-heavy-rain-gusty-winds-build-into-southeast-by-thursday?outputType=amp",
+          "source": "alaskasnewssource.com"
+        }
+      ]
+    },
+    {
+      "title": "Panama Earthquake Sequence Persists \u2014 M7.7 Aftermath Continues With Ongoing Aftershocks",
+      "location": "Veraguas Province, Panama",
+      "type": "earthquake",
+      "summary": "The devastating M7.7 earthquake that struck Panama's Azuero Peninsula on October 9 has been followed by at least 147 aftershocks, including a significant M6.6 (which triggered a brief tsunami alert), an M6.0, an M5.8, and most recently an M6.1 on October 12 \u2014 all recorded by USGS at shallow depths of 10\u201312 km. Confirmed injuries reached at least 27 with a cathedral reported collapsed, and the humanitarian crisis continues to deepen as international aid arrives and schools remain closed across affected provinces. The sequence remains one of the most active aftershock clusters in Panama's recorded history, with USGS maintaining orange alert status for the mainshock.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Panama Hit by 7.7 Quake: 147 Aftershocks, 27 Injured, a Cathedral Collapsed",
+          "url": "https://www.latintimes.com/panama-hit-77-quake-147-aftershocks-27-injured-cathedral-collapsed-600040",
+          "source": "latintimes.com"
+        },
+        {
+          "title": "7.7 quake hits Panama, tsunami warning issued",
+          "url": "https://www.insideflyer.com/posts/7-7-quake-hits-panama-tsunami-warning-issued",
+          "source": "insideflyer.com"
+        }
+      ]
+    },
+    {
+      "title": "Mumbai Extreme October Heat Persists for Third Consecutive Day \u2014 37.1\u00b0C Recorded",
+      "location": "Mumbai, India",
+      "type": "weather",
+      "summary": "Mumbai recorded a maximum temperature of 37.1\u00b0C on October 14, extending an extraordinary heat episode that has already produced the hottest October readings in over a decade, including a peak of 38.2\u00b0C on October 12. The India Meteorological Department (IMD) issued a Yellow Heat Alert as the city experienced its second heat wave event within a single week \u2014 an historically rare occurrence for this time of year in coastal Maharashtra. Health authorities are urging residents to avoid outdoor exposure during peak afternoon hours, with concerns mounting over heat-related illness as the city's urban heat island effect amplifies already-anomalous conditions.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Mumbai records hottest October in over a decade, mercury hits temperatures hit 38.2\u00b0C",
+          "url": "https://www.timeout.com/mumbai/news/mumbai-records-hottest-october-in-a-decade-temperatures-hit-38-2c-101326",
+          "source": "timeout.com"
+        },
+        {
+          "title": "At 38.2\u00b0C, Mumbai records second heat wave in less than a week; hottest October in a decade",
+          "url": "https://www.hindustantimes.com/cities/mumbai-news/at-38-2-c-city-sees-hottest-october-day-in-over-a-decade-101791833021488.html",
+          "source": "hindustantimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano Sustains Alert Level 2 \u2014 Strombolian Activity Ongoing, Hazard Zone Enforced",
+      "location": "Mayon Volcano, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano continued to exhibit Strombolian activity and ash emissions as of October 11, with PHIVOLCS maintaining Alert Level 2 and enforcing a strict exclusion zone around the summit crater. Weak explosive eruptions have been recorded at the summit, and entry into the permanent danger zone remains prohibited due to the risk of ballistic projectiles and pyroclastic density currents. No significant escalation to Alert Level 3 has been confirmed as of the morning of October 14, but volcanic seismicity and crater glow remain elevated, keeping communities on high alert.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Mayon Volcano records Strombolian activity on 11 October",
+          "url": "https://www.ad-hoc-news.de/unterhaltung/reisen/mayon-volcano-records-strombolian-activity-on-11-october/70290841",
+          "source": "ad-hoc-news.de"
+        },
+        {
+          "title": "Strombolian eruption recorded in Mayon on Sunday",
+          "url": "https://tribune.net.ph/2026/10/11/strombolian-eruption-recorded-in-mayon-on-sunday",
+          "source": "tribune.net.ph"
+        }
+      ]
+    }
+  ]
+}
