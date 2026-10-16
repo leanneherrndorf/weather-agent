@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-16",
+  "headline": "Typhoon Champi upgraded to Category 2\u20133 threat bearing down directly on Guam as Condition of Readiness 2 is declared.",
+  "overview": "Typhoon Champi dramatically intensified Friday and is now forecast to pass over or near Guam as a Category 2 or 3 typhoon on Sunday, triggering full Typhoon Warnings across the island chain. Simultaneously, Hurricane Trudy continues to drench Mexico's Pacific coast, a new M6.9 earthquake struck Russia's Kamchatka Peninsula and triggered a false catastrophic-magnitude alarm in Japan, and a powerful cold front is driving widespread hard freeze warnings from the Northern Plains to the Southwest U.S.",
+  "events": [
+    {
+      "title": "Typhoon Champi Upgraded \u2014 Direct Hit on Guam Expected as Category 2\u20133 Storm",
+      "location": "Guam and Northern Mariana Islands, Western Pacific",
+      "type": "weather",
+      "summary": "Tropical Storm Champi rapidly intensified on October 16 and is now forecast by the Joint Typhoon Warning Center to pass over or near Guam as a Category 2 or 3 typhoon on Sunday morning. Full Typhoon Warnings have been issued for Guam and Rota, with Guam placed in Condition of Readiness 2 as of 1 PM local time Friday; Tropical Storm Warnings and Typhoon Watches cover Tinian and Saipan. Destructive winds, dangerous storm surge, and flooding rainfall are expected to begin Saturday night, with a Flood Watch in effect through Sunday afternoon for all four islands.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "NWS: Champi expected to pass over or near Guam Sunday morning as a Cat 2 or 3 typhoon",
+          "url": "https://www.islapublic.org/news/2026-10-16/nws-champi-expected-to-pass-over-or-near-guam-sunday-morning-as-a-cat-2-or-3-typhoon",
+          "source": "islapublic.org"
+        },
+        {
+          "title": "Severe Tropical Storm No. 30 (Champi) Intensifies Over Western Pacific, Forecast to Reach Very Strong Typhoon Strength Near Guam",
+          "url": "https://sea.weathernews.com/resources/202610/274",
+          "source": "sea.weathernews.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.9 Kamchatka Earthquake Triggers Erroneous M9.9 Catastrophic Alert in Japan",
+      "location": "Kamchatka Peninsula, Russia",
+      "type": "earthquake",
+      "summary": "A strong M6.9 earthquake struck 76 km northeast of Ozernovskiy on Russia's Kamchatka Peninsula at 03:35 UTC on October 16, at a depth of 135 km; no tsunami was generated and the USGS assigned a green alert level. However, Japan's Meteorological Agency (JMA) erroneously interpreted the event as an M9.9 catastrophic earthquake and issued a large-scale warning across broad areas of Japan before retracting it and issuing a public apology. The incident highlighted the risk of automated seismic-processing errors and caused significant public alarm in Japan.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong M6.9 earthquake hits Kamchatka Peninsula, Russia",
+          "url": "https://watchers.news/2026/10/16/strong-m6-9-earthquake-hits-kamchatka-peninsula-russia",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "California Wildfires and Santa Ana Winds Reach Peak Intensity \u2014 Brentwood Blaze Burns",
+      "location": "Southern and Central California, USA",
+      "type": "wildfire",
+      "summary": "Santa Ana wind conditions peaked on Friday across Southern California, with High Wind Warnings covering San Bernardino, Riverside, San Diego, Ventura, and Los Angeles County mountains and valleys, where gusts of 50\u201370 mph were recorded. Red Flag Warnings remain in effect through Saturday evening for an enormous swath of the state, from the North Bay interior to the Tehachapi mountains and the Santa Monica and San Gabriel ranges, with relative humidity dropping to single digits in some areas. A brush fire that ignited in West Los Angeles (Brentwood area) is continuing to burn amid these extreme conditions, and Los Angeles recorded a peak temperature of 36.3\u00b0C, underscoring the dangerous fire environment.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wildfire erupts as dangerous winds, red flag warnings head to Southern California | KTLA",
+          "url": "https://ktla.com/news/california/santa-ana-winds-red-flag-warning-socal",
+          "source": "ktla.com"
+        }
+      ]
+    },
+    {
+      "title": "Hurricane Trudy Makes Landfall on Mexico's Pacific Coast",
+      "location": "Pacific Coast, Mexico",
+      "type": "weather",
+      "summary": "Hurricane Trudy has made landfall on Mexico's Pacific coast, actively drenching coastal communities with heavy rainfall and destructive winds. The storm developed a small but robust inner core and underwent rapid intensification prior to landfall; its ultimate severity along the coast depends on whether the eyewall directly struck shore or delivered a more glancing blow. Flooding and mudslide risks remain elevated across coastal Jalisco, Colima, and adjacent states.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Hurricane Trudy drenching Mexico; Guam braces for another typhoon",
+          "url": "https://yaleclimateconnections.org/2026/10/hurricane-trudy-drenching-mexico-guam-braces-for-another-typhoon",
+          "source": "yaleclimateconnections.org"
+        },
+        {
+          "title": "Hurricane Simon impacts are lingering; new threat brewing from Trudy in Mexico",
+          "url": "https://www.accuweather.com/en/hurricane/hurricane-simon-impacts-are-lingering-new-threat-brewing-from-trudy-in-mexico/1946224",
+          "source": "accuweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Oklahoma Canadian River Flooding Escalates \u2014 Near-Record Levels Spread Downstream",
+      "location": "Oklahoma and North Texas, USA",
+      "type": "weather",
+      "summary": "The Canadian River flood event has expanded and intensified, with Flood Warnings now extended through October 19 at multiple gauge points from Bridgeport to Mustang, Norman, and Purcell; the Canadian River at Norman is approaching the flood of record. Multiple additional rivers across Oklahoma and the Texas Panhandle remain under Flood Warnings, including the North Fork Red River, Pease River, and Pecos River, as Simon's remnant moisture continues to drain through an oversaturated basin. The scale of the flooding has grown significantly since initial reports, now affecting Cleveland, Canadian, Grady, McClain, Caddo, Blaine, Pottawatomie, Jackson, Kiowa, Tillman, Wichita, and Wilbarger counties.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Life-threatening flash flooding reported across Oklahoma City, major flooding forecast on Canadian River",
+          "url": "https://watchers.news/2026/10/14/life-threatening-flash-flooding-reported-across-oklahoma-city-major-flooding-forecast-on-canadian-river",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Merapi Volcano Sustains Active Lava Dome Eruption on Java",
+      "location": "Merapi Volcano, Java, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's Merapi volcano maintained an active eruption throughout the week of October 8\u201314, with the lava dome on the upper southwest flank continuing to produce avalanches of incandescent material, according to PVMBG and The Watchers' weekly volcanic activity report. Merapi is one of the world's most dangerous and closely monitored volcanoes, situated near the densely populated city of Yogyakarta; ongoing dome growth and associated pyroclastic density currents pose hazards to communities in the exclusion zone. This activity is separate from the previously reported Anak Krakatau eruption also occurring in Indonesia this week.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Hard Freeze Warnings Sweep Central U.S. From the Dakotas to New Mexico \u2014 Crops at Risk",
+      "location": "Northern Plains to Southwest, USA",
+      "type": "weather",
+      "summary": "A powerful cold front pushing south across the central United States has triggered a broad swath of Freeze Warnings and Freeze Watches stretching from western and central North Dakota and Wyoming through Nebraska, Kansas, Iowa, Illinois, Wisconsin, Minnesota, Colorado, and into New Mexico, with temperatures expected to fall as low as 15\u201332\u00b0F in sheltered valleys. The NWS warns that sub-freezing conditions are likely to kill crops and sensitive vegetation across a wide agricultural belt, with the hardest freeze \u2014 down to 15\u00b0F \u2014 expected in sheltered Carbon and Albany county valleys of Wyoming. The cold air mass is simultaneously fueling Red Flag Warning conditions across Arkansas, Louisiana, and Texas as dry northerly winds behind the front dramatically lower relative humidity.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Freeze Alerts in effect for Upper Mid-West & Northern Plains",
+          "url": "https://www.clickorlando.com/weather/2026/10/15/freeze-alerts-in-effect-for-upper-mid-west-northern-plains",
+          "source": "clickorlando.com"
+        }
+      ]
+    }
+  ]
+}
