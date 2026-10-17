@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-17",
+  "headline": "Typhoon Champi Makes Direct Strike on Guam with Destructive Winds and 35-Foot Waves as Full Typhoon Warning Enacted",
+  "overview": "Typhoon Champi has intensified beyond earlier forecasts and is delivering a direct blow to Guam and the Marianas on October 17, with typhoon-force winds, flash flooding, and 35-foot surf already impacting the island chain. Simultaneously, a Nor'easter is hammering North Carolina's Outer Banks with 2\u20134 feet of coastal inundation and 17\u201322-foot seas, while a new fast-moving wildfire has erupted near Camp Pendleton in San Diego County with zero containment. Earthquake activity remains globally elevated, with a shallow M6.8 doublet on the Mid-Atlantic Ridge earlier this week still under review for tsunami risk, and a fresh M5.7 strike in Pakistan's Balochistan province recorded today.",
+  "events": [
+    {
+      "title": "Typhoon Champi Makes Direct Hit on Guam \u2014 Full Typhoon Warning, 35-Foot Surf, Flash Flooding Underway",
+      "location": "Guam and Northern Mariana Islands, Western Pacific",
+      "type": "weather",
+      "summary": "Champi has been upgraded to a full typhoon and is battering Guam and Rota with destructive typhoon-force winds (64+ knots) and seas up to 35 feet, with a Typhoon Watch also in effect for Tinian and Saipan. NWS Tiyan has issued concurrent Typhoon Warnings, Coastal Flood Warnings, Flash Flood Warnings, and Flood Watches across the entire island chain, with 1\u20132 inches of rain already fallen and torrential rain continuing through Sunday morning. Damaging winds are expected to persist into at least Sunday night if Champi slows, threatening widespread infrastructure damage across U.S. territories in the Western Pacific.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Typhoon and Flood watches cover Mariana Islands as Tropical Storm Champi approaches",
+          "url": "https://watchers.news/2026/10/15/typhoon-and-flood-watches-cover-mariana-islands-as-tropical-storm-champi-approaches",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Tropical storm Champi strengthens as it moves toward Guam under Typhoon watch",
+          "url": "https://www.thenews.com.pk/latest/1420067-tropical-storm-champi-strengthens-as-it-moves-toward-guam-under-typhoon-watch",
+          "source": "www.thenews.com.pk"
+        }
+      ]
+    },
+    {
+      "title": "Nor'easter Strikes North Carolina Outer Banks \u2014 2\u20134 Feet of Coastal Flooding, 22-Foot Seas, NC-12 Closures",
+      "location": "Hatteras Island and Ocracoke Island, North Carolina, USA",
+      "type": "weather",
+      "summary": "A powerful Nor'easter has triggered Coastal Flood Warnings for Hatteras and Ocracoke islands, with 2\u20134 feet of inundation above ground level expected in low-lying areas through October 20. NWS Newport/Morehead City has issued Storm Warnings for offshore waters from Oregon Inlet to Surf City, with northeast winds 35\u201340 knots, gusts to 50 knots, and seas of 17\u201322 feet capable of capsizing vessels. Dare County Emergency Management is urging preparedness and anticipating extended closures of NC Highway 12, the only road connecting the Outer Banks communities.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Nor'easter could bring 2-4 feet of coastal flooding, 55 mph wind gusts, and extended N.C. 12 closures to Hatteras and Ocracoke",
+          "url": "https://islandfreepress.org/outer-banks-news/noreaster-could-bring-2-4-feet-of-coastal-flooding-55-mph-wind-gusts-and-extended-n-c-12-closures-to-hatteras-and-ocracoke",
+          "source": "islandfreepress.org"
+        }
+      ]
+    },
+    {
+      "title": "Henderson Fire Erupts Near Camp Pendleton \u2014 2,800 Acres, 0% Containment, Evacuation Orders Issued",
+      "location": "San Diego County / Camp Pendleton, California, USA",
+      "type": "wildfire",
+      "summary": "A new wildfire ignited on October 15 at Henderson and Brown Streets in the Camp Pendleton area of San Diego County, rapidly growing to 2,800 acres with zero containment as of October 16 amid ongoing Santa Ana wind conditions. NWS San Diego has High Wind Warnings in effect across San Diego County mountains and inland valleys, with gusts of 50\u201360 mph fanning the blaze and making aerial suppression difficult. Evacuation orders are in place for affected communities, and the cause of the fire remains under investigation.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "All the wildfires burning across Southern California right now",
+          "url": "https://ktla.com/news/california/all-the-wildfires-burning-across-southern-california-right-now",
+          "source": "ktla.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.8 + M6.7 Earthquake Doublet Strikes Mid-Atlantic Ridge \u2014 Shallow Ruptures Trigger Tsunami Alert",
+      "location": "Central Mid-Atlantic Ridge, South Atlantic Ocean",
+      "type": "earthquake",
+      "summary": "Two powerful and shallow earthquakes \u2014 a M6.8 on October 13 at 12:23 UTC followed closely by a M6.7 at 05:44 UTC the same day \u2014 struck the central Mid-Atlantic Ridge at only 10 km depth, with USGS issuing a tsunami alert for the M6.8 event. Both quakes occurred in a remote oceanic region with no significant population centers nearby, and USGS assigned a green alert level, indicating low likelihood of casualties or significant damage on land. The shallow depth and doublet nature of the sequence is geologically notable, though no destructive tsunami was observed across Atlantic coastlines.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Oklahoma Canadian River Flooding Reaches Near-Record Levels at Norman \u2014 Red River Also Threatened",
+      "location": "Oklahoma and North Texas, USA",
+      "type": "weather",
+      "summary": "The Canadian River flooding sequence has intensified, with NWS Norman issuing Flood Warnings through October 20 at Norman and Purcell \u2014 where moderate flooding is forecast to approach the flood of record. The surge of floodwaters is now propagating downstream through Cleveland, McClain, Canadian, and Grady counties in Oklahoma, and a Flood Watch has been issued for the Red River near Burkburnett, Texas, where additional flooding is possible through Sunday evening. Multiple river gauges along the Upper Canadian system remain at or above major flood stage, with impacts including road closures and inundation of low-lying farmland.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "M5.7 Earthquake Strikes Near Khuzdar, Balochistan, Pakistan \u2014 Yellow USGS Alert",
+      "location": "Khuzdar District, Balochistan, Pakistan",
+      "type": "earthquake",
+      "summary": "A magnitude 5.7 earthquake struck 48 km west-northwest of Khuzdar in Pakistan's Balochistan province at 05:06 UTC on October 17, at a very shallow depth of 10 km \u2014 a seismically active and historically vulnerable region. USGS assigned a yellow alert level, indicating a possibility of light damage and a small number of casualties, and the shallow depth raises concern for structural impacts in an area with many unreinforced buildings. Initial reports from regional media describe the quake as felt strongly but note no confirmed major casualties or damage in early assessments.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Earthquake of magnitude 5.9 jolts Pakistan's Balochistan",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/earthquake-of-magnitude-5-9-jolts-pakistans-balochistan/articleshow/135010137.cms",
+          "source": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Magnitude 5.6 Earthquake Hits Balochistan, Pakistan",
+          "url": "https://gulfnews.com/world/asia/pakistan/magnitude-56-earthquake-strikes-pakistans-balochistan-province-1.500713898",
+          "source": "gulfnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Panama M7.7 Aftershock Sequence Continues \u2014 M6.1 Recorded, Over 200 Aftershocks Since Mainshock",
+      "location": "Veraguas Province, Panama",
+      "type": "earthquake",
+      "summary": "The destructive M7.7 earthquake that struck Panama on October 9 continues to generate significant aftershocks, with USGS recording a M6.1 event on October 12 near R\u00edo Grande, Panama \u2014 which itself was felt by 71 people. A ReliefWeb situation report as of October 12 confirmed that the mainshock (rated M7.7 by USGS / M7.6 by the University of Panama) caused building collapses including a hotel in Penonom\u00e9, prompting evacuations across Veraguas and Azuero provinces. The ongoing aftershock sequence is heightening concern for further structural damage to already-compromised buildings in the region.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 03 (as of 12 October 2026, 14:30)",
+          "url": "https://reliefweb.int/report/panama/panama-earthquake-azuero-veraguas-situation-report-no-03-12-october-2026-1430",
+          "source": "reliefweb.int"
+        },
+        {
+          "title": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations",
+          "url": "https://www.timesfreepress.com/news/2026/oct/10/panama-rocked-by-2-powerful-earthquakes-and-multiple-aftershocks-prompting-evacuations",
+          "source": "www.timesfreepress.com"
+        }
+      ]
+    }
+  ]
+}
