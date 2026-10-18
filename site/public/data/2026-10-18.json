@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-18",
+  "headline": "Typhoon Champi Devastates Guam as Governor Declares COR4; K\u012blauea Episode 55 Ends and Alert Drops to Yellow Amid Broad Eastern U.S. Freeze",
+  "overview": "Sunday brought the full scope of Typhoon Champi's destruction into view as Guam's governor declared Condition of Readiness 4, signaling the storm's passage but confirming widespread structural damage across the island. Meanwhile, a sweeping freeze event blanketed more than a dozen Eastern U.S. states overnight, threatening late-season crops from West Virginia to New England. Across the Pacific, K\u012blauea's 55th eruptive episode concluded abruptly on Saturday, prompting the USGS to downgrade its alert from Orange Watch to Yellow Advisory, while Guatemala's Fuego volcano continued generating explosive eruptions with near-pyroclastic flows.",
+  "events": [
+    {
+      "title": "Typhoon Champi Aftermath: Governor Declares COR4, Structural Damage Confirmed Across Guam",
+      "location": "Guam, Western Pacific",
+      "type": "weather",
+      "summary": "Following its direct strike on Guam as a powerful typhoon, the island's governor declared Condition of Readiness 4 on Sunday, signaling the storm's passage while confirming significant structural damage across residential and commercial areas. Reports from Ipan and Talo'fo'fo' document damaged buildings, and a Flood Watch remains in effect through late Sunday night for Guam and Rota as rivers and drainage systems remain saturated. Recovery and damage assessment operations are underway island-wide.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "K\u012blauea Episode 55 Ends Abruptly \u2014 USGS Drops Alert from Orange to Yellow",
+      "location": "K\u012blauea Summit, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "Episode 55 of the ongoing Halema\u02bbuma\u02bbu eruption at K\u012blauea's summit caldera ended abruptly at 9:03 a.m. HST on Saturday, October 17, following approximately six hours of lava fountaining. The USGS Hawaiian Volcano Observatory responded by downgrading the alert level from WATCH (Orange) to ADVISORY (Yellow), indicating eruptive activity has paused but the volcano remains in an elevated state with further episodes likely. This marks a meaningful de-escalation but not an end to the overall eruption sequence, which has now produced 55 discrete episodes.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Fuego Volcano Produces Explosive Eruptions With Near-Pyroclastic Flows in Guatemala",
+      "location": "Fuego Volcano, Guatemala",
+      "type": "volcano",
+      "summary": "Guatemala's Fuego volcano generated two significant explosive eruptions around sunrise on October 16, producing glowing lava, dense ash columns, and flows described as near-pyroclastic in character. Volcanic ash emissions were still being tracked by the Washington VAAC as of October 17, though ash plume heights were difficult to confirm due to cloud cover. Fuego is one of Central America's most persistently active volcanoes, and events of this intensity pose hazards to nearby communities on the Pacific coastal plain.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Fuego Volcano ERUPTS Twice at Sunrise! Glowing Lava, Dark Ash & Near Pyroclastic Flow (Oct 16, 2026)",
+          "url": "https://www.youtube.com/watch?v=Tm_uVSoL2PA",
+          "source": "youtube.com"
+        },
+        {
+          "title": "Volcanic Activity Worldwide 17 Oct 2026: Santiaguito Volcano, Fuego, Semeru, Ibu, Dukono, Reventador...",
+          "url": "https://www.volcanodiscovery.com/volcano-activity/news/380907/Volcanic-activity-worldwide-17-Oct-2026-Santiaguito-volcano-Fuego-Semeru-Ibu-Dukono-Reventador.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Sweeping Freeze Warnings Blanket Eastern U.S. \u2014 Appalachians to Mid-Atlantic to Great Lakes",
+      "location": "Eastern United States (WV, VA, NC, OH, PA, IN, KY, NJ, CT, NY)",
+      "type": "weather",
+      "summary": "An unusually broad overnight freeze event gripped the Eastern United States on Saturday night into Sunday morning, with sub-freezing temperatures ranging from 25\u00b0F to 32\u00b0F recorded across portions of West Virginia, Virginia, North Carolina, Ohio, Pennsylvania, Indiana, Kentucky, New Jersey, Connecticut, and New York. More than a dozen NWS offices issued concurrent Freeze Warnings, with some areas \u2014 including parts of central Pennsylvania \u2014 expected to see the freeze end the growing season entirely. Crops, sensitive vegetation, and unprotected outdoor plumbing were at widespread risk across the multi-state corridor.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Will USDA's Freeze and Storm Forecast Disrupt U.S. Harvests?",
+          "url": "https://www.agrolatam.com/usa/weather/usda-weather-freeze-heavy-rain-frost-us-farms-october-2026",
+          "source": "agrolatam.com"
+        }
+      ]
+    },
+    {
+      "title": "Henderson Fire Reaches 20% Containment \u2014 I-5 Reopens Near Camp Pendleton",
+      "location": "San Diego County / Camp Pendleton, California, USA",
+      "type": "wildfire",
+      "summary": "The Henderson Fire, which erupted near Camp Pendleton with 0% containment on October 15\u201316, has made meaningful progress with firefighters reaching 20% containment as of Sunday. Both northbound and southbound lanes of Interstate 5 have been reopened by the California Highway Patrol, a key logistical milestone for the region. The fire continues to burn thousands of acres, and full containment efforts remain ongoing, though the threat profile has measurably improved from yesterday's emergency conditions.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Fires near Camp Pendleton, San Clemente scorch thousands of acres",
+          "url": "https://www.nbcsandiego.com/news/local/i-5-near-camp-pendleton-shut-down-for-2nd-day-as-fires-scorch-2000-acres/4088247/",
+          "source": "nbcsandiego.com"
+        }
+      ]
+    },
+    {
+      "title": "Nor'easter Extends Coastal Flood Warnings on Outer Banks Through October 20",
+      "location": "Hatteras Island and Ocracoke Island, North Carolina, USA",
+      "type": "weather",
+      "summary": "The NWS Newport/Morehead City office extended active Coastal Flood Warnings for both Hatteras Island and Ocracoke Island through Tuesday, October 20, as the nor'easter continues driving 2\u20134 feet of inundation above ground level in low-lying tidal areas. Surf along Hatteras remains elevated at 9\u201314 feet with dangerous rip currents, and strong northeast winds are additionally impeding drainage along the St. Johns River in Florida, pushing it toward Moderate Flood Stage by Monday. NC-12 closures and isolation of barrier island communities remain in effect.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Coastal Flood Warnings issued for Hatteras and Ocracoke as nor'easter threatens days of flooding, N.C. 12 closures",
+          "url": "https://islandfreepress.org/outer-banks-news/coastal-flood-warnings-issued-for-hatteras-and-ocracoke-as-noreaster-threatens-days-of-flooding-n-c-12-closures",
+          "source": "islandfreepress.org"
+        }
+      ]
+    },
+    {
+      "title": "Winter Storm Watch Issued for Eastern Alaska Range \u2014 Up to 24 Inches of Snow Possible",
+      "location": "Eastern Alaska Range, Alaska, USA",
+      "type": "weather",
+      "summary": "The NWS Fairbanks office has issued a Winter Storm Watch for the Eastern Alaska Range from Monday afternoon through late Wednesday night, with total snow accumulations of 12\u201324 inches possible above 2,500 feet and 6\u201312 inches at lower elevations, along with wind gusts up to 40 mph. Separate watches for the Fortymile Country, Upper Tanana Valley, Delta Junction, and White Mountains forecast 5\u201310 inches of additional accumulation from Monday through Wednesday. The multi-day event is expected to severely impact travel across interior Alaska mountain passes during a period of active early-season snowpack development.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
