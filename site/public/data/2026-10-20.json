@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-20",
+  "headline": "Shallow M6.3 Earthquake Strikes Vanuatu With Tsunami Alert as Arizona Braces for Widespread Flash Flooding",
+  "overview": "A shallow, strong earthquake rattled Vanuatu in the South Pacific early today, prompting a tsunami alert across the region. Meanwhile, an expansive complex of Flash Flood Watches now covers most of Arizona \u2014 including the Phoenix metro area \u2014 ahead of a multi-day heavy rain event through Thursday. Persistent coastal flooding continues to batter North Carolina's Outer Banks, where Coastal Flood Warnings remain in effect through Wednesday, as Interior Alaska's winter storm system expands to new zones.",
+  "events": [
+    {
+      "title": "M6.3 Shallow Earthquake Strikes Vanuatu \u2014 Tsunami Alert Issued",
+      "location": "197 km NW of Port-Olry, Vanuatu, South Pacific",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck the Vanuatu archipelago at 04:20 UTC on October 20, at a shallow depth of only 16 km, prompting a tsunami alert for the surrounding region. Shallow earthquakes of this magnitude in the seismically active Vanuatu subduction zone carry elevated risk of local wave generation. USGS assigned a green alert level, but the tsunami alert status makes this the day's most geologically significant new event.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong and shallow M6.3 earthquake hits Vanuatu - The Watchers",
+          "url": "https://watchers.news/2026/10/20/strong-and-shallow-m6-3-earthquake-hits-vanuatu-4",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Arizona Flash Flood Watches Blanket Phoenix, Flagstaff, and Tucson Corridors",
+      "location": "Northern and Central Arizona, USA",
+      "type": "weather",
+      "summary": "A broad complex of Flash Flood Watches issued by NWS Phoenix, Flagstaff, and Tucson now covers nearly all of northern and central Arizona, including the greater Phoenix metro area, the Tonto Basin, the White Mountains, the Grand Canyon region, and southeastern Arizona valleys. The watches, valid from Wednesday morning through Thursday evening, are driven by a strong upper-level trough delivering a deep surge of moisture. Flash flooding is expected in creeks, normally dry washes, and over recently burned areas, with low-water crossings at risk of inundation.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Outer Banks Coastal Flood Warning Extended \u2014 9\u201313 ft Surf at Hatteras, 2\u20134 ft Inundation",
+      "location": "Hatteras Island and Ocracoke Island, North Carolina, USA",
+      "type": "weather",
+      "summary": "NWS Newport/Morehead City has extended Coastal Flood Warnings for Hatteras and Ocracoke Islands through 8:00 PM EDT Wednesday, October 21, with up to 2\u20134 feet of inundation above ground level in low-lying areas near shorelines and tidal waterways. Hatteras is experiencing the worst surf conditions, with large breaking waves of 9 to 13 feet in the surf zone alongside dangerous rip currents and strong longshore currents. This ongoing nor'easter has now persisted for several days, with homes at structural risk, medical flights previously grounded, and road access severely limited.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Nor'easter threatens Outer Banks with flooding, overwash, road closures - Ocracoke Observer",
+          "url": "https://ocracokeobserver.com/2026/10/16/noreaster-threatens-outer-banks-with-flooding-overwash-road-closures",
+          "source": "ocracokeobserver.com"
+        },
+        {
+          "title": "No significant overwash reported on Hatteras and Ocracoke as of Sunday afternoon, but coastal flooding threat remains | Island Free Press",
+          "url": "https://islandfreepress.org/outer-banks-news/no-significant-overwash-reported-on-hatteras-and-ocracoke-as-of-early-sunday-afternoon-but-coastal-flooding-threat-remains",
+          "source": "islandfreepress.org"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Winter Storm System Expands \u2014 Fortymile Country, Yukon Flats, and Tanana Valley Now Under Warning",
+      "location": "Interior and Eastern Alaska, USA",
+      "type": "weather",
+      "summary": "The Alaska winter storm complex has expanded significantly beyond the Eastern Alaska Range, with new Winter Storm Warnings now covering Fortymile Country, the Upper Tanana Valley, Yukon Flats, White Mountains, the Upper Chena River Valley, Eielson AFB, and the Tanana Flats \u2014 in addition to the ongoing warning in the Eastern Alaska Range where 24\u201336 inches of snow remain expected above 2,500 feet. Snowfall totals of 5\u201316 inches are forecast across interior zones, with winds gusting to 35 mph causing blowing snow and very difficult to impossible travel. Simultaneously, a High Wind Warning at Skagway (gusts to 65 mph) and a Flood Watch for Southeast Alaska coastal communities including Juneau and Yakutat remain active due to the persisting atmospheric river.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "M5.7 Shallow Earthquake Rattles Balochistan, Pakistan \u2014 Yellow USGS Alert",
+      "location": "48 km WNW of Khuzdar, Balochistan, Pakistan",
+      "type": "earthquake",
+      "summary": "A magnitude 5.7 earthquake struck near Khuzdar in Pakistan's Balochistan province on October 17, at a very shallow depth of just 10 km, triggering a yellow USGS alert level \u2014 indicating a potential for localized damage and casualties. Tremors were felt across Khuzdar, Kalat, and Surab, with some reports placing the magnitude closer to 5.9. Balochistan's sparse infrastructure and adobe-style construction make shallow earthquakes in this region particularly hazardous.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Earthquake of magnitude 5.7 jolts Pakistan's Balochistan - The Hindu",
+          "url": "https://www.thehindu.com/news/international/earthquake-of-magnitude-57-jolts-pakistans-balochistan/article71595718.ece/amp",
+          "source": "www.thehindu.com"
+        },
+        {
+          "title": "5.9-magnitude earthquake jolts Balochistan's Khuzdar, adjoining areas",
+          "url": "https://tribune.com.pk/story/2635350/59-magnitude-earthquake-jolts-balochistans-khuzdar-adjoining-areas",
+          "source": "tribune.com.pk"
+        }
+      ]
+    },
+    {
+      "title": "Two Active Magma Reservoirs Confirmed Beneath Masaya Volcano Near 2 Million People",
+      "location": "Masaya Volcano, Nicaragua",
+      "type": "volcano",
+      "summary": "New research published in Geophysical Research Letters and widely covered this week reveals that scientists have identified two distinct active magma reservoirs beneath Nicaragua's Masaya Volcano using satellite geodesy \u2014 a finding described as alarming given that approximately 2 million people live in the surrounding region. The discovery of a dual magma system significantly elevates the complexity of eruption forecasting at this persistently active volcano. While no acute eruption is reported at this time, the finding raises longer-term hazard concerns for Nicaragua's densely populated Pacific corridor.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Something Strange Is Happening Beneath Nicaragua's Masaya Volcano",
+          "url": "https://scitechdaily.com/something-strange-is-happening-beneath-nicaraguas-masaya-volcano",
+          "source": "scitechdaily.com"
+        },
+        {
+          "title": "Something strange is happening beneath a volcano near 2 million people | ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
+          "source": "www.sciencedaily.com"
+        }
+      ]
+    },
+    {
+      "title": "Mumbai Heat Persists Into Third Consecutive Week \u2014 36\u00b0C Max on October 20",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "weather",
+      "summary": "Mumbai recorded a maximum temperature of 36.0\u00b0C (96.8\u00b0F) today \u2014 the highest in the global city dataset \u2014 with a minimum of 27.8\u00b0C, reflecting an anomalous heat pattern that has now endured through at least three weeks of October, the longest such stretch in over a decade. Typically, Mumbai's post-monsoon October temperatures average well below this threshold, and the sustained heat is straining urban energy and health infrastructure. Data from neighboring cities in South Asia does not indicate a region-wide heat event of similar intensity, making Mumbai's persistence particularly notable.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
