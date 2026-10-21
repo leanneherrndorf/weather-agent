@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-21",
+  "headline": "Whakaari/White Island Erupts Ash in New Zealand as Major Pacific Storm Triggers Tornado Warning and Sweeping Flash Flood Watches Across the US Southwest",
+  "overview": "A renewed volcanic eruption at Whakaari/White Island in New Zealand has prompted authorities to raise the volcanic alert level, while a powerful Pacific storm system fueled by tropical moisture is driving severe thunderstorms, a tornado warning in Arizona, and flash flood watches spanning California, Arizona, Utah, New Mexico, and Colorado. Separately, Villarrica volcano in Chile is sustaining Strombolian eruptive activity, a wind-driven wildfire has burned over 500 acres in Orange County, California, and an expanding Bering Sea storm system is poised to unleash 70\u201375 mph gusts across Alaska's western coasts and Aleutian Islands later this week.",
+  "events": [
+    {
+      "title": "Whakaari/White Island Erupts Ash \u2014 Volcanic Alert Level Raised",
+      "location": "White Island (Whakaari), Bay of Plenty, New Zealand",
+      "type": "volcano",
+      "summary": "Whakaari/White Island erupted ash on October 20\u201321, 2026, prompting New Zealand authorities to raise the volcanic alert level. The uninhabited island, located approximately 48 km off the coast of the Bay of Plenty, last caused a deadly eruption in 2019 that killed 22 people, making any escalation in activity a matter of serious public attention. No casualties have been reported from this eruption, as access to the island has been restricted since 2019.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Whakaari/White Island erupts ash, alert level raised | RNZ",
+          "url": "https://www.rnz.co.nz/news/environment/2052715/whakaari-white-island-erupts-ash-alert-level-raised",
+          "source": "www.rnz.co.nz"
+        },
+        {
+          "title": "Whakaari/White Island volcanic alert level raised amid ongoing eruption - NZ Herald",
+          "url": "https://www.nzherald.co.nz/rotorua-daily-post/news/whakaariwhite-island-volcanic-alert-level-raised-amid-ongoing-eruption/HJY4C5S3BVF2DORD2F3OOJDVBU",
+          "source": "www.nzherald.co.nz"
+        }
+      ]
+    },
+    {
+      "title": "Tropical Moisture Surge Drives Tornado Warning, Severe Thunderstorms, and Flash Flood Watches Across the US Southwest",
+      "location": "Arizona, California, Utah, New Mexico, and Colorado, USA",
+      "type": "weather",
+      "summary": "Remnant tropical moisture from the Eastern Pacific, linked to what forecasters are calling the influence of former Tropical Storm Trudy, is fueling a significant and rare late-October severe weather outbreak across the US Southwest on October 21\u201323. A tornado warning was issued early this morning for Coconino County, Arizona \u2014 an unusually rare event for the region \u2014 alongside severe thunderstorm warnings with ping-pong ball-sized hail near Sedona, while wide-reaching flash flood watches blanket Phoenix, Flagstaff, Tucson, Santa Barbara, Bakersfield, Malibu, Zion National Park, and the Four Corners region through Thursday. Forecast models indicate near-record October moisture levels, raising concern for significant flooding in slot canyons, urban areas, and recently burned landscapes.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash-flood risk rises in Southern California, severe storms threaten Arizona - The Watchers",
+          "url": "https://watchers.news/2026/10/20/flash-flood-risk-rises-in-southern-california-severe-storms-threaten-arizona",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Heavy Rain, Flooding, and Severe Thunderstorms Threaten Arizona on Wednesday and Thursday - NewsBreak",
+          "url": "https://www.newsbreak.com/arizona-weatherman-1653400/4957026628219-heavy-rain-flooding-and-severe-thunderstorms-threaten-arizona-on-wednesday-and-thursday",
+          "source": "www.newsbreak.com"
+        }
+      ]
+    },
+    {
+      "title": "Villarrica Volcano Sustains Active Strombolian Eruptions \u2014 Lava Lake Ongoing, Chile",
+      "location": "Villarrica Volcano, Araucan\u00eda Region, Chile",
+      "type": "volcano",
+      "summary": "Villarrica, one of South America's most persistently active volcanoes and home to one of the world's few permanent lava lakes, has been reported sustaining Strombolian explosions and ongoing lava lake activity through October 20\u201321, 2026. VolcanoDiscovery's daily reports confirm activity across both Monday and Tuesday, consistent with the glacier-covered stratovolcano's elevated status under Chilean geology agency Sernageomin. Villarrica's proximity to the tourist town of Puc\u00f3n and surrounding communities makes continued monitoring critical, as its eruptions can generate rapid lahars on the glacier-draped slopes.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Volcano Earthquake Report for Tuesday, 20 October 2026 | VolcanoDiscovery",
+          "url": "https://www.volcanodiscovery.com/earthquakes-volcanoes/news/383142/Otchet-zemletryaseniya-u-vulkanov-2026-10-20.html",
+          "source": "www.volcanodiscovery.com"
+        },
+        {
+          "title": "The most dangerous volcanoes in Chile in 2026: the Sernageomin ranking | Viajando Chile",
+          "url": "https://viajandochile.com/en/news/most-dangerous-volcanoes-in-chile-sernageomin-ranking",
+          "source": "viajandochile.com"
+        }
+      ]
+    },
+    {
+      "title": "Norte Fire Grows to 570 Acres in Orange County \u2014 6 Homes Damaged or Destroyed",
+      "location": "San Juan Capistrano / San Clemente, Orange County, California, USA",
+      "type": "wildfire",
+      "summary": "The Norte Fire ignited on October 16, 2026, in the San Clemente area of Orange County, driven by Santa Ana winds and dry vegetation, and rapidly exploded from roughly 10 acres to over 570 acres within hours of ignition. At least 6 homes have been confirmed damaged or destroyed, with evacuation orders issued for threatened structures as firefighting crews and air tankers worked to establish containment lines. The fire had reached only 5% containment as gusty winds remained a major obstacle for ground crews, and federal assistance was secured to support the ongoing response.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Norte fire in south OC at 5% containment as gusty winds expected to ramp up \u2013 Orange County Register",
+          "url": "https://www.ocregister.com/2026/10/17/norte-fire-in-south-oc-at-5-containment-as-gusty-winds-expected-to-ramp-up",
+          "source": "www.ocregister.com"
+        }
+      ]
+    },
+    {
+      "title": "Bering Sea Storm System Escalates \u2014 70\u201375 mph Gusts Threatened Across Alaska's Western Coasts and Aleutians",
+      "location": "Aleutian Islands, Kuskokwim Delta, Bristol Bay, and Western Alaska, USA",
+      "type": "weather",
+      "summary": "A powerful storm-force Bering Sea frontal system is tracking toward Alaska's western coasts and Aleutian Islands, with High Wind Watches issued for the Kuskokwim Delta, Nunivak Island, Northern Bristol Bay Coast, and Aleutians East Borough, where southeast gusts up to 70\u201375 mph are possible from Friday through Saturday. Concurrent Storm Warnings are in effect for Aleutian Island coastal waters, with seas in the offshore Bering Sea forecast to build to 14\u201322 feet overnight Thursday into Friday. This system represents a significant escalation from the interior winter storm complex already impacting Alaska this week, extending hazardous weather concerns across a much wider geographic footprint.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Alaska winter storm: Warning issued for heavy snow, several areas to get up to 30 inches of snow, 65 mph winds this week - The Economic Times",
+          "url": "https://m.economictimes.com/world/us/alaska-winter-storm-warning-issued-for-heavy-snow-several-areas-to-get-up-to-30-inches-of-snow-65-mph-winds-this-week/articleshow/135038549.cms",
+          "source": "m.economictimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Mumbai Heatwave Extends Into Third Consecutive Week \u2014 36.5\u00b0C Recorded October 21",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "weather",
+      "summary": "Mumbai recorded a maximum temperature of 36.5\u00b0C on October 21, fractionally higher than the 36\u00b0C logged on October 20, as an anomalous heatwave continues to grip the city well into its third consecutive week \u2014 the most sustained October heat event in over a decade. Weather data and reporting confirm that blocked wind patterns from Madhya Pradesh and Rajasthan are preventing normal sea-breeze cooling that typically moderates Mumbai's October temperatures. Maharashtra state authorities have flagged ongoing heat health risks, with Solapur recording up to 37.9\u00b0C, while forecasters see limited relief in the near term.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Why is Mumbai seeing a record-breaking heatwave? What MP has to do with it",
+          "url": "https://indianexpress.com/article/cities/mumbai/imd-mumbai-record-breaking-heatwave-madhya-pradesh-rajasthan-wind-10922632",
+          "source": "indianexpress.com"
+        },
+        {
+          "title": "Maharashtra heatwave: Solapur records Maharashtra's highest temperature at 37.9 degrees Celsius on Sunday",
+          "url": "https://www.mid-day.com/news/india-news/article/maharashtra-heatwave-solapur-records-maharashtras-highest-temperature-at-37-9-degrees-celsius-on-sunday-23655730",
+          "source": "www.mid-day.com"
+        }
+      ]
+    },
+    {
+      "title": "Coastal Flood Warning Expands to Virginia Beach \u2014 Hatteras Island Warning Persists",
+      "location": "Virginia Beach, Virginia and Hatteras Island, North Carolina, USA",
+      "type": "weather",
+      "summary": "The coastal flooding emergency that began on Hatteras Island has geographically expanded, with a new Coastal Flood Warning now issued for Virginia Beach, where 1\u20132 feet of inundation above ground level is expected in low-lying tidal areas, accompanied by 7\u201310 foot surf. Hatteras Island remains under its own Coastal Flood Warning through October 22, with continued 2\u20134 feet of inundation and 9\u201312 foot breaking waves in the surf zone. The expansion of significant coastal flooding northward to Virginia Beach marks a notable escalation of the persistent nor'easter-driven coastal hazard that has gripped the Carolina and Virginia coastline for several days.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
