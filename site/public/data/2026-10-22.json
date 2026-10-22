@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-22",
+  "headline": "Alaska Blizzard and Catastrophic Coastal Flooding Threaten Western Communities as K\u012blauea Erupts for 55th Time and a Multi-State Flood Emergency Grips the US Southwest",
+  "overview": "A powerful Arctic storm system is driving extreme blizzard conditions across Alaska's Seward Peninsula and threatening life-threatening coastal inundation of up to 7.5 feet above normal tide levels at Hooper Bay on the Yukon Delta. Simultaneously, a subtropical moisture surge continues to unleash severe thunderstorms, flash floods, and burn-scar debris flows across Arizona, California, Utah, Colorado, New Mexico, and Idaho, while K\u012blauea's Halema\u02bbuma\u02bbu summit re-inflates following its 55th lava fountaining episode on October 17. Active wildfires, a lingering nor'easter, and sustained volcanic activity at Merapi round out a globally active natural hazard day.",
+  "events": [
+    {
+      "title": "Alaska Blizzard and Yukon Delta Catastrophic Coastal Flooding",
+      "location": "Seward Peninsula, Yukon Delta Coast, and Western Alaska, USA",
+      "type": "weather",
+      "summary": "NWS has issued Blizzard Warnings for the Interior and Southern Seward Peninsula and the Bering Strait Coast through Saturday, with total snowfall of 8\u201315 inches and gusts up to 65 mph forecast to reduce visibility below a quarter mile. A concurrent Coastal Flood Warning is in effect for the Yukon Delta Coast through Sunday, with water levels forecast to rise 5 to 7.5 feet above the normal high tide line at Hooper Bay \u2014 a potentially catastrophic level for the low-lying community \u2014 and 2 to 4.5 feet for the broader delta coast. High Wind Warnings covering the Yukon Delta, St. Lawrence Island, Kuskokwim Delta, and Aleutians East Borough warn of gusts to 75 mph, while KNOM Radio reported forecasts of nearly 80 mph gusts along the west coast, and storm-force seas of 18\u201324 feet are building in the outer Bering Sea.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "High winds, potential coastal flooding in the forecast for Western Alaska",
+          "url": "https://knom.org/2026/10/21/high-winds-elevated-water-in-the-forecast-for-western-alaska",
+          "source": "knom.org"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Flood Emergency \u2014 Flash Floods, Severe Thunderstorms, and Burn-Scar Debris Flows Across Six States",
+      "location": "Arizona, California, Utah, Colorado, New Mexico, and Idaho, USA",
+      "type": "weather",
+      "summary": "A deep subtropical moisture surge continues to fuel a sweeping multi-state hazard complex on October 22, with active Flash Flood Warnings in Arizona's Gila County burn scars and Canyon de Chelly, Flood Warnings along the Little Colorado River and Moenkopi Wash, and Flood Watches blanket the Phoenix metro area, Kern County, Santa Barbara County, southern Utah's national parks, southwestern Colorado's San Juan Mountains, and much of western New Mexico. Severe Thunderstorm Watches were issued for six Arizona counties, with a confirmed storm near Carrizo producing 60 mph gusts and half-dollar-sized hail. In Idaho, Flash Flood Watches are in effect for three burn scars \u2014 the Wapiti, Crooked, and Big Rock/Ohio scars \u2014 where heavy rainfall threatens life-threatening debris flows through Friday.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "K\u012blauea Summit Episode 55 Lava Fountaining \u2014 Re-Inflation Underway",
+      "location": "K\u012blauea Volcano, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's 55th lava fountaining episode at the Halema\u02bbuma\u02bbu summit crater began at 3:19 a.m. HST on October 17, 2026, with lava reported fountaining as high as 700 feet into the air before the eruption paused after 5.7 hours. USGS volcano notices confirm that summit tiltmeter data showed re-inflation began immediately after the episode ended, indicating the volcano is recharging and a 56th episode is possible in the coming days to weeks. The eruption cycle \u2014 the 55th discrete fountaining episode since the current eruptive sequence began \u2014 continues a pattern of episodic activity that has characterized K\u012blauea throughout 2026.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Photo & Video Chronology \u2014 K\u012blauea summit episode 55",
+          "url": "https://www.usgs.gov/observatories/hvo/news/photo-video-chronology-kilauea-summit-episode-55-0",
+          "source": "www.usgs.gov"
+        },
+        {
+          "title": "USGS Volcano Notice \u2014 K\u012blauea Episode 55 Pause and Re-Inflation",
+          "url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2026-10-19T17:51:54+00:00",
+          "source": "volcanoes.usgs.gov"
+        }
+      ]
+    },
+    {
+      "title": "Henderson Fire Scorches 2,000+ Acres at Camp Pendleton \u2014 I-5 Closed Second Day",
+      "location": "Camp Pendleton, San Diego County, California, USA",
+      "type": "wildfire",
+      "summary": "The Henderson Fire burning on the east side of Interstate 5 through Marine Corps Base Camp Pendleton has grown to over 2,000 acres, forcing a full northbound closure of I-5 at Vandergrift Boulevard for a second consecutive day, one of Southern California's busiest freight and commuter corridors. Fueled by Santa Ana winds driving erratic fire behavior, the blaze represents a significant new fire event distinct from the Norte Fire in Orange County reported earlier this week. Containment information was not immediately available from the data retrieved.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Camp Pendleton fires shut down I-5 for second day",
+          "url": "https://www.nbcsandiego.com/news/local/i-5-near-camp-pendleton-shut-down-for-2nd-day-as-fires-scorch-2000-acres/4088247",
+          "source": "www.nbcsandiego.com"
+        },
+        {
+          "title": "Pendleton fire tops 2,000 acres; I-5 closed again",
+          "url": "https://www.northcoastcurrent.com/oceanside-news/2026/10/pendleton-fire-tops-2000-acres-i-5-closed-again",
+          "source": "www.northcoastcurrent.com"
+        }
+      ]
+    },
+    {
+      "title": "Nor'easter Coastal Flooding Expands to Chesapeake Bay Shores \u2014 Maryland and Virginia Under Warning",
+      "location": "Chesapeake Bay (Maryland/Virginia), Outer Banks (North Carolina), USA",
+      "type": "weather",
+      "summary": "A slow-moving nor'easter has expanded its coastal flood footprint, triggering Coastal Flood Warnings for Westmoreland and Northumberland Counties in Virginia and Dorchester, Wicomico, and Somerset Counties on Maryland's Eastern Shore, with up to one foot of inundation above ground level expected in low-lying waterfront areas. Hatteras Island's Coastal Flood Warning remains active, with 2\u20134 feet of inundation and surf of 8\u201312 feet still threatening the barrier island. Fox Weather and Newsweek have both reported on the nor'easter's multi-day coastal flooding threat from the Carolinas to the Chesapeake, with high surf and dangerous rip currents persisting along much of the mid-Atlantic coast.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Nor'easter brings coastal flooding to Maryland and Virginia beaches",
+          "url": "https://www.fox5dc.com/news/noreaster-maryland-virginia-coastal-flooding-ocean-city",
+          "source": "www.fox5dc.com"
+        }
+      ]
+    },
+    {
+      "title": "Merapi Volcano Sustains Active Lava Dome with Pyroclastic Avalanches \u2014 Java, Indonesia",
+      "location": "Merapi Volcano, Central Java, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's Merapi volcano continued its ongoing eruptive phase through at least the week of October 8\u201314, 2026, with the active lava dome on the upper southwest flank generating repeated pyroclastic avalanches, according to the PVMBG (Indonesia's Center for Volcanology and Geological Hazard Mitigation). Merapi is one of the world's most active and dangerous volcanoes, situated near the city of Yogyakarta and millions of residents on Java; ongoing dome-building eruptions carry a persistent risk of larger dome collapses and more extensive pyroclastic flows. Structured data coverage of this ongoing eruption from the region is limited, and the most recent confirmed reporting dates from the October 8\u201314 activity window.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Mumbai Heatwave Extends Into Third Week \u2014 35.1\u00b0C Recorded October 22",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "weather",
+      "summary": "Weather data shows Mumbai recording a maximum temperature of 35.1\u00b0C (95.2\u00b0F) on October 22, with a minimum of 28.1\u00b0C (82.6\u00b0F), continuing a heatwave that has now persisted for at least three consecutive weeks into late October \u2014 an unusually prolonged late-season heat event for the financial capital. October temperatures in Mumbai typically begin moderating after the monsoon withdrawal, making a sustained pattern of 35\u201336.5\u00b0C readings anomalous and physiologically stressful for the city's estimated 20 million residents. Dubai recorded the highest single-city temperature in the global dataset today at 36.4\u00b0C, and Karachi followed at 36.8\u00b0C, underscoring a broader regional heat persistence across South Asia and the Arabian Peninsula.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
