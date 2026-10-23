@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-23",
+  "headline": "M7.0 Earthquake Strikes Tibet Killing 16 and Displacing 12,000 as Alaska Blizzard and Yukon Delta Flooding Intensify",
+  "overview": "A powerful magnitude 7.0 earthquake near Nagqu, Tibet, China killed at least 16 people, injured 65, and forced the evacuation of more than 12,000 residents, making it the most lethal natural event of the day. Across the United States, a sustained Bering Sea storm system continued to drive extreme blizzard conditions and catastrophic coastal flooding across Western Alaska through the weekend, while a multi-day subtropical moisture surge kept Flood Warnings active across six states in the Southwest. Elsewhere, Taal Volcano in the Philippines recorded 29 earthquakes and 20 tremors in 24 hours, Mumbai's heatwave reached a new peak of 36.7\u00b0C, and Red Flag Warnings signaled elevated wildfire danger across the Northern Plains.",
+  "events": [
+    {
+      "title": "M7.0 Earthquake Kills 16 and Displaces 12,000 in Tibet, China",
+      "location": "Baqing County, Nagqu, Tibet, China",
+      "type": "earthquake",
+      "summary": "A magnitude 7.0 earthquake struck 191 km east-northeast of Nagqu, Tibet at 14:33 UTC on October 22, at a shallow depth of 18 km, triggering a USGS orange alert. At least 16 people were killed and 65 injured, with more than 12,000 residents relocated, 339 homes collapsed, and rockfalls blocking roads in the remote high-altitude region. Rescue operations were underway as of October 23, with authorities working through difficult terrain to reach affected communities.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Tibet earthquake kills 16, injures 65 as rescue begins",
+          "url": "https://uz.kursiv.media/en/2026-10-23/powerful-7-0-magnitude-earthquake-kills-16-and-injures-65-in-tibet",
+          "source": "uz.kursiv.media"
+        },
+        {
+          "title": "Major Magnitude 7.0 Earthquake - 191 km Northeast of Nagqu, Tibet, China, on Thursday, Oct 22, 2026",
+          "url": "https://www.volcanodiscovery.com/earthquake/major/2026-10-22/14-33/magnitude7-China.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Blizzard and Yukon Delta Catastrophic Coastal Flooding Intensify",
+      "location": "Seward Peninsula, Yukon Delta Coast, Norton Sound, and Western Alaska, USA",
+      "type": "weather",
+      "summary": "New NWS Blizzard Warnings issued October 23 span the Interior and Southern Seward Peninsula, Eastern Norton Sound, Baldwin Peninsula, Bering Strait Coast, and Western Arctic Coast, with gusts reaching 65 mph and up to 8\u201315 inches of snow on the Interior Seward Peninsula through Saturday. A Coastal Flood Warning remains in effect for the Yukon Delta Coast through Sunday, with water levels forecast at 5 to 7 feet above normal high tide at Hooper Bay \u2014 threatening the lowest structures in the village \u2014 and 2 to 4 feet above normal tide along the broader coast. High Wind Warnings with gusts to 65 mph and concurrent Storm Warnings on Bering Sea coastal waters continue to compound the hazard for remote communities.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Multiple storms threaten widespread flooding along the Y-K Delta coast",
+          "url": "https://www.kyuk.org/public-safety/2026-10-22/multiple-storms-threaten-widespread-flooding-along-the-y-k-delta-coast",
+          "source": "www.kyuk.org"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Multi-State Flood Emergency Persists \u2014 Rivers Rising Across AZ, CO, UT, and NM",
+      "location": "Arizona, Colorado, Utah, and New Mexico, USA",
+      "type": "weather",
+      "summary": "Active Flood Warnings remained in effect across at least a dozen counties as of October 23, including the Little Colorado River from Holbrook to Leupp in Arizona, multiple drainages across southwestern Colorado (Rio Grande, La Plata, Archuleta, San Juan, and Mineral counties), and portions of southeastern Utah \u2014 with several structures flooded in Archuleta County and evacuations ongoing from Wolf Creek Ranch to Fun Valley in Colorado. Burn-scar Flash Flood Watches continued in central and southeastern Idaho, where debris flows threatened the Big Rock, Ohio, and Wapiti Fire scars, while a Flood Watch was posted for portions of north-central and west-central New Mexico through the evening. The flood emergency, driven by a deep Pacific low tapping subtropical moisture, has now persisted for a third consecutive day.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flash-flood risk rises in Southern California, severe storms threaten Arizona",
+          "url": "https://watchers.news/2026/10/20/flash-flood-risk-rises-in-southern-california-severe-storms-threaten-arizona",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Taal Volcano Logs 29 Earthquakes and 20 Tremors in 24 Hours \u2014 Philippines on Alert",
+      "location": "Taal Volcano, Batangas Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "The Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported that Taal Volcano recorded 29 volcanic earthquakes and 20 volcanic tremors in the 24-hour period ending October 23, indicating sustained and elevated magmatic unrest beneath the volcano. Taal, one of the most dangerous volcanoes in the Philippines, has a history of sudden explosive eruptions, and the elevated seismic activity represents a potential precursor to eruptive activity that authorities are monitoring closely. No eruption had been confirmed as of the reporting period, but PHIVOLCS data points to an ongoing and intensifying episode of unrest.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Taal Volcano records 29 quakes, 20 tremors in 24 hours",
+          "url": "https://newsinfo.inquirer.net/2328853/taal-volcano-records-29-quakes-20-tremors-in-24-hours",
+          "source": "newsinfo.inquirer.net"
+        },
+        {
+          "title": "Taal Volcano logs 22 quakes as seismic activity continues",
+          "url": "https://newsinfo.inquirer.net/2325415/taal-volcano-logs-22-quakes-as-seismic-activity-continues",
+          "source": "newsinfo.inquirer.net"
+        }
+      ]
+    },
+    {
+      "title": "Mumbai Heatwave Reaches New Peak \u2014 36.7\u00b0C on October 23",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "weather",
+      "summary": "Mumbai's anomalous October heatwave reached its highest recorded temperature yet on October 23, with a maximum of 36.7\u00b0C and a minimum of 27.5\u00b0C, according to weather station data \u2014 surpassing the 36.5\u00b0C peak recorded on October 21. The city has now endured more than three consecutive weeks of well-above-normal temperatures, with conditions described as hazy and humid, and the India Meteorological Department forecasting continued dry and hot conditions. Temperatures near or above 38\u00b0C have been reported at some stations this month, raising concerns about heat stress for the city's population of over 20 million.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Mumbai Hits 38\u00b0C In October: Will The City Get A Proper Winter This Year?",
+          "url": "https://www.news18.com/cities/mumbai-news/mumbai-hits-38c-in-october-will-the-city-get-a-proper-winter-this-year-heres-what-to-expect-ws-l-10389490.html",
+          "source": "www.news18.com"
+        },
+        {
+          "title": "Mumbai weather update: Hazy skies, humid conditions persist as mercury touches 37 deg C",
+          "url": "https://www.mid-day.com/amp/mumbai/mumbai-news/article/mumbai-weather-update-hazy-skies-humid-conditions-persist-as-mercury-touches-37-deg-c-imd-forecasts-dry-day-23655988",
+          "source": "www.mid-day.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.3 Earthquake Strikes Off Vanuatu with USGS Tsunami Alert",
+      "location": "197 km NW of Port-Olry, Vanuatu, South Pacific",
+      "type": "earthquake",
+      "summary": "A magnitude 6.3 earthquake struck at a shallow depth of 16 km approximately 197 km northwest of Port-Olry, Vanuatu, at 04:20 UTC on October 20, with the USGS issuing a tsunami alert status for the event. Vanuatu's location on the Pacific Ring of Fire and the shallow focal depth made this a notable event; however, at least one regional news source reported that no significant tsunami threat materialized. The USGS assigned a green alert level, indicating low likelihood of widespread casualties, and felt reports remained minimal at the time of reporting.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "6.3-magnitude earthquake strikes off Vanuatu, no tsunami threat",
+          "url": "https://www.newsofbahrain.com/en/article/63magnitude-earthquake-strikes-off-vanuatu-no-tsunami-threat",
+          "source": "www.newsofbahrain.com"
+        },
+        {
+          "title": "Magnitude 6.3 earthquake strikes off Vanuatu coast",
+          "url": "https://operativmm.az/en/post/magnitude-63-earthquake-strikes-off-vanuatu-coast/83351",
+          "source": "operativmm.az"
+        }
+      ]
+    },
+    {
+      "title": "Red Flag Warnings Blanket Northern Plains \u2014 Elevated Wildfire Danger in MT, WY, ND, and SD",
+      "location": "Montana, Wyoming, North Dakota, and South Dakota, USA",
+      "type": "wildfire",
+      "summary": "The NWS issued Red Flag Warnings on October 23 across a broad swath of the Northern Plains and adjacent foothills, including Slope and Bowman counties in North Dakota, Johnson County in Wyoming, the Northern Foothills and Butte County area in South Dakota, and portions of southeast Montana \u2014 with relative humidities dropping to 15\u201320%, temperatures unseasonably warm, and wind gusts reaching 40\u201360 mph ahead of an approaching cold front. High Wind Warnings with gusts up to 65 mph were also posted for eastern Glacier, Toole, Pondera, and Fergus counties in Montana, raising the risk of rapid fire spread if ignitions occur. The cold front itself, expected to push through on Friday evening, brings the threat of erratic wind shifts that could complicate firefighting operations for any active or new fires in the region.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
