@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-24",
+  "headline": "M6.9 Earthquake Sequence Strikes Vanuatu with Tsunami Alert as Florida Braces for Major Coastal Flooding from Post-Josephine Surge",
+  "overview": "A powerful M6.9 earthquake struck off northern Vanuatu early Saturday UTC, triggering a USGS tsunami alert and spawning a rapid aftershock sequence including an M6.3 event minutes later. Simultaneously, former Subtropical Storm Josephine is driving a multi-day coastal flooding emergency along Florida's east coast and the Southeast US shoreline, with a perigean full moon on October 26 set to amplify surge. The Southwest US flood emergency has also intensified, with the San Juan River at Farmington, New Mexico reaching a flood of record.",
+  "events": [
+    {
+      "title": "M6.9 Earthquake Sequence Strikes Vanuatu \u2014 Tsunami Alert Issued",
+      "location": "197 km WNW of Port-Olry, Vanuatu, South Pacific",
+      "type": "earthquake",
+      "summary": "A magnitude 6.9 earthquake struck at shallow 10 km depth off northern Vanuatu at 02:31 UTC on October 24, triggering a USGS tsunami alert. Just four minutes later, an M6.3 aftershock struck the same zone, also at 10 km depth, followed by at least eight additional smaller quakes \u2014 constituting a significant seismic sequence. This follows a separate M6.3 Vanuatu event on October 20 and 23, suggesting a period of elevated seismic stress in the northern Vanuatu arc.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Strong earthquake sequence strikes off northern Vanuatu after initial M6.9 event",
+          "url": "https://watchers.news/2026/10/24/strong-earthquake-sequence-strikes-off-northern-vanuatu-after-initial-m6-9-event",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Florida & Southeast US Coastal Flooding Emergency \u2014 Post-Josephine Surge Worsens",
+      "location": "Northeast Florida, Georgia, and East-Central Florida Coasts, USA",
+      "type": "weather",
+      "summary": "Former Subtropical Storm Josephine has departed the Atlantic but left behind persistent onshore winds driving significant coastal flooding along Florida's east coast, with Coastal Flood Warnings in effect for Duval, Flagler, St. Johns, Brevard, Indian River, Martin, St. Lucie, and the Upper Florida Keys \u2014 as well as coastal Georgia from Nassau to Camden counties \u2014 lasting through Monday evening. The St. Johns River near Astor has risen into Moderate Flood Stage and is forecast to approach Major Flood Stage over the weekend, with dangerous rip currents and surf of 7\u201312 feet battering beaches. Conditions are expected to peak near the October 26 perigean full moon, making this an especially prolonged and dangerous coastal flooding event.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Florida weather turns stormy as Josephine exits the Atlantic",
+          "url": "https://www.naplesnews.com/story/weather/hurricanes/2026/10/23/florida-weather-josephine/92393565007",
+          "source": "www.naplesnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Floods Escalate \u2014 San Juan River Reaches Flood of Record at Farmington",
+      "location": "Arizona, Colorado, Utah, and New Mexico, USA",
+      "type": "weather",
+      "summary": "The multi-day Southwest flood emergency has intensified sharply, with the San Juan River at Farmington, New Mexico declared a flood of record \u2014 the highest level ever observed at that gauge \u2014 according to the NWS Albuquerque. Flood Warnings remain in effect across a sprawling multi-state zone spanning the Dolores, Rio Grande, San Juan, Rio Chama, and Little Colorado rivers, with evacuations underway in the Four Corners region and structures flooded across southwestern Colorado. Emergency crews have been conducting swift-water rescues as several roads remain closed and communities face ongoing inundation.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Whakaari/White Island Ash Eruption \u2014 New Zealand Raises Volcanic Alert",
+      "location": "Whakaari/White Island, Bay of Plenty, New Zealand",
+      "type": "volcano",
+      "summary": "New Zealand's GeoNet raised the volcanic alert level for Whakaari/White Island after the volcano erupted ash in late October 2026, marking a significant escalation in activity at the country's most continuously active cone volcano. The eruption poses no direct threat to populated areas given the island's remote offshore location in the Bay of Plenty, though aviation and maritime authorities have been notified. The event recalls the deadly 2019 eruption that killed 22 people and underscores the ongoing monitoring importance of this frequently restless system.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Whakaari/White Island erupts ash, alert level raised",
+          "url": "https://www.rnz.co.nz/news/environment/2052715/whakaari-white-island-erupts-ash-alert-level-raised",
+          "source": "www.rnz.co.nz"
+        },
+        {
+          "title": "Whakaari/White Island volcanic alert level raised amid ongoing eruption",
+          "url": "https://www.nzherald.co.nz/nz/whakaariwhite-island-volcanic-alert-level-raised-amid-ongoing-eruption/HJY4C5S3BVF2DORD2F3OOJDVBU",
+          "source": "www.nzherald.co.nz"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Blizzard & Winter Storm Complex Expands \u2014 Brooks Range Under Multi-Day Warning",
+      "location": "Western Alaska, Brooks Range, and Northern Seward Peninsula, USA",
+      "type": "weather",
+      "summary": "The ongoing Bering Sea storm system continues to batter western Alaska, with Blizzard Warnings still in effect for the Baldwin Peninsula, Kivalina, and Northern Seward Peninsula with gusts to 65 mph and near-zero visibility. The event has now expanded inland with Winter Storm Warnings issued for the South Slopes of the Central Brooks Range \u2014 covering 8\u201316 inches of snow with 35 mph gusts \u2014 valid through Monday evening, delivered in two distinct waves. The western Arctic Coast and Upper Kobuk Valley remain under separate Winter Storm Warnings, making this one of the most geographically extensive October winter storm events in Alaska in recent years.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "First alert: Strong storm to bring blizzard conditions, flooding, high surf and high winds to Western Alaska",
+          "url": "https://www.alaskasnewssource.com/2026/10/22/strong-storm-bring-blizzard-conditions-flooding-high-surf-high-winds-western-alaska",
+          "source": "www.alaskasnewssource.com"
+        }
+      ]
+    },
+    {
+      "title": "Karachi Unseasonal Heatwave \u2014 Temperatures Approaching 39\u00b0C in Late October",
+      "location": "Karachi, Sindh, Pakistan",
+      "type": "weather",
+      "summary": "Karachi is experiencing a pronounced unseasonal heatwave for late October, with the Pakistan Meteorological Department forecasting temperatures near 39\u00b0C and current readings at 35.9\u00b0C \u2014 well above the seasonal average of around 30\u00b0C for this time of year. The PMD notes that while mornings and nights are cooler, afternoon heat combined with high humidity is creating dangerous heat index conditions for residents. The heat is expected to persist through the coming days as a dry ridge suppresses any relief from the Arabian Sea.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Karachi to remain hot and dry as temperatures near 39\u00b0C: Met Office",
+          "url": "https://tribune.com.pk/story/2635712/karachi-to-remain-hot-and-dry-as-temperatures-near-390c-met-office",
+          "source": "tribune.com.pk"
+        },
+        {
+          "title": "Pakistan weather: Karachi heat, northern areas face rain",
+          "url": "https://www.bolnews.com/pakistan/pakistan-weather-karachi-heat-northern-areas-face-rain",
+          "source": "www.bolnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Mumbai Heatwave Enters Fourth Week \u2014 33.5\u00b0C Recorded October 24",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "weather",
+      "summary": "Mumbai's prolonged post-monsoon heatwave continues into its fourth week, with a maximum of 33.5\u00b0C recorded on October 24 \u2014 elevated above typical late-October norms and sustaining the anomalous warmth that has characterized the city's weather since early October. The minimum temperature of 26.6\u00b0C reflects warm overnight conditions that limit the body's ability to recover from daytime heat, raising public health concerns particularly for outdoor workers and vulnerable populations. While slightly below the 36.7\u00b0C peak recorded on October 23, the persistence of above-normal temperatures across weeks remains the defining feature of this event.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
