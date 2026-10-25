@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-25",
+  "headline": "Bering Sea Hurricane-Force Storm Lashes Alaska Waters as M7.0 Earthquake Strikes Bonin Islands and Southwest US Floods Reach Catastrophic Stage",
+  "overview": "A powerful extratropical storm generating hurricane-force winds and seas up to 24 feet has engulfed the Bering Sea, expanding the already severe Alaska storm complex into an extreme maritime emergency. Separately, a deep M7.0 earthquake struck the Bonin Islands region of Japan on October 24, followed by an M6.5 aftershock with a brief tsunami alert on October 25. On land, catastrophic flooding persists along the San Juan River in the Four Corners region, South Florida's coastal flood emergency continues to spread southward, and a new wildfire threatens tens of thousands of homes in Southern California's Orange County.",
+  "events": [
+    {
+      "title": "Bering Sea Hurricane-Force Wind Warning \u2014 Extreme Maritime Storm",
+      "location": "Bering Sea, Aleutian Islands, and Western Alaska, USA",
+      "type": "weather",
+      "summary": "The NWS Anchorage has issued a Hurricane Force Wind Warning for the offshore Bering Sea, with sustained winds of 30\u201355 knots and seas reaching 16\u201324 feet across a vast zone spanning the Aleutian Islands to the central Bering Sea. Multiple concurrent Storm Warnings cover the Aleutian chain from Adak to Attu on both Pacific and Bering sides, while Winter Storm Warnings for the Brooks Range report 8\u201320 inches of snow accumulation in the highest terrain. Onshore, a High Wind Watch has been issued for the Bering Strait Coast, St. Lawrence Island, and the Lisburne Peninsula, with gusts up to 60 mph forecast beginning Monday \u2014 a significant escalation of the multi-day Alaska storm complex.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "First Blizzard Warning of the Season Issued for Alaska",
+          "url": "https://www.travelinglifestyle.net/first-blizzard-warning-of-the-season-issued-for-alaska",
+          "source": "www.travelinglifestyle.net"
+        }
+      ]
+    },
+    {
+      "title": "M7.0 Deep Earthquake Strikes Bonin Islands, Japan \u2014 M6.5 Aftershock with Tsunami Alert Follows",
+      "location": "Bonin Islands, Japan Region, Northwest Pacific",
+      "type": "earthquake",
+      "summary": "A magnitude 7.0 earthquake struck the Bonin Islands region of Japan on October 24 at 02:09 UTC, at an unusually great depth of 473 km, which significantly attenuated surface shaking and reduced tsunami risk \u2014 no tsunami alert was issued for the mainshock. A follow-on M6.5 earthquake struck the same region on October 25 at 02:09 UTC at a depth of 492 km, for which USGS did record a tsunami alert flag, though deep-focus events of this type rarely generate damaging tsunamis. The Bonin (Ogasawara) Islands are a remote Japanese archipelago roughly 1,000 km south of Tokyo; no significant damage or casualties have been reported.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Major magnitude 7.0 earthquake - Bonin Islands, Japan Region, on Saturday, Oct 24, 2026",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23462878/mag7quake-Oct-24-2026-Bonin-Islands-Japan-Region.html",
+          "source": "www.volcanodiscovery.com"
+        },
+        {
+          "title": "Strong and deep M6.5 earthquake hits Bonin Islands, Japan region",
+          "url": "https://watchers.news/2026/10/25/strong-and-deep-m6-5-earthquake-hits-bonin-islands-japan-region",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Catastrophic Flooding Persists \u2014 San Juan River in Emergency Stage",
+      "location": "Colorado, Utah, New Mexico, and Arizona, USA",
+      "type": "weather",
+      "summary": "A Flood Warning describing \"catastrophic flooding\" along the San Juan River between Four Corners and Mexican Hat remains in effect through Monday afternoon, with mandatory evacuations, rooftop rescues, and road closures reported across southwestern Colorado and southeastern Utah. The San Juan River through Pagosa Springs surged to its highest level in over a century \u2014 more than two feet above the previous record \u2014 while the Little Colorado, Rio Grande, Animas, Rio Chama, and Rio Puerco rivers also carry active Flood Warnings spanning multiple counties in Colorado and New Mexico. Flood Watches remain in effect across portions of northern and west-central New Mexico through Sunday night as additional rainfall is possible.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Florida & Southeast US Coastal Flood Emergency Expands Southward",
+      "location": "Northeast Florida, East-Central Florida, Palm Beach, Broward, Miami-Dade, and the Florida Keys, USA",
+      "type": "weather",
+      "summary": "Coastal Flood Warnings have expanded significantly southward along Florida's east coast, now covering Palm Beach, Broward, and Miami-Dade counties through Tuesday evening, with NWS warning of \"major flood stage\" on Monday and Tuesday and dangerous surf with breaking waves of 8\u201310 feet. The Upper Florida Keys are under a separate Coastal Flood Warning for major saltwater flooding, and northeast Florida's Coastal Flood Warning extends through Wednesday morning. The combination of persistent onshore winds, post-Josephine swell, and king tides is driving this multi-day, multi-county emergency that now spans nearly the entire Florida Atlantic coast.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Heavy rains, gusts of 40 mph, and storm surges: southern Florida anticipates flooding from Sunday to Tuesday",
+          "url": "https://en.cibercuba.com/noticias/2026-10-24-u1-e43231-s27061-nid343675-lluvias-intensas-rafagas-40-mph-mareas-reales-sur",
+          "source": "en.cibercuba.com"
+        },
+        {
+          "title": "Florida weekend weather will get ugly with king tides, rain, winds",
+          "url": "https://www.tallahassee.com/story/weather/severe/2026/10/22/florida-weekend-weather-will-get-ugly-with-king-tides-rain-winds/92349359007",
+          "source": "www.tallahassee.com"
+        }
+      ]
+    },
+    {
+      "title": "Norte Fire Threatens 73,000 Homes in Orange County \u2014 Southern California Wildfire",
+      "location": "Orange County and San Diego County, California, USA",
+      "type": "wildfire",
+      "summary": "The Norte Fire burning in Southern California's Orange County has placed approximately 73,000 homes at wildfire risk, with at least 8 structures destroyed and thousands of residents under evacuation orders in and around San Clemente. As of the latest reports, the fire has reached approximately 50% containment, and some evacuation orders have been lifted, but crews continue to battle the blaze in rugged terrain. The fire coincides with active Coastal Flood Warnings for San Diego and Orange County coastal areas, illustrating the unusual juxtaposition of simultaneous wildfire and coastal flood hazards across Southern California.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Norte Fire: 73,000 Orange County homes at wildfire risk",
+          "url": "https://www.cotality.com/hazard-hq/norte-fire-burns-homes-in-south-orange-county",
+          "source": "www.cotality.com"
+        }
+      ]
+    },
+    {
+      "title": "Mumbai Heatwave Moderates Slightly \u2014 Air Quality Deteriorates as Heat Lingers",
+      "location": "Mumbai, Maharashtra, India",
+      "type": "weather",
+      "summary": "Mumbai recorded a maximum temperature of 35.7\u00b0C on October 25 \u2014 a slight moderation from the 36.7\u00b0C peak recorded October 23 but still well above seasonal norms for late October. Temperatures at Santacruz fell to 34.3\u00b0C and Colaba to 33.7\u00b0C on Sunday, bringing marginal relief after a weeklong heatwave, but air quality simultaneously worsened to an AQI of 125 (Moderate), compounding the health burden. Elsewhere in Maharashtra, Amravati recorded the state's highest temperature at 37.4\u00b0C, indicating that the broader heat event continues across the region even as Mumbai's peak appears to have passed.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Mumbai Weather Update: City Gets Relief From Weeklong Heatwave As Temperatures Dip, But Air Quality Worsens To AQI 125",
+          "url": "https://www.freepressjournal.in/mumbai/mumbai-weather-update-city-gets-relief-from-weeklong-heatwave-as-temperatures-dip-but-air-quality-worsens-to-aqi-125",
+          "source": "www.freepressjournal.in"
+        },
+        {
+          "title": "Maharashtra heatwave: Amravati records state's highest temperature at 37.4 degrees Celsius",
+          "url": "https://www.mid-day.com/news/india-news/article/maharashtra-heatwave-dry-spell-continues-as-amravati-records-maharashtras-highest-temperature-at-37-4-degrees-celsius-23656633",
+          "source": "www.mid-day.com"
+        }
+      ]
+    },
+    {
+      "title": "Rugged Terrain Complex Wildfire Burns Through Michigan Upper Peninsula",
+      "location": "Upper Peninsula, Michigan, USA",
+      "type": "wildfire",
+      "summary": "Three separate wildfires in Michigan's Upper Peninsula have been unified and are now being managed as the Rugged Terrain Complex, with a lightning strike confirmed as the cause of the Black River Fire \u2014 one of the constituent blazes. The fires are burning through rugged, marshy terrain that has complicated suppression efforts, with crews on the ground describing stubborn, persistent fire behavior. Detailed acreage and containment figures are limited in available reporting, but the complex represents a notable late-season fire event for the Upper Midwest.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Michigan: Lightning Strike Confirmed as Cause of Black River Fire",
+          "url": "https://www.theoutdoorwire.com/releases/2026/10/lightning-strike-confirmed-as-cause-of-black-river-fire",
+          "source": "www.theoutdoorwire.com"
+        },
+        {
+          "title": "Stubborn wildfires continue to burn in the Upper Peninsula",
+          "url": "https://www.michiganpublic.org/weather/2026-10-18/stubborn-wildfires-continue-to-burn-in-the-upper-peninsula",
+          "source": "www.michiganpublic.org"
+        }
+      ]
+    }
+  ]
+}
