@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-26",
+  "headline": "Tibet M7.0 Earthquake Kills 16 as Florida Coastal Flooding Peaks at Full Moon and Perigee",
+  "overview": "A shallow M7.0 earthquake near Nagqu, Tibet struck on October 22 with an orange USGS alert \u2014 killing at least 16 and injuring 65 \u2014 remains the week's deadliest geological event. Along the US East Coast, post-Josephine coastal flooding intensifies today along a 1,000-mile stretch from Georgia to the Florida Keys, amplified by a full moon and lunar perigee. Simultaneously, Hawaii braces for a multi-day Flood Watch across all main islands, the Norte Fire burn scar faces new mudslide and flooding threats, and Kilauea continues episodic lava fountaining at its summit caldera.",
+  "events": [
+    {
+      "title": "M7.0 Shallow Earthquake Near Nagqu, Tibet \u2014 16 Dead, 65 Injured",
+      "location": "191 km ENE of Nagqu, Xizang (Tibet), China",
+      "type": "earthquake",
+      "summary": "A magnitude 7.0 earthquake struck at a shallow depth of 18 km approximately 191 km northeast of Nagqu in Tibet's Autonomous Region on October 22 at 14:33 UTC, earning a rare USGS orange alert level indicating significant casualties and damage. At least 16 people were killed and 65 injured, with emergency services responding to damaged buildings across the sparsely populated but rugged high-altitude region. No tsunami was generated, but the shallow depth and populated areas in the impact zone make this the most consequential seismic event of the past week globally.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "A 7.0 earthquake hits China's Tibet, killing 16 and injuring 32",
+          "url": "https://abc7chicago.com/story/70-earthquake-hits-chinas-tibet-killing-16-injuring-32/19969904",
+          "source": "abc7chicago.com"
+        },
+        {
+          "title": "Injuries in China's Tibet rise to 65 after earthquake, death toll remains at 16",
+          "url": "https://www.heraldonline.com/news/nation-world/world/article317742490.html",
+          "source": "www.heraldonline.com"
+        }
+      ]
+    },
+    {
+      "title": "Florida & Southeast Coast Coastal Flooding Peaks \u2014 Full Moon and Lunar Perigee Amplify Post-Josephine Surge",
+      "location": "Georgia Coast to Florida Keys, USA",
+      "type": "weather",
+      "summary": "Coastal Flood Warnings remain in effect from coastal Georgia and the Carolinas through northeast Florida, the Space Coast, Palm Beach, Broward, Miami-Dade, and the Upper Florida Keys through at least October 29, with today's full moon coinciding with lunar perigee to produce the highest astronomical tides of the surge event. NWS alerts describe major saltwater flooding in the Upper Keys, moderate-to-major flooding along northeast Florida beaches with 8\u201310 foot breaking waves, and significant inundation of roads, homes, and critical infrastructure across multiple counties. The persistent onshore winds driven by the remnant circulation of former Subtropical Storm Josephine continue to stack water against the coastline, prolonging the emergency well into midweek.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Florida rain, coastal flooding forecast post-Josephine. What's causing it",
+          "url": "https://www.naplesnews.com/story/weather/hurricanes/2026/10/23/florida-weather-josephine/92393565007",
+          "source": "www.naplesnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Flooding Continues \u2014 San Juan River at Historic Crest, Outlook Slowly Improving",
+      "location": "Colorado, Utah, New Mexico, and Arizona, USA",
+      "type": "weather",
+      "summary": "Multiple Flood Warnings remain active across the Four Corners region, with the San Juan River between Four Corners and Mexican Hat still under a catastrophic flooding designation and the Rio Grande at Alamosa in minor flood stage through Tuesday. ABC News reported October 25 that New Mexico's San Juan River reached its highest crest since 1935, though the overall flash-flood threat is gradually improving as the rainfall pattern shifts. The Little Colorado River in Coconino and Navajo Counties, Arizona was still flooding this morning, and numerous low-water crossings remain dangerous or closed.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flooding in southwestern Colorado forces evacuations and road closures",
+          "url": "https://www.cpr.org/2026/10/22/southwestern-colorado-flooding-evacuations-road-closures",
+          "source": "www.cpr.org"
+        }
+      ]
+    },
+    {
+      "title": "Norte Fire Burn Scar Faces New Mudslide and Flooding Threat \u2014 Coastal Flood Warning Issued",
+      "location": "Orange County and San Diego County, California, USA",
+      "type": "wildfire",
+      "summary": "The Norte Fire, which burned through communities in Orange County including San Clemente and San Juan Capistrano, has spawned a new hazard phase: a Coastal Flood Warning is now in effect for San Diego and Orange County coastal areas through October 29, and local officials are bracing for mudslides and debris flows on the destabilized burn scar. Denuded hillsides left by the fire significantly increase the risk of rapid runoff and slope failure during the coastal storm bringing elevated surf and onshore flow. This represents a notable escalation from the active fire threat reported in prior days to a compound post-fire flood and mudslide emergency.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Orange County cities brace for mudslides, flooding near Norte Fire burn scar",
+          "url": "https://ktla.com/news/orange-county/orange-county-cities-brace-for-mudslides-flooding-near-norte-fire-burn-scar",
+          "source": "ktla.com"
+        },
+        {
+          "title": "Wildfire Map Spotlight: Norte Fire, California",
+          "url": "https://www.iqair.com/as/newsroom/wildfire-map-spotlight-norte-fire-california",
+          "source": "www.iqair.com"
+        }
+      ]
+    },
+    {
+      "title": "Multi-Day Flood Watch Issued for All Main Hawaiian Islands",
+      "location": "All Main Hawaiian Islands, Hawaii, USA",
+      "type": "weather",
+      "summary": "NWS Honolulu has issued a Flood Watch covering all main Hawaiian Islands from Tuesday morning through late Wednesday night (October 27\u201329), as a nearly stationary moisture trough is expected to tap abundant tropical moisture and produce heavy rain and isolated thunderstorms. Forecast discussions indicate rain efficiency will increase with the potential for flash flooding, though exact timing and location of the heaviest rainfall remain uncertain. The multi-island scope and multi-day duration make this a significant and broadly impactful event for the state.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Hawaii weather: First Alert Forecast \u2014 Heavy rain, flooding potential likely Monday, Tuesday",
+          "url": "https://www.hawaiinewsnow.com/video/2026/10/25/october-24-2026-hawaii-weather-first-alerts-heavy-rain-starting-tuesday-jen-robbins",
+          "source": "www.hawaiinewsnow.com"
+        },
+        {
+          "title": "Hawaii County Weather Forecast for October 26, 2026",
+          "url": "https://bigislandnow.com/2026/10/25/hawaii-county-weather-forecast-for-october-26-2026",
+          "source": "bigislandnow.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Continues Episodic Lava Fountaining at Summit Caldera \u2014 Episode 55 and Beyond",
+      "location": "K\u012blauea Summit, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea volcano on Hawai\u02bbi Island has been producing episodic lava fountaining within Halema\u02bbuma\u02bbu crater at its summit caldera, with Episode 55 recorded on approximately October 17 sending lava fountains approximately 700 feet (213 m) into the air. The eruption activity is contained entirely within Hawai\u02bbi Volcanoes National Park and poses no direct threat to populated areas, though volcanic emissions (vog) may affect downwind communities. The timing of the incoming multi-island Flood Watch adds complexity for park and civil defense operations on the Big Island.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Watch: Hawaii's K\u012blauea volcano erupts spewing lava 700 feet in the air",
+          "url": "https://www.fox5atlanta.com/news/hawaiis-kilauea-erupts-spewing-lava",
+          "source": "www.fox5atlanta.com"
+        },
+        {
+          "title": "K\u012blauea Images \u2014 October 17, 2026: Episode 55 lava fountain and flow within summit caldera",
+          "url": "https://www.usgs.gov/volcanoes/kilauea/multimedia/images",
+          "source": "www.usgs.gov"
+        }
+      ]
+    },
+    {
+      "title": "Anomalous Late-October Heat Grips Dhaka and South Asia \u2014 35.8\u00b0C Recorded",
+      "location": "Dhaka, Bangladesh and South Asia Region",
+      "type": "weather",
+      "summary": "Dhaka recorded a maximum temperature of 35.8\u00b0C on October 26, an exceptionally high reading for late October when temperatures in Bangladesh typically moderate toward the mid-to-upper 20s Celsius. This extends a broader regional heat anomaly that has also kept Mumbai at 37\u00b0C and Dubai at 32.2\u00b0C well into the autumn season, straining workers \u2014 particularly in Bangladesh's garment industry \u2014 who lack adequate cooling infrastructure. The heat is creating dangerous occupational health conditions and highlights the expanding geographic and seasonal reach of extreme heat events across South and Southeast Asia.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Bangladesh garment factory workers bear the brunt of rising temperatures",
+          "url": "https://news.mongabay.com/2026/10/bangladesh-garment-factory-workers-bear-the-brunt-of-rising-temperatures",
+          "source": "news.mongabay.com"
+        }
+      ]
+    }
+  ]
+}
