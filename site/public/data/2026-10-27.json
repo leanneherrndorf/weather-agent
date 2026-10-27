@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-27",
+  "headline": "Indonesia's Borneo Wildfires Choke Southeast Asia as 14.4 Million Tonnes of Carbon Emitted in One Week \u2014 Regional Health Crisis Declared",
+  "overview": "A catastrophic wildfire season across Indonesia's Borneo and Sumatra islands is generating a regional air quality emergency, with hazardous PM2.5 levels blanketing much of Southeast Asia. Meanwhile, Florida's coastline endures peak coastal flooding driven by king tides and a full moon, and a shallow M6.9 earthquake off Vanuatu triggered a tsunami alert earlier this week. Active flood emergencies persist across the US Southwest, and an anomalous late-October heat dome continues to bake South Asia.",
+  "events": [
+    {
+      "title": "Indonesia Wildfires Choke Southeast Asia \u2014 14.4 Million Tonnes of Carbon Emitted in One Week",
+      "location": "Kalimantan (Borneo) and Sumatra, Indonesia / Southeast Asia Region",
+      "type": "wildfire",
+      "summary": "Raging wildfires across Indonesia's Kalimantan (Borneo) and Sumatra have emitted an estimated 14.4 million tonnes of carbon in a single week, contributing to Indonesia's year-to-date wildfire emissions of roughly 180 million tonnes \u2014 about 15% of the global total. Major cities across Indonesia are registering air quality in the 'unhealthy' to 'hazardous' range, with high PM2.5 concentrations from transboundary smoke spreading across the broader Southeast Asian region, triggering a regional health crisis. El Ni\u00f1o-exacerbated drought conditions are being cited as a key driver of the fire's intensity and geographic spread.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Indonesia's wildfires emit 14.4 million tonnes of carbon in one week",
+          "url": "https://news.theonlinecitizen.com/2026/10/27/indonesia-s-wildfires-emit-14-4-million-tonnes-of-carbon-in-one-week",
+          "source": "news.theonlinecitizen.com"
+        },
+        {
+          "title": "Borneo Wildfires Choke Southeast Asia, Sparking Regional Health Crisis",
+          "url": "https://streamlinefeed.co.ke/news/borneo-wildfires-choke-southeast-asia-sparking-regional-health-crisis",
+          "source": "streamlinefeed.co.ke"
+        }
+      ]
+    },
+    {
+      "title": "Florida Coastal Flooding Peaks \u2014 King Tides, Full Moon, and Post-Josephine Surge Combine",
+      "location": "Florida Keys to Northeast Florida, USA",
+      "type": "weather",
+      "summary": "King tides are peaking today along Florida's entire Atlantic coastline, compounded by the full Hunter's Moon lunar perigee and a persistent northeast swell generating 7\u201313 foot breaking waves in the surf zone. Active Coastal Flood Warnings stretch from the Florida Keys through Broward, Miami-Dade, Palm Beach, Brevard, Indian River, Volusia, and Northeast Florida counties, with some warnings extending through 2 AM EDT Friday \u2014 inundating roads, homes, businesses, and critical infrastructure. South Florida is additionally contending with dangerous rip currents along beaches from Fort Lauderdale to Miami.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "South Florida king tides peak Tuesday continuing risk of coastal flooding from Fort Lauderdale to Miami",
+          "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-king-tides-miami-fort-lauderdale-miami-dade-broward-october-27-2026",
+          "source": "www.cbsnews.com"
+        },
+        {
+          "title": "King tides bring major flood warning to South Florida's coast",
+          "url": "https://www.macon.com/news/nation-world/national/article317781877.html",
+          "source": "www.macon.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.9 Earthquake Sequence Strikes Northern Vanuatu \u2014 Tsunami Alert Triggered",
+      "location": "Coral Sea, Northern Vanuatu (197 km WNW of Port-Olry)",
+      "type": "earthquake",
+      "summary": "A powerful M6.9 earthquake struck off northern Vanuatu at 02:31 UTC on October 24, generating a USGS tsunami alert and triggering at least eight additional aftershocks, including a near-simultaneous M6.3 event four minutes and 29 seconds later at a depth of just 10 km. Both the M6.9 and M6.3 were classified as shallow events, significantly amplifying their destructive potential and the tsunami concern for nearby Pacific island communities. USGS assigned a green alert level, suggesting limited population exposure at the most severely shaken intensities, but the sequence remains notable for its proximity to inhabited islands and ongoing aftershock activity.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong earthquake sequence strikes off northern Vanuatu after initial M6.9 event",
+          "url": "https://watchers.news/2026/10/24/strong-earthquake-sequence-strikes-off-northern-vanuatu-after-initial-m6-9-event",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Very Strong Mag. 6.9 Earthquake - Coral Sea, 147 km Southwest of Tegua Island, Torba Province, Vanuatu",
+          "url": "https://www.volcanodiscovery.com/earthquake/major/2026-10-24/02-31/magnitude6-Vanuatu.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Flooding Persists \u2014 Colorado Disaster Declared, San Juan River Still High",
+      "location": "Colorado, Utah, New Mexico, and Texas, USA",
+      "type": "weather",
+      "summary": "Multi-day flooding across the US Southwest continues on October 27, with active Flood Warnings spanning the Purgatoire River in Colorado, the San Juan and Rio Puerco rivers in Utah and New Mexico, the Rio Grande at Alamosa and Presidio (Texas), and the Rio Chama in New Mexico. Colorado's Pagosa Springs has declared a local disaster emergency following flood-damaged roads, bridges, and forced evacuations \u2014 while the Colorado Sun reports fresh sinkholes and infrastructure repairs ongoing as of today. Water levels are slowly receding from their historic crests but remain in flood stage across multiple river systems.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "What officials know so far about flood impacts in Colorado",
+          "url": "https://coloradosun.com/2026/10/27/colorado-major-flood-impacts-so-far",
+          "source": "coloradosun.com"
+        }
+      ]
+    },
+    {
+      "title": "Anomalous Late-October Heat Intensifies Across South Asia \u2014 Dhaka Hits 36.7\u00b0C",
+      "location": "Dhaka, Bangladesh and South Asia Region",
+      "type": "weather",
+      "summary": "Dhaka recorded a maximum temperature of 36.7\u00b0C today \u2014 up from 35.8\u00b0C reported yesterday \u2014 marking a continued and slightly intensifying departure from normal late-October conditions for the region. Karachi simultaneously recorded 36.3\u00b0C, and Jakarta hit 33.7\u00b0C, reflecting a broad anomalous heat pattern gripping South and Southeast Asia well into the autumn season. A Mongabay report highlights that workers in Bangladesh's garment factories are bearing a disproportionate burden of the sustained heat, raising serious occupational health concerns.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Bangladesh garment factory workers bear the brunt of rising temperatures",
+          "url": "https://news.mongabay.com/2026/10/bangladesh-garment-factory-workers-bear-the-brunt-of-rising-temperatures",
+          "source": "news.mongabay.com"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Brooks Range Winter Storm Warning \u2014 Up to 18 Inches of Snow and 35 mph Gusts",
+      "location": "South Slopes of the Western Brooks Range and Noatak Valley, Alaska, USA",
+      "type": "weather",
+      "summary": "The National Weather Service in Fairbanks has issued a Winter Storm Warning for the South Slopes of the Western Brooks Range \u2014 including Red Dog Mine \u2014 and the Noatak Valley, running from Tuesday morning through 4 PM AKDT Thursday. Total snow accumulations of 6 to 18 inches are expected alongside wind gusts up to 35 mph, with areas of blowing snow forecast to significantly reduce visibility and make travel very difficult. Separately, a High Wind Warning is in effect for the Bering Strait Coast and St. Lawrence Island, with south winds gusting to 60 mph \u2014 an extension of the powerful maritime storm system that has battered the region over the past several days.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Alaska Winter Storm Warning: What to Know About the 2026-2027 US Winter",
+          "url": "https://en.tempo.co/read/2122352/alaska-winter-storm-warning-what-to-know-about-the-2026-2027-us-winter",
+          "source": "en.tempo.co"
+        },
+        {
+          "title": "Winter Storm Warnings in Effect for Alaska With Up to 20 Inches of Snow Expected",
+          "url": "https://www.aol.com/articles/winter-storm-warnings-effect-alaska-204807000.html",
+          "source": "www.aol.com"
+        }
+      ]
+    },
+    {
+      "title": "Norte Fire Burn Scar Flood and Mudslide Threat Extends Through Thursday",
+      "location": "Orange County and San Diego County, California, USA",
+      "type": "wildfire",
+      "summary": "Although the Norte Fire itself has been largely contained following its destruction of dozens of homes in the San Clemente area, a Coastal Flood Warning issued by NWS San Diego remains in effect through 1 PM PDT Thursday, covering Orange County and San Diego County coastal areas during late-morning high tides. The denuded burn scar terrain dramatically heightens the risk of mudslides, debris flows, and flash flooding with each tidal cycle and any additional rainfall, threatening roads, low-lying properties, and shoreline infrastructure. San Clemente has formally declared and ratified a local emergency in response to the fire's ongoing aftermath.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "California Wildfire: 'Devil Winds' Fuel Norte Fire as Homes Are Damaged",
+          "url": "https://www.firstpost.com/web-show/planet-pulse/california-wildfire-devil-winds-fuel-norte-fire-as-homes-are-damaged-planet-pulse-n18g-vd2250211/amp",
+          "source": "www.firstpost.com"
+        },
+        {
+          "title": "San Clemente declares, ratifies local emergencies after Norte fire is contained",
+          "url": "https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-10-22/san-clemente-norte-emergency",
+          "source": "www.latimes.com"
+        }
+      ]
+    }
+  ]
+}
