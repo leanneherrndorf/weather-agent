@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-28",
+  "headline": "Cyclone Arnab Makes Landfall in Andhra Pradesh with 180,000 Evacuated as Former Typhoon Champi Drives Extreme Bering Sea Storm Toward Western Alaska",
+  "overview": "Cyclone Arnab struck India's Andhra Pradesh coast on October 28 as a very severe cyclonic storm, triggering mass evacuations and leaving at least 3 dead. Simultaneously, the remnants of former Typhoon Champi are driving a powerful Bering Sea storm system toward western Alaska, generating seas up to 29 feet and Storm Warnings across the Aleutian Islands. Elsewhere, Indonesia's catastrophic wildfires drew a new humanitarian response, Hawaii remained under a multi-island flood watch, and K\u012blauea entered the forecast window for its next lava fountaining episode.",
+  "events": [
+    {
+      "title": "Cyclone Arnab Makes Landfall in Andhra Pradesh \u2014 180,000 Evacuated, 3 Dead",
+      "location": "Andhra Pradesh\u2013Yanam Coast, India",
+      "type": "weather",
+      "summary": "Tropical Cyclone Arnab crossed the Andhra Pradesh\u2013Yanam coast of India on October 28 as a very severe cyclonic storm, marking a rare Bay of Bengal cyclone landfall at a time when El Ni\u00f1o has disrupted typical storm seasons. Indian authorities evacuated more than 180,000 people ahead of landfall, and at least 3 deaths have been confirmed as the storm weakened inland. The National Disaster Response Force was deployed across the affected coastal zone, with heavy rainfall and damaging winds impacting southeastern India.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "India evacuates over 180,000 as Cyclone Arnab hits coast",
+          "url": "https://www.macon.com/news/nation-world/world/article317810292.html",
+          "source": "www.macon.com"
+        },
+        {
+          "title": "Cyclone Arnab leaves 3 dead after landfall in Andhra Pradesh, India",
+          "url": "https://watchers.news/2026/10/28/cyclone-arnab-leaves-3-dead-after-landfall-in-andhra-pradesh-india",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Former Typhoon Champi Drives Extreme Bering Sea Storm \u2014 Seas Up to 29 Feet, Storm Warnings Across Aleutians",
+      "location": "Western Alaska and Aleutian Islands, USA",
+      "type": "weather",
+      "summary": "The remnants of former Typhoon Champi have entered the Bering Sea and are fueling an intense storm system targeting western Alaska, with the National Weather Service issuing Storm Warnings from Adak to Attu along the Aleutian chain. Forecast seas of up to 29 feet and sustained winds of 45\u201350 knots are expected across the region through October 29, with dangerous conditions on both the Pacific and Bering sides of the Aleutians. Meteorologists note a persistent stormy pattern with little sign of breaking down, compounding impacts alongside the ongoing Brooks Range winter storm.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Former Typhoon Champi Takes Aim at Western Alaska with Bering Sea Seas Up to 29 Feet After a Surprise Interior Snowstorm",
+          "url": "https://www.natureworldnews.com/articles/73657/20261027/former-typhoon-champi-takes-aim-western-alaska-bering-sea-seas-29-feet-after-surprise-interior.htm",
+          "source": "www.natureworldnews.com"
+        },
+        {
+          "title": "Stormy weather pattern shows little signs of breaking down for Alaska",
+          "url": "https://www.webcenterfairbanks.com/2026/10/27/stormy-weather-pattern-shows-little-signs-breaking-down-alaska",
+          "source": "www.webcenterfairbanks.com"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Wildfire Crisis Deepens \u2014 Oxygen Buses Deployed as Haze Chokes Kalimantan",
+      "location": "Kalimantan (Borneo) and Sumatra, Indonesia",
+      "type": "wildfire",
+      "summary": "Indonesia's worst wildfire crisis in over a decade continued to intensify on October 28, with the government deploying mobile oxygen buses to aid residents in Palangka Raya, Central Kalimantan, who are suffering acute respiratory distress from choking wildfire haze. The fires, many deliberately set for land clearing and exacerbated by El Ni\u00f1o drought conditions, have already emitted an estimated 14.4 million tonnes of carbon in a single week. Air quality across parts of Borneo and neighboring regions of Southeast Asia remains at hazardous levels, with the humanitarian toll escalating.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indonesia sends oxygen bus to aid residents choking on forest fire haze",
+          "url": "https://www.reuters.com/business/environment/indonesia-sends-oxygen-bus-aid-residents-choking-forest-fire-haze-2026-10-27/",
+          "source": "www.reuters.com"
+        }
+      ]
+    },
+    {
+      "title": "Florida Coastal Flood Warnings Persist \u2014 Keys to Northeast Florida and Southeast Georgia",
+      "location": "Florida Keys to Northeast Florida and Coastal Georgia, USA",
+      "type": "weather",
+      "summary": "Coastal Flood Warnings remained in effect on October 28 across a broad swath of Florida and southeast Georgia, from the Florida Keys through Miami-Dade, Palm Beach, Brevard, Volusia, Duval, Nassau, and Flagler counties, as well as coastal Glynn and Camden counties in Georgia, with some warnings extended through October 30. Persistent northeast winds and tidal backflow are slowing drainage along the St. Johns River, which is forecast to crest near minor flood stage before beginning a slow decline. Numerous roads face closure risk, and low-lying properties including homes and critical infrastructure are experiencing inundation at high tide.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "'Tropical tricks' ahead? Florida faces more gusty winds, coastal flooding",
+          "url": "https://www.coralspringsflnews.com/news/article317795666.html",
+          "source": "www.coralspringsflnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Hawaii Multi-Island Flood Watch \u2014 Tropical Moisture Trough Brings Flash Flood Risk to All Islands",
+      "location": "All Main Hawaiian Islands, Hawaii, USA",
+      "type": "weather",
+      "summary": "A Flood Watch remained in effect across all main Hawaiian Islands on October 28 as a slow-moving moisture trough delivered abundant tropical rainfall and isolated thunderstorms, with Oahu and Maui County facing the greatest flash flood risk. The Big Island also saw a High Wind Warning in effect through midday, with summit gusts reaching up to 65 mph. Streams are rising across the state and low-lying areas are at risk of rapid inundation, with conditions expected to gradually improve by October 29.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Looming heavy rain prompts flood watch for Hawaii",
+          "url": "https://www.staradvertiser.com/2026/10/26/breaking-news/looming-heavy-rain-prompts-flood-watch-for-hawaii",
+          "source": "www.staradvertiser.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Enters Forecast Window for Episode 56 Lava Fountaining",
+      "location": "K\u012blauea Summit, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "Following Episode 55 on October 17, K\u012blauea's summit eruption has remained paused as magma chamber inflation gradually resumed, with USGS scientists forecasting that Episode 56 could begin between October 28 and November 5, 2026. Inflationary tilt signals leveled out in recent days but renewed upward trends have been detected, consistent with the pre-fountaining pattern established across previous episodes. The eruption cycle at Halema\u02bbuma\u02bbu crater continues to be closely monitored, with another dramatic lava fountaining event considered imminent.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "K\u012blauea Volcano Update for Tuesday, October 27 \u2014 Big Island Video News",
+          "url": "https://www.bigislandvideonews.com/2026/10/27/kilauea-volcano-update-for-tuesday-october-27",
+          "source": "www.bigislandvideonews.com"
+        }
+      ]
+    },
+    {
+      "title": "Anomalous Late-October Heat Grips South Asia \u2014 Mumbai 35.6\u00b0C, Karachi 36.3\u00b0C",
+      "location": "Mumbai, India and Karachi, Pakistan / South Asia Region",
+      "type": "weather",
+      "summary": "Anomalously high temperatures continued to bake South Asia on October 28, with Mumbai recording a maximum of 35.6\u00b0C and Karachi reaching 36.3\u00b0C \u2014 both well above late-October climatological norms for the region. Pakistan's Meteorological Department forecast continued hot and dry conditions for Karachi with low humidity and northerly winds keeping relief at bay. This multi-day heat event follows prior reports of similar anomalies in Dhaka (36.7\u00b0C on October 27) and broadly reflects a persistent ridge of high pressure suppressing the normal seasonal cooling across South Asia.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Karachi weather forecast signals more heat",
+          "url": "https://www.bolnews.com/weather/karachi-weather-forecast-signals-more-heat",
+          "source": "www.bolnews.com"
+        },
+        {
+          "title": "India Braces for Cyclone as El Ni\u00f1o Upends Global Storm Seasons",
+          "url": "https://www.insurancejournal.com/news/international/2026/10/27/890509.htm",
+          "source": "www.insurancejournal.com"
+        }
+      ]
+    }
+  ]
+}
