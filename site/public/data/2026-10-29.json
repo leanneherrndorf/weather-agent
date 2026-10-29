@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-29",
+  "headline": "Aleutian Storm Intensifies to 37-Foot Seas as Cyclone Arnab Leaves Deadly Trail Across Andhra Pradesh",
+  "overview": "October 29 brings a globally active natural hazard environment. The Aleutian Islands remain under siege from an extreme Pacific storm system generating 37-foot seas and 55-knot winds \u2014 an escalation from yesterday \u2014 while Cyclone Arnab's aftermath continues to punish southern India with flash floods and infrastructure damage. Separately, a brand-new M6.4 earthquake struck southeast of Easter Island today, Taal Volcano in the Philippines is exhibiting heightened unrest with nearly 50 seismic events in 24 hours, and a sprawling multistate flood watch stretches across Arizona, New Mexico, and Texas.",
+  "events": [
+    {
+      "title": "Aleutian Islands Storm Intensifies \u2014 37-Foot Seas, 55-Knot Winds",
+      "location": "Aleutian Islands and Western Alaska, USA",
+      "type": "weather",
+      "summary": "The extreme storm system tracking through the Aleutian chain has intensified further, with NWS Anchorage issuing Storm Warnings for multiple Pacific-side zones where seas are reaching 37 feet and sustained winds hitting 55 knots (63 mph) \u2014 up from the 29-foot seas reported yesterday. The Bering-side zones are also under Storm Warning with seas of 24\u201326 feet and 50-knot winds, and multiple coastal areas from the Gulf of Alaska to Prince William Sound face storm conditions through Friday. This storm system, energized by the remnants of former Typhoon Champi, shows little sign of rapid abatement according to Alaska forecasters who warn of a persistent active pattern over the next one to two weeks.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Ex-Typhoon Champi threatens Western Alaska with 29-foot Bering Sea waves",
+          "url": "https://beinsure.com/news/ex-typhoon-champi-threatens-western-alaska",
+          "source": "beinsure.com"
+        },
+        {
+          "title": "Stormy weather pattern shows little signs of breaking down for Alaska",
+          "url": "https://www.alaskasnewssource.com/2026/10/27/stormy-weather-pattern-shows-little-signs-breaking-down-alaska",
+          "source": "www.alaskasnewssource.com"
+        }
+      ]
+    },
+    {
+      "title": "Cyclone Arnab Aftermath \u2014 Flash Flood Warnings Across 13 Andhra Districts",
+      "location": "Andhra Pradesh, India",
+      "type": "weather",
+      "summary": "Cyclone Arnab, which made landfall on the Andhra Pradesh\u2013Yanam coast on October 28, is now generating widespread flash flood warnings across 13 districts as the storm's remnant moisture continues to unleash heavy rainfall across the state. With 39 NDRF and 80 SDRF teams deployed, emergency responders are managing large-scale inundation and infrastructure damage in the cyclone's wake. The death toll and displacement figures are still being updated, and Al Jazeera's October 29 photo coverage documents severe destruction across the eastern coast.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Photos: Aftermath of deadly Cyclone Arnab in southern India | Weather News | Al Jazeera",
+          "url": "https://www.aljazeera.com/amp/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Cyclone Arnab Highlights: Flash flood warning in 13 Andhra districts, heavy rain batters state - India Today",
+          "url": "https://www.indiatoday.in/india/story/cyclone-arnab-live-updates-bay-of-bengal-imd-alert-odisha-andhra-pradesh-rain-tracker-weather-forecast-3025706-2026-10-27",
+          "source": "www.indiatoday.in"
+        }
+      ]
+    },
+    {
+      "title": "M6.4 Earthquake Strikes Southeast of Easter Island",
+      "location": "Southeast of Easter Island, Chile (South Pacific)",
+      "type": "earthquake",
+      "summary": "A shallow magnitude 6.4 earthquake struck southeast of Easter Island at 07:49 UTC on October 29, recorded at a depth of just 10 km by USGS. The USGS assigned a green alert level and no tsunami alert was issued, though the shallow depth and open-ocean location were closely monitored. The remote location limits direct impact on populated areas, but the event adds to an active week of seismicity globally.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong and shallow M6.4 earthquake hits southeast of Easter Island - The Watchers",
+          "url": "https://watchers.news/2026/10/29/strong-and-shallow-m6-4-earthquake-hits-southeast-of-easter-island",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Taal Volcano Unrest Spikes \u2014 29 Earthquakes, 20 Tremors in 24 Hours",
+      "location": "Taal Volcano, Batangas, Philippines",
+      "type": "volcano",
+      "summary": "PHIVOLCS reported that Taal Volcano recorded 29 volcanic earthquakes and 20 volcanic tremors in a single 24-hour period as of late October 29, indicating a significant uptick in sub-surface unrest beneath the caldera system. Taal, one of the Philippines' most dangerous volcanoes due to its proximity to a densely populated region south of Manila, has been in a state of background unrest for several years but this seismic activity level warrants close monitoring. No eruption alert level change was immediately announced, but authorities and local residents have been advised to remain vigilant.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Taal Volcano records 29 quakes, 20 tremors in 24 hours",
+          "url": "https://newsinfo.inquirer.net/2328853/taal-volcano-records-29-quakes-20-tremors-in-24-hours",
+          "source": "newsinfo.inquirer.net"
+        }
+      ]
+    },
+    {
+      "title": "Florida Coastal Flooding Expands \u2014 St. Johns River Flooding Extends Through Saturday",
+      "location": "Florida Keys to Northeast Florida, USA",
+      "type": "weather",
+      "summary": "Coastal Flood Warnings remain in effect across a broad stretch of Florida, from the Florida Keys through northeast Florida, but the situation has deepened with a new Flood Warning for the St. Johns River affecting Lake and Volusia Counties \u2014 with flooding expected to persist through at least Saturday morning. NWS Jacksonville has issued Coastal Flood Warnings extending into the St. Johns River Basin, where upstream river levels are being slowed by persistent northeast winds and downstream tidal effects. The compounding of river flooding, tidal surge, and 6\u20138 foot surf continues to close roads and inundate low-lying homes and businesses.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Florida sees impacts from coastal flooding, gusty winds",
+          "url": "https://www.heraldtribune.com/story/weather/hurricane/2026/10/27/florida-coastal-flooding-winds-tropical-threat-kyle-beach-erosion/92456180007",
+          "source": "www.heraldtribune.com"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Interior High Wind Warning \u2014 Gusts to 85 mph in Eastern Alaska Range",
+      "location": "Eastern Alaska Range and Northern Denali Borough, Alaska, USA",
+      "type": "weather",
+      "summary": "NWS Fairbanks has issued a High Wind Warning through Saturday morning for the Eastern Alaska Range north of Trims Camp, where south winds of 40\u201350 mph with gusts up to 85 mph are expected, with the strongest winds concentrated late Thursday night into Friday morning. A secondary High Wind Warning for Windy Pass in the Northern Denali Borough covers southeast winds of 30\u201345 mph with gusts up to 70 mph through Friday. These extreme gusts pose serious risks of downed trees, power outages, and dangerous travel conditions, compounding an already active winter storm pattern across interior and northern Alaska that includes a concurrent Winter Storm Warning for the Northern Susitna Valley.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Heavy Snow for the Central Brooks Range, A Wintry Mix for the Interior and High Surf with Gusty Winds for the Western Coastline",
+          "url": "https://www.alaskasnewssource.com/2026/10/26/heavy-snow-central-brooks-range-wintry-mix-interior-high-surf-with-gusty-winds-western-coastline",
+          "source": "www.alaskasnewssource.com"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Flooding Expands \u2014 Arizona, New Mexico, and Texas Under Broad Flood Watches",
+      "location": "Arizona, New Mexico, and Texas, USA",
+      "type": "weather",
+      "summary": "The persistent Southwest US flooding crisis has spread eastward and southward, with NWS offices in Flagstaff, Phoenix, Albuquerque, Lubbock, and Midland/Odessa all issuing Flood Watches covering a vast swath of south-central Arizona, central and northern New Mexico, and large portions of West Texas and the Texas Panhandle through Friday evening. Phoenix metro and rural Maricopa County are newly included in the watch zone, with excessive runoff threatening rivers, streams, and low-water crossings over already saturated and recently burned landscapes. New Mexico's Rio Chama below Chamita remains under an active Flood Warning with minor flooding ongoing, and New Mexico has already sought a federal emergency declaration following record San Juan River flooding earlier in the week.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "New Mexico seeks federal emergency after record San Juan River flooding, United States - The Watchers",
+          "url": "https://watchers.news/2026/10/26/new-mexico-seeks-federal-emergency-after-record-san-juan-river-flooding-united-states",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Colorado, Arizona, Utah, New Mexico grapple with flooding : NPR",
+          "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+          "source": "www.npr.org"
+        }
+      ]
+    }
+  ]
+}
