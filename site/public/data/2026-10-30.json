@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-30",
+  "headline": "Mayon Volcano Erupts Explosively in the Philippines as Indonesia Wildfire Smoke Death Toll Reaches 3,500",
+  "overview": "October 30 brings a major new volcanic eruption at Mayon in the Philippines, raising its alert level to 3 and sending ash 3,000 meters skyward. Meanwhile, a devastating new report reveals Indonesia's ongoing Kalimantan wildfire smoke killed over 3,500 people in September alone \u2014 a twofold increase from August. Across the United States, a broad flooding emergency continues to hammer West Texas with active flash flood warnings, a levee breach has triggered flooding in central New Mexico, and a powerful Gulf of Alaska storm batters Southcentral Alaska with 50-knot winds and dangerous seas.",
+  "events": [
+    {
+      "title": "Mayon Volcano Erupts \u2014 Alert Level Raised to 3, Ash Plume Reaches 3,000 Meters",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano produced a moderately explosive eruption at 11:53 AM local time on October 30, sending an ash column approximately 3,000 meters (nearly 10,000 feet) above the summit crater. Philippine authorities raised the alert level to 3, indicating a relatively high level of unrest with magmatic intrusion that could lead to further explosive activity. Ashfall was reported in the communities of Daraga, Guinobatan, and surrounding areas of Albay province, prompting evacuation advisories for the danger zone.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Philippines raises alert level at Mayon volcano",
+          "url": "https://www.reuters.com/business/environment/philippines-raises-alert-level-mayon-volcano-2026-10-30",
+          "source": "www.reuters.com"
+        },
+        {
+          "title": "See It: Philippines' Mayon Volcano erupts along Pacific Ring of Fire, sending massive ash plume into sky",
+          "url": "https://www.foxweather.com/extreme-weather/video-philippines-mayon-volcano-erupts-massive-ash-plume",
+          "source": "www.foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Wildfire Smoke Killed 3,500 in September \u2014 Death Toll Doubles as Crisis Deepens",
+      "location": "Kalimantan (Borneo) and Sumatra, Indonesia",
+      "type": "wildfire",
+      "summary": "A new report released October 30 by the Centre for Research on Energy and Clean Air (CREA) reveals that smoke from Indonesia's ongoing forest and land fires killed an estimated 3,560 people in September 2026 alone \u2014 a twofold increase from the August death toll and a stark escalation of the crisis. Persistent drought conditions have fueled widespread burning across Kalimantan and Sumatra, blanketing vast areas in hazardous haze. The staggering death toll, driven by respiratory failure and cardiovascular illness, marks this as one of Indonesia's most severe air quality emergencies in years.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
+          "url": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Indonesia's wildfire smoke crisis claims over 3,500 lives in September",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372692/indonesias-wildfire-smoke-crisis-claims-over-3500-lives-september",
+          "source": "www.scmp.com"
+        }
+      ]
+    },
+    {
+      "title": "West Texas Flash Flood Emergency \u2014 Multiple Counties Under Active Warnings, El Paso Declares Disaster",
+      "location": "West Texas and Southeast New Mexico, USA",
+      "type": "weather",
+      "summary": "A prolonged flooding event across West Texas escalated significantly on October 30, with simultaneous Flash Flood Warnings issued for Ector, Midland, Howard, Mitchell, Scurry, Andrews, Martin, Dawson, and Gaines counties by NWS Midland/Odessa, as 1\u20132 inches of rain fell overnight with additional accumulation forecast. El Paso County formally declared a flood disaster following a string of fall thunderstorms that flooded homes, swept away vehicles, and rendered streets impassable. Broad Flood Watches remain in effect across West Texas into the Rolling Plains and portions of southeast New Mexico, with life-threatening flooding possible in multiple river and creek systems.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "New Mexico Levee Breach Triggers Flooding in Socorro County",
+      "location": "Socorro County, New Mexico, USA",
+      "type": "weather",
+      "summary": "A levee breach on the Rio Grande was reported near Bernardo in north-central Socorro County on the evening of October 29, prompting a Flood Warning through midday October 30. The breach caused flooding of rivers, streams, and low-lying flood-prone areas, adding a critical new dimension to New Mexico's already severe multi-week flooding crisis. Governor Lujan Grisham had previously approved $8.25 million in state emergency funds and sought federal disaster assistance as sustained precipitation has overwhelmed drainage infrastructure across the state.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "New Mexico Gov. Lujan Grisham approves $8.25M for flooding, seeks additional federal assistance",
+          "url": "https://sourcenm.com/2026/10/27/new-mexico-gov-lujan-grisham-approves-8-25m-for-flooding-seeks-additional-federal-assistance",
+          "source": "sourcenm.com"
+        }
+      ]
+    },
+    {
+      "title": "Gulf of Alaska Storm Brings 50-Knot Winds and 21-Foot Seas to Southcentral Alaska",
+      "location": "Gulf of Alaska \u2014 Prince William Sound to Cape Suckling, Alaska, USA",
+      "type": "weather",
+      "summary": "A powerful storm system produced Storm Warnings along the northern Gulf of Alaska coast on October 30, with southeast winds of 40\u201350 knots and gusts up to 65 knots battering the waters from Cape Suckling to Prince William Sound, with seas running 16\u201321 feet. Simultaneous High Wind Warnings were active for Anchorage hillsides, the Eastern Alaska Range, and Delta Junction, with gusts reaching 70\u201380 mph. A Winter Storm Warning for the Northern Susitna Valley added 7\u201315 inches of snow to the compound hazard picture, severely impacting travel along the Parks Highway through Broad Pass.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Taal Volcano Unrest Continues \u2014 Ongoing Seismic Swarm Heightens Concern",
+      "location": "Taal Volcano, Batangas, Philippines",
+      "type": "volcano",
+      "summary": "Taal Volcano in Batangas province, south of Manila, continues to register significant seismic unrest with ongoing earthquake activity reported by PHIVOLCS, though the swarm has moderated somewhat from the peak of 29 earthquakes and 20 tremors logged in 24 hours on October 29. Today's simultaneous explosive eruption at Mayon Volcano adds pressure to the Philippine disaster management system, which is now managing two active volcanic emergencies simultaneously. Taal remains at elevated alert status, with no-entry zones enforced on Taal Volcano Island.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Taal Volcano continues to shake, logs 8 earthquakes",
+          "url": "https://newsinfo.inquirer.net/2332085/taal-volcano-continues-to-shake-logs-8-earthquakes",
+          "source": "newsinfo.inquirer.net"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Episode 56 Lava Fountaining Window Opens Oct. 31\u2013Nov. 6 as Summit Inflation Stalls",
+      "location": "K\u012blauea Summit, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "USGS Hawaiian Volcano Observatory has updated its forecast window for K\u012blauea's Episode 56 lava fountaining event, now projected for October 31 through November 6 after summit ground inflation slowed and stalled in late October. The post-Episode 55 magma chamber reinflation initially followed the normal predictable pattern but has since decelerated, shifting the expected eruption window by several days. K\u012blauea remains in an active eruption phase within Halema\u02bbuma\u02bbu crater, and HVO is monitoring closely for precursory signals including rapid inflation, increased seismicity, and elevated sulfur dioxide emissions.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "K\u012blauea's Next Lava Fountain Window Slips to Oct. 31 Through Nov. 6 as Summit Swelling Stalls",
+          "url": "https://www.natureworldnews.com/articles/73658/20261027/kilaueas-next-lava-fountain-window-slips-oct-31-through-nov-6-summit-swelling-stalls.htm",
+          "source": "www.natureworldnews.com"
+        },
+        {
+          "title": "K\u012blauea Volcano Update for Monday, October 26",
+          "url": "https://www.bigislandvideonews.com/2026/10/26/kilauea-volcano-update-for-monday-october-26",
+          "source": "www.bigislandvideonews.com"
+        }
+      ]
+    }
+  ]
+}
