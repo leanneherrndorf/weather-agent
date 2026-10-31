@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-31",
+  "headline": "Southwest US Flooding Escalates to Active Warnings in Arizona as San Juan River Devastates Utah Communities on Halloween",
+  "overview": "A prolonged and expanding weather system continues to pummel the American Southwest and Southern California on October 31, with active flood warnings now hitting the Salt River in metropolitan Phoenix and the San Juan River causing humanitarian devastation in Bluff, Utah and Navajo Nation communities. Globally, Indonesia's Merapi volcano sustains an active eruption on Java, while K\u012blauea's anticipated Episode 56 lava fountain window formally opens today. Alaska's Skagway corridor faces its first significant winter storm of the season, and El Ni\u00f1o-driven coastal flooding is pushing California water levels to historic highs.",
+  "events": [
+    {
+      "title": "Southwest US Flooding Escalates \u2014 Salt River, Tonto Creek, and San Juan River Under Active Warnings",
+      "location": "Arizona, Utah, New Mexico, Colorado, USA",
+      "type": "weather",
+      "summary": "Active Flood Warnings are in effect for Maricopa and Gila Counties in Arizona, with the Salt River rising below Granite Reef Dam and Tonto Creek flooding low-water crossings. Broad Flood Watches extend across most of Arizona, southern Utah, southwest Colorado, and northwest New Mexico, with the storm system expected to persist through Monday. The San Juan River in Bluff, Utah has caused severe humanitarian impact, forcing evacuations and inundating homes in Navajo Nation communities, with local officials describing conditions as 'devastating.'",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Most of Arizona, including the Valley, is under a Flood Watch this weekend",
+          "url": "https://www.facebook.com/JorgeTWeather/posts/friday-october-30-2026-most-of-arizona-including-the-valley-is-under-a-flood-wat/1702516591231581",
+          "source": "www.facebook.com"
+        }
+      ]
+    },
+    {
+      "title": "Florida Keys Major Coastal Flood Warning \u2014 'Numerous Roads May Be Closed' Through Sunday",
+      "location": "Florida Keys and Northeast Florida, USA",
+      "type": "weather",
+      "summary": "NWS Key West has issued a Coastal Flood Warning for the Upper Florida Keys through early Sunday morning, warning of 'major saltwater flooding' with numerous road closures expected and low-lying homes and businesses inundated. A separate Coastal Flood Warning remains active for Eastern Putnam County near the St. Johns River through Sunday, and a Flood Warning for Lake and Volusia Counties along the St. Johns River continues, reflecting the breadth of Florida's coastal flood crisis. King tides and persistent northeast winds are compounding flood levels across the state.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Record coastal flooding continues in Florida Keys",
+          "url": "https://www.keysnews.com/news/local/record-coastal-flooding-continues-in-florida-keys/article_6af6f0fa-4c35-4f71-a2cc-4ce4af551ad3.html",
+          "source": "www.keysnews.com"
+        },
+        {
+          "title": "Strong king tides cause major saltwater flooding in the Florida Keys",
+          "url": "https://keysweekly.com/42/strong-king-tides-cause-major-saltwater-flooding-in-the-florida-keys",
+          "source": "keysweekly.com"
+        }
+      ]
+    },
+    {
+      "title": "Merapi Volcano Sustains Active Eruption \u2014 Ongoing Lava Dome Activity on Java",
+      "location": "Merapi Volcano, Java, Indonesia",
+      "type": "volcano",
+      "summary": "Indonesia's Mount Merapi, one of the world's most active volcanoes at 2,910 meters elevation on Java, continued its eruption through the week of October 22\u201328, with PVMBG (Indonesia's Center for Volcanology and Geological Hazard Mitigation) actively monitoring ongoing activity. The weekly volcanic activity report confirmed sustained eruptive behavior during this period. Merapi's proximity to densely populated areas, including the city of Yogyakarta, makes any escalation a serious public safety concern.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "K\u012blauea Episode 56 Lava Fountain Window Opens \u2014 Eruption Expected Oct. 31\u2013Nov. 6",
+      "location": "K\u012blauea Summit, Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "Today, October 31, marks the opening of the USGS Hawaiian Volcano Observatory's forecast window for K\u012blauea's Episode 56 high lava fountaining event, with activity expected anytime between now and November 6. Summit inflation had stalled earlier in the week, pushing the window back by one day, but conditions are now considered ripe for the next eruptive episode. Residents and visitors near K\u012blauea caldera are advised to monitor HVO updates closely as fountaining could begin with little additional warning.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "K\u012blauea Volcano Update for Monday, October 26 \u2014 Big Island Video News",
+          "url": "https://www.bigislandvideonews.com/2026/10/26/kilauea-volcano-update-for-monday-october-26",
+          "source": "www.bigislandvideonews.com"
+        },
+        {
+          "title": "Kilauea's Next Lava Fountain Window Slips to Oct. 31 Through Nov. 6 as Summit Swelling Stalls",
+          "url": "https://www.natureworldnews.com/articles/73658/20261027/kilaueas-next-lava-fountain-window-slips-oct-31-through-nov-6-summit-swelling-stalls.htm",
+          "source": "www.natureworldnews.com"
+        }
+      ]
+    },
+    {
+      "title": "El Ni\u00f1o Coastal Flooding Hits Southern California \u2014 Historic Water Levels and Halloween Rain",
+      "location": "Southern California, USA",
+      "type": "weather",
+      "summary": "Southern California is experiencing its first Halloween rainfall since 2014, with Los Angeles recording 30.6mm of precipitation today amid a broader El Ni\u00f1o-driven coastal flood emergency. NOAA data shows observed water levels surpassing minor flooding thresholds along the La Jolla and Orange County coasts, with Pacific Coast Highway in Sunset Beach flooded by high tides and waves. Record-hot ocean temperatures linked to El Ni\u00f1o are amplifying wave heights and tidal surge, threatening beachfront infrastructure up and down the coast.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "El Ni\u00f1o-linked waves push California water levels to historic highs",
+          "url": "https://ktla.com/news/california/el-nino-linked-waves-push-california-water-levels-to-historic-highs",
+          "source": "ktla.com"
+        }
+      ]
+    },
+    {
+      "title": "Skagway Winter Storm Warning \u2014 Klondike Highway Buried Under Up to 14 Inches of Snow",
+      "location": "Skagway and White Pass, Alaska, USA",
+      "type": "weather",
+      "summary": "A Winter Storm Warning is in effect for Skagway and the Klondike Highway including White Pass from this morning through 9 AM Sunday, with 9 to 14 inches of snow expected and wind gusts to 40 mph creating blowing snow conditions. The Klondike Highway \u2014 a critical supply and tourism route connecting Skagway to Yukon, Canada \u2014 faces travel conditions described as 'very difficult to impossible.' This marks the first significant winter storm headline of the 2026\u201327 season for Alaska's panhandle.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Klondike Highway Travel Disrupted Over White Pass on Oct. 31",
+          "url": "https://deeparrival.com/news/skagway-klondike-highway-white-pass-october-31-2026",
+          "source": "deeparrival.com"
+        }
+      ]
+    },
+    {
+      "title": "M6.5 Deep Earthquake Strikes Bonin Islands, Japan \u2014 No Tsunami Warning Issued",
+      "location": "Bonin Islands, Japan (Western Pacific)",
+      "type": "earthquake",
+      "summary": "A magnitude 6.5 earthquake struck the Bonin Islands region of Japan on October 25 at a depth of 492 km, making it a deep-focus event that significantly limited surface shaking and tsunami risk. Despite the USGS flagging a tsunami alert status, no tsunami warning was ultimately issued, and the USGS assigned a green alert level indicating low likelihood of casualties or significant damage. The earthquake was felt by at least one person, and its epicenter was located approximately 729 km from the nearest major population center.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong and deep M6.5 earthquake hits Bonin Islands, Japan region",
+          "url": "https://watchers.news/2026/10/25/strong-and-deep-m6-5-earthquake-hits-bonin-islands-japan-region",
+          "source": "watchers.news"
+        },
+        {
+          "title": "6.5-Magnitude Earthquake Strikes Japan's Bonin Islands, No Tsunami Warning Issued",
+          "url": "https://newscord.org/article/65-magnitude-earthquake-strikes-japans-bonin-islands-no-tsunami-warning-issued--Story_20261025_65magnitudeearthquak99fb3490_82afc5fe3779",
+          "source": "newscord.org"
+        }
+      ]
+    }
+  ]
+}
