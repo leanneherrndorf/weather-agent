@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-01",
+  "headline": "Cyclone Arnab Batters India's Andhra Pradesh Coast as Pagosa Springs Issues Mandatory Evacuations Ahead of Particularly Dangerous San Juan River Flooding",
+  "overview": "Cyclone Arnab, a very severe cyclonic storm, made landfall along India's Andhra Pradesh coast on October 28, causing widespread destruction and displacing over 84,000 people \u2014 the week's most impactful single event globally. Across the continental US, a multi-day atmospheric river continues to drive life-threatening flooding from the Desert Southwest into the Southern Plains and Gulf Coast, with a 'Particularly Dangerous Situation' declared along Colorado's San Juan River and up to 16 inches of rain falling in central Louisiana. Meanwhile, Mayon Volcano in the Philippines escalated to moderately explosive eruptions affecting hundreds of schools, and the Aleutian Islands face storm-force seas reaching 28 feet.",
+  "events": [
+    {
+      "title": "Cyclone Arnab Makes Landfall in Andhra Pradesh \u2014 Thousands Displaced, Widespread Destruction",
+      "location": "Andhra Pradesh (Bapatla\u2013Visakhapatnam coast), India",
+      "type": "weather",
+      "summary": "Very Severe Cyclonic Storm Arnab made landfall between Bapatla and Visakhapatnam on India's Andhra Pradesh coast during the early morning of October 28, 2026, bringing destructive winds and heavy rain. Over 84,000 people were evacuated ahead of the storm, and significant damage was reported in and around Kakinada. NASA captured the storm system in nighttime imagery before landfall, underscoring its large spatial extent.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Cyclone Arnab makes landfall in India's Andhra Pradesh",
+          "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Very severe cyclone Arnab nears Andhra Pradesh\u2013Yanam coast ahead of October 28 landfall, India",
+          "url": "https://watchers.news/2026/10/27/very-severe-cyclone-arnab-nears-andhra-pradesh-yanam-coast-ahead-of-october-28-landfall-india",
+          "source": "watchers.news"
+        }
+      ]
+    },
+    {
+      "title": "Pagosa Springs Issues Mandatory Evacuations \u2014 San Juan River 'Particularly Dangerous Situation'",
+      "location": "Pagosa Springs, Archuleta County, Colorado, USA",
+      "type": "weather",
+      "summary": "The National Weather Service in Grand Junction designated the San Juan River at Pagosa Springs a 'Particularly Dangerous Situation,' warning of significant and potentially historic flooding as widespread rainfall arrives Sunday through Monday morning. The town of Pagosa Springs issued a mandatory evacuation order for all residents, businesses, and visitors in low-lying areas along the San Juan River corridor, urging people not to wait for the river to rise before leaving. This marks a severe escalation of the multi-day Southwest flooding event that has now spread from Arizona and New Mexico into southwest Colorado.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "URGENT: Mandatory Evacuation Order Issued for Flood-Prone Areas of Pagosa Springs",
+          "url": "https://www.pagosasprings.co.gov/m/newsflash/Home/Detail/89",
+          "source": "www.pagosasprings.co.gov"
+        },
+        {
+          "title": "Pagosa Springs issues mandatory evacuations ahead of more flooding for southwest Colorado",
+          "url": "https://www.kktv.com/2026/11/01/pagosa-springs-issues-mandatory-evacuations-ahead-more-flooding-southwest-colorado",
+          "source": "www.kktv.com"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano Escalates to Moderately Explosive Eruption \u2014 785 Schools Affected",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano, which was raised to Alert Level 3 on October 30, produced a 'moderately explosive eruption' by November 1, generating a grayish ash plume and prompting the Philippine Institute of Volcanology and Seismology (PHIVOLCS) to maintain the elevated alert status. The eruption has now disrupted 785 schools in surrounding communities, compounding the humanitarian impact in Albay Province. Authorities continue to enforce the danger zone around the volcano as activity shows no sign of subsiding.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Central Louisiana Flash Flooding \u2014 Up to 16 Inches of Rain Inundates Evangeline and Rapides Parishes",
+      "location": "Evangeline and Rapides Parishes, Louisiana, USA",
+      "type": "weather",
+      "summary": "The NWS in Lake Charles issued multiple Flash Flood Warnings for central Louisiana on November 1 after Doppler radar confirmed between 6 and 16 inches of rain had already fallen in the Evangeline and Rapides Parish area, with flash flooding ongoing or imminent across roads, streams, and urban areas. The extreme rainfall totals for a single morning event place this well above normal flood thresholds for the region. Concurrent warnings also affected Jefferson Davis and Acadia Parishes to the southwest, indicating a broad and intense convective rainfall event across south-central Louisiana.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Aleutian Islands Storm Warning \u2014 50-Knot Winds and 28-Foot Seas From Kiska to Attu",
+      "location": "Western Aleutian Islands (Kiska to Attu), Alaska, USA",
+      "type": "weather",
+      "summary": "The NWS in Anchorage issued a Storm Warning valid through November 2 for the far-western Aleutian Islands from Kiska to Attu, forecasting sustained southwest winds increasing to 50 knots and seas building to 28 feet \u2014 among the most extreme maritime conditions in the Pacific Basin today. Isolated thunderstorms add additional hazard to an already dangerous stretch of ocean. The adjacent Adak-to-Kiska zone faces winds of 30\u201340 knots and seas of 18\u201324 feet, creating a broad zone of severe maritime hazard across the western Aleutian chain.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "South Florida Flood Watch Expands \u2014 Upper-Level Low Targets Miami-Dade, Broward, and Treasure Coast",
+      "location": "Southeast Florida (Miami-Dade, Broward, Palm Beach, Indian River, St. Lucie, Martin Counties), USA",
+      "type": "weather",
+      "summary": "An upper-level low stalled over Florida is driving a new and broader round of flooding threats across Southeast Florida on November 1, with Flood Watches now covering Miami-Dade, Broward, Palm Beach, Indian River, St. Lucie, and Martin Counties through Monday afternoon \u2014 a significant geographic expansion beyond the Keys and Northeast Florida flooding reported in recent days. Strong low-level easterly flow is producing bands of repeated heavy rainfall across the region, with the Miami Herald reporting major flooding already occurring in Miami and Fort Lauderdale amplified by coincident king tides. The persistent system is expected to continue generating urban and coastal flooding through at least Monday.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Stronger king tides, major floods in Miami, Fort Lauderdale",
+          "url": "https://www.miamiherald.com/news/local/environment/article317771390.html",
+          "source": "www.miamiherald.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Episode 56 Lava Fountaining Window Now Active \u2014 Eruption Underway at Summit",
+      "location": "K\u012blauea Summit (Halema\u02bbuma\u02bbu Crater), Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's Episode 56 high-lava-fountaining window opened as forecast on October 31 and is now active, with the Hawaii Volcano Observatory (HVO) confirming the eruption is occurring within the predicted October 31\u2013November 6 window. Scientists have grown increasingly skilled at forecasting these episodic fountaining events based on summit inflation patterns, with 55 prior episodes since December 2024 providing a robust dataset. Lava activity remains confined to Halema\u02bbuma\u02bbu Crater within the summit caldera, posing no immediate threat to residential areas but generating volcanic gas (SO\u2082) emissions affecting downwind communities.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "K\u012blauea Volcano Update for Monday, October 26 \u2013 Big Island Video News",
+          "url": "https://www.bigislandvideonews.com/2026/10/26/kilauea-volcano-update-for-monday-october-26",
+          "source": "www.bigislandvideonews.com"
+        }
+      ]
+    }
+  ]
+}
