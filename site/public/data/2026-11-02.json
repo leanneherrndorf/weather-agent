@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-02",
+  "headline": "India braces for a second cyclone in a week as historic Southwest US flooding sets river records and East Florida drowns under 20 inches of rain.",
+  "overview": "A new low-pressure system is intensifying in the Bay of Bengal, threatening another cyclone landfall on India's southeastern coast less than a week after Cyclone Arnab struck. In the United States, multi-state flooding across Arizona, Colorado, New Mexico, and Utah has reached historic levels on the Gila and Little Colorado Rivers, while East and Central Florida is being inundated by up to 20 inches of rainfall from a stalled upper-level low. Ongoing volcanic activity at Mayon (Philippines) and K\u012blauea (Hawai\u02bbi) continues to displace residents and draw international attention.",
+  "events": [
+    {
+      "title": "New Cyclone Threat \u2014 Second Storm in a Week Targets India's Bay of Bengal Coast",
+      "location": "Bay of Bengal / Andhra Pradesh\u2013Tamil Nadu Coast, India",
+      "type": "weather",
+      "summary": "A well-marked low-pressure area over the southeastern Bay of Bengal and Andaman Sea is rapidly organizing into what could become India's second cyclonic storm within a single week, with landfall forecast for the Andhra Pradesh or Tamil Nadu coast. Thousands of residents are already being evacuated as the system approaches, compounding the devastation left by Cyclone Arnab, which struck the same coastline just days ago. Indian authorities have issued heavy rain forecasts for November 2 and 3, and disaster response teams are on high alert across both states.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Thousands evacuated as India braces for second cyclone in a week | Weather News | Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "After Cyclone Arnab, Andhra Pradesh faces fresh storm threat; heavy rain forecast on November 2 and 3 | Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/visakhapatnam/after-cyclone-arnab-another-cyclone-to-hit-andhra-pradesh/articleshow/135394976.cms",
+          "source": "timesofindia.indiatimes.com"
+        }
+      ]
+    },
+    {
+      "title": "Historic Southwest US Flooding \u2014 Gila and Little Colorado Rivers Set Records Across Arizona, Colorado, New Mexico",
+      "location": "Arizona, Colorado, New Mexico, Utah, USA",
+      "type": "weather",
+      "summary": "Flooding across the Four Corners region has escalated to historic levels, with the Gila River near Solomon, Arizona, surpassing its flood-of-record stage by more than two feet, and the Little Colorado River near Winslow rising to major flood stage. Active flood warnings span over a dozen counties across four states, with roads washed out, structures inundated, and emergency officials warning of deadly conditions at low-water crossings across the Navajo Nation and surrounding communities. The NWS Grand Junction office described conditions across southwest Colorado and southeast Utah as 'significant and historic,' with some roads completely collapsed.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Flash floods force evacuations across US Southwest, Colorado town faces historic river rise | The Business Standard",
+          "url": "https://www.tbsnews.net/worldbiz/usa/flash-floods-force-evacuations-across-us-southwest-colorado-town-faces-historic-river",
+          "source": "www.tbsnews.net"
+        }
+      ]
+    },
+    {
+      "title": "East & Central Florida Drenched \u2014 Up to 20 Inches of Rain, Schools Closed, Flash Flood Warnings Across 10+ Counties",
+      "location": "Brevard, Indian River, St. Lucie, Martin, Hardee, DeSoto, Highlands, Seminole, Volusia, and Lake Counties, Florida, USA",
+      "type": "weather",
+      "summary": "A persistent upper-level low anchored over the Gulf and Bahamas continued to pump torrential rainfall into East and Central Florida on Monday, with southeastern Brevard County recording 15 to 20 inches of rain \u2014 prompting Brevard County Public Schools to cancel all classes. The NWS Melbourne office issued multiple overlapping Flash Flood Warnings covering at least ten counties from the Treasure Coast northward through the Space Coast, with rivers including the St. Johns rising to moderate flood stage and further rises forecast through the week. Dozens of thunderstorm cells producing waterspouts were also detected off Florida's Gulf coast.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Brevard County schools cancels classes after up to 10 inches of rain; Flood Watch in effect for Central Florida until 7 p.m. | The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/brevard-county-schools-closed-monday-after-up-to-10-inches-of-rain-flood-watch-in-effect-for-central-florida-until-7-p-m-/articleshow/135462074.cms",
+          "source": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Brevard Public Schools closes schools over flooding, severe weather | FOX 35 Orlando",
+          "url": "https://www.fox35orlando.com/news/brevard-public-schools-cancels-classes-monday-over-flooding-severe-weather",
+          "source": "www.fox35orlando.com"
+        }
+      ]
+    },
+    {
+      "title": "San Juan River Upgraded to Major Flood at Shiprock \u2014 Navajo Nation Communities at Risk",
+      "location": "Shiprock, San Juan County, New Mexico, USA",
+      "type": "weather",
+      "summary": "The NWS Albuquerque office upgraded the San Juan River at Shiprock from minor to major flood severity on Monday morning, with the forecast changed to major flooding and warnings extended through Wednesday afternoon. The escalation is driven by persistent upstream rainfall across the broader Four Corners region, and Navajo Nation communities along the river face significant impacts including inundated properties and road closures. The San Juan River had already been near major flood stage from earlier events, and today's upgrade represents a significant worsening of conditions for affected tribal communities.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "San Juan River forecast to flood again at Shiprock as heavy rain hits region | Navajo Times",
+          "url": "https://navajotimes.com/reznews/san-juan-river-forecast-to-flood-again-at-shiprock-as-heavy-rain-hits-region",
+          "source": "navajotimes.com"
+        },
+        {
+          "title": "Floods strand families, force rescues as San Juan River nears major flood stage \u2014 Navajo Times via Coyote Gulch",
+          "url": "https://coyotegulch.blog/2026/10/26/floods-strand-families-force-rescues-as-sanjuanriver-nears-major-flood-stage-the-navajo-times",
+          "source": "coyotegulch.blog"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano Remains at Alert Level 3 \u2014 1,433 Individuals Evacuated as Moderately Explosive Eruptions Continue",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano maintained its Alert Level 3 status on November 2 following a moderately explosive eruption reported at 17:15 UTC on November 1, with ash cloud heights still being assessed. Philippine authorities have confirmed 1,433 individuals have now fled the danger zone, a significant escalation from the 785 schools affected figure reported the previous day. PHIVOLCS continues to warn of pyroclastic density currents, lava flows, and ashfall, with the 6-kilometer permanent danger zone remaining in effect.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "K\u012blauea Episode 56 Lava Fountaining Now Underway at Halema\u02bbuma\u02bbu Summit",
+      "location": "K\u012blauea Summit (Halema\u02bbuma\u02bbu Crater), Hawai\u02bbi, USA",
+      "type": "volcano",
+      "summary": "K\u012blauea's Episode 56 lava fountaining window is now active, continuing the volcano's remarkable streak of episodic summit eruptions that has produced 55 prior fountaining events since December 2024. Scientists at the Hawaiian Volcano Observatory have been accurately forecasting episode windows based on magma chamber inflation rates, with the Episode 56 window spanning October 31 through November 6. No evacuation orders are in effect, as the eruption is contained within Hawai\u02bbi Volcanoes National Park, but lava activity is being closely monitored.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Aleutian Islands Violent Storm \u2014 50-Knot Winds and 34-Foot Seas From Seguam to Attu",
+      "location": "Western Aleutian Islands (Seguam to Attu), Alaska, USA",
+      "type": "weather",
+      "summary": "A powerful storm system persists across the Western Aleutians on November 2, with NOAA Storm Warnings in effect from Seguam to Attu on both the Pacific and Bering sides, featuring sustained winds of 50 knots and seas up to 34 feet \u2014 among the most dangerous maritime conditions in the world. A second developing storm is expected to bring sustained 45-knot winds and 14-foot seas to the northern Gulf of Alaska coast by Tuesday, indicating the continuation of a highly active Aleutian storm track. Navigation and maritime operations across the far western Pacific approach to Alaska remain extremely hazardous.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Stormy weather pattern shows little signs of breaking down for Alaska | Alaska's News Source",
+          "url": "https://www.alaskasnewssource.com/2026/10/27/stormy-weather-pattern-shows-little-signs-breaking-down-alaska",
+          "source": "www.alaskasnewssource.com"
+        }
+      ]
+    }
+  ]
+}
