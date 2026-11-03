@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-03",
+  "headline": "Cyclone Murasu makes landfall on India's Andhra Pradesh coast as historic Southwest US flooding expands and Indonesia's wildfire haze crisis deepens.",
+  "overview": "Cyclone Murasu, having intensified into a Severe Cyclonic Storm, made landfall on India's eastern coast on November 3, bringing dangerous winds and storm surge to Andhra Pradesh. In the United States, the multi-day Southwest flooding disaster continued to expand \u2014 now triggering dam-release flood warnings in Maricopa County through November 7 and spreading into the Iowa river system \u2014 while Florida's flood footprint widened into the Tampa Bay watershed. Separately, Indonesia's wildfire season has now scorched 1.9 million hectares, generating a toxic haze crisis drawing health warnings and public protests.",
+  "events": [
+    {
+      "title": "Cyclone Murasu Makes Landfall on India's Eastern Coast",
+      "location": "Andhra Pradesh Coast, India",
+      "type": "weather",
+      "summary": "Severe Cyclonic Storm Murasu made landfall on India's eastern coast on November 3, 2026, following a red alert issued across five Andhra Pradesh districts. The storm, the second to strike the Bay of Bengal region in rapid succession after Cyclone Arnab, brought destructive winds, heavy rainfall, and storm surge to coastal communities. This marks a significant escalation from yesterday's 'approaching threat' status to an active landfall event.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Cyclone Murasu makes landfall on India's eastern coast | Climate News | Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast",
+          "source": "www.aljazeera.com"
+        },
+        {
+          "title": "Cyclone 'Murasu' drums up fresh worry for Andhra after Arnab; red alert sounded in five districts - The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-drums-up-fresh-worry-for-andhra-after-arnab-red-alert-sounded-in-five-districts/article71652622.ece",
+          "source": "www.thehindu.com"
+        }
+      ]
+    },
+    {
+      "title": "Southwest US Flooding Expands \u2014 Dam Releases, New Counties, Storm Moves East",
+      "location": "Arizona, Colorado, New Mexico, Utah, USA",
+      "type": "weather",
+      "summary": "The historic multi-day Southwest flooding event has intensified with new warnings issued: a Maricopa County, Arizona Flood Warning tied to upstream dam releases is active through November 7, the Little Colorado River at Winslow remains above flood stage, and Conejos and Rio Grande river systems in Colorado continue to surge. NWS Albuquerque reports the La Plata River near Farmington is impacting homes and a bridge on Pinon Hills Road, while CNN reports the storm system is now shifting east toward the central US, broadening the impact zone. Evacuees from the San Juan River corridor in New Mexico are described as enduring a long wait for flood recovery.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Indonesia Wildfire Haze Crisis \u2014 1.9 Million Hectares Burned, Health Emergency Deepens",
+      "location": "Indonesia (Kalimantan, Sumatra, and other islands)",
+      "type": "wildfire",
+      "summary": "Indonesia's 2026 wildfire season has now scorched approximately 1.9 million hectares (4.7 million acres) according to Sentinel-2 satellite imagery analysis, generating toxic haze affecting schools, communities, and public health across multiple islands. Health experts are warning of long-term respiratory risks, particularly for children and teachers who were unable to attend school during the worst air quality episodes. The crisis has sparked public protests, with demonstrators linking the haze to governance failures and corporate deforestation.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Experts warn of long-term health risks as Indonesia's wildfire haze takes a growing toll",
+          "url": "https://news.mongabay.com/2026/11/experts-warn-of-long-term-health-risks-as-indonesias-wildfire-haze-takes-a-growing-toll",
+          "source": "news.mongabay.com"
+        },
+        {
+          "title": "Indonesia's wildfires scorch 1.9 million hectares - The Hindu",
+          "url": "https://www.thehindu.com/data/indonesias-wildfires-scorch-19-million-hectares/article71659435.ece",
+          "source": "www.thehindu.com"
+        }
+      ]
+    },
+    {
+      "title": "Florida Flooding Expands into Tampa Bay Watershed \u2014 Peace, Alafia, and Manatee Rivers Rising",
+      "location": "Hillsborough, Manatee, DeSoto, Hardee, Brevard, Indian River, St. Lucie, Martin Counties, Florida, USA",
+      "type": "weather",
+      "summary": "Florida's flooding disaster, previously centered on the east-central coast, has expanded significantly westward into the Tampa Bay watershed, with the Alafia River at Lithia, Peace River at Arcadia, Horse Creek, and Manatee River all under active Flood Warnings as of November 3. The St. Johns River near Cocoa is forecast to rise from Minor into Moderate flood stage mid-to-late week, and Indian River County has declared a local state of emergency. Flood warnings for Hillsborough County extend through November 5, indicating the crisis is far from over.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indian River County declares local state of emergency due to flooding - WPBF",
+          "url": "https://www.wpbf.com/article/indian-river-county-declares-local-state-of-emergency-flooding/74317378",
+          "source": "www.wpbf.com"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Gulf Coast Storm Warning \u2014 50-Knot Winds and 25-Foot Seas from Cape Suckling to Cape Cleare",
+      "location": "Northern Gulf of Alaska Coast (Cape Suckling to Cape Cleare), Alaska, USA",
+      "type": "weather",
+      "summary": "The National Weather Service in Anchorage issued Storm Warnings for multiple zones along the northern Gulf of Alaska coast on November 3, with sustained east winds of 50 knots and seas reaching 23\u201325 feet between Cape Suckling and Cape Cleare, both inshore and offshore to 75 nautical miles. A separate Storm Warning covers the Icy Cape to Cape Suckling corridor with gusts up to 55 knots and seas of 22\u201327 feet, issued by NWS Juneau. These warnings represent a distinct and significant new maritime hazard along Alaska's Gulf Coast, separate from the multi-day Aleutian storm event covered in prior reports.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Iowa River System Flooding \u2014 Big Blue, Iowa, English, and North Skunk Rivers Under Watch",
+      "location": "Benton, Iowa, Johnson, Washington, Keokuk Counties, Iowa, USA",
+      "type": "weather",
+      "summary": "Heavy rainfall on November 2\u20133 has prompted Flood Watches for multiple Iowa river systems, including the Iowa River at Marengo, the English River at Kalona, and the North Skunk River near Sigourney, with the Big Blue River near Blue Rapids in Kansas also under an active Flood Warning through November 6. NWS Quad Cities warns that heavy rain overnight and into Tuesday could push these rivers into flood stage, with impacts expected across Benton, Iowa, Johnson, Washington, and Keokuk Counties. This new multi-river flood threat represents the eastward extension of the broader storm system that caused historic damage in the Southwest.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Mayon Volcano \u2014 Alert Level 3 Maintained, Ash Plumes and Evacuations Continue",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano in the Philippines continues its period of moderately explosive eruption activity, with Philippine authorities maintaining Alert Level 3 and ash plumes reported reaching significant altitudes. Over 1,400 individuals remain evacuated from the 6-kilometer permanent danger zone, and 13 volcanic earthquakes have been recorded alongside ongoing rockfall and lava flow hazards. No further escalation to Alert Level 4 has been confirmed as of November 3, but residents have been urged to remain vigilant for ashfall, lava flows, and sudden ballistic projectiles.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Philippines' Mayon Volcano spews ash as 13 earthquakes raise eruption concerns - T\u00fcrkiye Today",
+          "url": "https://www.turkiyetoday.com/world/philippines-mayon-volcano-spews-ash-as-13-earthquakes-raise-eruption-concerns-3231614",
+          "source": "www.turkiyetoday.com"
+        },
+        {
+          "title": "Philippines' Mayon Volcano spews massive ash cloud amid heightened eruption alert",
+          "url": "https://www.aa.com.tr/en/asia-pacific/philippines-mayon-volcano-spews-massive-ash-cloud-amid-heightened-eruption-alert/4109425",
+          "source": "www.aa.com.tr"
+        }
+      ]
+    }
+  ]
+}
