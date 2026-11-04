@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-04",
+  "headline": "Taal Volcano shaken by 30 earthquakes in 24 hours as Mayon displaces nearly 4,000 and Missouri river systems flood across multiple counties.",
+  "overview": "November 4 brings a volatile mix of volcanic unrest, riverine flooding, and tropical cyclone aftermath across three continents. In the Philippines, Taal Volcano logged 30 earthquakes in a single day while nearby Mayon saw its displaced population nearly triple to almost 4,000 individuals. In the United States, the St. Johns River in Florida was upgraded to Major flood stage, a new wave of Flood Warnings swept across Missouri's Platte and Grand river systems, and Alaska's Arctic coast faced Heavy Freezing Spray Warnings with sustained 35-knot winds. Cyclone Murasu's trail of destruction in Andhra Pradesh, India, continues to be assessed.",
+  "events": [
+    {
+      "title": "Taal Volcano \u2014 30 Earthquakes in 24 Hours, Elevated Unrest",
+      "location": "Taal Volcano, Batangas Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Taal Volcano registered 30 volcanic earthquakes in the 24-hour period ending the morning of November 4, 2026, according to PHIVOLCS bulletins cited by the Philippine Inquirer. This spike in seismic activity signals heightened unrest beneath the volcano's caldera and may indicate increased magmatic or hydrothermal activity. Philippine authorities are closely monitoring the situation, particularly given that Mayon Volcano in the same country remains at Alert Level 3.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Taal Volcano logs 30 quakes in past 24 hours",
+          "url": "https://newsinfo.inquirer.net/2335907/taal-volcano-logs-30-quakes-in-past-24-hours",
+          "source": "newsinfo.inquirer.net"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano \u2014 Evacuees Nearly Triple to ~4,000 as Ash Plumes and Explosive Activity Continue",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "The number of people displaced by Mayon Volcano's ongoing eruption has nearly tripled from 1,433 to 3,903 individuals (1,083 families) as of November 4, 2026, according to the Daily Tribune. PHIVOLCS reported 11 volcanic earthquakes in the past 24 hours alongside continued minor explosive activity and ash plume generation, with Alert Level 3 maintained. The sharp increase in evacuees reflects expanding hazard zones as the volcano's activity persists without clear signs of de-escalation.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "St. Johns River Upgraded to Major Flood Stage \u2014 Brevard, Lake, Volusia, Seminole Counties, Florida",
+      "location": "St. Johns River Basin, Central Florida, USA",
+      "type": "weather",
+      "summary": "The St. Johns River near Cocoa was upgraded from Moderate to Major flood stage on November 4, with NWS Melbourne forecasting Major flooding to persist through the weekend across Brevard County. Additional Flood Warnings remain in effect near Astor (affecting Lake and Volusia Counties) at Moderate flood stage, and near Sanford (Seminole County) where levels are climbing into Minor flood stage. The upgrade to Major flood stage marks a significant escalation from prior reports and represents the downstream culmination of days of heavy rainfall across Central and East Florida.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Dramatic rain, flooding in Florida prompt rescues, evacuations",
+          "url": "https://www.usatoday.com/story/news/weather/2026/11/03/dramatic-rain-flooding-in-florida-prompt-rescues-evacuations/92581349007",
+          "source": "www.usatoday.com"
+        },
+        {
+          "title": "Brevard County flooding photos. Heavy rain drenches Space Coast of Florida",
+          "url": "https://www.floridatoday.com/picture-gallery/news/local/2026/11/02/brevard-county-flooding-photos-heavy-rain-drenches-space-coast-of-florida/92560619007",
+          "source": "www.floridatoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Missouri River System Flooding \u2014 Platte, Grand, and 102 Rivers Rising Across Eight Counties",
+      "location": "Platte, Daviess, Livingston, Linn, Carroll, Chariton, Andrew, Nodaway Counties, Missouri, USA",
+      "type": "weather",
+      "summary": "A widespread wave of Flood Warnings was issued and extended across northwest and north-central Missouri on November 4, covering the Platte River near Platte City and Agency, the Grand River, and the 102 River at Rosendale and Maryville \u2014 affecting at least eight counties. The Platte River near Platte City has seen its flooding severity upgraded from Minor to Moderate, with cropland near State Highway 92 beginning to inundate at 20 feet, and warnings extended through Sunday, November 8. The event is a downstream consequence of the multi-day storm system that caused historic flooding across the Southwest and Central US this week.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Cyclone Murasu Aftermath \u2014 Trail of Destruction Assessed in Andhra Pradesh",
+      "location": "Andhra Pradesh Coast, India",
+      "type": "weather",
+      "summary": "Cyclone Murasu, which made landfall on the Andhra Pradesh coast in the early morning of November 3 with wind gusts up to 120 km/h, is now being assessed for damage across affected coastal communities \u2014 the second severe cyclonic storm to strike the region within a single week following Cyclone Arnab. Preliminary reports indicate heavy rainfall and widespread damage to infrastructure and crops, with thousands of people evacuated ahead of the storm's arrival. Recovery and damage assessment operations are ongoing as communities deal with compound impacts from back-to-back cyclones.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Cyclone \u00abMurasu\u00bb has hit India: thousands of people have been evacuated",
+          "url": "https://ukrmedia.news/en/world/tsyklon-murasu-indiia-evakuatsiia-liudei-shtorm-120-km-h",
+          "source": "ukrmedia.news"
+        },
+        {
+          "title": "Cyclone Murasu wreaks havoc in Andhra Pradesh, days after Arnab's deadly impact",
+          "url": "https://www.downtoearth.org.in/climate-change/cyclone-murasu-second-severe-cyclonic-storm-in-a-week-leaves-a-trail-of-destruction-along-andhra-pradesh-coast",
+          "source": "www.downtoearth.org.in"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Wildfire Haze \u2014 Experts Warn of Long-Term Health Risks as Crisis Deepens",
+      "location": "Indonesia (Kalimantan, Sumatra, and other islands)",
+      "type": "wildfire",
+      "summary": "While the acute scale of Indonesia's wildfire haze crisis (1.9 million hectares burned) was reported yesterday, experts are now raising alarms about long-term health consequences, with Mongabay reporting on November 2 that teachers and students face chronic respiratory risks from sustained smoke exposure. Indonesia has established 477 emergency oxygen shelters across affected regions as BMKG continues cloud-seeding operations to suppress fires. The evolving health dimension adds a new layer of severity to what is already a declared public health emergency.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Experts warn of long-term health risks as Indonesia's wildfire haze takes a growing toll",
+          "url": "https://news.mongabay.com/2026/11/experts-warn-of-long-term-health-risks-as-indonesias-wildfire-haze-takes-a-growing-toll",
+          "source": "news.mongabay.com"
+        },
+        {
+          "title": "University of Indonesia urges action on fire-haze health risks",
+          "url": "https://en.antaranews.com/news/439223/university-of-indonesia-urges-action-on-fire-haze-health-risks",
+          "source": "en.antaranews.com"
+        }
+      ]
+    },
+    {
+      "title": "Alaska Arctic Coast \u2014 Heavy Freezing Spray Warning, 35-Knot Winds and Blowing Snow",
+      "location": "Arctic Alaska Coast (Cape Halkett to Flaxman Island), Alaska, USA",
+      "type": "weather",
+      "summary": "NWS Fairbanks issued Heavy Freezing Spray Warnings for Arctic Alaska coastal waters from Cape Halkett to Flaxman Island through November 5, with sustained east winds of 35 knots, seas building to 6\u20137 feet, and blowing snow creating hazardous conditions for maritime operations. The warnings cover both nearshore (out to 15 NM) and offshore (15\u201380 NM) zones, and are distinct from the Gulf of Alaska storm system affecting waters farther south near Cape Suckling and Cape Cleare. Heavy freezing spray poses rapid ice accumulation risks to vessels operating in the region, threatening stability and navigation.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
