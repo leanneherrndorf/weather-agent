@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-05",
+  "headline": "Flash Flood Emergency Declared as Record Ocoee River Levels Trigger Mass Rescues on Georgia-Tennessee Border",
+  "overview": "A catastrophic flash flood emergency struck the Copperhill, Tennessee and McCaysville, Georgia area early Thursday, with the Ocoee River surging to record levels and submerging businesses and homes under several feet of water, prompting dozens of swift-water rescues. Meanwhile, K\u012blauea volcano on Hawaii's Big Island raised its alert level to WATCH as precursory lava overflow signals that Episode 56 fountaining could begin at any moment. Globally, Indonesia's wildfire haze crisis deepened further as the toxic smoke cloud began straining diplomatic relations with neighboring Southeast Asian nations, while a powerful Southeast Alaska storm battered coastal waters with 50-knot winds and seas approaching 28 feet.",
+  "events": [
+    {
+      "title": "Flash Flood Emergency \u2014 Record Ocoee River Flooding, Mass Rescues",
+      "location": "Copperhill, Tennessee & McCaysville, Georgia, USA",
+      "type": "weather",
+      "summary": "The NWS issued a Flash Flood Emergency \u2014 its most severe designation \u2014 for Copperhill, Tennessee and McCaysville, Georgia on the state border early Thursday morning, as the Ocoee River rose to record levels and inundated numerous homes and businesses with several feet of water. Local law enforcement reported catastrophic, widespread flooding still ongoing as of late morning, with at least 20 people rescued from floodwaters. No additional rainfall was expected, but rising river levels and structural inundation were continuing to pose life-threatening danger.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Water rescues, evacuations underway as 'catastrophic flood event' hits North Georgia and southern Tennessee",
+          "url": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
+          "source": "www.cnn.com"
+        },
+        {
+          "title": "At least 20 rescued amid Flash Flood Emergency along Georgia-Tennessee border as river rises to record level",
+          "url": "https://www.foxweather.com/weather-news/water-rescues-flash-flood-emergency-georgia-tennessee-border-river-record",
+          "source": "www.foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Volcano \u2014 Alert Raised to WATCH, Episode 56 Fountaining Imminent",
+      "location": "Halema\u02bbuma\u02bbu Crater, K\u012blauea, Hawaii, USA",
+      "type": "volcano",
+      "summary": "The USGS Hawaiian Volcano Observatory raised K\u012blauea's alert level to WATCH after precursory lava overflows in Halema\u02bbuma\u02bbu Crater signaled that Episode 56 of the ongoing eruption sequence could begin fountaining within hours to days. K\u012blauea has now produced 55 lava fountain episodes since December 2024, and scientists say the magma chamber reinfillation pattern following Episode 55 matches prior cycles closely, making a new high-intensity fountaining episode increasingly likely. The eruption is confined within Hawai\u02bbi Volcanoes National Park and poses no immediate threat to populated areas, though the WATCH status indicates elevated hazard.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "K\u012blauea Alert Raised to WATCH as Lava Overflows Signal Episode 56 Fountaining Could Begin Any Time",
+          "url": "https://www.natureworldnews.com/articles/73723/20261104/kilauea-alert-raised-watch-lava-overflows-signal-episode-56-fountaining-could-begin-any-time.htm",
+          "source": "www.natureworldnews.com"
+        },
+        {
+          "title": "Precursory eruptive activity begins ahead of episode 56 of the ongoing Halema\u02bbuma\u02bbu eruption at K\u012blauea",
+          "url": "https://mauinow.com/2026/11/02/precursory-eruptive-activity-begins-ahead-of-episode-56-of-the-ongoing-halema%CA%BBuma%CA%BBu-eruption-at-kilauea",
+          "source": "mauinow.com"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia Wildfire Haze \u2014 Crisis Triggers Regional Diplomatic Tensions",
+      "location": "Kalimantan, Sumatra, and other islands, Indonesia",
+      "type": "wildfire",
+      "summary": "Indonesia's wildfire haze crisis, which has already burned approximately 1.9 million hectares and driven a public health emergency, has now escalated into a regional diplomatic flashpoint as toxic smoke continues to blanket neighboring Southeast Asian nations. BBC and other international outlets are reporting that affected governments are increasing pressure on Jakarta to accelerate fire suppression efforts, adding a geopolitical dimension to what was already one of the worst haze events in years. Weather station data from Jakarta confirms an extreme heat reading of 37\u00b0C on November 5, consistent with the hot, dry conditions enabling continued burning.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o",
+          "source": "www.bbc.co.uk"
+        }
+      ]
+    },
+    {
+      "title": "Southeast Alaska Marine Storm \u2014 50-Knot Winds, 28-Foot Seas",
+      "location": "Southeast Alaska Coast (Dixon Entrance to Cape Edgecumbe), Alaska, USA",
+      "type": "weather",
+      "summary": "The NWS office in Juneau issued Storm Warnings across multiple Southeast Alaska coastal zones on November 5, covering waters from Dixon Entrance north to Cape Edgecumbe and extending 80\u201390 nautical miles offshore, with southeast winds of 40\u201350 knots, gusts reaching 60 knots in Clarence Strait, and seas of 23\u201328 feet. High Wind Warnings were also posted for Ketchikan Gateway Borough and Annette Island, where gusts up to 65 mph were expected to cause property damage and power outages. This represents a distinct and powerful new storm system affecting Southeast Alaska's coastal communities and maritime traffic, separate from the Arctic coast freezing spray events of recent days.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "M 5.1 Earthquake Near Masumbwe, Tanzania",
+      "location": "19 km NNW of Masumbwe, Geita Region, Tanzania",
+      "type": "earthquake",
+      "summary": "A magnitude 5.1 earthquake struck 19 kilometers north-northwest of Masumbwe in Tanzania's Geita Region at 09:22 UTC on November 5, at a shallow depth of 10 kilometers, amplifying ground shaking in the area. The event was felt by at least 16 people according to USGS reports, and occurred within the East African Rift System, a seismically active zone prone to shallow crustal earthquakes. No tsunami alert was issued and USGS assigned no formal impact alert level, but the shallow depth and proximity to Masumbwe \u2014 a town of approximately 50,000 residents \u2014 makes this the most locally impactful seismic event in the global dataset for the day.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong Mag. 5.1 Earthquake \u2014 21 km East of Ushirombo, Geita, Tanzania, on Thursday, Nov 5, 2026",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23608674/quake-felt-Nov-5-2026-Near-Kigali-Kigali-Rwanda.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano \u2014 Sustained Humanitarian Response as Displacement Continues",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano remains at PHIVOLCS Alert Level 3 as of November 5, with ash plumes reaching up to 1.6 kilometers and ongoing explosive activity maintaining the threat of lava flows and pyroclastic surges. The Albay provincial government has moved to formalize sustained humanitarian aid for the nearly 4,000 displaced residents sheltering in evacuation centers, signaling that authorities anticipate the emergency continuing for an extended period. The volcano's hazard zone remains enforced, and no escalation to Alert Level 4 has been announced, but the transition from emergency response to sustained displacement support marks a significant development in the crisis.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Albay readies sustained aid for Mayon-displaced families",
+          "url": "https://www.pna.gov.ph/article/albay-readies-sustained-aid-for-mayon-displaced-families",
+          "source": "www.pna.gov.ph"
+        }
+      ]
+    },
+    {
+      "title": "Super El Ni\u00f1o Reaches Historic +3.4\u00b0C SST Anomaly \u2014 Global Weather Driver",
+      "location": "Global (Tropical Pacific Ocean)",
+      "type": "other",
+      "summary": "The 2026 El Ni\u00f1o event has intensified to a historic +3.4\u00b0C sea surface temperature anomaly in the tropical Pacific \u2014 a level being described as 'Super El Ni\u00f1o' \u2014 with climate models projecting the peak anomaly to arrive in November or December 2026. Scientists warn the event is a key amplifier behind many of the extreme weather events currently unfolding globally, including intensified drought and fire conditions across Southeast Asia, abnormal rainfall patterns in the Americas, and elevated risk of a record-warm 2026. The IRI climate model ensemble projects anomalies approaching +3.5\u00b0C for the October\u2013December quarter, which would be unprecedented in the modern observational record.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
