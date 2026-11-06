@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-06",
+  "headline": "Red Flag Warning Issued for Los Angeles and Ventura Counties as Santa Ana Winds and Heat Wave Raise Extreme Fire Risk Through Saturday",
+  "overview": "A dangerous combination of strengthening Santa Ana winds, low humidity, and unseasonable warmth is driving extreme fire weather conditions across Southern California through the weekend, while a M6.1 earthquake struck off Japan's Pacific coast today and a rare wildfire spread to nearly 1,000 acres in New Hampshire's White Mountains. Flooding emergencies continue across multiple US states from Florida to New Jersey, and ongoing volcanic activity at K\u012blauea and Mayon keeps alert levels elevated in Hawaii and the Philippines.",
+  "events": [
+    {
+      "title": "Red Flag Warning \u2014 Santa Ana Winds and Extreme Fire Risk",
+      "location": "Los Angeles and Ventura Counties, Southern California, USA",
+      "type": "wildfire",
+      "summary": "The National Weather Service issued a Red Flag Warning for the Santa Clarita Valley, Santa Monica Mountains, Santa Susana Mountains, and western San Gabriel Mountains through Saturday evening, November 7, as Santa Ana winds are forecast to peak with gusts of 30\u201345 mph, accompanied by very low relative humidity and warming temperatures. Conditions are expected to allow rapid fire growth and extreme fire behavior with any new ignition, particularly late Friday night through Saturday. The event coincides with a broader heat wave arriving in Southern California and elevated wildfire risk across the urban-wildland interface of one of the most densely populated regions in the US.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "M 6.1 Earthquake \u2014 Off Japan's Pacific Coast Near Hasaki",
+      "location": "144 km SE of Hasaki, Japan",
+      "type": "earthquake",
+      "summary": "A magnitude 6.1 earthquake struck 144 km southeast of Hasaki, Japan at 10:39 UTC on November 6, at a depth of 29 km, generating shaking reported across multiple prefectures along Japan's Pacific coast. USGS assigned a green alert level and no tsunami alert was issued, but 27 felt reports were logged, indicating the event was widely perceived. The quake occurred in a seismically active subduction zone offshore of Honshu, and no significant damage reports had emerged as of the time of this report.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Magnitude 6.1 Earthquake Strikes Off Japan's Pacific Coast \u2014 6 November 2026",
+          "url": "https://www.facebook.com/Abovethenormnews/posts/-magnitude-61-earthquake-strikes-off-japans-pacific-coast-6-november-2026-1039-u/1121755860658073",
+          "source": "www.facebook.com"
+        }
+      ]
+    },
+    {
+      "title": "Wild River Fire \u2014 Rare Wildfire Spreads to ~1,000 Acres in White Mountains",
+      "location": "White Mountain National Forest, near Gorham, New Hampshire, USA",
+      "type": "wildfire",
+      "summary": "A wildfire in the White Mountain National Forest near Gorham, New Hampshire grew to nearly 1,000 acres, an exceptionally rare event for a region where large wildfires are almost unheard of. Local fire officials described the blaze as unlike anything in recent memory for the area, noting that wildfires of this scale do not occur in the White Mountains under normal conditions. The cause and containment status are under active assessment by forest fire crews.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Wild River Fire burns nearly 1,000 acres in White Mountain National Forest",
+          "url": "https://www.wcax.com/2026/11/05/wild-river-fire-burns-nearly-1000-acres-white-mountain-national-forest",
+          "source": "www.wcax.com"
+        },
+        {
+          "title": "Wild River Fire near Gorham spreads to 1,000 acres | New Hampshire Public Radio",
+          "url": "https://www.nhpr.org/wildfire-whitemountains-gorham-white-mountains-newhampshire",
+          "source": "www.nhpr.org"
+        }
+      ]
+    },
+    {
+      "title": "K\u012blauea Episode 56 \u2014 Lava Fountaining Ends After ~6 Hours",
+      "location": "Halema\u02bbuma\u02bbu Crater, K\u012blauea, Hawaii, USA",
+      "type": "volcano",
+      "summary": "Episode 56 of K\u012blauea's ongoing episodic eruption began at approximately 12:10 p.m. HST on November 5 and ended abruptly at 6:01 p.m. HST \u2014 lasting roughly six hours of lava fountaining at Halema\u02bbuma\u02bbu Crater before ceasing. This marks a notable resolution from yesterday's elevated WATCH alert status issued by the Hawaiian Volcano Observatory, which had anticipated imminent fountaining. The eruption remains within the confines of Hawai\u02bbi Volcanoes National Park and poses no direct threat to populated areas; however, the ongoing episodic eruption cycle \u2014 now in its 56th episode since December 2024 \u2014 continues to be closely monitored.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "K\u012blauea episode 56 ends abruptly after nearly 6 hours of lava fountaining, Hawaii",
+          "url": "https://watchers.news/2026/11/06/kilauea-episode-56-ends-abruptly-after-nearly-6-hours-of-lava-fountaining-hawaii",
+          "source": "watchers.news"
+        },
+        {
+          "title": "UPDATE: Lava fountains cease as Episode 56 of ongoing episodic eruption of K\u012blauea volcano comes to end on Big Island",
+          "url": "https://bigislandnow.com/2026/11/05/update-lava-fountains-cease-as-episode-56-of-ongoing-episodic-eruption-of-kilauea-volcano-comes-to-end-on-big-island",
+          "source": "bigislandnow.com"
+        }
+      ]
+    },
+    {
+      "title": "Flash Flooding \u2014 New Jersey Coast and Northeast US",
+      "location": "Monmouth and Ocean Counties, New Jersey, USA",
+      "type": "weather",
+      "summary": "A Flash Flood Warning was issued this morning for Monmouth and Ocean Counties in New Jersey after more than 3 inches of rain fell in a short period, closing major roadways including NJ-35 in Belmar, NJ-71 in Manasquan, and ramps along I-195 in Wall Township. PSE&G reported over 15,600 customers without power across New Jersey, with additional outages logged by JCP&L. A broader Flood Watch was also active across southeastern Massachusetts and Rhode Island through Saturday morning, as a frontal system tracked up the Northeast coastline.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Flash flood warning in effect for Monmouth and Ocean counties as heavy rain pounds the region",
+          "url": "https://newjersey.news12.com/flash-flood-warning-in-effect-for-monmouth-and-ocean-counties-as-heavy-rain-pounds-the-region",
+          "source": "newjersey.news12.com"
+        },
+        {
+          "title": "NJ weather alert: Flash flood warning issued for 3 counties",
+          "url": "https://www.app.com/story/news/2026/11/06/flash-flood-warning-issued-for-parts-of-monmouth-ocean-counties/92639533007",
+          "source": "www.app.com"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano \u2014 Massive Ash Cloud, 13 Earthquakes, Sustained Displacement",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano continues to escalate its eruptive activity, with fresh reports of a massive ash cloud ejected to significant altitude and 13 volcanic earthquakes recorded in the latest 24-hour monitoring window, adding to concerns about a more explosive phase. Thousands of evacuees remain displaced across Albay Province with humanitarian operations ongoing. Philippine authorities have maintained elevated alert levels, and ashfall continues to affect surrounding municipalities.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Philippines' Mayon Volcano spews massive ash cloud amid heightened eruption alert",
+          "url": "https://www.aa.com.tr/en/asia-pacific/philippines-mayon-volcano-spews-massive-ash-cloud-amid-heightened-eruption-alert/4109425",
+          "source": "www.aa.com.tr"
+        },
+        {
+          "title": "Philippines' Mayon Volcano spews ash as 13 earthquakes raise eruption concerns",
+          "url": "https://www.turkiyetoday.com/world/philippines-mayon-volcano-spews-ash-as-13-earthquakes-raise-eruption-concerns-3231614",
+          "source": "www.turkiyetoday.com"
+        }
+      ]
+    },
+    {
+      "title": "Pacific Northwest Storm Watch \u2014 50-Knot Gusts and 26-Foot Seas Incoming",
+      "location": "Washington and Oregon Coast (Cape Flattery to Cape Falcon), USA",
+      "type": "weather",
+      "summary": "The National Weather Service has issued Storm Watches for Washington and Oregon coastal waters from Cape Flattery to Cape Falcon, with dangerous conditions expected to arrive Saturday, November 7 through Sunday, November 8. Forecast conditions include south winds of 30\u201340 knots with gusts to 50 knots and seas of 21\u201326 feet, posing a significant hazard to maritime operations and coastal communities. The system is associated with the active El Ni\u00f1o-enhanced atmospheric river pattern and follows a week of elevated storm activity along the Pacific Coast.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    }
+  ]
+}
