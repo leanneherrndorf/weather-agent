@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-07",
+  "headline": "Pacific Northwest storm batters Washington and Oregon coasts with 50-knot gusts and 28-foot seas as multiple severe weather threats unfold across the US and Philippines.",
+  "overview": "A powerful Pacific storm made landfall along the Washington and Oregon coasts today, generating Storm Warnings with hurricane-force gusts and seas up to 28 feet. Simultaneously, Central Florida's St. Johns River is cresting into major flood stage across five counties, the Southern California Santa Ana wind event is peaking with Red Flag Warnings in force, and Mayon Volcano in the Philippines is on the cusp of a potential Alert Level 4 escalation. Globally, significant seismic activity continued near Japan, and extreme marine icing threatened vessel safety across Arctic Alaska waters.",
+  "events": [
+    {
+      "title": "Pacific Northwest Storm Makes Landfall \u2014 50-Knot Gusts, 28-Foot Seas Hit WA and OR Coasts",
+      "location": "Washington and Oregon Coast (Cape Flattery to Columbia River Bar), USA",
+      "type": "weather",
+      "summary": "A major Pacific storm system made landfall along the Pacific Northwest coast today, with the NWS issuing Storm Warnings from Cape Flattery south through the Columbia River Bar, where southwest winds of 30\u201340 knots with gusts to 50 knots are generating seas of 23\u201328 feet. High Wind Warnings are also in effect for the Grays Harbor and northern Washington coasts, with onshore gusts up to 60 mph threatening to topple trees and cause widespread power outages. The storm is bringing heavy rain, strong winds, and significant mountain snow to the Cascades, with impacts expected to persist into Sunday.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "St. Johns River Crests Into Major Flood Stage \u2014 Dozens of Homes Flooded Across Central Florida",
+      "location": "Brevard, Seminole, Volusia, Lake, and DeSoto Counties, Florida, USA",
+      "type": "weather",
+      "summary": "The St. Johns River has risen to major flood stage near Cocoa (Brevard County), with active Flood Warnings in effect across five Florida counties and the Peace River at Arcadia also in major flood stage \u2014 where up to 60 homes are already inundated. Exceptional rainfall over the river's headwaters has driven sustained rises, and forecasters warn the St. Johns will continue climbing through major flood stage into early next week before cresting. Downstream impacts across Seminole, Volusia, and Lake counties are expanding, with floodwaters encroaching on roads, homes, and community facilities.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "St. Johns River in Brevard to crest in major flood stage",
+          "url": "https://www.clickorlando.com/weather/2026/11/05/st-johns-river-in-brevard-to-crest-in-major-flood-stage",
+          "source": "clickorlando.com"
+        },
+        {
+          "title": "After heavy rain, counties prepare for more flooding from the St. Johns River",
+          "url": "https://www.cfpublic.org/environment/2026-11-04/after-heavy-rain-counties-prepare-for-more-flooding-from-the-st-johns-river",
+          "source": "cfpublic.org"
+        }
+      ]
+    },
+    {
+      "title": "Santa Ana Winds Peak \u2014 Red Flag Warning at Maximum Intensity, Thousands Face Power Shutoffs",
+      "location": "Los Angeles and Ventura Counties, Southern California, USA",
+      "type": "weather",
+      "summary": "Saturday marks the peak day of the current Santa Ana wind event, with an active Red Flag Warning in effect until 6 PM PST for the Santa Clarita Valley, Santa Monica Mountains, Santa Susana Mountains, and Western San Gabriel Mountains, where gusts of 30\u201345 mph and minimum relative humidities as low as 8% create conditions for rapid, uncontrollable fire spread. Weather data confirms Los Angeles hit 29.8\u00b0C with zero precipitation today \u2014 anomalously warm for early November. Southern California Edison and other utilities have initiated proactive public safety power shutoffs for thousands of customers in the most exposed fire-risk zones.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "South Texas / Rio Grande Valley Flood Watch \u2014 Multi-Day Heavy Rain Threat Through Monday",
+      "location": "South Texas and Rio Grande Valley, USA",
+      "type": "weather",
+      "summary": "The NWS issued a Flood Watch through Monday noon for a large swath of South Texas including Webb, Duval, Jim Wells, Nueces, San Patricio, and adjoining coastal counties, as a slow-moving cold front drives prolonged thunderstorm activity. Forecasters warn some storms could produce rainfall at rates as high as 9 inches per hour, raising the risk of significant flash flooding and river rises across the Rio Grande Valley. The multi-day duration of the threat, combined with already saturated soils in parts of the region, heightens the potential for life-threatening flood conditions.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Cold front may bring severe weather to Texas \u2014 here's where",
+          "url": "https://www.mysanantonio.com/news/weather/article/cold-front-texas-flood-22516303.php",
+          "source": "mysanantonio.com"
+        },
+        {
+          "title": "Heavy Rain and Flooding Possible Across Rio Grande Valley This Weekend",
+          "url": "https://texasborderbusiness.com/heavy-rain-and-flooding-possible-across-rio-grande-valley-this-weekend",
+          "source": "texasborderbusiness.com"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano \u2014 PHIVOLCS Warns of Possible Alert Level 4 Escalation",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Philippine volcanology agency PHIVOLCS has issued a formal warning that Mayon Volcano's ongoing unrest could escalate to Alert Level 4 \u2014 signifying a hazardous eruption in progress \u2014 from its current Level 3. The volcano continues to generate volcanic earthquakes, sustained lava activity, and large ash emissions, with a 6-kilometer permanent danger zone keeping thousands of residents displaced. The potential Level 4 upgrade would trigger broader evacuation protocols and signal a marked increase in eruptive intensity, making this one of the most closely watched volcanic situations globally.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Philippines' Mayon Volcano spews massive ash cloud amid heightened eruption alert",
+          "url": "https://www.aa.com.tr/en/asia-pacific/philippines-mayon-volcano-spews-massive-ash-cloud-amid-heightened-eruption-alert/4109425",
+          "source": "aa.com.tr"
+        }
+      ]
+    },
+    {
+      "title": "Arctic Alaska \u2014 Extreme Freezing Spray Warnings Span Entire Beaufort and Chukchi Sea Coasts",
+      "location": "Arctic Alaska Coastal Waters (Cape Krusenstern to Demarcation Point), USA",
+      "type": "weather",
+      "summary": "The NWS Fairbanks has issued Heavy Freezing Spray Warnings \u2014 including zones rated 'Extreme' \u2014 across virtually the entire Arctic Alaska coastline, from Cape Krusenstern and Cape Thompson in the west to Flaxman Island and Demarcation Point in the east. Northeast winds of 25\u201340 knots are driving seas of 4\u201311 feet in near-freezing seawater, producing rapid and dangerous ice accumulation on vessel hulls and superstructures that can cause capsizing. With blowing snow compounding visibility hazards, marine operations in the region face life-threatening conditions expected to persist through Sunday.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "M 5.5 Earthquake \u2014 Off Japan's Pacific Coast Near Hasaki (New Event)",
+      "location": "74 km NE of Hasaki, Japan (North Pacific Ocean)",
+      "type": "earthquake",
+      "summary": "A magnitude 5.5 earthquake struck the North Pacific Ocean approximately 74 km northeast of Hasaki, Chiba Prefecture, at 11:07 UTC (8:07 PM local time) on November 7, at a depth of 31.7 km. The USGS assigned a green alert level and no tsunami warning was issued, but 19 felt reports were recorded, indicating the quake was perceptible to residents in the Chiba and Ibaraki areas. This is a distinct event from yesterday's M 6.1 at a different epicenter southeast of Hasaki, and continues a pattern of elevated seismic activity in Japan's offshore Pacific zone.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Strong mag. 5.5 earthquake - North Pacific Ocean, Chiba, 91 km east of Mito, Ibaraki, Japan, on Saturday, Nov 7, 2026",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23614345/quake-felt-Nov-7-2026-Near-Chiba-Chiba-Japan.html",
+          "source": "volcanodiscovery.com"
+        }
+      ]
+    }
+  ]
+}
