@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-08",
+  "headline": "Extreme Winds Lash Northern Montana with Near-Hurricane Gusts as a Major Gulf of Alaska Storm Threatens 40-Foot Seas",
+  "overview": "A powerful downslope windstorm is battering northern Montana with gusts recorded up to 96 mph at East Glacier, while a deepening low-pressure system is building storm-force conditions across the entire Gulf of Alaska with seas forecast to reach 35\u201340 feet by Monday. Overseas, Mayon Volcano in the Philippines continues an intensifying eruption at Alert Level 3, and Mount Bromo in Indonesia produced its first eruption of 2026 this week. South Texas remains under active flood watches and warnings from days of heavy rainfall.",
+  "events": [
+    {
+      "title": "Extreme Downslope Winds Batter Northern Montana \u2014 Gusts Near 100 MPH",
+      "location": "East Glacier Park Region and Northern High Plains, Montana, USA",
+      "type": "weather",
+      "summary": "A High Wind Warning is in effect across a broad swath of northern Montana, with NWS Great Falls forecasting west winds of 35\u201355 mph and gusts up to 95 mph, with isolated gusts around 100 mph. A 96 mph gust was already recorded at East Glacier and 95 mph at Deep Creek, reaching hurricane-force intensity. Widespread power outages, downed trees, and dangerous travel conditions are expected, with the warning running through 8 PM MST Sunday.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "96 mph wind gust hits East Glacier, Montana (Nov 2026)",
+          "url": "https://www.facebook.com/themontanadaily/posts/%EF%B8%8F-96-mph-the-front-clocks-a-monster-gusteast-glacier-saturday-nov-7-hurricane-fo/1470217788538603",
+          "source": "www.facebook.com"
+        },
+        {
+          "title": "Zone Area Forecast for East Glacier Park Region",
+          "url": "https://forecast.weather.gov/MapClick.php?zoneid=MTZ301",
+          "source": "forecast.weather.gov"
+        }
+      ]
+    },
+    {
+      "title": "Major Gulf of Alaska Storm \u2014 Storm Warnings Span Entire Gulf, 40-Foot Seas Forecast",
+      "location": "Gulf of Alaska and Southeast Alaska Coastal Waters, USA",
+      "type": "weather",
+      "summary": "A powerful low-pressure system is intensifying over the Gulf of Alaska, prompting Storm Warnings from NWS Juneau and NWS Anchorage across the entire Gulf \u2014 from Cape Suckling and Cape Cleare through the offshore waters east and west of 144\u00b0W. Winds are expected to reach 35\u201360 knots with gusts to 70 knots, and seas are forecast to build to 34\u201340 feet in exposed offshore zones by Monday. High Wind Watches have also been issued for coastal southeast Alaska communities including Sitka and Prince of Wales Island, where gusts up to 60 mph are possible.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "Mayon Volcano \u2014 Largest PDCs of 2026 Eruption, Alert Level 3 Maintained",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano generated its largest pyroclastic density currents (PDCs) of the 2026 eruption episode, with ashfall reported in the municipalities of Camalig and Guinobatan. PHIVOLCS has maintained Alert Level 3 and has not yet escalated to Level 4, but continues to warn that a stronger eruption is possible given elevated sulfur dioxide emissions and signs of fresh magma intrusion. The 6 km Permanent Danger Zone remains closed to entry, and thousands of residents in surrounding barangays remain under displacement orders.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mount Bromo Erupts \u2014 500-Meter Ash Column, Tourist Zone Restrictions Imposed",
+      "location": "Probolinggo Regency, East Java, Indonesia",
+      "type": "volcano",
+      "summary": "Mount Bromo in East Java erupted on November 5, 2026, sending an ash column approximately 500 meters above its crater in the volcano's first recorded eruption of the year. Indonesian authorities placed the volcano at Alert Level II and imposed a 1 km exclusion zone around the crater, while Bromo Tengger Semeru National Park management kept the broader tourist area open with restricted access. No casualties have been reported, but the eruption is being closely monitored given Bromo's history of intensifying activity.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": []
+    },
+    {
+      "title": "M 5.5 Earthquake Near Hamakita \u2014 Strong Shaking Felt Across Shizuoka Prefecture, Japan",
+      "location": "10 km NW of Hamakita, Shizuoka Prefecture, Japan",
+      "type": "earthquake",
+      "summary": "A magnitude 5.5 earthquake struck 10 km northwest of Hamakita in Shizuoka Prefecture at 16:04 UTC on November 7 (01:04 JST November 8), at a depth of 38 km. The event was felt by at least 71 people, with shaking intensity reaching Shindo 5 (JMA scale) \u2014 equivalent to MMI VI \u2014 in parts of the region lying between Nagoya and the Izu Peninsula. No tsunami alert was issued and USGS assigned a green alert level, but the quake's location near the densely populated Tokai corridor drew attention given the region's long-recognized seismic risk.",
+      "severity": "moderate",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Japan Earthquake 2026: 5.7 magnitude quake hits near mount Fuji, JMA warns of more tremors",
+          "url": "https://www.moneycontrol.com/science/japan-earthquake-2026-5-7-magnitude-quake-hits-near-mount-fuji-jma-warns-of-more-tremors-article-14074759.html",
+          "source": "www.moneycontrol.com"
+        },
+        {
+          "title": "Strong Mag. 5.5 Earthquake - Shizuoka, 80 km Southeast of Nagoya, Japan",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23614914/quake-felt-Nov-7-2026-Near-Tokyo-Tokyo-Japan.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ]
+    },
+    {
+      "title": "South Texas Flash Flooding \u2014 Active Warnings and Watches Persist Through Sunday",
+      "location": "South Texas and Rio Grande Valley, USA",
+      "type": "weather",
+      "summary": "A Flash Flood Warning was issued by NWS Corpus Christi early Sunday for southeastern Duval, southwestern Jim Wells, and northwestern Kleberg counties, with Doppler radar and rain gauges confirming thunderstorms producing dangerous runoff. A broader Flood Watch extending through Monday morning covers a large portion of Deep South Texas including Starr, Zapata, Brooks, and Jim Hogg counties, as well as coastal and inland zones along the Nueces and San Patricio area. This multi-day rainfall event has now delivered over 5 inches of rain to some areas and continues the significant flooding threat reported over the preceding days.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "South Texas could see 5 inches as flood danger grows overnight",
+          "url": "https://rollingout.com/2026/11/06/flash-flood-warning-rain-south-texas",
+          "source": "rollingout.com"
+        },
+        {
+          "title": "Heavy Rain and Flooding Possible Across Rio Grande Valley This Weekend",
+          "url": "https://texasborderbusiness.com/heavy-rain-and-flooding-possible-across-rio-grande-valley-this-weekend",
+          "source": "texasborderbusiness.com"
+        }
+      ]
+    },
+    {
+      "title": "Wild River Fire \u2014 Holds Near 856 Acres, Remains Largest in White Mountain National Forest Memory",
+      "location": "White Mountain National Forest, near Gorham, New Hampshire, USA",
+      "type": "wildfire",
+      "summary": "The Wild River Fire near Gorham, New Hampshire has stabilized at approximately 856 acres after growing to nearly 1,000 acres earlier in the week, but remains the largest wildfire in recorded history for the White Mountain National Forest. Fire managers have held containment lines, though the fire continues to burn in rugged backcountry terrain where direct access is extremely difficult. The Appalachian Trail in the affected area remains closed, and the fire's persistence in an early-November New England forest is being described by officials as highly unusual.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wild River fire near Gorham reduced to 856 acres",
+          "url": "https://www.unionleader.com/news/local-news/wild-river-fire-near-gorham-reduced-to-856-acres-1ca9996c",
+          "source": "www.unionleader.com"
+        },
+        {
+          "title": "Appalachian Trail Threatened by 'Uncommonly' Large Wildfire in White Mountains",
+          "url": "https://www.backpacker.com/news-and-events/news/appalachian-trail-threatened-by-uncommonly-large-wildfire-in-white-mountains",
+          "source": "www.backpacker.com"
+        }
+      ]
+    }
+  ]
+}
