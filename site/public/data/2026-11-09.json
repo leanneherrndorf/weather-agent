@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-09",
+  "headline": "Shallow M 6.4 Earthquake Strikes Solomon Islands as Major Gulf of Alaska Storm Delivers 42-Foot Seas and Thompson Pass Blizzard",
+  "overview": "A shallow magnitude 6.4 earthquake struck the Santa Cruz Islands of the Solomon Islands on November 9, triggering no tsunami but rattling a seismically active region. Simultaneously, a powerful Pacific storm system continued to batter Alaska \u2014 generating seas up to 42 feet and gusts to 75 knots across the Gulf of Alaska and Southeast Alaska coastal waters, while a Blizzard Warning blanketed Thompson Pass with up to 16 inches of snow. Elsewhere, the St. Johns River in Florida remained at Major flood stage, Purac\u00e9 volcano in Colombia issued new ash advisories, and the Wild River Fire in New Hampshire grew toward 1,000 acres while reaching 20% containment.",
+  "events": [
+    {
+      "title": "M 6.4 Earthquake Strikes Santa Cruz Islands \u2014 Solomon Islands",
+      "location": "Santa Cruz Islands, Solomon Islands",
+      "type": "earthquake",
+      "summary": "A strong, shallow magnitude 6.4 earthquake struck approximately 30 km west-southwest of Lata in the Santa Cruz Islands at 03:34 UTC on November 9, at a depth of only 17 km. The shallow depth amplifies ground shaking intensity, and the event was followed roughly 102 minutes later by an M 4.8 aftershock in the same area. USGS assigned a green alert level and no tsunami alert was issued, though the Solomon Islands sit within one of the world's most seismically active zones.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Strong and shallow M6.4 earthquake hits Santa Cruz Islands, Solomon Islands",
+          "url": "https://watchers.news/2026/11/09/strong-and-shallow-m6-4-earthquake-hits-santa-cruz-islands-solomon-islands",
+          "source": "watchers.news"
+        },
+        {
+          "title": "Moderate Mag. 4.8 Earthquake - Coral Sea, 27 km Southwest of Lata, Temotu Province, Solomon Islands",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23619574/mag4quake-Nov-9-2026-26-km-SW-of-Lata-Solomon-Islands.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "Gulf of Alaska / Southeast Alaska Major Storm \u2014 42-Foot Seas, 75-Knot Gusts, Thompson Pass Blizzard",
+      "location": "Gulf of Alaska and Southeast Alaska, USA",
+      "type": "weather",
+      "summary": "A powerful Pacific storm system is producing some of the most dangerous maritime conditions of the season across the Gulf of Alaska and Southeast Alaska coastal waters on November 9, with Storm Warnings spanning every offshore zone from Dixon Entrance to Icy Cape. Seas are forecast to reach 37\u201342 feet in the Cape Fairweather to Icy Cape offshore corridor, with gusts up to 75 knots reported from the Icy Cape to Cape Suckling zone. Onshore, a concurrent Blizzard Warning at Thompson Pass calls for 8\u201316 inches of snow and 45 mph gusts with visibility reduced to as low as one-quarter mile \u2014 marking a significant intensification of the multi-day Alaska storm threat.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Alaska Faces 12 Inches of Snow and 70 Mph Winds in New Winter Storm Watches",
+          "url": "https://www.aol.com/articles/alaska-faces-12-inches-snow-002500000.html",
+          "source": "www.aol.com"
+        },
+        {
+          "title": "Is there a winter storm warning today? Only one in the US, in Alaska, as a Northeast storm brews",
+          "url": "https://www.nacionale.com/en/articles/is-there-a-winter-storm-warning-today-alaska-only-northeast-storm-november-9-2026",
+          "source": "www.nacionale.com"
+        }
+      ]
+    },
+    {
+      "title": "St. Johns River at Major Flood Stage \u2014 Central Florida Flooding Persists",
+      "location": "Brevard, Seminole, Lake, Volusia, and DeSoto Counties, Florida, USA",
+      "type": "weather",
+      "summary": "The St. Johns River west of Cocoa in Brevard County is confirmed at Major flood stage as of the morning of November 9, with water levels expected to remain steady at or near Major flood stage through the week. Flood Warnings also continue for the river near Astor (Lake and Volusia Counties) at Moderate flood stage, and further downstream near Geneva above Lake Harney (Seminole County), where levels have the potential to approach Major flood stage next week. The Peace River at Arcadia in DeSoto County is separately under Flood Warning through Friday, November 14, with Moderate flooding ongoing.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Salt River Flooding Continues \u2014 Dam Releases Sustain Flood Warning Through Wednesday",
+      "location": "Maricopa County, Arizona, USA",
+      "type": "weather",
+      "summary": "A Flood Warning remains active for the Salt River below Granite Reef Dam in Maricopa County through 11:00 AM MST Wednesday, November 11, as controlled dam releases continue to sustain elevated river levels. Flooding is occurring along low-water crossings of the Salt River upstream of Tempe Town Lake, including McKellips Road, disrupting travel across the Phoenix metropolitan area. The flooding traces back to a chain of upstream dam releases triggered by significant rainfall earlier in November.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Dam releases keep Salt and Gila River flooding going in Maricopa County",
+          "url": "https://www.usairnet.com/weather/news/2026/11/20261106-050105-maricopa-county-salt-gila-river-dam-release-flooding-november-2026",
+          "source": "www.usairnet.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "Purac\u00e9 Volcano Issues Repeated Ash Advisories \u2014 Continuing Eruptive Activity, Colombia",
+      "location": "Cauca Department, Colombia",
+      "type": "volcano",
+      "summary": "Purac\u00e9 volcano in the Colombian Andes has generated multiple volcanic ash emission advisories between November 6 and November 8, 2026, with ash cloud heights unobservable due to meteorological cloud cover but confirmed through ground reports and dispersion model forecasts. The activity is consistent with a continuing eruptive episode that began in late October 2026, according to VolcanoDiscovery reports. Purac\u00e9 is an active stratovolcano situated in a densely vegetated and sparsely monitored region; its ongoing ash emissions pose a hazard to aviation and downwind communities.",
+      "severity": "moderate",
+      "articles": [],
+      "continuing": false
+    },
+    {
+      "title": "Wild River Fire Approaches 1,000 Acres \u2014 20% Contained, Appalachian Trail Threatened",
+      "location": "White Mountain National Forest, near Gorham, New Hampshire, USA",
+      "type": "wildfire",
+      "summary": "The Wild River Fire in White Mountain National Forest has grown to nearly 1,000 acres, up from the 856 acres reported the previous day, remaining the largest wildfire in memory for the forest. As of November 7, crews had achieved 20% containment, a first measurable foothold against the blaze, though the fire continues to threaten the Appalachian Trail corridor. The fire's unusual size for a November blaze in New England underscores the increasingly extended fire season in the northeastern United States.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Appalachian Trail Threatened by 'Uncommonly' Large Wildfire in White Mountains",
+          "url": "https://www.backpacker.com/news-and-events/news/appalachian-trail-threatened-by-uncommonly-large-wildfire-in-white-mountains",
+          "source": "www.backpacker.com"
+        }
+      ]
+    },
+    {
+      "title": "Arctic Alaska Extreme Freezing Spray \u2014 Escalating Through Beaufort and Chukchi Sea Zones",
+      "location": "Arctic Alaska Coastal and Offshore Waters (Cape Beaufort to Demarcation Point), USA",
+      "type": "weather",
+      "summary": "Heavy and Extreme Freezing Spray Warnings are active across nearly all Arctic Alaska coastal and offshore water zones on November 9, with conditions forecast to intensify through Tuesday. Multiple zones from Cape Beaufort to Demarcation Point are under Extreme Freezing Spray conditions, with easterly winds of 30\u201340 knots, seas of 6\u201313 feet, and blowing snow reducing visibility \u2014 creating life-threatening icing conditions for any vessel operating in these waters. The Western US Arctic Offshore zone is forecast to escalate from Heavy to Extreme freezing spray overnight into Tuesday, compounding hazards in one of the world's most remote maritime environments.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
