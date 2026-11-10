@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-10",
+  "headline": "Post-Diwali smog pushes New Delhi's AQI to 404 as severe air quality blankets 30 million residents, while a Beaufort Sea Blizzard Warning, Auckland flash flooding, and multiple ongoing volcanic and wildfire crises span the globe.",
+  "overview": "November 10 brings a broad array of natural hazards across four continents. India's capital is enveloped in hazardous post-Diwali smog reaching AQI 404, while New Zealand's Auckland region is battered by severe thunderstorms and 38mm of rainfall. In the United States, a Blizzard Warning now covers the Central and Eastern Beaufort Sea Coast of Alaska, the Wild River Fire in New Hampshire has grown past 1,000 acres, the Llano River in Central Texas is surging toward moderate flood stage, and the Salt River flood zone has expanded into Yuma County with warnings now extended through November 17. Volcanic unrest continues at Mayon in the Philippines.",
+  "events": [
+    {
+      "title": "New Delhi Post-Diwali Smog Crisis \u2014 AQI 404, Severe Category",
+      "location": "New Delhi, India",
+      "type": "other",
+      "summary": "Air quality in New Delhi has plunged to 'Severe' levels with an AQI of 404 in the wake of Diwali firecracker celebrations, posing acute health risks for more than 30 million residents. The combination of post-Diwali smoke, seasonal temperature inversions, and calm winds has trapped pollutants close to the surface, blanketing the city in dense smog. Maharashtra's cities, including Mumbai, are also recording poor AQI readings, with the Indian Express reporting 13 cities affected across the state.",
+      "severity": "extreme",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+          "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality",
+          "source": "aljazeera.com"
+        },
+        {
+          "title": "Delhi's air quality slips into 'severe' category morning after Deepavali, AQI at 404",
+          "url": "https://www.thehindu.com/news/cities/Delhi/delhis-air-quality-slips-into-severe-category-morning-after-deepavali-aqi-at-404/article71681305.ece",
+          "source": "thehindu.com"
+        }
+      ]
+    },
+    {
+      "title": "Auckland Severe Thunderstorms and Flash Flooding",
+      "location": "Auckland, New Zealand",
+      "type": "weather",
+      "summary": "Severe thunderstorms swept across the Auckland region and Kaipara on November 10, bringing 38.4mm of rainfall, large hail, and a significant risk of flash flooding. MetService confirmed the storms moved south across Auckland City, Waitakere, Franklin, Rodney, Gulf, and Albany districts. The event follows a pattern of intense convective activity that has repeatedly struck the region in recent weeks.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Severe thunderstorms hit Auckland as heavy rain sweeps south",
+          "url": "https://pmn.co.nz/read/environment/severe-thunderstorms-hit-auckland-as-heavy-rain-sweeps-south",
+          "source": "pmn.co.nz"
+        },
+        {
+          "title": "Large hail, deafening thunder pound Auckland on election day",
+          "url": "https://www.1news.co.nz/2026/11/07/large-hail-deafening-thunder-pound-auckland-on-election-day",
+          "source": "1news.co.nz"
+        }
+      ]
+    },
+    {
+      "title": "Beaufort Sea Blizzard Warning \u2014 55 MPH Gusts, Near-Zero Visibility",
+      "location": "Central and Eastern Beaufort Sea Coast, Alaska, USA",
+      "type": "weather",
+      "summary": "NWS Fairbanks has issued a Blizzard Warning for the Central and Eastern Beaufort Sea Coast, in effect through 6 AM AKST Wednesday, with wind gusts up to 55 mph and snow accumulations of 2 to 4 additional inches reducing visibility below one-quarter mile at times. This represents a significant escalation from the previously reported Heavy Freezing Spray Warnings that have blanketed Arctic Alaska waters, with the blizzard designation indicating sustained blinding conditions dangerous to any surface travel or maritime operations. Multiple Heavy Freezing Spray Warnings at Extreme intensity remain in force from Cape Beaufort to Demarcation Point concurrently.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "FIRST ALERT: Southcentral Alaska prepares for freezing rain danger",
+          "url": "https://www.alaskasnewssource.com/2026/11/10/gulf-storm-drives-wintry-impacts-strong-winds-into-southcentral",
+          "source": "alaskasnewssource.com"
+        }
+      ]
+    },
+    {
+      "title": "Wild River Fire Crosses 1,000 Acres \u2014 Appalachian Trail Threatened",
+      "location": "White Mountain National Forest, near Gorham, New Hampshire, USA",
+      "type": "wildfire",
+      "summary": "The Wild River Fire has grown past 1,000 acres and remains only 20% contained, making it the largest wildfire in memory for the White Mountain National Forest. Abnormally dry conditions and unseasonably warm temperatures have driven the fire's spread, with the Appalachian Trail directly threatened. The fire has expanded from the 856-acre size reported on November 8\u20139, marking a continued escalation despite suppression efforts.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Wild River Fire near Gorham spreads to 1,000 acres",
+          "url": "https://www.nhpr.org/wildfire-whitemountains-gorham-white-mountains-newhampshire",
+          "source": "nhpr.org"
+        },
+        {
+          "title": "Abnormally dry conditions, warm temps intensified Wild River Fire in NH's White Mountains",
+          "url": "https://www.vermontpublic.org/2026-11-09/abnormally-dry-conditions-warm-temps-intensified-wild-river-fire-in-nhs-white-mountains",
+          "source": "vermontpublic.org"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano \u2014 Alert Level 3 Maintained, Ongoing Pyroclastic Activity",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano continues to hold at Alert Level 3 following the largest pyroclastic density currents (PDCs) of its 2026 eruption, with ash plumes reaching 1,600 metres above the summit crater recorded on November 3. The 6-kilometre permanent danger zone remains enforced, with local officials and PHIVOLCS closely monitoring crater activity. No downgrade of the alert level is currently indicated, and further explosive activity remains possible.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Central Texas Hill Country Flooding \u2014 Llano River Surging Toward Moderate Stage",
+      "location": "Mason and Llano Counties, Texas, USA",
+      "type": "weather",
+      "summary": "The Llano River is rising through minor flood stage and is forecast to reach moderate flooding near Mason and Llano, with the Lower Colorado River Authority (LCRA) preparing to open floodgates as surge waters move downstream toward Lake Travis. NWS San Angelo and NWS Austin/San Antonio have both issued active Flood Warnings through Tuesday night, with secondary roads and bridges inundated. Austin recorded 2.73 inches of rain \u2014 its wettest start to November since 2000 \u2014 as the system also flooded the Devils River near Juno in Val Verde County.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "LCRA to open floodgates as Llano floodwaters head for Lake Travis",
+          "url": "https://cbsaustin.com/news/local/lcra-to-open-floodgates-as-llano-floodwaters-head-for-lake-travis",
+          "source": "cbsaustin.com"
+        }
+      ]
+    },
+    {
+      "title": "Salt River Flooding Expands to Yuma County \u2014 Warnings Extended Through November 17",
+      "location": "Maricopa and Yuma Counties, Arizona, USA",
+      "type": "weather",
+      "summary": "Flooding along the Salt River below Granite Reef Dam has expanded geographically into northeastern Yuma County, and NWS Phoenix has extended the Flood Warning through November 17 \u2014 a full week ahead \u2014 indicating sustained high dam-release flows. Low-water crossings including McKellips Road remain inundated upstream of Tempe Town Lake, and additional river crossings throughout the flood plain are expected to remain impassable for days. The geographic expansion into Yuma County and the extended duration mark a meaningful escalation from prior reports focused solely on Maricopa County.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    }
+  ]
+}
