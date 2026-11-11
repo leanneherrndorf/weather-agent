@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-11",
+  "headline": "Mayon Volcano Issues Fresh Ash Advisory as Sierra Nevada Braces for Up to Two Feet of Snow and Indonesian Volcanoes Erupt Across Sumatra and Java",
+  "overview": "Volcanic activity dominates the global picture on November 11, with Mayon Volcano in the Philippines maintaining Alert Level 3 and issuing a new ash advisory, while Mount Marapi in West Sumatra and Mount Bromo in Java both erupted in recent days. In the United States, a major Winter Storm Watch spanning the Sierra Nevada from Tahoe to Yosemite threatens significant travel disruption through the weekend, while flooding emergencies persist in Florida and Arizona and extreme freezing spray continues along the Arctic Alaska coast.",
+  "events": [
+    {
+      "title": "Mayon Volcano \u2014 Fresh Ash Advisory Issued, Alert Level 3 Maintained",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "PHIVOLCS issued a new volcanic ash advisory for Mayon Volcano at 04:00 UTC on November 11, 2026, as the volcano continues eruptive activity under Alert Level 3. Sulfur dioxide emissions have averaged 1,413\u20133,360 tonnes per day in recent weeks, and a 1,600-metre ash plume was recorded on November 3. The 6-kilometre permanent danger zone remains closed to all access.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mount Marapi Erupts Again \u2014 Ash Blankets West Sumatra Farmland",
+      "location": "West Sumatra, Indonesia",
+      "type": "volcano",
+      "summary": "Mount Marapi in West Sumatra erupted on November 7, 2026 at 09:55 local time, dispersing a visible ash cloud across surrounding agricultural areas and blanketing farms with volcanic ash. The eruption is the latest in a series of renewed activity at the volcano, which remains at an elevated alert level. Authorities have advised residents and agricultural workers in nearby districts to take precautions against ash fall.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Le mont Marapi dans le Sumatra occidental a de nouveau eu une \u00e9ruption le 7 novembre 2026",
+          "url": "https://voi.id/fr/berita/601623",
+          "source": "voi.id"
+        },
+        {
+          "title": "Indonesia's Mount Marapi Erupts, Blanketing Farms in Volcanic Ash",
+          "url": "https://en.tempo.co/read/2123172/indonesias-mount-marapi-erupts-blanketing-farms-in-volcanic-ash",
+          "source": "en.tempo.co"
+        }
+      ]
+    },
+    {
+      "title": "Sierra Nevada Major Winter Storm Watch \u2014 Up to 2 Feet of Snow, 60\u201380 MPH Gusts",
+      "location": "Sierra Nevada, California, USA",
+      "type": "weather",
+      "summary": "The National Weather Service has issued Winter Storm Watches across the Sierra Nevada from Friday afternoon through Monday night, covering key corridors including Interstate 80, Highway 50, Yosemite, Lake Tahoe, and Kings Canyon and Sequoia National Parks above 6,000 feet. Forecasts call for snow accumulations of up to 2 feet at the highest peaks, with wind gusts of 60\u201380 mph over ridges and 35\u201345 mph in Truckee and Lake Tahoe communities. The timing \u2014 just days before major Tahoe ski resorts open \u2014 could create significant travel disruption across mountain passes.",
+      "severity": "severe",
+      "continuing": false,
+      "articles": [
+        {
+          "title": "Sierra Nevada snow expected this weekend, see I-80 forecast",
+          "url": "https://www.rgj.com/story/weather/2026/11/09/sierra-nevada-snow-expected-this-weekend-see-i-80-forecast/92695962007",
+          "source": "www.rgj.com"
+        },
+        {
+          "title": "Heavy Snow Is in the Forecast for Northern California Just Days Before Tahoe Resorts Open",
+          "url": "https://www.activenorcal.com/heavy-snow-is-in-the-forecast-for-northern-california-just-days-before-tahoe-resorts-open",
+          "source": "www.activenorcal.com"
+        }
+      ]
+    },
+    {
+      "title": "St. Johns River at Major Flood Stage \u2014 Cocoa Flooding Could Rival Tropical Storm Fay",
+      "location": "Brevard, Seminole, Lake, Volusia, and DeSoto Counties, Florida, USA",
+      "type": "weather",
+      "summary": "Active NOAA Flood Warnings remain in effect across multiple St. Johns River gauges through at least November 15, with the gauge near Cocoa holding at Major flood stage and forecast to continue rising through the weekend. Officials warn the event could rival the historic flooding caused by Tropical Storm Fay, prompting emergency alerts across Brevard County. River levels near DeLand remain near Minor flood stage and may climb further over the coming days.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "St. Johns River hits moderate flood stage in Volusia, could worsen",
+          "url": "https://www.miramarflnews.com/news/article317966219.html",
+          "source": "www.miramarflnews.com"
+        }
+      ]
+    },
+    {
+      "title": "Salt River Flooding Continues \u2014 Extended Flood Warning Through November 17",
+      "location": "Maricopa and Yuma Counties, Arizona, USA",
+      "type": "weather",
+      "summary": "Flood Warnings for the Salt River remain in effect across Maricopa and Yuma Counties through November 17 as sustained dam releases from upstream reservoirs maintain dangerous flows below Granite Reef Dam. Low-water crossings including McKellips Road remain inundated, and an Arizona couple was reported missing after a kayak trip turned deadly on the flooded river. Historic autumn rainfall has filled Salt River Project reservoirs to 70%, an unusually high level for this time of year that continues to necessitate managed releases.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Salt River kayak trip turns deadly for Arizona couple",
+          "url": "https://www.yahoo.com/news/weather-news/articles/salt-river-kayak-trip-turns-194337121.html",
+          "source": "www.yahoo.com"
+        },
+        {
+          "title": "Historic Arizona fall rain fills SRP reservoirs to 70%",
+          "url": "https://www.azfamily.com/2026/11/06/historic-arizona-fall-rain-fills-srp-reservoirs-70",
+          "source": "www.azfamily.com"
+        }
+      ]
+    },
+    {
+      "title": "Arctic Alaska Extreme Freezing Spray \u2014 Persistent Warnings Across Beaufort and Chukchi Zones",
+      "location": "Arctic Alaska Coastal and Offshore Waters (Cape Beaufort to Demarcation Point), USA",
+      "type": "weather",
+      "summary": "Heavy Freezing Spray Warnings remain in effect across all Arctic Alaska coastal and offshore zones through November 12, with east winds of 30\u201335 knots, seas of 7\u201313 feet, and extreme freezing spray conditions described in multiple NWS zones. Blowing snow accompanies the event, reducing visibility and rapidly coating vessel surfaces with ice \u2014 a severe hazard for maritime operations in the region. The warnings span a continuous band from Cape Thompson all the way to Demarcation Point near the Alaska-Canada border.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "New Delhi Smog Crisis Persists \u2014 AQI Remains in 'Very Poor' Range at 303",
+      "location": "New Delhi, India",
+      "type": "other",
+      "summary": "New Delhi's air quality remains critically degraded on November 11, with the AQI settling at 303 \u2014 classified as 'Very Poor' \u2014 a modest improvement from the post-Diwali peak of 404 but still posing serious health risks to the city's nearly 20 million residents. Data integrity concerns have emerged after several monitoring stations went offline during the peak pollution period, with private agencies reporting conditions significantly worse than official government figures. The winter smog pattern, driven by crop stubble burning, vehicle emissions, and cold stagnant air, is expected to persist through the coming weeks.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Delhi air quality deteriorates, AQI settles at 303",
+          "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deteriorates-aqi-settles-at-303/article71688408.ece",
+          "source": "www.thehindu.com"
+        },
+        {
+          "title": "Delhi AQI data under scrutiny as monitoring stations go offline amid peak Diwali pollution",
+          "url": "https://www.newindianexpress.com/cities/delhi/2026/Nov/09/delhi-aqi-data-under-scrutiny-as-monitoring-stations-go-offline-amid-peak-diwali-pollution",
+          "source": "www.newindianexpress.com"
+        }
+      ]
+    }
+  ]
+}
