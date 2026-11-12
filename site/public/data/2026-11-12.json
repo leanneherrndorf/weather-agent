@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-12",
+  "headline": "Atmospheric Rivers and Gale-Force Winds Lash the Pacific Northwest as a Multi-Day Sierra Nevada Winter Storm Intensifies",
+  "overview": "A powerful series of atmospheric rivers is driving gale-force winds, widespread flooding, and heavy mountain snowfall across the Pacific Northwest and Sierra Nevada through the weekend. On the other side of the globe, Solomon Islands aftershocks continue following this week's M6.4 earthquake, and New Delhi's smog crisis persists with AQI values in the 'very poor' range for a fourth consecutive day. Mayon Volcano in the Philippines issued a fresh ash advisory on November 12, underscoring ongoing geological unrest across the Pacific Rim.",
+  "events": [
+    {
+      "title": "Pacific Northwest 'Gales of November' \u2014 Atmospheric Rivers Bring High Winds, Floods, and Mountain Snow",
+      "location": "Oregon, Washington, and British Columbia, Pacific Northwest",
+      "type": "weather",
+      "summary": "A conveyor belt of storms driven by atmospheric rivers is delivering damaging high winds \u2014 with gusts up to 65\u201370 mph along the Oregon and Siskiyou coasts \u2014 combined with heavy rainfall, flood watches in Mason County, Washington, and significant mountain snow into British Columbia. NWS Medford issued High Wind Warnings for the South Central Oregon Coast and Central Siskiyou County through Friday morning, warning of downed trees, widespread power outages, and difficult travel on Highway 101 and Interstate 5. Forecasters note 3\u20134.5 inches of rain are expected in some Washington valleys through Saturday, raising river flooding risk across the region.",
+      "severity": "severe",
+      "articles": [
+        {
+          "title": "Atmospheric rivers to bring flood risk, strong winds to Northwest and heavy snow to British Columbia",
+          "url": "https://www.accuweather.com/en/winter-weather/atmospheric-rivers-to-bring-flood-risk-strong-winds-to-northwest-and-heavy-snow-to-british-columbia/1955539",
+          "source": "www.accuweather.com"
+        },
+        {
+          "title": "The \"Gales of November\" have arrived in the Pacific Northwest",
+          "url": "https://www.kptv.com/2026/11/10/gales-november-have-arrived-pacific-northwest",
+          "source": "www.kptv.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "Sierra Nevada Winter Storm Escalates \u2014 Up to 20 Inches at Crest, 70\u201390 MPH Ridge Gusts",
+      "location": "Sierra Nevada, California and Nevada, USA",
+      "type": "weather",
+      "summary": "What was a Watch on November 11 has escalated into a broad Winter Storm Warning stretching from the Northern Sierra through the Lake Tahoe area, Yosemite, Sequoia, Kings Canyon, and Mono County, active from Friday afternoon through Tuesday morning. Snow accumulations are forecast at up to 20 inches along the Lake Tahoe crest, with ridgetop wind gusts of 70\u201390 mph and 35\u201355 mph winds in Truckee and Lake Tahoe communities \u2014 conditions expected to severely disrupt Interstate 80, Highway 50, and Friday evening and Monday morning commutes. The storm arrives just days before several Sierra resorts are set to open for the ski season, bringing the first significant snowpack of the winter.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Heavy Snow Is in the Forecast for Northern California Just Days Before Tahoe Resorts Open",
+          "url": "https://www.activenorcal.com/heavy-snow-is-in-the-forecast-for-northern-california-just-days-before-tahoe-resorts-open",
+          "source": "www.activenorcal.com"
+        },
+        {
+          "title": "Sierra Nevada snow expected this weekend, see I-80 forecast",
+          "url": "https://www.rgj.com/story/weather/2026/11/09/sierra-nevada-snow-expected-this-weekend-see-i-80-forecast/92695962007",
+          "source": "www.rgj.com"
+        }
+      ]
+    },
+    {
+      "title": "Solomon Islands M6.4 Earthquake \u2014 Shallow Strike, Ongoing Aftershocks",
+      "location": "Lata, Temotu Province, Solomon Islands",
+      "type": "earthquake",
+      "summary": "A magnitude 6.4 earthquake struck 30 km west-southwest of Lata in the Solomon Islands on November 9 at a shallow depth of just 17 km, increasing its potential for surface impact across the island chain. USGS assigned a green alert level and no Pacific-wide tsunami warning was issued, though the shallow depth and remote location limited felt reports to two. Aftershock activity has continued, with a M5.2 recorded on November 10 near the same epicentral area, keeping the seismic sequence active.",
+      "severity": "moderate",
+      "articles": [
+        {
+          "title": "Strong Mag. 5.2 Earthquake - Coral Sea, 20 km West of Lata, Temotu Province, Solomon Islands",
+          "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23624762/mag5quake-Nov-10-2026-Solomon-Islands-Santa-Cruz-Islands.html",
+          "source": "www.volcanodiscovery.com"
+        }
+      ],
+      "continuing": false
+    },
+    {
+      "title": "St. Johns River Rises to Major Flood Stage \u2014 Cocoa to Crest at 17.2 Feet by Saturday",
+      "location": "Brevard, Seminole, Lake, and Volusia Counties, Florida, USA",
+      "type": "weather",
+      "summary": "The St. Johns River near Cocoa has risen into Major flood stage and is forecast to crest at 17.2 feet by early Saturday morning, November 14, remaining elevated through at least Sunday night \u2014 a level that rivals historic flooding from Tropical Storm Fay. Flood Warnings remain in effect across Brevard, Seminole, Volusia, and Lake counties, with additional gauges near Sanford and DeLand forecast to enter Minor flood stage by Friday as the river continues its slow northward rise. Residents in affected Cocoa and Rockledge neighborhoods have been urged to monitor Brevard County emergency alerts.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "New Delhi Smog Crisis \u2014 AQI Climbs Again to 323, 'Very Poor' for Fourth Consecutive Day",
+      "location": "New Delhi, India",
+      "type": "other",
+      "summary": "New Delhi's air quality index rose to 323 on November 12, sustaining the 'very poor' category for a fourth straight day following the post-Diwali pollution surge that pushed AQI above 400. Stagnant surface winds of just 5.4 km/h are preventing dispersion of pollutants from farm fires in Punjab and Haryana, vehicle emissions, and construction dust. India Today reports that AQI remained above 400 overnight into November 12, with health authorities continuing to advise residents \u2014 especially children and the elderly \u2014 to limit outdoor exposure.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Delhi: Air quality 'very poor' as pollution worsens; AQI settles at 323",
+          "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-very-poor-as-pollution-worsens/article71692362.ece",
+          "source": "www.thehindu.com"
+        },
+        {
+          "title": "Delhi's AQI has stayed above 400 since last night. What's choking the capital?",
+          "url": "https://www.indiatoday.in/science/story/delhi-pollution-farm-fires-traffic-weather-after-diwali-punjab-haryana-3037254-2026-11-12",
+          "source": "www.indiatoday.in"
+        }
+      ]
+    },
+    {
+      "title": "Mayon Volcano \u2014 New Eruption and Ash Advisory Issued November 12, Alert Level 3 Maintained",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano produced a fresh eruption recorded at 06:10 UTC on November 12, prompting a new Volcanic Ash Advisory and a public health warning from the Philippine Department of Health urging residents near the volcano to protect themselves from ashfall. Alert Level 3 remains in force, indicating a relatively high level of unrest with the possibility of hazardous explosive eruptions and pyroclastic density currents. The DoH advisory reflects concern for respiratory health impacts on communities in Albay Province downwind of the ash plume.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Wild River Fire Exceeds 50% Containment \u2014 Significant Progress Aided by Rain and Crews",
+      "location": "White Mountain National Forest, near Gorham, New Hampshire, USA",
+      "type": "wildfire",
+      "summary": "The Wild River Fire in New Hampshire's White Mountain National Forest has surpassed 50% containment, a major breakthrough for the blaze that grew past 1,000 acres and threatened the Appalachian Trail earlier this week. Wet weather and an unconventional tactic \u2014 the use of leaf blowers to clear debris from containment lines \u2014 have aided crews significantly in slowing the fire's spread. While the fire remains active, the trajectory is now clearly toward full containment, marking a substantial de-escalation from prior days.",
+      "severity": "moderate",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Appalachian Trail Threatened by 'Uncommonly' Large Wildfire in White Mountains",
+          "url": "https://www.backpacker.com/news-and-events/news/appalachian-trail-threatened-by-uncommonly-large-wildfire-in-white-mountains",
+          "source": "www.backpacker.com"
+        }
+      ]
+    }
+  ]
+}
