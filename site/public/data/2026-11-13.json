@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-13",
+  "headline": "Nor'easter Delivers First Major Cold Blast to Eastern US as Freeze Warnings Blanket the South and Snow Threatens the Northeast",
+  "overview": "A powerful Nor'easter is sweeping across the eastern United States on November 13, triggering freeze warnings from Alabama and Mississippi north through the Carolinas and Virginia \u2014 the first widespread killing frost of the season for many communities \u2014 while snow and gusty winds threaten the Northeast. Meanwhile, the Sierra Nevada is locked in an extended Winter Storm Warning through Tuesday with up to 20 inches of new snow and 70\u201390 mph ridge gusts, and the Pacific Northwest storm system continues to escalate with coastal flood warnings now added to an already dangerous combination of high winds, heavy rain, and mountainous seas. Globally, Mayon Volcano in the Philippines and Mount Etna in Sicily remain in active eruptive phases.",
+  "events": [
+    {
+      "title": "Nor'easter Brings First Major Freeze and Snow to Eastern US",
+      "location": "Eastern United States (Alabama, Mississippi, Georgia, Carolinas, Virginia, Northeast)",
+      "type": "weather",
+      "summary": "A Nor'easter tracking up the Eastern Seaboard is delivering the season's first widespread hard freeze to the Deep South, with sub-freezing temperatures as low as 26\u00b0F expected across northern Alabama, 28\u00b0F in Mississippi, and 29\u00b0F in Georgia and the Carolinas \u2014 threatening crops, sensitive vegetation, and unprotected outdoor plumbing across a broad swath of the Southeast. NWS offices from Huntsville, AL to Raleigh, NC have issued Freeze Warnings and Watches spanning Saturday through Sunday morning, while temperatures are forecast to dip to the 30s as far south as the Gulf Coast by Saturday. In the Northeast, the same system is capable of delivering the region's first meaningful snowfall of the season alongside soaking rain and gusty winds.",
+      "severity": "severe",
+      "articles": [],
+      "continuing": false
+    },
+    {
+      "title": "Sierra Nevada Winter Storm Extended Through Tuesday \u2014 Up to 20 Inches Near Crest, 90 MPH Gusts",
+      "location": "Sierra Nevada, California and Nevada, USA",
+      "type": "weather",
+      "summary": "An intensifying winter storm has prompted Winter Storm Warnings across the full length of the Sierra Nevada, now extended through early Tuesday morning \u2014 a significant escalation from yesterday's warnings. The Lake Tahoe area and central Sierra crest west of Tahoe are forecast to see up to 20 inches of new snow above 7,000 feet, with ridge gusts of 70\u201390 mph and community gusts of 45\u201355 mph in Truckee and Lake Tahoe communities. Multiple NWS offices \u2014 Reno, Hanford, Sacramento, and Las Vegas \u2014 have issued concurrent Winter Storm Warnings covering Yosemite, Kings Canyon, Sequoia, the Lake Tahoe Basin, Mono County, and the Eastern Sierra Slopes, making travel across mountain passes potentially impossible through the weekend.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Winter Storm Warning Issued for Sierra Nevada, Over a Foot of Snow Coming to California",
+          "url": "https://www.theinertia.com/mountain/winter-storm-warning-issued-for-sierra-nevada-over-a-foot-of-snow-coming-to-california",
+          "source": "theinertia.com"
+        },
+        {
+          "title": "Friday Nov. 13: Sierra snow, Northeast rain, Southern frost",
+          "url": "https://www.nacionale.com/en/articles/weather-tomorrow-friday-november-13-2026-northeast-rain-sierra-snow-chicago-freeze",
+          "source": "nacionale.com"
+        }
+      ]
+    },
+    {
+      "title": "Pacific Northwest Storm Escalates \u2014 Coastal Flood Warning, 25\u201330 ft Seas, Storm Watch Through Weekend",
+      "location": "Washington, Oregon, and British Columbia, Pacific Northwest",
+      "type": "weather",
+      "summary": "The multi-day Pacific Northwest storm system has escalated significantly on November 13, with NWS Seattle issuing a Coastal Flood Warning for San Juan County expecting 2.5\u20133 feet of inundation above ground level along shorelines, while NWS Medford issued a Storm Warning for offshore waters with seas of 15\u201319 feet and gusts to 55 knots \u2014 with Hazardous Seas Warnings for seas of 25\u201330 feet farther offshore. High Wind Warnings remain in effect for the Oregon Coast and Siskiyou County with gusts to 70 mph, and a new Storm Watch has been issued for Saturday through Sunday as a second powerful system approaches. A Flood Watch covering Mason County, Washington through Saturday night adds to the threat of ongoing river flooding.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "Pacific Northwest braces for monster waves, gusty winds and heavy rain as powerful atmospheric rivers intensify",
+          "url": "https://www.foxweather.com/weather-news/massive-waves-gusty-winds-rain-slam-pacific-northwest-rounds-atmospheric-rivers-impact-region",
+          "source": "foxweather.com"
+        }
+      ]
+    },
+    {
+      "title": "St. Johns River Crests at Major Flood Stage \u2014 Cocoa at 17.2 Feet, Waters to Persist Through Weekend",
+      "location": "Brevard, Seminole, Lake, and Volusia Counties, Florida, USA",
+      "type": "weather",
+      "summary": "The St. Johns River near Cocoa has risen to Major Flood Stage and is forecast to crest at 17.2 feet by early Saturday morning, with levels expected to remain elevated through at least Sunday night as northerly winds and tidal effects slow any decline. Active Flood Warnings remain in effect across Brevard, Seminole, Lake, and Volusia Counties, with the river near Sanford hovering around minor flood stage. This event has been driven by extreme upstream rainfall over the St. Johns headwaters and represents one of the most significant river flooding events in the region in recent years.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": [
+        {
+          "title": "St. Johns River rises in western Brevard as damage assessment continues",
+          "url": "https://www.yahoo.com/news/weather-news/articles/st-johns-river-continues-rise-140654288.html",
+          "source": "yahoo.com"
+        }
+      ]
+    },
+    {
+      "title": "Arctic Alaska Blizzard Warning Upgraded \u2014 60 MPH Gusts and Extreme Freezing Spray Through Sunday",
+      "location": "Central and Eastern Beaufort Sea Coast, Arctic Alaska, USA",
+      "type": "weather",
+      "summary": "NWS Fairbanks has upgraded conditions along the Central and Eastern Beaufort Sea Coast to a Blizzard Warning valid through Sunday morning, with winds gusting to 40 mph on Friday escalating to 60 mph Saturday into Sunday and visibility dropping below a quarter mile at times in blowing snow. Simultaneously, Heavy Freezing Spray Warnings \u2014 several upgraded to Extreme Freezing Spray \u2014 are in effect across all offshore zones from Cape Beaufort to Demarcation Point, with seas reaching 11 feet and east winds of 30\u201345 knots creating dangerous icing conditions for any vessels operating in these waters. This represents a notable escalation from the persistent freezing spray events reported over the past several days.",
+      "severity": "extreme",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mayon Volcano \u2014 Ongoing Eruptions and Ashfall, Alert Level 3 Maintained",
+      "location": "Albay Province, Luzon, Philippines",
+      "type": "volcano",
+      "summary": "Mayon Volcano continues its eruptive episode with Alert Level 3 maintained by PHIVOLCS, indicating a relatively high level of volcanic unrest with magmatic activity and ongoing ash emissions. The Philippine Department of Health has issued public advisories urging residents near the volcano to protect themselves from ashfall, and access to the 6-kilometer permanent danger zone remains strictly prohibited. Mayon's current activity has now persisted across multiple consecutive days, with fresh ash plumes and low-to-medium intensity eruptions continuing to threaten communities in Albay Province.",
+      "severity": "severe",
+      "continuing": true,
+      "articles": []
+    },
+    {
+      "title": "Mount Etna Increasingly Restless \u2014 Ash Plumes to 13,000 Feet, Elevated Unrest Continues",
+      "location": "Sicily, Italy",
+      "type": "volcano",
+      "summary": "Mount Etna has been exhibiting escalating volcanic unrest over the past week, with the Volcanic Ash Advisory Center (VAAC) Toulouse warning of ash plumes rising to an estimated 13,000 feet (Flight Level 130) and drifting over the surrounding region, posing a potential hazard to aviation. VolcanoDiscovery reports that both internal and external activity has been increasing, with weak ash emissions from the Northeast Crater and broader explosive activity recorded in recent days. Etna is one of Europe's most active volcanoes and its current elevated state warrants close monitoring, though no ground-level evacuations have been reported.",
+      "severity": "moderate",
+      "articles": [],
+      "continuing": false
+    }
+  ]
+}
